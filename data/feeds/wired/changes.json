@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-19T22:27:48.902472+00:00",
+  "retrieved_at": "2026-11-19T23:15:35.949774+00:00",
   "source": {
     "id": "wired",
     "name": "WIRED Deals",
@@ -8,84 +8,5 @@
     "kind": "rss"
   },
   "baseline": false,
-  "events": [
-    {
-      "id": "3600560244e1d89ce7020221",
-      "types": [
-        "removed"
-      ],
-      "title": "Nothing Headphones Sale: Stylish and Up to 41% Off",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.wired.com/story/nothing-cmf-deals-october-2026/",
-      "source_url": "https://www.wired.com/story/nothing-cmf-deals-october-2026/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "3bc25127f4897dc46137e42f",
-      "types": [
-        "new"
-      ],
-      "title": "The Best Hatch Black Friday Deals (2026)",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.wired.com/story/hatch-black-friday-deals-2026/",
-      "source_url": "https://www.wired.com/story/hatch-black-friday-deals-2026/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "45cbabcdb88bc47055f435b8",
-      "types": [
-        "removed"
-      ],
-      "title": "Go Minimal—the Ridge Wallet is 20 Percent Off Right Now",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.wired.com/story/ridge-wallet-deal-october-2026/",
-      "source_url": "https://www.wired.com/story/ridge-wallet-deal-october-2026/",
-      "retailer_url": null,
-      "link_type": "source"
-    }
-  ]
+  "events": []
 }

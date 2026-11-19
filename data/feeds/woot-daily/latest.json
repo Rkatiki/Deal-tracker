@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-19T22:27:48.902472+00:00",
+  "retrieved_at": "2026-11-19T23:15:35.949774+00:00",
   "source": {
     "id": "woot-daily",
     "name": "Woot Daily Deals",
@@ -414,6 +414,36 @@
       "source_id": "woot-daily",
       "publisher": "Woot Daily Deals",
       "published_at": "2026-11-15T23:00:13+00:00",
+      "expires_at": null,
+      "publication_category": "Daily Deal",
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
+      "id": "b45a6733aac250f7f48fa35b",
+      "title": "NordVPN Standard | 1-Year VPN",
+      "url": "https://www.woot.com/offers/nordvpn-standard-1-year-vpn-15",
+      "source_url": "https://forums.woot.com/t/nordvpn-standard-1-year-vpn/2695379",
+      "retailer_url": "https://www.woot.com/offers/nordvpn-standard-1-year-vpn-15",
+      "link_type": "retailer",
+      "retailer": "Woot",
+      "price_cents": null,
+      "headline_price_cents": null,
+      "price_source": null,
+      "currency": null,
+      "source_id": "woot-daily",
+      "publisher": "Woot Daily Deals",
+      "published_at": "2026-11-19T23:00:12+00:00",
       "expires_at": null,
       "publication_category": "Daily Deal",
       "rank": {

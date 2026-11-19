@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-19T22:27:48.902472+00:00",
+  "retrieved_at": "2026-11-19T23:15:35.949774+00:00",
   "source": {
     "id": "toms-hardware",
     "name": "Tom's Hardware",
@@ -9,32 +9,5 @@
     "deal_headlines_only": true
   },
   "baseline": false,
-  "events": [
-    {
-      "id": "3ed98c26c7d2715a13d9ad63",
-      "types": [
-        "new"
-      ],
-      "title": "AI data center power demand will double by 2030 thanks to $4 trillion in spending, adding an entire Great Britain to energy strain",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.tomshardware.com/tech-industry/data-centers/ai-data-center-power-demand-will-double-by-2030-thanks-to-usd4-trillion-in-spending-adding-an-entire-great-britain-to-energy-strain-93-large-ai-factories-with-projected-capacity-of-around-50-gigawatts",
-      "source_url": "https://www.tomshardware.com/tech-industry/data-centers/ai-data-center-power-demand-will-double-by-2030-thanks-to-usd4-trillion-in-spending-adding-an-entire-great-britain-to-energy-strain-93-large-ai-factories-with-projected-capacity-of-around-50-gigawatts",
-      "retailer_url": null,
-      "link_type": "source"
-    }
-  ]
+  "events": []
 }

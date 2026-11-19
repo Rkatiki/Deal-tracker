@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-19T22:27:48.902472+00:00",
+  "retrieved_at": "2026-11-19T23:15:35.949774+00:00",
   "source": {
     "id": "woot-daily",
     "name": "Woot Daily Deals",
@@ -11,11 +11,11 @@
   "baseline": false,
   "events": [
     {
-      "id": "7facf60716f0b03198c71790",
+      "id": "b45a6733aac250f7f48fa35b",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "Babbel: Learn 14 Languages | Lifetime",
+      "title": "NordVPN Standard | 1-Year VPN",
       "retailer": "Woot",
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -31,10 +31,10 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://forums.woot.com/t/babbel-learn-14-languages-lifetime/2660000",
-      "source_url": "https://forums.woot.com/t/babbel-learn-14-languages-lifetime/2660000",
-      "retailer_url": null,
-      "link_type": "source"
+      "url": "https://www.woot.com/offers/nordvpn-standard-1-year-vpn-15",
+      "source_url": "https://forums.woot.com/t/nordvpn-standard-1-year-vpn/2695379",
+      "retailer_url": "https://www.woot.com/offers/nordvpn-standard-1-year-vpn-15",
+      "link_type": "retailer"
     }
   ]
 }
