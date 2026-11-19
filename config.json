@@ -1,0 +1,51 @@
+{
+  "sheet_id": "18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4",
+  "minimum_deals": 1,
+  "maximum_loss_fraction": 0.35,
+  "source": {
+    "ignored_tabs": [],
+    "layouts": {
+      "1423386812": {"title": 0, "price": 1, "retailer": 2, "notes": 3}
+    }
+  },
+  "categories": [
+    {
+      "id": "soundbar", "priority": 25, "max_usd": 100,
+      "match": "\\bsound[ -]?bars?\\b",
+      "exclude": "\\b(?:bracket|mount|replacement remote)\\b"
+    },
+    {
+      "id": "robot_vacuum_mop", "priority": 25, "max_usd": 350, "preferred_usd": 250,
+      "match": "\\b(?:robot(?:ic)? (?:vacuum|mop)|vacuum(?: and| &) mop robot|roomba)\\b",
+      "exclude": "\\b(?:replacement|accessory kit|filter pack|vacuum bags|side brushes)\\b"
+    },
+    {
+      "id": "air_fryer", "priority": 20, "max_usd": 75,
+      "match": "\\bair[ -]?fryer\\b",
+      "exclude": "\\b(?:liner|liners|parchment|accessory kit|appliance slider|heat resistant mat)\\b",
+      "variants": [
+        {
+          "id": "dual_basket",
+          "match": "\\b(?:dual[ -]?(?:basket|zone)|double[ -]basket|2[ -]basket|two[ -]basket|dual[ -]drawer)\\b",
+          "max_usd": 130, "boost": 8
+        }
+      ]
+    },
+    {
+      "id": "tv", "priority": 25, "max_usd": 500,
+      "match": "\\b(?:tv|television)s?\\b",
+      "exclude": "\\b(?:monitor|stick|sound[ -]?bar|streaming media player|wall mount|tv stand|outdoor tv cover|remote control|headphones?|headset|antenna|subscription|hours|projector)\\b"
+    }
+  ],
+  "ranking": {
+    "budget_headroom_points": 10,
+    "preferred_price_points": 8,
+    "comparison_points": 24,
+    "review_points": 10,
+    "previous_observations_minimum": 3,
+    "other_minimum_savings_fraction": 0.20,
+    "other_minimum_savings_usd": 10,
+    "evidence_required_for_categories": ["air_fryer"]
+  },
+  "alerts": {"event_types": ["new", "price_decreased", "price_available", "became_candidate"], "max_deals": 20}
+}
