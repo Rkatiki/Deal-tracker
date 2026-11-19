@@ -1,45 +1,56 @@
-# Black Friday Deal Tracker
+# Deal Tracker
 
-GitHub Actions reads the live public spreadsheet every two hours at minute 17 UTC. On the default branch, open **Actions → Refresh Black Friday deals → Run workflow** for an on-demand refresh. The workflow needs permission to push its generated data commit to the default branch. Branch rules restricting that push must explicitly permit the automation. GitHub may pause scheduled workflows in inactive public repositories.
+A multi-source deal tracker for Black Friday and year-round shopping. GitHub Actions reads public spreadsheets, deal listings, publisher feeds, and community-maintained lists. It keeps source links, tracks price changes, and publishes JSON for browsing or analysis.
 
-## Read-only source
+## Find deals and track prices
 
-The supplied spreadsheet's direct CSV and XLSX downloads returned HTTP 401 Unauthorized anonymously. Its public HTML view exposes visible tab IDs and Google Visualization serves each tab as CSV without a Google account or API key. The tracker discovers tabs on each run and tries the public HTML grid for an individual tab if its Visualization CSV cannot be fetched or parsed. The two reader formats can differ. In particular, Visualization may omit formatted cell hyperlinks and mixed-type prices. The tracker keeps a source tab link when no product link is available, and leaves ambiguous prices unpriced.
+Start with the [deal index](data/feeds/index.json) for publisher status, ranked offers with structured prices, and leads with prices mentioned in headlines. The spreadsheet and public listing snapshots are available separately.
 
-All included tabs must return usable data before publishing. The tracker checks the minimum inventory, rejects sudden count losses across the workbook or in any continuing tab with at least ten prior offers, and leaves existing files intact on retrieval or validation errors. Review the source and adjust the loss threshold for a verified large removal. If Google withdraws anonymous access, ask the publisher to restore the public view and query access, or arrange a separately authorized read-only mirror maintained by the publisher. A mirror with a new sheet ID needs a new output directory or a fresh baseline. Public workbook tabs with unfamiliar headers can be mapped in `source.layouts` by tab ID with zero-based column indexes.
+| Source | What it covers | Output |
+| --- | --- | --- |
+| Public Google Sheet | Offers across the workbook’s visible tabs | [Latest snapshot](data/latest.json), [changes](data/changes.json), [price history](data/price_history.json) |
+| DealsMocktail US | Latest, Electronics, and Home and Kitchen listings | [Snapshot, changes, and price history](data/dealsmocktail/) |
+| Additional public sources | Deal communities, shopping blogs, tech publications, game-price trackers, and GitHub lists | [Source index](data/feeds/index.json), [publisher snapshots](data/feeds/), [configured sources](feeds.json) |
 
-## Analyze the data
+- `latest.json` contains the most recent successful snapshot for a source.
+- `changes.json` records additions, removals, price changes, and offers newly qualifying for the shortlist. The first snapshot establishes a baseline.
+- `price_history.json` stores the first observed numeric price and later changes, including for offers that disappear from a listing.
 
-| File | Contents |
+Prices use integer USD cents. Headline prices are discovery leads. Structured prices feed the ranking and price history. A removal means an offer left a monitored source or aged out of a rolling feed. Check the linked offer for current price and availability. Multiple publishers can report the same offer.
+
+## Automatic and manual refreshes
+
+| Workflow | Schedule |
 | --- | --- |
-| `data/latest.json` | Latest verified snapshot, retrieval timestamp, source tabs, offers, and ranking |
-| `data/changes.json` | New and removed offers, price increases and decreases, newly available or unavailable prices, and offers newly qualifying for the shortlist |
-| `data/price_history.json` | First observed price and subsequent distinct numeric price observations, including offers that have since disappeared |
+| [Refresh Black Friday deals](https://github.com/Rkatiki/Deal-tracker/actions/workflows/deals.yml) | Every two hours at minute 17 UTC |
+| [Refresh additional deal sources](https://github.com/Rkatiki/Deal-tracker/actions/workflows/feeds.yml) | Every two hours at minute 47 UTC |
 
-Prices are USD in integer cents. A stable source deal ID is preferred when available. Otherwise, an offer is identified by normalized title and retailer. Mirror entries are combined, and conflicting numeric prices become unavailable for ranking. With title-based IDs, a title or retailer edit can appear as one removal and one addition. The initial refresh labels existing offers as new and establishes the baseline. Git history preserves prior versions of the change feed.
+To refresh manually, open the workflow in **Actions**, select **Run workflow**, and choose the default branch. The workflows need permission to push generated snapshots to that branch.
 
-## Ranking and alerts
+The spreadsheet, public listings, and individual feeds publish independently. A failed retrieval preserves the affected source’s last successful snapshot. Additional feed failures appear in the index. If all additional feeds fail in one run, the workflow reports failure and preserves the previous published index.
 
-Edit `config.json` to add categories, change budget caps and preferred prices, tune matching and exclusion patterns, or adjust score weights. TVs cap at $500, soundbars at $100, and robot vacuums and mops at $350 with a preference at $250. The starting air fryer watch thresholds are $75 for standard models and $130 for dual-basket or dual-zone models. An applicable comparison is required to shortlist air fryers and other categories. The default threshold for those categories is at least 20% and $10 below the most conservative available comparator. Advertised discounts do not enter the score.
+## Configure sources and ranking
 
-Tracked price history can supply a comparison after three distinct price observations. An optional `evidence.json` keyed by offer ID accepts `independent_price_cents`, `competing_price_cents`, `review_score` on a 0–1 scale, and provenance fields such as source URLs and observation dates. Use comparable offers and current evidence. The tracker has no external review or retailer feed enabled.
+- Edit [`config.json`](config.json) for workbook tab settings, public listing categories, price caps, and ranking rules. The spreadsheet reader discovers visible tabs and uses Google Visualization CSV, with public HTML as a fallback when a tab’s CSV fails. Direct Google CSV and XLSX downloads returned HTTP 401 during setup. Use `source.layouts` to map unfamiliar tab headers by zero-based column index. The listing reader checks the site’s crawler rules before fetching configured pages.
+- Edit [`feeds.json`](feeds.json) for publisher URLs and feed freshness. The tracker supports RSS, Atom, and adapters for the configured game-price API and GitHub deal table. Replace seasonal sources with a current edition as needed.
+- The default caps are **$500 for TVs**, **$100 for soundbars**, and **$350 for robot vacuums and mops**, with preference at **$250**. Air-fryer watch thresholds are **$75 for standard models** and **$130 for dual-basket or dual-zone models**. Air fryers and other categories need a qualifying price comparison to make the shortlist. Advertised discount percentages carry no ranking weight.
+- Optional `evidence.json` entries keyed by offer ID can supply `independent_price_cents`, `competing_price_cents`, `review_score` on a 0–1 scale, and source links or observation dates. The tracker can also compare against its own price history.
 
-To enable notifications, add a repository Actions secret named `DEAL_ALERT_WEBHOOK` containing an HTTPS endpoint that accepts JSON with `retrieved_at` and `deals`. For Slack or email, point the secret at a relay that formats the JSON for that destination. The first successful run seeds the baseline without sending notifications. Later runs send qualifying changes after the data commit. Webhook errors are logged separately from retrieval and leave the commit available for replay. To replay an alert batch, run `python3 tracker.py --alerts-only` against the data from the affected commit with that secret supplied in the environment.
+<a id="ranking-and-alerts"></a>
 
-## Local use
+## Optional alerts
 
-Run `python3 -m unittest discover -v`, then `python3 tracker.py --output data` with Python 3.10 or newer. No third-party packages are required.
+Add a repository Actions secret named `DEAL_ALERT_WEBHOOK` with an HTTPS endpoint that accepts JSON containing `retrieved_at` and `deals`. Notifications cover qualifying changes from the spreadsheet and public listings after each source’s baseline is established. The additional feeds are available through the discovery index. For Slack or email, use a relay that formats the webhook payload for the destination. Webhook failures are logged after the data commit. To replay an alert batch, check out that commit and run `python3 tracker.py --alerts-only` with the secret set in your environment. Add `--source dealsmocktail` to replay the public listing batch.
 
-## DealsMocktail US
+## Run locally
 
-The same workflow also reads DealsMocktail's public **Latest**, **Electronics**, and **Home and Kitchen** listing pages, using the initial set of offers included in their HTML. It reuses the same ranking rules and stores a separate snapshot, change feed, and price history under `data/dealsmocktail/`. A removal means the offer is absent from the monitored listing pages on this run. Listings rotate and an offer may still be live on its individual page. The site’s advertised reference price is available as source metadata and has no effect on ranking.
+Use Python 3.10 or newer and `curl` for the website and feed adapters.
 
-Edit `dealsmocktail.listings` in `config.json` to change which public listing categories are monitored. The adapter checks the site's crawler rules, retrieves each configured listing once per refresh outside transient retries, and preserves its own last successful output if any required listing fails. The sheet and website publish independently. Run `python3 tracker.py --source dealsmocktail` locally with `curl` installed. The website alert step uses the same optional webhook secret and its own baseline.
+```sh
+python3 -m unittest discover -v
+python3 tracker.py
+python3 tracker.py --source dealsmocktail
+python3 extra_feeds.py
+```
 
-## Additional deal sources
-
-A separate Actions workflow checks the sources in [feeds.json](feeds.json) every two hours at minute 47 UTC. These include deal communities, retailer and shopping blogs, consumer-tech publications, game-price APIs, and a 2026 GitHub deal list. In GitHub Actions, select **Refresh additional deal sources → Run workflow** for a manual refresh. Locally, run `python3 extra_feeds.py` with `curl` installed.
-
-Start with [the source index](data/feeds/index.json). It shows each publisher’s latest retrieval status, offers from successful refreshes with structured prices that meet the tracker’s ranking rules, and budget-matching leads with prices mentioned in headlines. Click through to confirm availability, final price, and seller. A headline price can identify a lead, but does not go into price history or the main candidate list. Existing webhook notifications are for the spreadsheet and DealsMocktail. The new feeds are a discovery index.
-
-Every publisher has its own `latest.json`, `changes.json`, and `price_history.json` in `data/feeds/<source-id>/`. Reports show source attribution and preserve publisher links. Multiple publishers can report the same deal, so counts are unique only within each source. A removal means an item disappeared from a rolling feed or aged out. A source error preserves that publisher’s previous JSON and is shown in the index while other sources refresh. If every source fails, Actions fails the job and keeps the prior published commit. The GitHub list is seasonal and should be replaced with a current edition in subsequent years.
+Use `--output` to write snapshots to a separate directory during local testing.
