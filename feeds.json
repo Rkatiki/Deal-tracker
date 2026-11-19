@@ -1,0 +1,31 @@
+{
+  "max_age_days": 21,
+  "sources": [
+    {"id":"dealnews","name":"DealNews","url":"https://www.dealnews.com/?rss=1&sort=time","kind":"rss"},
+    {"id":"slickdeals","name":"Slickdeals Frontpage","url":"https://slickdeals.net/newsearch.php?mode=frontpage&searcharea=deals&searchin=first&rss=1","kind":"rss"},
+    {"id":"bens-bargains","name":"Ben's Bargains","url":"https://bensbargains.com/rss/","kind":"rss"},
+    {"id":"woot-daily","name":"Woot Daily Deals","url":"https://forums.woot.com/c/deal-chatter/daily-deal/10.rss","kind":"rss","retailer":"Woot"},
+    {"id":"9to5toys","name":"9to5Toys","url":"https://9to5toys.com/feed/","kind":"rss"},
+    {"id":"9to5mac","name":"9to5Mac Deals","url":"https://9to5mac.com/guides/deals/feed/","kind":"rss"},
+    {"id":"android-authority","name":"Android Authority Deals","url":"https://www.androidauthority.com/deals/feed/","kind":"rss"},
+    {"id":"macrumors","name":"MacRumors Deals","url":"https://feeds.macrumors.com/MacRumors-Deals","kind":"rss"},
+    {"id":"cnet","name":"CNET Deals","url":"https://www.cnet.com/rss/deals/","kind":"rss"},
+    {"id":"wired","name":"WIRED Deals","url":"https://www.wired.com/feed/tag/deals/latest/rss","kind":"rss"},
+    {"id":"toms-guide","name":"Tom's Guide","url":"https://www.tomsguide.com/feeds.xml","kind":"rss","deal_headlines_only":true},
+    {"id":"techradar","name":"TechRadar","url":"https://www.techradar.com/feeds.xml","kind":"rss","deal_headlines_only":true},
+    {"id":"toms-hardware","name":"Tom's Hardware","url":"https://www.tomshardware.com/feeds.xml","kind":"rss","deal_headlines_only":true},
+    {"id":"windows-central","name":"Windows Central","url":"https://www.windowscentral.com/feeds.xml","kind":"rss","deal_headlines_only":true},
+    {"id":"pcworld","name":"PCWorld","url":"https://www.pcworld.com/feed","kind":"rss","deal_headlines_only":true},
+    {"id":"clark-deals","name":"Clark Deals","url":"https://clarkdeals.com/feed/","kind":"rss"},
+    {"id":"hip2save","name":"Hip2Save","url":"https://hip2save.com/feed/","kind":"rss","deal_headlines_only":true},
+    {"id":"dans-deals","name":"DansDeals","url":"https://www.dansdeals.com/feed/","kind":"rss","deal_headlines_only":true},
+    {"id":"southern-savers","name":"Southern Savers","url":"https://www.southernsavers.com/feed/","kind":"rss","deal_headlines_only":true},
+    {"id":"passionate-penny-pincher","name":"Passionate Penny Pincher","url":"https://passionatepennypincher.com/feed/","kind":"rss","deal_headlines_only":true},
+    {"id":"free-stuff-finder","name":"Free Stuff Finder","url":"https://www.freestufffinder.com/feed/","kind":"rss"},
+    {"id":"freebie-guy","name":"The Freebie Guy","url":"https://thefreebieguy.com/feed/","kind":"rss"},
+    {"id":"living-rich-with-coupons","name":"Living Rich With Coupons","url":"https://www.livingrichwithcoupons.com/feed","kind":"rss","deal_headlines_only":true},
+    {"id":"isthereanydeal","name":"IsThereAnyDeal US","url":"https://isthereanydeal.com/feeds/US/USD/deals.rss","kind":"rss"},
+    {"id":"cheapshark-steam","name":"CheapShark Steam Deals","url":"https://www.cheapshark.com/api/1.0/deals?storeID=1&upperPrice=15&pageSize=30","kind":"cheapshark","retailer":"Steam"},
+    {"id":"github-bfcm-2026","name":"Awesome BFCM 2026 on GitHub","url":"https://raw.githubusercontent.com/thuongtin/awesome-bfcm-2026/main/README.md","kind":"github","homepage":"https://github.com/thuongtin/awesome-bfcm-2026"}
+  ]
+}

@@ -37,7 +37,7 @@
     {
       "id": "tv", "priority": 25, "max_usd": 500,
       "match": "\\b(?:tv|television)s?\\b",
-      "exclude": "\\b(?:monitor|stick|sound[ -]?bar|streaming media player|wall mount|tv stand|outdoor tv cover|remote control|headphones?|headset|antenna|subscription|hours|projector)\\b"
+      "exclude": "\\b(?:monitor|stick|sound[ -]?bar|streaming media player|wall mount|tv stand|tv box|tv mount|outdoor tv cover|remote control|headphones?|headset|antenna|subscription|hours|projector)\\b"
     }
   ],
   "ranking": {
