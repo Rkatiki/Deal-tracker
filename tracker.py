@@ -16,6 +16,7 @@ from urllib.error import HTTPError, URLError
 from urllib.parse import urlsplit
 from urllib.request import Request, urlopen
 
+from dealsmocktail import retrieve_website
 from sheet_source import SourceError, retrieve
 
 ROOT = Path(__file__).resolve().parent
@@ -54,12 +55,14 @@ def consolidate(tabs, sheet_id):
             deal_id = hashlib.sha256(json.dumps(basis).encode()).hexdigest()[:24]
             price = cents(row["price"])
             source = {"gid": gid, "tab": tab["name"], "price_text": row["price"]}
+            if row.get("source_details"):
+                source.update(row["source_details"])
             if deal_id not in offers:
                 offers[deal_id] = {
                     "id": deal_id, "title": title, "retailer": retailer or None,
                     "price_cents": price, "currency": "USD", "coupon": row.get("coupon") or None,
                     "notes": row.get("notes") or None, "url": row["url"],
-                    "sheet_url": f"https://docs.google.com/spreadsheets/d/{sheet_id}/htmlview#gid={gid}",
+                    "sheet_url": tab.get("url") or f"https://docs.google.com/spreadsheets/d/{sheet_id}/htmlview#gid={gid}",
                     "sources": [],
                 }
             deal = offers[deal_id]
@@ -203,14 +206,17 @@ def publish(directory, documents):
             Path(stage, name).replace(directory / name)
 
 
-def refresh(config, directory, evidence):
+def refresh(config, directory, evidence, source="sheet"):
     latest = read_json(directory / "latest.json", {})
     history = read_json(directory / "price_history.json", {})
     if bool(latest) != bool(history):
         raise SourceError("latest.json and price_history.json must be restored together")
-    if latest and latest["sheet_id"] != config["sheet_id"]:
-        raise SourceError("start a new output directory when changing the spreadsheet ID")
-    tabs = retrieve(config)
+    source_info = {"sheet_id": config["sheet_id"]} if source == "sheet" else {
+        "website": "https://dealsmocktail.com/us"
+    }
+    if latest and any(latest.get(key) != value for key, value in source_info.items()):
+        raise SourceError("start a new output directory when changing sources")
+    tabs = retrieve(config) if source == "sheet" else retrieve_website(config)
     offers = consolidate(tabs, config["sheet_id"])
     validate(tabs, offers, latest, config)
     now = datetime.now(timezone.utc).isoformat(timespec="seconds")
@@ -234,7 +240,7 @@ def refresh(config, directory, evidence):
         deal["price_cents"] is None, deal["price_cents"] or 0, deal["id"],
     ))
     snapshot = {
-        "schema_version": 1, "retrieved_at": now, "sheet_id": config["sheet_id"],
+        "schema_version": 1, "retrieved_at": now, **source_info,
         "tabs": [tab for tab, _ in tabs], "deals": ranked,
     }
     feed = {"schema_version": 1, "retrieved_at": now, "baseline": not latest, "events": events}
@@ -286,17 +292,19 @@ def send_alerts(config, directory):
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--config", type=Path, default=ROOT / "config.json")
-    parser.add_argument("--output", type=Path, default=ROOT / "data")
+    parser.add_argument("--output", type=Path)
+    parser.add_argument("--source", choices=("sheet", "dealsmocktail"), default="sheet")
     parser.add_argument("--evidence", type=Path, default=ROOT / "evidence.json")
     parser.add_argument("--alerts-only", action="store_true")
     args = parser.parse_args()
+    output = args.output or ROOT / ("data" if args.source == "sheet" else "data/dealsmocktail")
     logging.basicConfig(level=logging.INFO, format="%(levelname)s %(message)s")
     try:
         config = read_json(args.config)
         if args.alerts_only:
-            send_alerts(config, args.output)
+            send_alerts(config, output)
         else:
-            refresh(config, args.output, read_json(args.evidence, {}))
+            refresh(config, output, read_json(args.evidence, {}), args.source)
     except (SourceError, OSError, ValueError, KeyError, TypeError) as exc:
         LOG.error("%s", exc)
         return 1

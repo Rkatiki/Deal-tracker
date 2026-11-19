@@ -29,3 +29,9 @@ To enable notifications, add a repository Actions secret named `DEAL_ALERT_WEBHO
 ## Local use
 
 Run `python3 -m unittest discover -v`, then `python3 tracker.py --output data` with Python 3.10 or newer. No third-party packages are required.
+
+## DealsMocktail US
+
+The same workflow also reads DealsMocktail's public **Latest**, **Electronics**, and **Home and Kitchen** listing pages, using the initial set of offers included in their HTML. It reuses the same ranking rules and stores a separate snapshot, change feed, and price history under `data/dealsmocktail/`. A removal means the offer is absent from the monitored listing pages on this run. Listings rotate and an offer may still be live on its individual page. The site’s advertised reference price is available as source metadata and has no effect on ranking.
+
+Edit `dealsmocktail.listings` in `config.json` to change which public listing categories are monitored. The adapter checks the site's crawler rules, retrieves each configured listing once per refresh outside transient retries, and preserves its own last successful output if any required listing fails. The sheet and website publish independently. Run `python3 tracker.py --source dealsmocktail` locally with `curl` installed. The website alert step uses the same optional webhook secret and its own baseline.

@@ -122,3 +122,33 @@ class TrackerTests(unittest.TestCase):
                     with self.assertRaises(SourceError):
                         refresh(config, location, {})
                 self.assertEqual((location / "latest.json").read_bytes(), original)
+
+
+class WebsiteTests(unittest.TestCase):
+    def test_public_embedded_listing(self):
+        from dealsmocktail import parse_listing
+
+        item = {
+            "id": "12bdbed4-78cf-4980-86d5-cd246d28e80a",
+            "title": "A TV deal", "slug": "a-tv-deal_123", "store": "Example",
+            "salePrice": 249.95, "originalPrice": 399.95, "country": "USA",
+        }
+        script = f'<script>self.__next_f.push({json.dumps([1, json.dumps({"initialDeals": [item]})])})</script>'
+        offer, = parse_listing(script)
+        self.assertEqual(offer["price"], "249.95")
+        self.assertEqual(offer["source_details"]["advertised_price"], "399.95")
+        self.assertEqual(offer["url"], "https://dealsmocktail.com/us/deal/a-tv-deal_123")
+        with self.assertRaises(SourceError):
+            parse_listing("<html>Unavailable</html>")
+
+    def test_website_preserves_independent_snapshot(self):
+        website = [tab([row("TV A", "$300")])]
+        with tempfile.TemporaryDirectory() as tmp:
+            location = Path(tmp)
+            with patch("tracker.retrieve_website", side_effect=[website, SourceError("HTTP 403")]):
+                refresh(CONFIG, location, {}, "dealsmocktail")
+                original = (location / "latest.json").read_bytes()
+                self.assertEqual(json.loads(original)["website"], "https://dealsmocktail.com/us")
+                with self.assertRaises(SourceError):
+                    refresh(CONFIG, location, {}, "dealsmocktail")
+                self.assertEqual((location / "latest.json").read_bytes(), original)
