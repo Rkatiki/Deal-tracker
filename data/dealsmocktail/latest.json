@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-19T15:43:40+00:00",
+  "retrieved_at": "2026-11-19T22:28:12+00:00",
   "website": "https://dealsmocktail.com/us",
   "tabs": [
     {
@@ -27,6 +27,53 @@
   ],
   "deals": [
     {
+      "id": "4cb00958ab562662e9121fd3",
+      "title": "ILIFE V2 Robot Vacuum Cleaner, Tangle-Free Suction, White",
+      "retailer": "Amazon",
+      "price_cents": 5900,
+      "currency": "USD",
+      "coupon": null,
+      "notes": null,
+      "url": "https://www.amazon.com/dp/B0F4DKGRDN?tag=mmdealsusa-20&linkCode=ogi&th=1&psc=1",
+      "source_url": "https://dealsmocktail.com/us/deal/ilife-v2-robot-vacuum-cleaner-tangle-free-suction-white_1789676219586",
+      "retailer_url": "https://www.amazon.com/dp/B0F4DKGRDN?tag=mmdealsusa-20&linkCode=ogi&th=1&psc=1",
+      "link_type": "retailer",
+      "sheet_url": "https://dealsmocktail.com/us/deals",
+      "sources": [
+        {
+          "gid": "dealsmocktail:latest",
+          "tab": "Latest",
+          "price_text": "59",
+          "category": "Home Improvement",
+          "posted_at": "2026-11-19T17:20:37.934-05:00",
+          "expires_at": "2026-11-30T23:59:59.999-05:00",
+          "advertised_price": "99.99"
+        },
+        {
+          "gid": "dealsmocktail:home-kitchen",
+          "tab": "Home and Kitchen",
+          "price_text": "59",
+          "category": "Home Improvement",
+          "posted_at": "2026-11-19T17:20:37.934-05:00",
+          "expires_at": "2026-11-30T23:59:59.999-05:00",
+          "advertised_price": "99.99"
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "robot_vacuum_mop",
+        "variant": null,
+        "status": "candidate",
+        "score": 41.31,
+        "max_usd": 350,
+        "preferred_usd": 250,
+        "within_budget": true,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
       "id": "63e6edc6f1982645bead9128",
       "title": "roborock Q7 M5+ Robot Vacuum and Mop, Up to 7-9 Weeks Self-Empty, 10000Pa | Upgraded from Q5 Max+, Dual Anti-Tangle System for Pet Hair & Carpet, PreciSense LiDAR Navigation, App Control, Black",
       "retailer": "Amazon",
@@ -34,18 +81,12 @@
       "currency": "USD",
       "coupon": null,
       "notes": null,
-      "url": "https://dealsmocktail.com/us/deal/roborock-q7-m5-robot-vacuum-and-mop-up-to-7-9-weeks-self-empty-10000pa-upgraded-from-q5-max-dual-ant_1795099620511",
-      "sheet_url": "https://dealsmocktail.com/us/deals",
+      "url": "https://www.amazon.com/dp/B0DWX69JVG?tag=mmdealsusa-20&linkCode=ogi&th=1&psc=1",
+      "source_url": "https://dealsmocktail.com/us/deal/roborock-q7-m5-robot-vacuum-and-mop-up-to-7-9-weeks-self-empty-10000pa-upgraded-from-q5-max-dual-ant_1795099620511",
+      "retailer_url": "https://www.amazon.com/dp/B0DWX69JVG?tag=mmdealsusa-20&linkCode=ogi&th=1&psc=1",
+      "link_type": "retailer",
+      "sheet_url": "https://dealsmocktail.com/us/deals?category=home-kitchen",
       "sources": [
-        {
-          "gid": "dealsmocktail:latest",
-          "tab": "Latest",
-          "price_text": "199.99",
-          "category": "Home Improvement",
-          "posted_at": "2026-11-19T09:48:05.227-05:00",
-          "expires_at": "2026-11-30T23:59:59.999-05:00",
-          "advertised_price": "359.99"
-        },
         {
           "gid": "dealsmocktail:home-kitchen",
           "tab": "Home and Kitchen",
@@ -71,14 +112,64 @@
       }
     },
     {
-      "id": "c1f1fc8d982d9e40adf27d4e",
-      "title": "Hisense - 65\" Class QD5 Hi-QLED Series 4K UHD Smart Roku TV",
+      "id": "9d26a6f7ea810b22000cc90d",
+      "title": "TCL - 65\" S4CF Series 4K UHD HDR Smart TV with Fire TV (2026)",
+      "retailer": "Best Buy",
+      "price_cents": 22999,
+      "currency": "USD",
+      "coupon": null,
+      "notes": null,
+      "url": "https://go.magik.ly/ml/4wq60/",
+      "source_url": "https://dealsmocktail.com/us/deal/tcl-65-s4cf-series-4k-uhd-hdr-smart-tv-with-fire-tv-2026_1795110311793",
+      "retailer_url": "https://go.magik.ly/ml/4wq60/",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://dealsmocktail.com/us/deals",
+      "sources": [
+        {
+          "gid": "dealsmocktail:latest",
+          "tab": "Latest",
+          "price_text": "229.99",
+          "category": "Smart TVs & Home Entertainment",
+          "posted_at": "2026-11-19T12:45:37.992-05:00",
+          "expires_at": "2026-11-30T23:59:59.999-05:00",
+          "advertised_price": "469.99"
+        },
+        {
+          "gid": "dealsmocktail:electronics",
+          "tab": "Electronics",
+          "price_text": "229.99",
+          "category": "Smart TVs & Home Entertainment",
+          "posted_at": "2026-11-19T12:45:37.992-05:00",
+          "expires_at": "2026-11-30T23:59:59.999-05:00",
+          "advertised_price": "469.99"
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "tv",
+        "variant": null,
+        "status": "candidate",
+        "score": 30.4,
+        "max_usd": 500,
+        "preferred_usd": null,
+        "within_budget": true,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
+      "id": "1b0006008053f80fa1358b3a",
+      "title": "Samsung - 65” Class U8000H Series Crystal UHD 4K Smart Tizen TV (2026)",
       "retailer": "Best Buy",
       "price_cents": 29999,
       "currency": "USD",
       "coupon": null,
       "notes": null,
-      "url": "https://dealsmocktail.com/us/deal/hisense-65-class-qd5-hi-qled-series-4k-uhd-smart-roku-tv_1793097356037",
+      "url": "https://go.magik.ly/ml/4wqug/",
+      "source_url": "https://dealsmocktail.com/us/deal/samsung-65-class-u8000h-series-crystal-uhd-4k-smart-tizen-tv-2026_1795112972863",
+      "retailer_url": "https://go.magik.ly/ml/4wqug/",
+      "link_type": "retailer_redirect",
       "sheet_url": "https://dealsmocktail.com/us/deals",
       "sources": [
         {
@@ -86,10 +177,48 @@
           "tab": "Latest",
           "price_text": "299.99",
           "category": "Smart TVs & Home Entertainment",
-          "posted_at": "2026-11-19T08:57:42.701-05:00",
+          "posted_at": "2026-11-19T13:30:04.195-05:00",
           "expires_at": "2026-11-30T23:59:59.999-05:00",
-          "advertised_price": "549.99"
+          "advertised_price": "399.99"
         },
+        {
+          "gid": "dealsmocktail:electronics",
+          "tab": "Electronics",
+          "price_text": "299.99",
+          "category": "Smart TVs & Home Entertainment",
+          "posted_at": "2026-11-19T13:30:04.195-05:00",
+          "expires_at": "2026-11-30T23:59:59.999-05:00",
+          "advertised_price": "399.99"
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "tv",
+        "variant": null,
+        "status": "candidate",
+        "score": 29.0,
+        "max_usd": 500,
+        "preferred_usd": null,
+        "within_budget": true,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
+      "id": "c1f1fc8d982d9e40adf27d4e",
+      "title": "Hisense - 65\" Class QD5 Hi-QLED Series 4K UHD Smart Roku TV",
+      "retailer": "Best Buy",
+      "price_cents": 29999,
+      "currency": "USD",
+      "coupon": null,
+      "notes": null,
+      "url": "https://go.magik.ly/ml/4wnx2/",
+      "source_url": "https://dealsmocktail.com/us/deal/hisense-65-class-qd5-hi-qled-series-4k-uhd-smart-roku-tv_1793097356037",
+      "retailer_url": "https://go.magik.ly/ml/4wnx2/",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://dealsmocktail.com/us/deals?category=electronics",
+      "sources": [
         {
           "gid": "dealsmocktail:electronics",
           "tab": "Electronics",
@@ -115,76 +244,6 @@
       }
     },
     {
-      "id": "6e69e867bfa0116139c5abce",
-      "title": "Gourmia All-in-One 14-Quart Air Fryer, Oven, Rotisserie & Dehydrator",
-      "retailer": "Walmart",
-      "price_cents": 5500,
-      "currency": "USD",
-      "coupon": null,
-      "notes": null,
-      "url": "https://dealsmocktail.com/us/deal/gourmia-all-in-one-14-quart-air-fryer-oven-rotisserie-dehydrator_1794814070479",
-      "sheet_url": "https://dealsmocktail.com/us/deals?category=home-kitchen",
-      "sources": [
-        {
-          "gid": "dealsmocktail:home-kitchen",
-          "tab": "Home and Kitchen",
-          "price_text": "55",
-          "category": "Kitchen & Dining",
-          "posted_at": "2026-11-16T02:28:11.198-05:00",
-          "expires_at": "2026-11-30T23:59:59.999-05:00",
-          "advertised_price": 129
-        }
-      ],
-      "price_conflict": false,
-      "rank": {
-        "category": "air_fryer",
-        "variant": null,
-        "status": "watch",
-        "score": 22.67,
-        "max_usd": 75,
-        "preferred_usd": null,
-        "within_budget": true,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
-      "id": "5ae37a852c7a329efc1ccae7",
-      "title": "Cook With Color 12-Piece BPA-Free Plastic Nesting Mixing Bowl Set with Lids",
-      "retailer": "Walmart",
-      "price_cents": 1000,
-      "currency": "USD",
-      "coupon": null,
-      "notes": null,
-      "url": "https://dealsmocktail.com/us/deal/cook-with-color-12-piece-bpa-free-plastic-nesting-mixing-bowl-set-with-lids_1794818063042",
-      "sheet_url": "https://dealsmocktail.com/us/deals?category=home-kitchen",
-      "sources": [
-        {
-          "gid": "dealsmocktail:home-kitchen",
-          "tab": "Home and Kitchen",
-          "price_text": "10",
-          "category": "Kitchen & Dining",
-          "posted_at": "2026-11-16T03:34:41.887-05:00",
-          "expires_at": "2026-11-23T03:05:20.278-05:00",
-          "advertised_price": "29.99"
-        }
-      ],
-      "price_conflict": false,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
       "id": "a9e0f3edb06b0f287b37a4a9",
       "title": "Bedsure Faux Fur Fluffy Fleece Sherpa Blanket Couch Throw Grey 50\"x60\"",
       "retailer": "Amazon",
@@ -192,7 +251,10 @@
       "currency": "USD",
       "coupon": null,
       "notes": null,
-      "url": "https://dealsmocktail.com/us/deal/bedsure-faux-fur-fluffy-fleece-sherpa-blanket-couch-throw-grey-50x60_1786576115514",
+      "url": "https://link.amazon/B08QtFqWg",
+      "source_url": "https://dealsmocktail.com/us/deal/bedsure-faux-fur-fluffy-fleece-sherpa-blanket-couch-throw-grey-50x60_1786576115514",
+      "retailer_url": "https://link.amazon/B08QtFqWg",
+      "link_type": "retailer_redirect",
       "sheet_url": "https://dealsmocktail.com/us/deals?category=home-kitchen",
       "sources": [
         {
@@ -220,6 +282,129 @@
       }
     },
     {
+      "id": "8d757b7a065ff2bf1bf4bb7e",
+      "title": "COSRX Snail Mucin 96% Power Repairing Essence (100ml)",
+      "retailer": "Amazon",
+      "price_cents": 1223,
+      "currency": "USD",
+      "coupon": null,
+      "notes": null,
+      "url": "https://link.amazon/B0bMaZM9s",
+      "source_url": "https://dealsmocktail.com/us/deal/cosrx-snail-mucin-96-power-repairing-essence-100ml_1774475095642",
+      "retailer_url": "https://link.amazon/B0bMaZM9s",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://dealsmocktail.com/us/deals",
+      "sources": [
+        {
+          "gid": "dealsmocktail:latest",
+          "tab": "Latest",
+          "price_text": "12.23",
+          "category": "Skin Care",
+          "posted_at": "2026-11-19T15:59:15.914-05:00",
+          "expires_at": "2026-11-30T23:59:59.999-05:00",
+          "advertised_price": 25
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
+      "id": "869d2f56a85175d5f4ac4de4",
+      "title": "STANLEY Quencher H2.0 Flow State Tumbler, 14 oz, Soft Orchid | Handle and Straw | 3-Position Lid | Cup Holder Compatible for Travel | Insulated Stainless Steel Cup | BPA-Free",
+      "retailer": "Amazon",
+      "price_cents": 1250,
+      "currency": "USD",
+      "coupon": null,
+      "notes": null,
+      "url": "https://www.amazon.com/dp/B0G774MHKL?tag=mmdealsusa-20&linkCode=ogi&th=1&psc=1",
+      "source_url": "https://dealsmocktail.com/us/deal/stanley-quencher-h20-flow-state-tumbler-14-oz-soft-orchid-handle-and-straw-3-position-lid-cup-holder_1795118772995",
+      "retailer_url": "https://www.amazon.com/dp/B0G774MHKL?tag=mmdealsusa-20&linkCode=ogi&th=1&psc=1",
+      "link_type": "retailer",
+      "sheet_url": "https://dealsmocktail.com/us/deals",
+      "sources": [
+        {
+          "gid": "dealsmocktail:latest",
+          "tab": "Latest",
+          "price_text": "12.5",
+          "category": "Kitchen & Dining",
+          "posted_at": "2026-11-19T15:07:19.603-05:00",
+          "expires_at": "2026-11-30T23:59:59.999-05:00",
+          "advertised_price": 25
+        },
+        {
+          "gid": "dealsmocktail:home-kitchen",
+          "tab": "Home and Kitchen",
+          "price_text": "12.5",
+          "category": "Kitchen & Dining",
+          "posted_at": "2026-11-19T15:07:19.603-05:00",
+          "expires_at": "2026-11-30T23:59:59.999-05:00",
+          "advertised_price": 25
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
+      "id": "a217cd1846fdc81120aa5332",
+      "title": "Dr.Melaxin Peel Shot Black Rice Exfoliating Ampoule, Face Exfoliator with AHA BHA Niacinamide Rice Bran Water, Blackhead Remover, Pore Minimizer, Glass Skin Serum, Korean Skin Care, 2.7 oz",
+      "retailer": "Amazon",
+      "price_cents": 1350,
+      "currency": "USD",
+      "coupon": null,
+      "notes": null,
+      "url": "https://www.amazon.com/dp/B0DJPB7H94?tag=mmdealsusa-20&linkCode=ogi&th=1&psc=1",
+      "source_url": "https://dealsmocktail.com/us/deal/drmelaxin-peel-shot-black-rice-exfoliating-ampoule-face-exfoliator-with-aha-bha-niacinamide-rice-bra_1793838821792",
+      "retailer_url": "https://www.amazon.com/dp/B0DJPB7H94?tag=mmdealsusa-20&linkCode=ogi&th=1&psc=1",
+      "link_type": "retailer",
+      "sheet_url": "https://dealsmocktail.com/us/deals",
+      "sources": [
+        {
+          "gid": "dealsmocktail:latest",
+          "tab": "Latest",
+          "price_text": "13.5",
+          "category": "Skin Care",
+          "posted_at": "2026-11-19T14:40:09.429-05:00",
+          "expires_at": "2026-11-30T23:59:59.999-05:00",
+          "advertised_price": 39
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
       "id": "d21e3482ef99976a22f739b3",
       "title": "48-Piece Unbreakable Wheat Straw Dinnerware Set",
       "retailer": "Walmart",
@@ -227,7 +412,10 @@
       "currency": "USD",
       "coupon": null,
       "notes": null,
-      "url": "https://dealsmocktail.com/us/deal/48-piece-unbreakable-wheat-straw-dinnerware-set_1794900760566",
+      "url": "https://go.magik.ly/ml/4w2uc/",
+      "source_url": "https://dealsmocktail.com/us/deal/48-piece-unbreakable-wheat-straw-dinnerware-set_1794900760566",
+      "retailer_url": "https://go.magik.ly/ml/4w2uc/",
+      "link_type": "retailer_redirect",
       "sheet_url": "https://dealsmocktail.com/us/deals?category=home-kitchen",
       "sources": [
         {
@@ -255,41 +443,6 @@
       }
     },
     {
-      "id": "d1e288a56722dfc5c3db514c",
-      "title": "Dr.Althea 147 Barrier Cream, 1.69 Fl Oz (Ver.2 - Pack of 1) | Korean Skin Care, Deep Hydration, Daily Skin Care with Ceramides, NAD, Hyaluronic Acid, Ectoin, Vegan Face Moisturizer",
-      "retailer": "Amazon",
-      "price_cents": 1755,
-      "currency": "USD",
-      "coupon": null,
-      "notes": null,
-      "url": "https://dealsmocktail.com/us/deal/dralthea-147-barrier-cream-169-fl-oz-ver2-pack-of-1-korean-skin-care-deep-hydration-daily-skin-care_1795098548606",
-      "sheet_url": "https://dealsmocktail.com/us/deals",
-      "sources": [
-        {
-          "gid": "dealsmocktail:latest",
-          "tab": "Latest",
-          "price_text": "17.55",
-          "category": "Skin Care",
-          "posted_at": "2026-11-19T09:29:51.082-05:00",
-          "expires_at": "2026-11-30T23:59:59.999-05:00",
-          "advertised_price": 27
-        }
-      ],
-      "price_conflict": false,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
       "id": "da48a384b3a5b3bc479abc91",
       "title": "6-Pack Stainless Steel Mixing Bowls Set with Lids",
       "retailer": "Walmart",
@@ -297,7 +450,10 @@
       "currency": "USD",
       "coupon": null,
       "notes": null,
-      "url": "https://dealsmocktail.com/us/deal/6-pack-stainless-steel-mixing-bowls-set-with-lids_1794991103108",
+      "url": "https://go.magik.ly/ml/4wax1/",
+      "source_url": "https://dealsmocktail.com/us/deal/6-pack-stainless-steel-mixing-bowls-set-with-lids_1794991103108",
+      "retailer_url": "https://go.magik.ly/ml/4wax1/",
+      "link_type": "retailer_redirect",
       "sheet_url": "https://dealsmocktail.com/us/deals?category=home-kitchen",
       "sources": [
         {
@@ -325,6 +481,82 @@
       }
     },
     {
+      "id": "a1d78583582019edb272f8fa",
+      "title": "medicube Glow Favorites On-the-Go Kit, Mini Skincare Trial Kit, 5 Piece Set | Mini Travel Kit, Full Skincare Set with Cleansing Oil, Foam Cleanser, Toner Pads, PDRN Serum & Sunscreen, Holiday Gift Set",
+      "retailer": "Amazon",
+      "price_cents": 1925,
+      "currency": "USD",
+      "coupon": null,
+      "notes": null,
+      "url": "https://www.amazon.com/dp/B0H5W743CH?tag=mmdealsusa-20&linkCode=ogi&th=1&psc=1",
+      "source_url": "https://dealsmocktail.com/us/deal/medicube-glow-favorites-on-the-go-kit-mini-skincare-trial-kit-5-piece-set-mini-travel-kit-full-skinc_1795124711763",
+      "retailer_url": "https://www.amazon.com/dp/B0H5W743CH?tag=mmdealsusa-20&linkCode=ogi&th=1&psc=1",
+      "link_type": "retailer",
+      "sheet_url": "https://dealsmocktail.com/us/deals",
+      "sources": [
+        {
+          "gid": "dealsmocktail:latest",
+          "tab": "Latest",
+          "price_text": "19.25",
+          "category": "Skin Care",
+          "posted_at": "2026-11-19T16:46:19.096-05:00",
+          "expires_at": "2026-11-30T23:59:59.999-05:00",
+          "advertised_price": "38.5"
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
+      "id": "ac9efb6956d0be0dbb7f45ed",
+      "title": "TruSkin Vitamin C Anti-Aging & Brightening Face Serum (2 fl oz)",
+      "retailer": "Amazon",
+      "price_cents": 1931,
+      "currency": "USD",
+      "coupon": null,
+      "notes": null,
+      "url": "https://amzn.to/4xvKyzg",
+      "source_url": "https://dealsmocktail.com/us/deal/truskin-vitamin-c-anti-aging-brightening-face-serum-2-fl-oz_1774439835493",
+      "retailer_url": "https://amzn.to/4xvKyzg",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://dealsmocktail.com/us/deals",
+      "sources": [
+        {
+          "gid": "dealsmocktail:latest",
+          "tab": "Latest",
+          "price_text": "19.31",
+          "category": "Skin Care",
+          "posted_at": "2026-11-19T16:55:09.312-05:00",
+          "expires_at": "2026-11-30T23:59:59.999-05:00",
+          "advertised_price": "38.99"
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
       "id": "942e85df00fd6632b560b750",
       "title": "Compact Large-Room Air Purifier with Aroma Pad & 360° Intake",
       "retailer": "Amazon",
@@ -332,7 +564,10 @@
       "currency": "USD",
       "coupon": null,
       "notes": null,
-      "url": "https://dealsmocktail.com/us/deal/compact-large-room-air-purifier-with-aroma-pad-360-intake_1776916906610",
+      "url": "https://link.amazon/B02fJGCS5",
+      "source_url": "https://dealsmocktail.com/us/deal/compact-large-room-air-purifier-with-aroma-pad-360-intake_1776916906610",
+      "retailer_url": "https://link.amazon/B02fJGCS5",
+      "link_type": "retailer_redirect",
       "sheet_url": "https://dealsmocktail.com/us/deals?category=home-kitchen",
       "sources": [
         {
@@ -367,7 +602,10 @@
       "currency": "USD",
       "coupon": null,
       "notes": null,
-      "url": "https://dealsmocktail.com/us/deal/stanley-quencher-h20-flow-state-tumbler-30-oz-chili-red-handle-and-straw-3-position-lid-cup-holder-c_1794949082105",
+      "url": "https://www.amazon.com/dp/B0DQY65BX6?tag=mmdealsusa-20&linkCode=ogi&th=1&psc=1",
+      "source_url": "https://dealsmocktail.com/us/deal/stanley-quencher-h20-flow-state-tumbler-30-oz-chili-red-handle-and-straw-3-position-lid-cup-holder-c_1794949082105",
+      "retailer_url": "https://www.amazon.com/dp/B0DQY65BX6?tag=mmdealsusa-20&linkCode=ogi&th=1&psc=1",
+      "link_type": "retailer",
       "sheet_url": "https://dealsmocktail.com/us/deals?category=home-kitchen",
       "sources": [
         {
@@ -395,41 +633,6 @@
       }
     },
     {
-      "id": "813c503d09c9125d3505c448",
-      "title": "STANLEY Quencher H2.0 Flow State Tumbler, 40 oz, Rose Quartz 2.0 | Handle and Straw | 3-Position Lid | Cup Holder Compatible for Travel | Insulated Stainless Steel Cup | BPA-Free",
-      "retailer": "Amazon",
-      "price_cents": 2025,
-      "currency": "USD",
-      "coupon": null,
-      "notes": null,
-      "url": "https://dealsmocktail.com/us/deal/stanley-quencher-h20-flow-state-tumbler-40-oz-rose-quartz-20-handle-and-straw-3-position-lid-cup-hol_1795095115477",
-      "sheet_url": "https://dealsmocktail.com/us/deals",
-      "sources": [
-        {
-          "gid": "dealsmocktail:latest",
-          "tab": "Latest",
-          "price_text": "20.25",
-          "category": "Water Bottles & Hydration",
-          "posted_at": "2026-11-19T08:31:55.497-05:00",
-          "expires_at": "2026-11-30T23:59:59.999-05:00",
-          "advertised_price": 45
-        }
-      ],
-      "price_conflict": false,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
       "id": "08c694ac53802c17aeebb7e5",
       "title": "BEDELITE Faux Fur Throw for Couch, Bubble Blanket, 50\" x 60\", Tie-Dye Khaki | 870GSM Soft Cozy Plush Blanket for Sofa & Bed Living Room Decor, Warm Fuzzy Faux Rabbit Fur for Women Gift, All Season Use",
       "retailer": "Amazon",
@@ -437,7 +640,10 @@
       "currency": "USD",
       "coupon": null,
       "notes": null,
-      "url": "https://dealsmocktail.com/us/deal/bedelite-faux-fur-throw-for-couch-bubble-blanket-50-x-60-tie-dye-khaki-870gsm-soft-cozy-plush-blanke_1792974826908",
+      "url": "https://www.amazon.com/dp/B0DPZRM5W6?tag=mmdealsusa-20&linkCode=ogi&th=1&psc=1",
+      "source_url": "https://dealsmocktail.com/us/deal/bedelite-faux-fur-throw-for-couch-bubble-blanket-50-x-60-tie-dye-khaki-870gsm-soft-cozy-plush-blanke_1792974826908",
+      "retailer_url": "https://www.amazon.com/dp/B0DPZRM5W6?tag=mmdealsusa-20&linkCode=ogi&th=1&psc=1",
+      "link_type": "retailer",
       "sheet_url": "https://dealsmocktail.com/us/deals?category=home-kitchen",
       "sources": [
         {
@@ -465,6 +671,138 @@
       }
     },
     {
+      "id": "bfb796718a63d14e8cbe014e",
+      "title": "MaryRuth’s Liquid Multivitamin + Hair Growth with 10000mcg Biotin",
+      "retailer": "Amazon",
+      "price_cents": 2103,
+      "currency": "USD",
+      "coupon": null,
+      "notes": null,
+      "url": "https://link.amazon/B02CKynHw",
+      "source_url": "https://dealsmocktail.com/us/deal/maryruths-liquid-multivitamin-hair-growth-with-10000mcg-biotin_1774475732905",
+      "retailer_url": "https://link.amazon/B02CKynHw",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://dealsmocktail.com/us/deals",
+      "sources": [
+        {
+          "gid": "dealsmocktail:latest",
+          "tab": "Latest",
+          "price_text": "21.03",
+          "category": "Nutrition & Supplements",
+          "posted_at": "2026-11-19T15:31:52.988-05:00",
+          "expires_at": "2026-11-30T23:59:59.999-05:00",
+          "advertised_price": "39.95"
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
+      "id": "08b41a8a0bde4252bda05bb9",
+      "title": "STANLEY Quencher H2.0 Flow State Tumbler, 40 oz, Dried Pine | Handle and Straw | 3-Position Lid | Cup Holder Compatible for Travel | Insulated Stainless Steel Cup | BPA-Free",
+      "retailer": "Amazon",
+      "price_cents": 2250,
+      "currency": "USD",
+      "coupon": null,
+      "notes": null,
+      "url": "https://www.amazon.com/dp/B0DQYC7C3R?tag=mmdealsusa-20&linkCode=ogi&th=1&psc=1",
+      "source_url": "https://dealsmocktail.com/us/deal/stanley-quencher-h20-flow-state-tumbler-40-oz-dried-pine-handle-and-straw-3-position-lid-cup-holder_1795118432933",
+      "retailer_url": "https://www.amazon.com/dp/B0DQYC7C3R?tag=mmdealsusa-20&linkCode=ogi&th=1&psc=1",
+      "link_type": "retailer",
+      "sheet_url": "https://dealsmocktail.com/us/deals",
+      "sources": [
+        {
+          "gid": "dealsmocktail:latest",
+          "tab": "Latest",
+          "price_text": "22.5",
+          "category": "Kitchen & Dining",
+          "posted_at": "2026-11-19T15:01:18.062-05:00",
+          "expires_at": "2026-11-30T23:59:59.999-05:00",
+          "advertised_price": 45
+        },
+        {
+          "gid": "dealsmocktail:home-kitchen",
+          "tab": "Home and Kitchen",
+          "price_text": "22.5",
+          "category": "Kitchen & Dining",
+          "posted_at": "2026-11-19T15:01:18.062-05:00",
+          "expires_at": "2026-11-30T23:59:59.999-05:00",
+          "advertised_price": 45
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
+      "id": "3278dbd5d44c5e23f52bd2f6",
+      "title": "ChiXpace Fleece Queen Comforter Set Grey, Fluffy Flannel Bed Set 3 Pieces",
+      "retailer": "Amazon",
+      "price_cents": 2291,
+      "currency": "USD",
+      "coupon": null,
+      "notes": null,
+      "url": "https://link.amazon/B0ewXJpvK",
+      "source_url": "https://dealsmocktail.com/us/deal/chixpace-fleece-queen-comforter-set-grey-fluffy-flannel-bed-set-3-pieces_1786647810814",
+      "retailer_url": "https://link.amazon/B0ewXJpvK",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://dealsmocktail.com/us/deals",
+      "sources": [
+        {
+          "gid": "dealsmocktail:latest",
+          "tab": "Latest",
+          "price_text": "22.91",
+          "category": "Bedding & Bath",
+          "posted_at": "2026-11-19T16:21:19.647-05:00",
+          "expires_at": "2026-11-30T23:59:59.999-05:00",
+          "advertised_price": "53.99"
+        },
+        {
+          "gid": "dealsmocktail:home-kitchen",
+          "tab": "Home and Kitchen",
+          "price_text": "22.91",
+          "category": "Bedding & Bath",
+          "posted_at": "2026-11-19T16:21:19.647-05:00",
+          "expires_at": "2026-11-30T23:59:59.999-05:00",
+          "advertised_price": "53.99"
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
       "id": "5856cece5ec344cbaa0fad0c",
       "title": "20-Piece Glass Food Storage & Meal Prep Container Set",
       "retailer": "Walmart",
@@ -472,7 +810,10 @@
       "currency": "USD",
       "coupon": null,
       "notes": null,
-      "url": "https://dealsmocktail.com/us/deal/20-piece-glass-food-storage-meal-prep-container-set_1794900558634",
+      "url": "https://go.magik.ly/ml/4w2ub/",
+      "source_url": "https://dealsmocktail.com/us/deal/20-piece-glass-food-storage-meal-prep-container-set_1794900558634",
+      "retailer_url": "https://go.magik.ly/ml/4w2ub/",
+      "link_type": "retailer_redirect",
       "sheet_url": "https://dealsmocktail.com/us/deals?category=home-kitchen",
       "sources": [
         {
@@ -507,18 +848,12 @@
       "currency": "USD",
       "coupon": null,
       "notes": null,
-      "url": "https://dealsmocktail.com/us/deal/soundcore-p30i-by-anker-noise-cancelling-earbuds-hands-free-viewing-strong-and-smart-noise-cancellin_1795095078871",
-      "sheet_url": "https://dealsmocktail.com/us/deals",
+      "url": "https://link.amazon/B01RMfGrw",
+      "source_url": "https://dealsmocktail.com/us/deal/soundcore-p30i-by-anker-noise-cancelling-earbuds-hands-free-viewing-strong-and-smart-noise-cancellin_1795095078871",
+      "retailer_url": "https://link.amazon/B01RMfGrw",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://dealsmocktail.com/us/deals?category=electronics",
       "sources": [
-        {
-          "gid": "dealsmocktail:latest",
-          "tab": "Latest",
-          "price_text": "23.5",
-          "category": "Audio & Headphones",
-          "posted_at": "2026-11-19T08:31:18.896-05:00",
-          "expires_at": "2026-11-30T23:59:59.999-05:00",
-          "advertised_price": "49.99"
-        },
         {
           "gid": "dealsmocktail:electronics",
           "tab": "Electronics",
@@ -544,59 +879,27 @@
       }
     },
     {
-      "id": "8c98144a98f833a50d1a0a51",
-      "title": "LEGO Creator 3 in 1 Wild Animals: Majestic Rhino with Birds 31171 | Building Toy for Boys & Girls, Ages 9+, Gift for Christmas, 780 Pieces, 3 Building Options, Display in Kids Bedroom as Decor",
+      "id": "6acf4b22735e567dcbbfc6a2",
+      "title": "Paula's Choice 2% BHA Liquid Exfoliant",
       "retailer": "Amazon",
-      "price_cents": 2699,
+      "price_cents": 2460,
       "currency": "USD",
       "coupon": null,
       "notes": null,
-      "url": "https://dealsmocktail.com/us/deal/lego-creator-3-in-1-wild-animals-majestic-rhino-with-birds-31171-building-toy-for-boys-girls-ages-9_1795087997905",
+      "url": "https://link.amazon/B0hrReVhN",
+      "source_url": "https://dealsmocktail.com/us/deal/paulas-choice-2-bha-liquid-exfoliant_1780452055743",
+      "retailer_url": "https://link.amazon/B0hrReVhN",
+      "link_type": "retailer_redirect",
       "sheet_url": "https://dealsmocktail.com/us/deals",
       "sources": [
         {
           "gid": "dealsmocktail:latest",
           "tab": "Latest",
-          "price_text": "26.99",
-          "category": "Kids Toys",
-          "posted_at": "2026-11-19T06:33:17.937-05:00",
+          "price_text": "24.6",
+          "category": "Skin Care",
+          "posted_at": "2026-11-19T16:07:38.604-05:00",
           "expires_at": "2026-11-30T23:59:59.999-05:00",
-          "advertised_price": "59.99"
-        }
-      ],
-      "price_conflict": false,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
-      "id": "5a3c6bbb6d306e6fa3d98a16",
-      "title": "New Balance Women's 515 V3 Sneaker, Reflection/White/Aluminum Grey, 7",
-      "retailer": "Amazon",
-      "price_cents": 3338,
-      "currency": "USD",
-      "coupon": null,
-      "notes": null,
-      "url": "https://dealsmocktail.com/us/deal/new-balance-womens-515-v3-sneaker-reflectionwhitealuminum-grey-7_1795095092730",
-      "sheet_url": "https://dealsmocktail.com/us/deals",
-      "sources": [
-        {
-          "gid": "dealsmocktail:latest",
-          "tab": "Latest",
-          "price_text": "33.38",
-          "category": "Footwear",
-          "posted_at": "2026-11-19T08:31:32.761-05:00",
-          "expires_at": "2026-12-01T02:59:59.000-05:00",
-          "advertised_price": "79.99"
+          "advertised_price": 37
         }
       ],
       "price_conflict": false,
@@ -621,7 +924,10 @@
       "currency": "USD",
       "coupon": null,
       "notes": null,
-      "url": "https://dealsmocktail.com/us/deal/bell-howell-startastic-solar-laser-christmas-projector-lights_1794900078311",
+      "url": "https://go.magik.ly/ml/4w2u0/",
+      "source_url": "https://dealsmocktail.com/us/deal/bell-howell-startastic-solar-laser-christmas-projector-lights_1794900078311",
+      "retailer_url": "https://go.magik.ly/ml/4w2u0/",
+      "link_type": "retailer_redirect",
       "sheet_url": "https://dealsmocktail.com/us/deals?category=home-kitchen",
       "sources": [
         {
@@ -656,7 +962,10 @@
       "currency": "USD",
       "coupon": null,
       "notes": null,
-      "url": "https://dealsmocktail.com/us/deal/magic-bullet-mini-juicer-countertop-space-saving-2-feed-chute-for-fruits-and-vegetables-400w-16oz-cu_1794952565180",
+      "url": "https://www.amazon.com/dp/B0C99W1Z9Q?tag=mmdealsusa-20&linkCode=ogi&th=1&psc=1",
+      "source_url": "https://dealsmocktail.com/us/deal/magic-bullet-mini-juicer-countertop-space-saving-2-feed-chute-for-fruits-and-vegetables-400w-16oz-cu_1794952565180",
+      "retailer_url": "https://www.amazon.com/dp/B0C99W1Z9Q?tag=mmdealsusa-20&linkCode=ogi&th=1&psc=1",
+      "link_type": "retailer",
       "sheet_url": "https://dealsmocktail.com/us/deals?category=home-kitchen",
       "sources": [
         {
@@ -684,146 +993,6 @@
       }
     },
     {
-      "id": "28e3f6c5ea1d7c298a5a9d64",
-      "title": "Levi's Men's 501 Original Fit Jeans | (Also Available in Big & Tall), Black (Shrink-to-Fit), 30W x 34L",
-      "retailer": "Amazon",
-      "price_cents": 3867,
-      "currency": "USD",
-      "coupon": null,
-      "notes": null,
-      "url": "https://dealsmocktail.com/us/deal/levis-mens-501-original-fit-jeans-also-available-in-big-tall-black-shrink-to-fit-30w-x-34l_1795095088667",
-      "sheet_url": "https://dealsmocktail.com/us/deals",
-      "sources": [
-        {
-          "gid": "dealsmocktail:latest",
-          "tab": "Latest",
-          "price_text": "38.67",
-          "category": "Men’s Clothing",
-          "posted_at": "2026-11-19T08:31:28.694-05:00",
-          "expires_at": "2026-12-01T02:59:59.000-05:00",
-          "advertised_price": "84.95"
-        }
-      ],
-      "price_conflict": false,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
-      "id": "94d156917a3be35ac669e7d7",
-      "title": "JBL Vibe Beam 2 True Wireless Noise Cancelling Earbuds",
-      "retailer": "Walmart",
-      "price_cents": 3995,
-      "currency": "USD",
-      "coupon": null,
-      "notes": null,
-      "url": "https://dealsmocktail.com/us/deal/jbl-vibe-beam-2-true-wireless-noise-cancelling-earbuds_1795082903607",
-      "sheet_url": "https://dealsmocktail.com/us/deals?category=electronics",
-      "sources": [
-        {
-          "gid": "dealsmocktail:electronics",
-          "tab": "Electronics",
-          "price_text": "39.95",
-          "category": "Audio & Headphones",
-          "posted_at": "2026-11-19T05:08:45.986-05:00",
-          "expires_at": "2026-11-30T23:59:59.999-05:00",
-          "advertised_price": "64.95"
-        }
-      ],
-      "price_conflict": false,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
-      "id": "e2123b0de4febed40c627a17",
-      "title": "JBL Vibe Beam 2 True Wireless Noise Cancelling Earbuds",
-      "retailer": "Walmart",
-      "price_cents": 3995,
-      "currency": "USD",
-      "coupon": null,
-      "notes": null,
-      "url": "https://dealsmocktail.com/us/deal/jbl-vibe-beam-2-true-wireless-noise-cancelling-earbuds_1795077994665",
-      "sheet_url": "https://dealsmocktail.com/us/deals?category=electronics",
-      "sources": [
-        {
-          "gid": "dealsmocktail:electronics",
-          "tab": "Electronics",
-          "price_text": "39.95",
-          "category": "Audio & Headphones",
-          "posted_at": "2026-11-19T03:46:54.529-05:00",
-          "expires_at": "2026-11-30T23:59:59.999-05:00",
-          "advertised_price": "64.95"
-        }
-      ],
-      "price_conflict": false,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
-      "id": "6b61c0afc04eaeb2484678e0",
-      "title": "Little Tikes T-Rex Cozy Coupe – (Amazon Exclusive)",
-      "retailer": "Amazon",
-      "price_cents": 3999,
-      "currency": "USD",
-      "coupon": null,
-      "notes": null,
-      "url": "https://dealsmocktail.com/us/deal/little-tikes-t-rex-cozy-coupe-amazon-exclusive_1795095378669",
-      "sheet_url": "https://dealsmocktail.com/us/deals",
-      "sources": [
-        {
-          "gid": "dealsmocktail:latest",
-          "tab": "Latest",
-          "price_text": "39.99",
-          "category": "Kids Toys",
-          "posted_at": "2026-11-19T08:37:21.298-05:00",
-          "expires_at": "2026-11-30T23:59:59.999-05:00",
-          "advertised_price": "64.99"
-        }
-      ],
-      "price_conflict": false,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
       "id": "d5f17905fdf6a6900584ec0e",
       "title": "26-Piece Black Stainless Steel Knife Block Set with Built-In Sharpener",
       "retailer": "Walmart",
@@ -831,7 +1000,10 @@
       "currency": "USD",
       "coupon": null,
       "notes": null,
-      "url": "https://dealsmocktail.com/us/deal/26-piece-black-stainless-steel-knife-block-set-with-built-in-sharpener_1794991556281",
+      "url": "https://go.magik.ly/ml/4waxa/",
+      "source_url": "https://dealsmocktail.com/us/deal/26-piece-black-stainless-steel-knife-block-set-with-built-in-sharpener_1794991556281",
+      "retailer_url": "https://go.magik.ly/ml/4waxa/",
+      "link_type": "retailer_redirect",
       "sheet_url": "https://dealsmocktail.com/us/deals?category=home-kitchen",
       "sources": [
         {
@@ -859,24 +1031,27 @@
       }
     },
     {
-      "id": "90b05270ed7689e07025bdef",
-      "title": "DREO 1500W Portable Electric Space Heater with 60° Adjustable Tilt & Remote",
-      "retailer": "Walmart",
-      "price_cents": 4299,
+      "id": "1fb78a07f19b0ff474056f41",
+      "title": "Marshall Major V On-Ear Wireless Bluetooth Headphones - Black",
+      "retailer": "Amazon",
+      "price_cents": 4999,
       "currency": "USD",
       "coupon": null,
       "notes": null,
-      "url": "https://dealsmocktail.com/us/deal/dreo-1500w-portable-electric-space-heater-with-60-adjustable-tilt-remote_1794814571815",
-      "sheet_url": "https://dealsmocktail.com/us/deals?category=home-kitchen",
+      "url": "https://link.amazon/B03GIDSI6",
+      "source_url": "https://dealsmocktail.com/us/deal/marshall-major-v-on-ear-wireless-bluetooth-headphones-black_1772972191272-03152026",
+      "retailer_url": "https://link.amazon/B03GIDSI6",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://dealsmocktail.com/us/deals?category=electronics",
       "sources": [
         {
-          "gid": "dealsmocktail:home-kitchen",
-          "tab": "Home and Kitchen",
-          "price_text": "42.99",
-          "category": "Home Appliances",
-          "posted_at": "2026-11-16T02:36:42.543-05:00",
+          "gid": "dealsmocktail:electronics",
+          "tab": "Electronics",
+          "price_text": "49.99",
+          "category": "Audio & Headphones",
+          "posted_at": "2026-11-19T09:18:51.985-05:00",
           "expires_at": "2026-11-30T23:59:59.999-05:00",
-          "advertised_price": "73.99"
+          "advertised_price": "129.99"
         }
       ],
       "price_conflict": false,
@@ -894,22 +1069,63 @@
       }
     },
     {
-      "id": "283bd928ac4016d54388e8f6",
-      "title": "4K Solar Security Camera with Spotlight",
-      "retailer": "Walmart",
-      "price_cents": 4500,
+      "id": "524c0c387469512f5abb6dd9",
+      "title": "CINCOM Leg Massager with Heat and Compression, FSA - HSA | Foot and Leg Massager for Circulation and Pain Relief 3 Modes, 3 Intensities, and 3 Heat Levels Gifts for Women Men",
+      "retailer": "Amazon",
+      "price_cents": 5700,
       "currency": "USD",
       "coupon": null,
       "notes": null,
-      "url": "https://dealsmocktail.com/us/deal/4k-solar-security-camera-with-spotlight_1795075772705",
-      "sheet_url": "https://dealsmocktail.com/us/deals?category=electronics",
+      "url": "https://www.amazon.com/dp/B0D47122J9?tag=mmdealsusa-20&linkCode=ogi&th=1&psc=1",
+      "source_url": "https://dealsmocktail.com/us/deal/cincom-leg-massager-with-heat-and-compression-fsa-hsa-foot-and-leg-massager-for-circulation-and-pain_1795119188376",
+      "retailer_url": "https://www.amazon.com/dp/B0D47122J9?tag=mmdealsusa-20&linkCode=ogi&th=1&psc=1",
+      "link_type": "retailer",
+      "sheet_url": "https://dealsmocktail.com/us/deals",
       "sources": [
         {
-          "gid": "dealsmocktail:electronics",
-          "tab": "Electronics",
-          "price_text": "45",
-          "category": "Cameras",
-          "posted_at": "2026-11-19T03:10:14.142-05:00",
+          "gid": "dealsmocktail:latest",
+          "tab": "Latest",
+          "price_text": "57",
+          "category": "Yoga & Wellness",
+          "posted_at": "2026-11-19T15:16:09.075-05:00",
+          "expires_at": "2026-11-30T23:59:59.999-05:00",
+          "advertised_price": "169.98"
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
+      "id": "9cee796d75281ea682f8eb73",
+      "title": "CINCOM Leg Massager with Heat and Compression FSA - HSA, Blue | Air Compression Leg Massager for Circulation and Pain Relief 3 Modes 3 Intensities 3 Heat Levels Muscles Relaxation Gifts",
+      "retailer": "Amazon",
+      "price_cents": 5700,
+      "currency": "USD",
+      "coupon": null,
+      "notes": null,
+      "url": "https://www.amazon.com/dp/B0B2ZYS87G?tag=mmdealsusa-20&linkCode=ogi&th=1&psc=1",
+      "source_url": "https://dealsmocktail.com/us/deal/cincom-leg-massager-with-heat-and-compression-fsa-hsa-blue-air-compression-leg-massager-for-circulat_1795123829521",
+      "retailer_url": "https://www.amazon.com/dp/B0B2ZYS87G?tag=mmdealsusa-20&linkCode=ogi&th=1&psc=1",
+      "link_type": "retailer",
+      "sheet_url": "https://dealsmocktail.com/us/deals",
+      "sources": [
+        {
+          "gid": "dealsmocktail:latest",
+          "tab": "Latest",
+          "price_text": "57",
+          "category": "Yoga & Wellness",
+          "posted_at": "2026-11-19T16:33:16.843-05:00",
           "expires_at": "2026-11-30T23:59:59.999-05:00",
           "advertised_price": "169.99"
         }
@@ -929,68 +1145,27 @@
       }
     },
     {
-      "id": "1fb78a07f19b0ff474056f41",
-      "title": "Marshall Major V On-Ear Wireless Bluetooth Headphones - Black",
+      "id": "1cd048860199b50c957e7558",
+      "title": "The North Face Borealis Commuter Laptop Pack, Duck Grn/New Taupe Grn, OSFA | Water Repellent, Laptop Sleeve, Large Main Compartment",
       "retailer": "Amazon",
-      "price_cents": 4999,
+      "price_cents": 5750,
       "currency": "USD",
       "coupon": null,
       "notes": null,
-      "url": "https://dealsmocktail.com/us/deal/marshall-major-v-on-ear-wireless-bluetooth-headphones-black_1772972191272-03152026",
+      "url": "https://www.amazon.com/dp/B0D4NN78HN?tag=mmdealsusa-20&linkCode=ogi&th=1&psc=1",
+      "source_url": "https://dealsmocktail.com/us/deal/the-north-face-borealis-commuter-laptop-pack-duck-grnnew-taupe-grn-osfa-water-repellent-laptop-sleev_1795115657845",
+      "retailer_url": "https://www.amazon.com/dp/B0D4NN78HN?tag=mmdealsusa-20&linkCode=ogi&th=1&psc=1",
+      "link_type": "retailer",
       "sheet_url": "https://dealsmocktail.com/us/deals",
       "sources": [
         {
           "gid": "dealsmocktail:latest",
           "tab": "Latest",
-          "price_text": "49.99",
-          "category": "Audio & Headphones",
-          "posted_at": "2026-11-19T09:18:51.985-05:00",
+          "price_text": "57.5",
+          "category": "Luggage and Bags",
+          "posted_at": "2026-11-19T14:16:42.573-05:00",
           "expires_at": "2026-11-30T23:59:59.999-05:00",
-          "advertised_price": "129.99"
-        },
-        {
-          "gid": "dealsmocktail:electronics",
-          "tab": "Electronics",
-          "price_text": "49.99",
-          "category": "Audio & Headphones",
-          "posted_at": "2026-11-19T09:18:51.985-05:00",
-          "expires_at": "2026-11-30T23:59:59.999-05:00",
-          "advertised_price": "129.99"
-        }
-      ],
-      "price_conflict": false,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
-      "id": "1f80216092174ec050fed5cf",
-      "title": "MOOSOO 500W 45KPa Cordless Stick Vacuum Cleaner",
-      "retailer": "Walmart",
-      "price_cents": 5128,
-      "currency": "USD",
-      "coupon": null,
-      "notes": null,
-      "url": "https://dealsmocktail.com/us/deal/moosoo-500w-45kpa-cordless-stick-vacuum-cleaner_1794899806388",
-      "sheet_url": "https://dealsmocktail.com/us/deals?category=home-kitchen",
-      "sources": [
-        {
-          "gid": "dealsmocktail:home-kitchen",
-          "tab": "Home and Kitchen",
-          "price_text": "51.28",
-          "category": "Home Cleaning & Organization",
-          "posted_at": "2026-11-17T02:17:15.417-05:00",
-          "expires_at": "2026-11-30T23:59:59.999-05:00",
-          "advertised_price": "139.98"
+          "advertised_price": 115
         }
       ],
       "price_conflict": false,
@@ -1015,7 +1190,10 @@
       "currency": "USD",
       "coupon": null,
       "notes": null,
-      "url": "https://dealsmocktail.com/us/deal/deep-fryer-with-3-baskets-5-l-1700-w_1795075201976",
+      "url": "https://go.magik.ly/ml/4whsq/",
+      "source_url": "https://dealsmocktail.com/us/deal/deep-fryer-with-3-baskets-5-l-1700-w_1795075201976",
+      "retailer_url": "https://go.magik.ly/ml/4whsq/",
+      "link_type": "retailer_redirect",
       "sheet_url": "https://dealsmocktail.com/us/deals?category=home-kitchen",
       "sources": [
         {
@@ -1050,18 +1228,12 @@
       "currency": "USD",
       "coupon": null,
       "notes": null,
-      "url": "https://dealsmocktail.com/us/deal/amazon-echo-spot-great-for-nightstands-offices-and-kitchens-smart-alarm-clock-designed-for-alexa-bla_1795095111342",
-      "sheet_url": "https://dealsmocktail.com/us/deals",
+      "url": "https://link.amazon/B05gv16YA",
+      "source_url": "https://dealsmocktail.com/us/deal/amazon-echo-spot-great-for-nightstands-offices-and-kitchens-smart-alarm-clock-designed-for-alexa-bla_1795095111342",
+      "retailer_url": "https://link.amazon/B05gv16YA",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://dealsmocktail.com/us/deals?category=electronics",
       "sources": [
-        {
-          "gid": "dealsmocktail:latest",
-          "tab": "Latest",
-          "price_text": "59.99",
-          "category": "Smart Gadgets",
-          "posted_at": "2026-11-19T08:31:51.367-05:00",
-          "expires_at": "2026-12-01T02:59:59.000-05:00",
-          "advertised_price": "109.99"
-        },
         {
           "gid": "dealsmocktail:electronics",
           "tab": "Electronics",
@@ -1094,18 +1266,12 @@
       "currency": "USD",
       "coupon": null,
       "notes": null,
-      "url": "https://dealsmocktail.com/us/deal/nutribullet-pro-personal-blender-pulse-1200w-matte-black-n12-1001mk-1200w-blender-with-pulse-button_1795092497216",
-      "sheet_url": "https://dealsmocktail.com/us/deals",
+      "url": "https://link.amazon/B01nPpb6D",
+      "source_url": "https://dealsmocktail.com/us/deal/nutribullet-pro-personal-blender-pulse-1200w-matte-black-n12-1001mk-1200w-blender-with-pulse-button_1795092497216",
+      "retailer_url": "https://link.amazon/B01nPpb6D",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://dealsmocktail.com/us/deals?category=home-kitchen",
       "sources": [
-        {
-          "gid": "dealsmocktail:latest",
-          "tab": "Latest",
-          "price_text": "67.49",
-          "category": "Kitchen & Dining",
-          "posted_at": "2026-11-19T07:48:17.245-05:00",
-          "expires_at": "2026-11-30T23:59:59.999-05:00",
-          "advertised_price": "134.99"
-        },
         {
           "gid": "dealsmocktail:home-kitchen",
           "tab": "Home and Kitchen",
@@ -1138,7 +1304,10 @@
       "currency": "USD",
       "coupon": null,
       "notes": null,
-      "url": "https://dealsmocktail.com/us/deal/bella-pro-5-speed-centrifugal-digital-juice-extractor-stainless-steel_1794901068492",
+      "url": "https://go.magik.ly/ml/4w2ue/",
+      "source_url": "https://dealsmocktail.com/us/deal/bella-pro-5-speed-centrifugal-digital-juice-extractor-stainless-steel_1794901068492",
+      "retailer_url": "https://go.magik.ly/ml/4w2ue/",
+      "link_type": "retailer_redirect",
       "sheet_url": "https://dealsmocktail.com/us/deals?category=home-kitchen",
       "sources": [
         {
@@ -1173,7 +1342,10 @@
       "currency": "USD",
       "coupon": null,
       "notes": null,
-      "url": "https://dealsmocktail.com/us/deal/nutribullet-full-size-blender-combo-1200w-dark-gray-nbf50500-1200-watt-blender-for-smoothies-single_1794926760300",
+      "url": "https://www.amazon.com/dp/B0BRDJ28B7?tag=mmdealsusa-20&linkCode=ogi&th=1&psc=1",
+      "source_url": "https://dealsmocktail.com/us/deal/nutribullet-full-size-blender-combo-1200w-dark-gray-nbf50500-1200-watt-blender-for-smoothies-single_1794926760300",
+      "retailer_url": "https://www.amazon.com/dp/B0BRDJ28B7?tag=mmdealsusa-20&linkCode=ogi&th=1&psc=1",
+      "link_type": "retailer",
       "sheet_url": "https://dealsmocktail.com/us/deals?category=home-kitchen",
       "sources": [
         {
@@ -1208,18 +1380,12 @@
       "currency": "USD",
       "coupon": null,
       "notes": null,
-      "url": "https://dealsmocktail.com/us/deal/bose-soundlink-micro-2nd-gen-portable-bluetooth-speaker-with-waterproof-dustproof-design_1789644452694",
-      "sheet_url": "https://dealsmocktail.com/us/deals",
+      "url": "https://go.magik.ly/ml/4wm8b/",
+      "source_url": "https://dealsmocktail.com/us/deal/bose-soundlink-micro-2nd-gen-portable-bluetooth-speaker-with-waterproof-dustproof-design_1789644452694",
+      "retailer_url": "https://go.magik.ly/ml/4wm8b/",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://dealsmocktail.com/us/deals?category=electronics",
       "sources": [
-        {
-          "gid": "dealsmocktail:latest",
-          "tab": "Latest",
-          "price_text": "79",
-          "category": "Audio & Headphones",
-          "posted_at": "2026-11-19T06:07:09.350-05:00",
-          "expires_at": "2026-11-30T23:59:59.999-05:00",
-          "advertised_price": 129
-        },
         {
           "gid": "dealsmocktail:electronics",
           "tab": "Electronics",
@@ -1252,7 +1418,10 @@
       "currency": "USD",
       "coupon": null,
       "notes": null,
-      "url": "https://dealsmocktail.com/us/deal/rspgame-red-racing-ergonomic-gaming-chair_1794900273947",
+      "url": "https://go.magik.ly/ml/4w2u5/",
+      "source_url": "https://dealsmocktail.com/us/deal/rspgame-red-racing-ergonomic-gaming-chair_1794900273947",
+      "retailer_url": "https://go.magik.ly/ml/4w2u5/",
+      "link_type": "retailer_redirect",
       "sheet_url": "https://dealsmocktail.com/us/deals?category=home-kitchen",
       "sources": [
         {
@@ -1280,41 +1449,6 @@
       }
     },
     {
-      "id": "300c0553b277843ac2a3b497",
-      "title": "Beats Studio Buds+ Noise Cancelling Earbuds",
-      "retailer": "Amazon",
-      "price_cents": 8995,
-      "currency": "USD",
-      "coupon": null,
-      "notes": null,
-      "url": "https://dealsmocktail.com/us/deal/beats-studio-buds-noise-cancelling-earbuds_1782064961595",
-      "sheet_url": "https://dealsmocktail.com/us/deals?category=electronics",
-      "sources": [
-        {
-          "gid": "dealsmocktail:electronics",
-          "tab": "Electronics",
-          "price_text": "89.95",
-          "category": "Audio & Headphones",
-          "posted_at": "2026-11-19T05:03:02.506-05:00",
-          "expires_at": "2026-11-30T23:59:59.999-05:00",
-          "advertised_price": "169.95"
-        }
-      ],
-      "price_conflict": false,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
       "id": "55163d82b50b451724e2ca64",
       "title": "BLACK+DECKER 0.9 Cu. Ft. Countertop Microwave Oven (900W)",
       "retailer": "Walmart",
@@ -1322,7 +1456,10 @@
       "currency": "USD",
       "coupon": null,
       "notes": null,
-      "url": "https://dealsmocktail.com/us/deal/blackdecker-09-cu-ft-countertop-microwave-oven-900w_1794990306873",
+      "url": "https://go.magik.ly/ml/4wate/",
+      "source_url": "https://dealsmocktail.com/us/deal/blackdecker-09-cu-ft-countertop-microwave-oven-900w_1794990306873",
+      "retailer_url": "https://go.magik.ly/ml/4wate/",
+      "link_type": "retailer_redirect",
       "sheet_url": "https://dealsmocktail.com/us/deals?category=home-kitchen",
       "sources": [
         {
@@ -1350,6 +1487,53 @@
       }
     },
     {
+      "id": "6ef1a22c3c633b9ea0a95c8b",
+      "title": "Skullcandy Crusher Evo Wireless Headphones",
+      "retailer": "Amazon",
+      "price_cents": 8999,
+      "currency": "USD",
+      "coupon": null,
+      "notes": null,
+      "url": "https://link.amazon/B0aIp79Mi",
+      "source_url": "https://dealsmocktail.com/us/deal/skullcandy-crusher-evo-wireless-headphones_1775236619046",
+      "retailer_url": "https://link.amazon/B0aIp79Mi",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://dealsmocktail.com/us/deals",
+      "sources": [
+        {
+          "gid": "dealsmocktail:latest",
+          "tab": "Latest",
+          "price_text": "89.99",
+          "category": "Audio & Headphones",
+          "posted_at": "2026-11-19T13:58:34.106-05:00",
+          "expires_at": "2026-11-30T23:59:59.999-05:00",
+          "advertised_price": "209.99"
+        },
+        {
+          "gid": "dealsmocktail:electronics",
+          "tab": "Electronics",
+          "price_text": "89.99",
+          "category": "Audio & Headphones",
+          "posted_at": "2026-11-19T13:58:34.106-05:00",
+          "expires_at": "2026-11-30T23:59:59.999-05:00",
+          "advertised_price": "209.99"
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
       "id": "3b729bc23fc6fed9841ad241",
       "title": "Anker Laptop Power Bank (25,000mAh)",
       "retailer": "Walmart",
@@ -1357,18 +1541,12 @@
       "currency": "USD",
       "coupon": null,
       "notes": null,
-      "url": "https://dealsmocktail.com/us/deal/anker-laptop-power-bank-25000mah_1795085353587",
-      "sheet_url": "https://dealsmocktail.com/us/deals",
+      "url": "https://go.magik.ly/ml/4wm48/",
+      "source_url": "https://dealsmocktail.com/us/deal/anker-laptop-power-bank-25000mah_1795085353587",
+      "retailer_url": "https://go.magik.ly/ml/4wm48/",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://dealsmocktail.com/us/deals?category=electronics",
       "sources": [
-        {
-          "gid": "dealsmocktail:latest",
-          "tab": "Latest",
-          "price_text": "91.99",
-          "category": "Audio & Headphones",
-          "posted_at": "2026-11-19T05:49:39.876-05:00",
-          "expires_at": "2026-11-30T23:59:59.999-05:00",
-          "advertised_price": "179.99"
-        },
         {
           "gid": "dealsmocktail:electronics",
           "tab": "Electronics",
@@ -1401,7 +1579,10 @@
       "currency": "USD",
       "coupon": null,
       "notes": null,
-      "url": "https://dealsmocktail.com/us/deal/cebory-3-in-1-stand-mixer-65-qt_1792830629538",
+      "url": "https://go.magik.ly/ml/4ga0k/",
+      "source_url": "https://dealsmocktail.com/us/deal/cebory-3-in-1-stand-mixer-65-qt_1792830629538",
+      "retailer_url": "https://go.magik.ly/ml/4ga0k/",
+      "link_type": "retailer_redirect",
       "sheet_url": "https://dealsmocktail.com/us/deals?category=home-kitchen",
       "sources": [
         {
@@ -1429,24 +1610,27 @@
       }
     },
     {
-      "id": "1c9b808b75b85996306c38d5",
-      "title": "Beats Pill Bluetooth Speaker - 24H Battery, Water Resistant - Matte Black | Bluetooth Speaker, Apple & Android Compatible, Portable Design, Powerful Sound for Home, Outdoor and Travel Use",
+      "id": "3b63f06dbf2114fe06b66ee4",
+      "title": "Azzaro The Most Wanted Eau de Parfum Intense Men's Cologne - 3.4 Fl Oz | Date Night Fragrance with Cardamom, Toffee & Woody Amber - Long Lasting Projection - Sexy Mens Scent Best for Everyday",
       "retailer": "Amazon",
-      "price_cents": 9495,
+      "price_cents": 9450,
       "currency": "USD",
       "coupon": null,
       "notes": null,
-      "url": "https://dealsmocktail.com/us/deal/beats-pill-bluetooth-speaker-24h-battery-water-resistant-matte-black-bluetooth-speaker-apple-android_1795082957557",
-      "sheet_url": "https://dealsmocktail.com/us/deals?category=electronics",
+      "url": "https://www.amazon.com/dp/B08ZFKB8ZK?tag=mmdealsusa-20&linkCode=ogi&th=1&psc=1",
+      "source_url": "https://dealsmocktail.com/us/deal/azzaro-the-most-wanted-eau-de-parfum-intense-mens-cologne-34-fl-oz-date-night-fragrance-with-cardamo_1795125837446",
+      "retailer_url": "https://www.amazon.com/dp/B08ZFKB8ZK?tag=mmdealsusa-20&linkCode=ogi&th=1&psc=1",
+      "link_type": "retailer",
+      "sheet_url": "https://dealsmocktail.com/us/deals",
       "sources": [
         {
-          "gid": "dealsmocktail:electronics",
-          "tab": "Electronics",
-          "price_text": "94.95",
-          "category": "Audio & Headphones",
-          "posted_at": "2026-11-19T05:09:56.569-05:00",
-          "expires_at": "2026-11-26T05:09:17.558-05:00",
-          "advertised_price": "149.95"
+          "gid": "dealsmocktail:latest",
+          "tab": "Latest",
+          "price_text": "94.5",
+          "category": "Personal Hygiene",
+          "posted_at": "2026-11-19T17:05:04.822-05:00",
+          "expires_at": "2026-11-30T23:59:59.999-05:00",
+          "advertised_price": 135
         }
       ],
       "price_conflict": false,
@@ -1471,61 +1655,20 @@
       "currency": "USD",
       "coupon": null,
       "notes": null,
-      "url": "https://dealsmocktail.com/us/deal/bose-soundlink-flex-2nd-gen-portable-bluetooth-speaker_1795085629254",
-      "sheet_url": "https://dealsmocktail.com/us/deals",
-      "sources": [
-        {
-          "gid": "dealsmocktail:latest",
-          "tab": "Latest",
-          "price_text": "99",
-          "category": "Audio & Headphones",
-          "posted_at": "2026-11-19T05:54:12.948-05:00",
-          "expires_at": "2026-11-30T23:59:59.999-05:00",
-          "advertised_price": 159
-        },
-        {
-          "gid": "dealsmocktail:electronics",
-          "tab": "Electronics",
-          "price_text": "99",
-          "category": "Audio & Headphones",
-          "posted_at": "2026-11-19T05:54:12.948-05:00",
-          "expires_at": "2026-11-30T23:59:59.999-05:00",
-          "advertised_price": 159
-        }
-      ],
-      "price_conflict": false,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
-      "id": "c44dccfdab293124da252739",
-      "title": "Beats Solo 4 Wireless On-Ear Bluetooth Headphones (Black & Gold)",
-      "retailer": "Amazon",
-      "price_cents": 9995,
-      "currency": "USD",
-      "coupon": null,
-      "notes": null,
-      "url": "https://dealsmocktail.com/us/deal/beats-solo-4-wireless-on-ear-bluetooth-headphones-black-gold_1774441215989",
+      "url": "https://go.magik.ly/ml/4wm4h/",
+      "source_url": "https://dealsmocktail.com/us/deal/bose-soundlink-flex-2nd-gen-portable-bluetooth-speaker_1795085629254",
+      "retailer_url": "https://go.magik.ly/ml/4wm4h/",
+      "link_type": "retailer_redirect",
       "sheet_url": "https://dealsmocktail.com/us/deals?category=electronics",
       "sources": [
         {
           "gid": "dealsmocktail:electronics",
           "tab": "Electronics",
-          "price_text": "99.95",
+          "price_text": "99",
           "category": "Audio & Headphones",
-          "posted_at": "2026-11-19T05:07:58.326-05:00",
+          "posted_at": "2026-11-19T05:54:12.948-05:00",
           "expires_at": "2026-11-30T23:59:59.999-05:00",
-          "advertised_price": "199.95"
+          "advertised_price": 159
         }
       ],
       "price_conflict": false,
@@ -1550,18 +1693,12 @@
       "currency": "USD",
       "coupon": null,
       "notes": null,
-      "url": "https://dealsmocktail.com/us/deal/beats-solo-4-on-ear-headphones-50-hours-battery-life-matte-black-rich-bass-forward-sound-quality-spa_1795095097333",
-      "sheet_url": "https://dealsmocktail.com/us/deals",
+      "url": "https://www.amazon.com/dp/B0CZPLV566?tag=mmdealsusa.agent-20&linkCode=ogi&th=1&psc=1",
+      "source_url": "https://dealsmocktail.com/us/deal/beats-solo-4-on-ear-headphones-50-hours-battery-life-matte-black-rich-bass-forward-sound-quality-spa_1795095097333",
+      "retailer_url": "https://www.amazon.com/dp/B0CZPLV566?tag=mmdealsusa.agent-20&linkCode=ogi&th=1&psc=1",
+      "link_type": "retailer",
+      "sheet_url": "https://dealsmocktail.com/us/deals?category=electronics",
       "sources": [
-        {
-          "gid": "dealsmocktail:latest",
-          "tab": "Latest",
-          "price_text": "99.95",
-          "category": "Audio & Headphones",
-          "posted_at": "2026-11-19T08:31:37.357-05:00",
-          "expires_at": "2026-12-06T02:59:59.000-05:00",
-          "advertised_price": "199.95"
-        },
         {
           "gid": "dealsmocktail:electronics",
           "tab": "Electronics",
@@ -1594,7 +1731,10 @@
       "currency": "USD",
       "coupon": null,
       "notes": null,
-      "url": "https://dealsmocktail.com/us/deal/5g-wifi-bluetooth-native-1080p-projector_1795075002465",
+      "url": "https://go.magik.ly/ml/4whs5/",
+      "source_url": "https://dealsmocktail.com/us/deal/5g-wifi-bluetooth-native-1080p-projector_1795075002465",
+      "retailer_url": "https://go.magik.ly/ml/4whs5/",
+      "link_type": "retailer_redirect",
       "sheet_url": "https://dealsmocktail.com/us/deals?category=home-kitchen",
       "sources": [
         {
@@ -1629,7 +1769,10 @@
       "currency": "USD",
       "coupon": null,
       "notes": null,
-      "url": "https://dealsmocktail.com/us/deal/snowyermine-nugget-ice-maker-countertop_1795075494889",
+      "url": "https://go.magik.ly/ml/4wht8/",
+      "source_url": "https://dealsmocktail.com/us/deal/snowyermine-nugget-ice-maker-countertop_1795075494889",
+      "retailer_url": "https://go.magik.ly/ml/4wht8/",
+      "link_type": "retailer_redirect",
       "sheet_url": "https://dealsmocktail.com/us/deals?category=home-kitchen",
       "sources": [
         {
@@ -1657,41 +1800,6 @@
       }
     },
     {
-      "id": "d910da05fcbea73926cf9423",
-      "title": "Beats Studio Pro Premium Wireless Over-Ear Headphones- Up to 40-Hour Battery Life, Active Noise Cancelling, Great for Travel & Commuting, USB-C Lossless Audio - Amazon Exclusive Khaki",
-      "retailer": "Amazon",
-      "price_cents": 13995,
-      "currency": "USD",
-      "coupon": null,
-      "notes": null,
-      "url": "https://dealsmocktail.com/us/deal/beats-studio-pro-premium-wireless-over-ear-headphones-up-to-40-hour-battery-life-active-noise-cancel_1795081969930",
-      "sheet_url": "https://dealsmocktail.com/us/deals?category=electronics",
-      "sources": [
-        {
-          "gid": "dealsmocktail:electronics",
-          "tab": "Electronics",
-          "price_text": "139.95",
-          "category": "Audio & Headphones",
-          "posted_at": "2026-11-19T04:53:52.993-05:00",
-          "expires_at": "2026-11-30T23:59:59.999-05:00",
-          "advertised_price": "299.99"
-        }
-      ],
-      "price_conflict": false,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
       "id": "eab1951191a26e36008eb564",
       "title": "Bose - QuietComfort Wireless Noise Cancelling Over-the-Ear Bluetooth Headphones",
       "retailer": "Best Buy",
@@ -1699,7 +1807,10 @@
       "currency": "USD",
       "coupon": null,
       "notes": null,
-      "url": "https://dealsmocktail.com/us/deal/bose-quietcomfort-wireless-noise-cancelling-over-the-ear-bluetooth-headphones_1795084576638",
+      "url": "https://go.magik.ly/ml/4wlza/",
+      "source_url": "https://dealsmocktail.com/us/deal/bose-quietcomfort-wireless-noise-cancelling-over-the-ear-bluetooth-headphones_1795084576638",
+      "retailer_url": "https://go.magik.ly/ml/4wlza/",
+      "link_type": "retailer_redirect",
       "sheet_url": "https://dealsmocktail.com/us/deals?category=electronics",
       "sources": [
         {
@@ -1727,94 +1838,74 @@
       }
     },
     {
-      "id": "9ea418c029d554c8f3ba384b",
-      "title": "Sony WH-1000XM5 Wireless Noise Cancelling Over-the-Ear Headphones",
+      "id": "c0e27a6d47041b078f6cd76f",
+      "title": "Acer - Nitro Gaming 31.5\" Curved WQHD 180Hz 1ms FreeSync Premium Gaming Monitor",
       "retailer": "Best Buy",
-      "price_cents": 16999,
+      "price_cents": 17999,
       "currency": "USD",
       "coupon": null,
       "notes": null,
-      "url": "https://dealsmocktail.com/us/deal/sony-wh-1000xm5-wireless-noise-cancelling-over-the-ear-headphones_1795083505182",
-      "sheet_url": "https://dealsmocktail.com/us/deals?category=electronics",
-      "sources": [
-        {
-          "gid": "dealsmocktail:electronics",
-          "tab": "Electronics",
-          "price_text": "169.99",
-          "category": "Audio & Headphones",
-          "posted_at": "2026-11-19T05:18:50.213-05:00",
-          "expires_at": "2026-11-30T23:59:59.999-05:00",
-          "advertised_price": 398
-        }
-      ],
-      "price_conflict": false,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
-      "id": "88b4d302ed5aedb1d4812bf3",
-      "title": "Apple AirPods Pro 3",
-      "retailer": "Walmart",
-      "price_cents": 17900,
-      "currency": "USD",
-      "coupon": null,
-      "notes": null,
-      "url": "https://dealsmocktail.com/us/deal/apple-airpods-pro-3_1795077442386",
-      "sheet_url": "https://dealsmocktail.com/us/deals?category=electronics",
-      "sources": [
-        {
-          "gid": "dealsmocktail:electronics",
-          "tab": "Electronics",
-          "price_text": "179",
-          "category": "Audio & Headphones",
-          "posted_at": "2026-11-19T03:38:13.517-05:00",
-          "expires_at": "2026-11-30T23:59:59.999-05:00",
-          "advertised_price": 249
-        }
-      ],
-      "price_conflict": false,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
-      "id": "7c098e83dc15b89bf44bd5a7",
-      "title": "Theragun Therabody Prime 6th Gen Deep Tissue Massage Gun | Navy | Powerful Percussive Massage With 5 Speeds & A Rugged, Durable Design to Relieve Muscle Pain & Speed Up Recovery",
-      "retailer": "Amazon",
-      "price_cents": 18499,
-      "currency": "USD",
-      "coupon": null,
-      "notes": null,
-      "url": "https://dealsmocktail.com/us/deal/theragun-therabody-prime-6th-gen-deep-tissue-massage-gun-navy-powerful-percussive-massage-with-5-spe_1795095106408",
+      "url": "https://go.magik.ly/ml/4wqvx/",
+      "source_url": "https://dealsmocktail.com/us/deal/acer-nitro-gaming-315-curved-wqhd-180hz-1ms-freesync-premium-gaming-monitor_1795113819974",
+      "retailer_url": "https://go.magik.ly/ml/4wqvx/",
+      "link_type": "retailer_redirect",
       "sheet_url": "https://dealsmocktail.com/us/deals",
       "sources": [
         {
           "gid": "dealsmocktail:latest",
           "tab": "Latest",
-          "price_text": "184.99",
-          "category": "Health Devices",
-          "posted_at": "2026-11-19T08:31:46.427-05:00",
+          "price_text": "179.99",
+          "category": "Computer & Accessories",
+          "posted_at": "2026-11-19T13:44:13.107-05:00",
           "expires_at": "2026-11-30T23:59:59.999-05:00",
-          "advertised_price": "329.99"
+          "advertised_price": "459.99"
+        },
+        {
+          "gid": "dealsmocktail:electronics",
+          "tab": "Electronics",
+          "price_text": "179.99",
+          "category": "Computer & Accessories",
+          "posted_at": "2026-11-19T13:44:13.107-05:00",
+          "expires_at": "2026-11-30T23:59:59.999-05:00",
+          "advertised_price": "459.99"
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
+      "id": "e3aa876cebd829d1f5cfdeda",
+      "title": "ToryBurch ROBINSON TOP HANDLE CROSSBODY",
+      "retailer": "Tory Burch",
+      "price_cents": 18830,
+      "currency": "USD",
+      "coupon": null,
+      "notes": null,
+      "url": "https://go.magik.ly/ml/4wp34/",
+      "source_url": "https://dealsmocktail.com/us/deal/toryburch-robinson-top-handle-crossbody_1795107224249",
+      "retailer_url": "https://go.magik.ly/ml/4wp34/",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://dealsmocktail.com/us/deals",
+      "sources": [
+        {
+          "gid": "dealsmocktail:latest",
+          "tab": "Latest",
+          "price_text": "188.3",
+          "category": "Luggage and Bags",
+          "posted_at": "2026-11-19T11:54:39.676-05:00",
+          "expires_at": "2026-11-30T23:59:59.999-05:00",
+          "advertised_price": 340
         }
       ],
       "price_conflict": false,
@@ -1839,7 +1930,10 @@
       "currency": "USD",
       "coupon": null,
       "notes": null,
-      "url": "https://dealsmocktail.com/us/deal/bose-quietcomfort-headphones-2nd-gen_1793468659021",
+      "url": "https://go.magik.ly/ml/4wm34/",
+      "source_url": "https://dealsmocktail.com/us/deal/bose-quietcomfort-headphones-2nd-gen_1793468659021",
+      "retailer_url": "https://go.magik.ly/ml/4wm34/",
+      "link_type": "retailer_redirect",
       "sheet_url": "https://dealsmocktail.com/us/deals?category=electronics",
       "sources": [
         {
@@ -1874,18 +1968,12 @@
       "currency": "USD",
       "coupon": null,
       "notes": null,
-      "url": "https://dealsmocktail.com/us/deal/samsung-galaxy-tab-a11-6gb-ram-128gb-storage-expandable-storage-gray-optimized-performance-long-last_1795092506907",
-      "sheet_url": "https://dealsmocktail.com/us/deals",
+      "url": "https://link.amazon/B0a6zcg5R",
+      "source_url": "https://dealsmocktail.com/us/deal/samsung-galaxy-tab-a11-6gb-ram-128gb-storage-expandable-storage-gray-optimized-performance-long-last_1795092506907",
+      "retailer_url": "https://link.amazon/B0a6zcg5R",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://dealsmocktail.com/us/deals?category=electronics",
       "sources": [
-        {
-          "gid": "dealsmocktail:latest",
-          "tab": "Latest",
-          "price_text": "199.99",
-          "category": "Mobiles, Tablets & Accessories",
-          "posted_at": "2026-11-19T07:48:26.939-05:00",
-          "expires_at": "2026-12-30T23:59:59.999-05:00",
-          "advertised_price": "299.99"
-        },
         {
           "gid": "dealsmocktail:electronics",
           "tab": "Electronics",
@@ -1911,59 +1999,27 @@
       }
     },
     {
-      "id": "c9e4ce7bb0128c01e20b6721",
-      "title": "Shark NeverChange Detect iQ with BreatheClear Air Purifier, HP162 | For Living Room, Bedroom, Kitchen, Motion Sensing, HEPA-Exceeding in All Modes, No Filter Changes up to 6 Years",
-      "retailer": "Amazon",
-      "price_cents": 19999,
+      "id": "68a58f525a53fad1748a180e",
+      "title": "Tory Burch KIRA DIAMOND QUILT CAMERA BAG",
+      "retailer": "Tory Burch",
+      "price_cents": 20930,
       "currency": "USD",
       "coupon": null,
       "notes": null,
-      "url": "https://dealsmocktail.com/us/deal/shark-neverchange-detect-iq-with-breatheclear-air-purifier-hp162-for-living-room-bedroom-kitchen-mot_1794757211048",
-      "sheet_url": "https://dealsmocktail.com/us/deals?category=home-kitchen",
-      "sources": [
-        {
-          "gid": "dealsmocktail:home-kitchen",
-          "tab": "Home and Kitchen",
-          "price_text": "199.99",
-          "category": "Home Improvement",
-          "posted_at": "2026-11-15T10:41:52.865-05:00",
-          "expires_at": "2026-11-22T10:40:11.048-05:00",
-          "advertised_price": "329.99"
-        }
-      ],
-      "price_conflict": false,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
-      "id": "e261398118438723212ed567",
-      "title": "Nex Playground - The Active Play System for Kids & Families Where Indoor Physical Activity Meets Interactive Family Fun and is Great for Gaming Nights, Parties and Playdates",
-      "retailer": "Amazon",
-      "price_cents": 20900,
-      "currency": "USD",
-      "coupon": null,
-      "notes": null,
-      "url": "https://dealsmocktail.com/us/deal/nex-playground-the-active-play-system-for-kids-families-where-indoor-physical-activity-meets-interac_1795096057204",
+      "url": "https://go.magik.ly/ml/4wpt2/",
+      "source_url": "https://dealsmocktail.com/us/deal/tory-burch-kira-diamond-quilt-camera-bag_1795108269137",
+      "retailer_url": "https://go.magik.ly/ml/4wpt2/",
+      "link_type": "retailer_redirect",
       "sheet_url": "https://dealsmocktail.com/us/deals",
       "sources": [
         {
           "gid": "dealsmocktail:latest",
           "tab": "Latest",
-          "price_text": "209",
-          "category": "Gaming",
-          "posted_at": "2026-11-19T08:48:32.229-05:00",
+          "price_text": "209.3",
+          "category": "Luggage and Bags",
+          "posted_at": "2026-11-19T12:12:07.095-05:00",
           "expires_at": "2026-11-30T23:59:59.999-05:00",
-          "advertised_price": 299
+          "advertised_price": 395
         }
       ],
       "price_conflict": false,
@@ -1988,18 +2044,12 @@
       "currency": "USD",
       "coupon": null,
       "notes": null,
-      "url": "https://dealsmocktail.com/us/deal/bose-quietcomfort-ultra-2nd-gen-true-wireless-earbuds-black_1780156924610",
-      "sheet_url": "https://dealsmocktail.com/us/deals",
+      "url": "https://go.magik.ly/ml/4wm3b/",
+      "source_url": "https://dealsmocktail.com/us/deal/bose-quietcomfort-ultra-2nd-gen-true-wireless-earbuds-black_1780156924610",
+      "retailer_url": "https://go.magik.ly/ml/4wm3b/",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://dealsmocktail.com/us/deals?category=electronics",
       "sources": [
-        {
-          "gid": "dealsmocktail:latest",
-          "tab": "Latest",
-          "price_text": "229",
-          "category": "Audio & Headphones",
-          "posted_at": "2026-11-19T05:45:43.458-05:00",
-          "expires_at": "2026-11-30T23:59:59.999-05:00",
-          "advertised_price": 299
-        },
         {
           "gid": "dealsmocktail:electronics",
           "tab": "Electronics",
@@ -2032,61 +2082,20 @@
       "currency": "USD",
       "coupon": null,
       "notes": null,
-      "url": "https://dealsmocktail.com/us/deal/bose-soundlink-max-se-portable-bluetooth-speaker_1795085837184",
-      "sheet_url": "https://dealsmocktail.com/us/deals",
-      "sources": [
-        {
-          "gid": "dealsmocktail:latest",
-          "tab": "Latest",
-          "price_text": "229",
-          "category": "Audio & Headphones",
-          "posted_at": "2026-11-19T05:57:48.501-05:00",
-          "expires_at": "2026-11-30T23:59:59.999-05:00",
-          "advertised_price": 349
-        },
-        {
-          "gid": "dealsmocktail:electronics",
-          "tab": "Electronics",
-          "price_text": "229",
-          "category": "Audio & Headphones",
-          "posted_at": "2026-11-19T05:57:48.501-05:00",
-          "expires_at": "2026-11-30T23:59:59.999-05:00",
-          "advertised_price": 349
-        }
-      ],
-      "price_conflict": false,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
-      "id": "9867a87bfd446bd244eeb819",
-      "title": "Beats 360 Wireless Over-Ear Headphones – Black with Black Knit Cushions | High-Fidelity Noise-Cancelling Headphones with Interchangeable Knit Cushions, Sweat & Water Resistance, Incredible Comfort",
-      "retailer": "Amazon",
-      "price_cents": 24900,
-      "currency": "USD",
-      "coupon": null,
-      "notes": null,
-      "url": "https://dealsmocktail.com/us/deal/beats-360-wireless-over-ear-headphones-black-with-black-knit-cushions-high-fidelity-noise-cancelling_1795082249154",
+      "url": "https://go.magik.ly/ml/4wm5k/",
+      "source_url": "https://dealsmocktail.com/us/deal/bose-soundlink-max-se-portable-bluetooth-speaker_1795085837184",
+      "retailer_url": "https://go.magik.ly/ml/4wm5k/",
+      "link_type": "retailer_redirect",
       "sheet_url": "https://dealsmocktail.com/us/deals?category=electronics",
       "sources": [
         {
           "gid": "dealsmocktail:electronics",
           "tab": "Electronics",
-          "price_text": "249",
+          "price_text": "229",
           "category": "Audio & Headphones",
-          "posted_at": "2026-11-19T04:58:13.755-05:00",
+          "posted_at": "2026-11-19T05:57:48.501-05:00",
           "expires_at": "2026-11-30T23:59:59.999-05:00",
-          "advertised_price": "349.99"
+          "advertised_price": 349
         }
       ],
       "price_conflict": false,
@@ -2111,7 +2120,10 @@
       "currency": "USD",
       "coupon": null,
       "notes": null,
-      "url": "https://dealsmocktail.com/us/deal/ninja-prestige-smart-xl-air-fryer-countertop-oven-pro-cook-stainless-steel_1794996736971",
+      "url": "https://go.magik.ly/ml/4wbin/",
+      "source_url": "https://dealsmocktail.com/us/deal/ninja-prestige-smart-xl-air-fryer-countertop-oven-pro-cook-stainless-steel_1794996736971",
+      "retailer_url": "https://go.magik.ly/ml/4wbin/",
+      "link_type": "retailer_redirect",
       "sheet_url": "https://dealsmocktail.com/us/deals?category=home-kitchen",
       "sources": [
         {
@@ -2139,24 +2151,27 @@
       }
     },
     {
-      "id": "87e041088195049893269e68",
-      "title": "Pots and Pans Set Hybrid Stainless Steel, 17PC Nonstick Cookware Set | Tri-Ply w/Frying pan, Dishwasher & Oven Safe, PFOA-Free, Metal Utensil Safe, Suitable for All Cooktops",
-      "retailer": "Amazon",
-      "price_cents": 25999,
+      "id": "afadcc2d05c44974a9a58c9c",
+      "title": "Tory Burch LEATHER CONVERTIBLE CROSSBODY",
+      "retailer": "Tory Burch",
+      "price_cents": 26530,
       "currency": "USD",
       "coupon": null,
       "notes": null,
-      "url": "https://dealsmocktail.com/us/deal/pots-and-pans-set-hybrid-stainless-steel-17pc-nonstick-cookware-set-tri-ply-wfrying-pan-dishwasher-o_1794771671181",
-      "sheet_url": "https://dealsmocktail.com/us/deals?category=home-kitchen",
+      "url": "https://go.magik.ly/ml/4wq4s/",
+      "source_url": "https://dealsmocktail.com/us/deal/tory-burch-leather-convertible-crossbody_1795109356227",
+      "retailer_url": "https://go.magik.ly/ml/4wq4s/",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://dealsmocktail.com/us/deals",
       "sources": [
         {
-          "gid": "dealsmocktail:home-kitchen",
-          "tab": "Home and Kitchen",
-          "price_text": "259.99",
-          "category": "Kitchen & Dining",
-          "posted_at": "2026-11-15T14:48:04.838-05:00",
+          "gid": "dealsmocktail:latest",
+          "tab": "Latest",
+          "price_text": "265.3",
+          "category": "Luggage and Bags",
+          "posted_at": "2026-11-19T12:30:14.906-05:00",
           "expires_at": "2026-11-30T23:59:59.999-05:00",
-          "advertised_price": 0
+          "advertised_price": 575
         }
       ],
       "price_conflict": false,
@@ -2181,18 +2196,12 @@
       "currency": "USD",
       "coupon": null,
       "notes": null,
-      "url": "https://dealsmocktail.com/us/deal/bose-soundlink-max-portable-bluetooth-speaker-with-big-stereo-sound-deep-bass_1795086208021",
-      "sheet_url": "https://dealsmocktail.com/us/deals",
+      "url": "https://go.magik.ly/ml/4wm7w/",
+      "source_url": "https://dealsmocktail.com/us/deal/bose-soundlink-max-portable-bluetooth-speaker-with-big-stereo-sound-deep-bass_1795086208021",
+      "retailer_url": "https://go.magik.ly/ml/4wm7w/",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://dealsmocktail.com/us/deals?category=electronics",
       "sources": [
-        {
-          "gid": "dealsmocktail:latest",
-          "tab": "Latest",
-          "price_text": "279",
-          "category": "Audio & Headphones",
-          "posted_at": "2026-11-19T06:04:00.058-05:00",
-          "expires_at": "2026-11-30T23:59:59.999-05:00",
-          "advertised_price": 399
-        },
         {
           "gid": "dealsmocktail:electronics",
           "tab": "Electronics",
@@ -2218,6 +2227,53 @@
       }
     },
     {
+      "id": "b608b114640441b4a01364c2",
+      "title": "HexClad Hybrid Nonstick 6 Pc Pot Set & Trivets, 2, 3, and 8-Qt Pots & Lids | Stay-Cool Handles, Dishwasher and Oven Safe, Compatible with All Cooktops, Induction REady",
+      "retailer": "Amazon",
+      "price_cents": 29900,
+      "currency": "USD",
+      "coupon": null,
+      "notes": null,
+      "url": "https://www.amazon.com/dp/B0CSF1J62Z?tag=mmdealsusa-20&linkCode=ogi&th=1&psc=1",
+      "source_url": "https://dealsmocktail.com/us/deal/hexclad-hybrid-nonstick-6-pc-pot-set-trivets-2-3-and-8-qt-pots-lids-stay-cool-handles-dishwasher-and_1795115092459",
+      "retailer_url": "https://www.amazon.com/dp/B0CSF1J62Z?tag=mmdealsusa-20&linkCode=ogi&th=1&psc=1",
+      "link_type": "retailer",
+      "sheet_url": "https://dealsmocktail.com/us/deals",
+      "sources": [
+        {
+          "gid": "dealsmocktail:latest",
+          "tab": "Latest",
+          "price_text": "299",
+          "category": "Kitchen & Dining",
+          "posted_at": "2026-11-19T14:05:55.287-05:00",
+          "expires_at": "2026-11-30T23:59:59.999-05:00",
+          "advertised_price": 379
+        },
+        {
+          "gid": "dealsmocktail:home-kitchen",
+          "tab": "Home and Kitchen",
+          "price_text": "299",
+          "category": "Kitchen & Dining",
+          "posted_at": "2026-11-19T14:05:55.287-05:00",
+          "expires_at": "2026-11-30T23:59:59.999-05:00",
+          "advertised_price": 379
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
       "id": "d1d7bd9a8cffe2776abf01a6",
       "title": "Western Digital 8TB Elements Desktop External Hard Drive, USB 3.0 external hard drive for plug-and-play storage - Western DigitalBWLG0080HBK-NESN, Black",
       "retailer": "Amazon",
@@ -2225,18 +2281,12 @@
       "currency": "USD",
       "coupon": null,
       "notes": null,
-      "url": "https://dealsmocktail.com/us/deal/western-digital-8tb-elements-desktop-external-hard-drive-usb-30-external-hard-drive-for-plug-and-pla_1795095101758",
-      "sheet_url": "https://dealsmocktail.com/us/deals",
+      "url": "https://www.amazon.com/dp/B07D5V2ZXD?tag=mmdealsusa.agent-20&linkCode=ogi&th=1&psc=1",
+      "source_url": "https://dealsmocktail.com/us/deal/western-digital-8tb-elements-desktop-external-hard-drive-usb-30-external-hard-drive-for-plug-and-pla_1795095101758",
+      "retailer_url": "https://www.amazon.com/dp/B07D5V2ZXD?tag=mmdealsusa.agent-20&linkCode=ogi&th=1&psc=1",
+      "link_type": "retailer",
+      "sheet_url": "https://dealsmocktail.com/us/deals?category=electronics",
       "sources": [
-        {
-          "gid": "dealsmocktail:latest",
-          "tab": "Latest",
-          "price_text": "299.99",
-          "category": "Storage Devices",
-          "posted_at": "2026-11-19T08:31:41.788-05:00",
-          "expires_at": "2026-12-01T02:59:59.000-05:00",
-          "advertised_price": "414.99"
-        },
         {
           "gid": "dealsmocktail:electronics",
           "tab": "Electronics",
@@ -2269,18 +2319,12 @@
       "currency": "USD",
       "coupon": null,
       "notes": null,
-      "url": "https://dealsmocktail.com/us/deal/kitchenaid-artisan-mini-35-qt-tilt-head-stand-mixer-white-35-quart-capacity-for-smaller-batches-add_1795095120238",
-      "sheet_url": "https://dealsmocktail.com/us/deals",
+      "url": "https://link.amazon/B06F9llg1",
+      "source_url": "https://dealsmocktail.com/us/deal/kitchenaid-artisan-mini-35-qt-tilt-head-stand-mixer-white-35-quart-capacity-for-smaller-batches-add_1795095120238",
+      "retailer_url": "https://link.amazon/B06F9llg1",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://dealsmocktail.com/us/deals?category=home-kitchen",
       "sources": [
-        {
-          "gid": "dealsmocktail:latest",
-          "tab": "Latest",
-          "price_text": "299.99",
-          "category": "Kitchen & Dining",
-          "posted_at": "2026-11-19T08:32:00.267-05:00",
-          "expires_at": "2026-11-30T23:59:59.999-05:00",
-          "advertised_price": "449.99"
-        },
         {
           "gid": "dealsmocktail:home-kitchen",
           "tab": "Home and Kitchen",
@@ -2313,7 +2357,10 @@
       "currency": "USD",
       "coupon": null,
       "notes": null,
-      "url": "https://dealsmocktail.com/us/deal/greenpan-reserve-healthy-ceramic-nonstick-10-piece-cookware-set_1794999922329",
+      "url": "https://go.magik.ly/ml/4wc0i/",
+      "source_url": "https://dealsmocktail.com/us/deal/greenpan-reserve-healthy-ceramic-nonstick-10-piece-cookware-set_1794999922329",
+      "retailer_url": "https://go.magik.ly/ml/4wc0i/",
+      "link_type": "retailer_redirect",
       "sheet_url": "https://dealsmocktail.com/us/deals?category=home-kitchen",
       "sources": [
         {
@@ -2341,24 +2388,83 @@
       }
     },
     {
-      "id": "a2ae2ff21c0263b32679e66b",
-      "title": "Tissot T-Race, Swiss Quartz Chonograph, 45mm, Silver Dial, Men's Watch",
+      "id": "a81868c5d3a09ad2f0e694ce",
+      "title": "roborock 2026 New Qrevo S Pro Robot Vacuum and Mop, 18,500Pa Suction",
       "retailer": "Amazon",
-      "price_cents": 35750,
+      "price_cents": 37999,
       "currency": "USD",
       "coupon": null,
       "notes": null,
-      "url": "https://dealsmocktail.com/us/deal/tissot-t-race-swiss-quartz-chonograph-45mm-silver-dial-mens-watch_1795095083668",
+      "url": "https://www.amazon.com/dp/B0GGRSMXKN?tag=mmdealsusa-20&linkCode=ogi&th=1&psc=1",
+      "source_url": "https://dealsmocktail.com/us/deal/roborock-2026-new-qrevo-s-pro-robot-vacuum-and-mop-18500pa-suction_1791400690652",
+      "retailer_url": "https://www.amazon.com/dp/B0GGRSMXKN?tag=mmdealsusa-20&linkCode=ogi&th=1&psc=1",
+      "link_type": "retailer",
       "sheet_url": "https://dealsmocktail.com/us/deals",
       "sources": [
         {
           "gid": "dealsmocktail:latest",
           "tab": "Latest",
-          "price_text": "357.5",
-          "category": "Watches",
-          "posted_at": "2026-11-19T08:31:23.691-05:00",
-          "expires_at": "2026-12-01T02:59:59.000-05:00",
-          "advertised_price": 650
+          "price_text": "379.99",
+          "category": "Home Improvement",
+          "posted_at": "2026-11-19T15:48:44.593-05:00",
+          "expires_at": "2026-11-30T23:59:59.999-05:00",
+          "advertised_price": "699.99"
+        },
+        {
+          "gid": "dealsmocktail:home-kitchen",
+          "tab": "Home and Kitchen",
+          "price_text": "379.99",
+          "category": "Home Improvement",
+          "posted_at": "2026-11-19T15:48:44.593-05:00",
+          "expires_at": "2026-11-30T23:59:59.999-05:00",
+          "advertised_price": "699.99"
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "robot_vacuum_mop",
+        "variant": null,
+        "status": "over_budget",
+        "score": 0,
+        "max_usd": 350,
+        "preferred_usd": 250,
+        "within_budget": false,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
+      "id": "3cc3dd866490185ead06f40a",
+      "title": "DJI Osmo Pocket 3 Creator Combo 4K Vlog Camera",
+      "retailer": "Amazon",
+      "price_cents": 46600,
+      "currency": "USD",
+      "coupon": null,
+      "notes": null,
+      "url": "https://link.amazon/B036OE6Ao",
+      "source_url": "https://dealsmocktail.com/us/deal/dji-osmo-pocket-3-creator-combo-4k-vlog-camera_1781125649909",
+      "retailer_url": "https://link.amazon/B036OE6Ao",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://dealsmocktail.com/us/deals",
+      "sources": [
+        {
+          "gid": "dealsmocktail:latest",
+          "tab": "Latest",
+          "price_text": "466",
+          "category": "Cameras",
+          "posted_at": "2026-11-19T13:18:28.741-05:00",
+          "expires_at": "2026-11-30T23:59:59.999-05:00",
+          "advertised_price": 629
+        },
+        {
+          "gid": "dealsmocktail:electronics",
+          "tab": "Electronics",
+          "price_text": "466",
+          "category": "Cameras",
+          "posted_at": "2026-11-19T13:18:28.741-05:00",
+          "expires_at": "2026-11-30T23:59:59.999-05:00",
+          "advertised_price": 629
         }
       ],
       "price_conflict": false,
@@ -2376,24 +2482,27 @@
       }
     },
     {
-      "id": "4f0b16a61533ef4fa51b6b9a",
-      "title": "Bose - QuietComfort Ultra Headphones (2nd Gen) Wireless Noise Cancelling Over-Ear Headphones with Immersive Audio",
-      "retailer": "Best Buy",
-      "price_cents": 36900,
+      "id": "18f1b276d163f18f8a7be166",
+      "title": "Dyson Airwrap i.d.™ 6-in-1 Smart Hair Styler",
+      "retailer": "Amazon",
+      "price_cents": 49999,
       "currency": "USD",
       "coupon": null,
       "notes": null,
-      "url": "https://dealsmocktail.com/us/deal/bose-quietcomfort-ultra-headphones-2nd-gen-wireless-noise-cancelling-over-ear-headphones-with-immers_1795083612495",
-      "sheet_url": "https://dealsmocktail.com/us/deals?category=electronics",
+      "url": "https://link.amazon/B04WYbIBA",
+      "source_url": "https://dealsmocktail.com/us/deal/dyson-airwrap-id-6-in-1-smart-hair-styler_1782220343107",
+      "retailer_url": "https://link.amazon/B04WYbIBA",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://dealsmocktail.com/us/deals",
       "sources": [
         {
-          "gid": "dealsmocktail:electronics",
-          "tab": "Electronics",
-          "price_text": "369",
-          "category": "Audio & Headphones",
-          "posted_at": "2026-11-19T05:20:39.875-05:00",
+          "gid": "dealsmocktail:latest",
+          "tab": "Latest",
+          "price_text": "499.99",
+          "category": "Hair Care",
+          "posted_at": "2026-11-19T14:27:52.184-05:00",
           "expires_at": "2026-11-30T23:59:59.999-05:00",
-          "advertised_price": 449
+          "advertised_price": "709.99"
         }
       ],
       "price_conflict": false,
@@ -2418,18 +2527,12 @@
       "currency": "USD",
       "coupon": null,
       "notes": null,
-      "url": "https://dealsmocktail.com/us/deal/breville-bes878bss-barista-pro-espresso-machine-brushed-stainless-steel-pull-barista-quality-espress_1795085632979",
-      "sheet_url": "https://dealsmocktail.com/us/deals",
+      "url": "https://www.amazon.com/dp/B08133HX34?tag=mmdealsusa.agent-20&linkCode=ogi&th=1&psc=1",
+      "source_url": "https://dealsmocktail.com/us/deal/breville-bes878bss-barista-pro-espresso-machine-brushed-stainless-steel-pull-barista-quality-espress_1795085632979",
+      "retailer_url": "https://www.amazon.com/dp/B08133HX34?tag=mmdealsusa.agent-20&linkCode=ogi&th=1&psc=1",
+      "link_type": "retailer",
+      "sheet_url": "https://dealsmocktail.com/us/deals?category=home-kitchen",
       "sources": [
-        {
-          "gid": "dealsmocktail:latest",
-          "tab": "Latest",
-          "price_text": "564.95",
-          "category": "Kitchen & Dining",
-          "posted_at": "2026-11-19T05:53:53.004-05:00",
-          "expires_at": "2026-11-30T23:59:59.999-05:00",
-          "advertised_price": "849.95"
-        },
         {
           "gid": "dealsmocktail:home-kitchen",
           "tab": "Home and Kitchen",
@@ -2455,6 +2558,194 @@
       }
     },
     {
+      "id": "12c70b822d8f516bd6605515",
+      "title": "HP OmniBook X Flip 2-in-1 Laptop: Ryzen AI 430, 14\" WUXGA OLED Touch, 16GB, 512GB",
+      "retailer": "Best Buy",
+      "price_cents": 64999,
+      "currency": "USD",
+      "coupon": null,
+      "notes": null,
+      "url": "https://go.magik.ly/ml/4woyw/",
+      "source_url": "https://dealsmocktail.com/us/deal/hp-omnibook-x-flip-2-in-1-laptop-ryzen-ai-430-14-wuxga-oled-touch-16gb-512gb_1795104961199",
+      "retailer_url": "https://go.magik.ly/ml/4woyw/",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://dealsmocktail.com/us/deals",
+      "sources": [
+        {
+          "gid": "dealsmocktail:latest",
+          "tab": "Latest",
+          "price_text": "649.99",
+          "category": "Laptops & Accessories",
+          "posted_at": "2026-11-19T11:17:36.457-05:00",
+          "expires_at": "2026-11-30T23:59:59.999-05:00",
+          "advertised_price": "1299.99"
+        },
+        {
+          "gid": "dealsmocktail:electronics",
+          "tab": "Electronics",
+          "price_text": "649.99",
+          "category": "Laptops & Accessories",
+          "posted_at": "2026-11-19T11:17:36.457-05:00",
+          "expires_at": "2026-11-30T23:59:59.999-05:00",
+          "advertised_price": "1299.99"
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
+      "id": "693f9ea652b1fc57436457c4",
+      "title": "Lenovo - Yoga 7i 2-in-1 - Copilot+ PC - 16\" 2K Touchscreen Laptop - Intel Core Ultra 5 Processor 2024 - 16GB Memory - 512GB SSD",
+      "retailer": "Lenovo",
+      "price_cents": 64999,
+      "currency": "USD",
+      "coupon": null,
+      "notes": null,
+      "url": "https://go.magik.ly/ml/4wqcy/",
+      "source_url": "https://dealsmocktail.com/us/deal/lenovo-yoga-7i-2-in-1-copilot-pc-16-2k-touchscreen-laptop-intel-core-ultra-5-processor-2024-16gb-mem_1795111132814",
+      "retailer_url": "https://go.magik.ly/ml/4wqcy/",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://dealsmocktail.com/us/deals",
+      "sources": [
+        {
+          "gid": "dealsmocktail:latest",
+          "tab": "Latest",
+          "price_text": "649.99",
+          "category": "Laptops & Accessories",
+          "posted_at": "2026-11-19T12:59:25.737-05:00",
+          "expires_at": "2026-11-30T23:59:59.999-05:00",
+          "advertised_price": "999.99"
+        },
+        {
+          "gid": "dealsmocktail:electronics",
+          "tab": "Electronics",
+          "price_text": "649.99",
+          "category": "Laptops & Accessories",
+          "posted_at": "2026-11-19T12:59:25.737-05:00",
+          "expires_at": "2026-11-30T23:59:59.999-05:00",
+          "advertised_price": "999.99"
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
+      "id": "3d45736f18fbee3bfdf7f8e4",
+      "title": "ASUS ZenBook 14: 14\" FHD+ OLED Touch, Ryzen AI 9 465, 16GB LPDDR5, 512GB SSD",
+      "retailer": "Best Buy",
+      "price_cents": 84999,
+      "currency": "USD",
+      "coupon": null,
+      "notes": null,
+      "url": "https://go.magik.ly/ml/4woqw/",
+      "source_url": "https://dealsmocktail.com/us/deal/asus-zenbook-14-14-fhd-oled-touch-ryzen-ai-9-465-16gb-lpddr5-512gb-ssd_1795103770395",
+      "retailer_url": "https://go.magik.ly/ml/4woqw/",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://dealsmocktail.com/us/deals",
+      "sources": [
+        {
+          "gid": "dealsmocktail:latest",
+          "tab": "Latest",
+          "price_text": "849.99",
+          "category": "Laptops & Accessories",
+          "posted_at": "2026-11-19T10:58:12.979-05:00",
+          "expires_at": "2026-11-30T23:59:59.999-05:00",
+          "advertised_price": "1299.99"
+        },
+        {
+          "gid": "dealsmocktail:electronics",
+          "tab": "Electronics",
+          "price_text": "849.99",
+          "category": "Laptops & Accessories",
+          "posted_at": "2026-11-19T10:58:12.979-05:00",
+          "expires_at": "2026-11-30T23:59:59.999-05:00",
+          "advertised_price": "1299.99"
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
+      "id": "15c0d8e3d966e703f043b0c2",
+      "title": "Microsoft - Surface Laptop - 13.8\" 2K Touchscreen - Snapdragon X2 Plus (10 Core) 2026 - 16GB - 512GB Storage",
+      "retailer": "Best Buy",
+      "price_cents": 99999,
+      "currency": "USD",
+      "coupon": null,
+      "notes": null,
+      "url": "https://go.magik.ly/ml/4wowf/",
+      "source_url": "https://dealsmocktail.com/us/deal/microsoft-surface-laptop-138-2k-touchscreen-snapdragon-x2-plus-10-core-2026-16gb-512gb-storage_1795104400261",
+      "retailer_url": "https://go.magik.ly/ml/4wowf/",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://dealsmocktail.com/us/deals",
+      "sources": [
+        {
+          "gid": "dealsmocktail:latest",
+          "tab": "Latest",
+          "price_text": "999.99",
+          "category": "Laptops & Accessories",
+          "posted_at": "2026-11-19T11:07:13.496-05:00",
+          "expires_at": "2026-11-30T23:59:59.999-05:00",
+          "advertised_price": "1599.99"
+        },
+        {
+          "gid": "dealsmocktail:electronics",
+          "tab": "Electronics",
+          "price_text": "999.99",
+          "category": "Laptops & Accessories",
+          "posted_at": "2026-11-19T11:07:13.496-05:00",
+          "expires_at": "2026-11-30T23:59:59.999-05:00",
+          "advertised_price": "1599.99"
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
       "id": "7f5243b26c7dcc217ba5710f",
       "title": "Apple MacBook Air 13\" M5 Laptop (16GB/512GB, Midnight)",
       "retailer": "Amazon",
@@ -2462,18 +2753,12 @@
       "currency": "USD",
       "coupon": null,
       "notes": null,
-      "url": "https://dealsmocktail.com/us/deal/apple-macbook-air-13-m5-laptop-16gb512gb-midnight_1782208181620",
-      "sheet_url": "https://dealsmocktail.com/us/deals",
+      "url": "https://link.amazon/B01eYyjcA",
+      "source_url": "https://dealsmocktail.com/us/deal/apple-macbook-air-13-m5-laptop-16gb512gb-midnight_1782208181620",
+      "retailer_url": "https://link.amazon/B01eYyjcA",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://dealsmocktail.com/us/deals?category=electronics",
       "sources": [
-        {
-          "gid": "dealsmocktail:latest",
-          "tab": "Latest",
-          "price_text": "1049",
-          "category": "Laptops & Accessories",
-          "posted_at": "2026-11-19T09:05:07.187-05:00",
-          "expires_at": "2026-11-30T23:59:59.999-05:00",
-          "advertised_price": 1299
-        },
         {
           "gid": "dealsmocktail:electronics",
           "tab": "Electronics",
@@ -2506,18 +2791,12 @@
       "currency": "USD",
       "coupon": null,
       "notes": null,
-      "url": "https://dealsmocktail.com/us/deal/asus-rog-strix-g16-2025-gaming-laptop-16-fhd-1610-165hz3ms-nvidia-geforce-rtx-5060-intel-core-i7-pro_1795100681911",
-      "sheet_url": "https://dealsmocktail.com/us/deals",
+      "url": "https://www.amazon.com/dp/B0DZZWMB2L?tag=mmdealsusa-20&linkCode=ogi&th=1&psc=1",
+      "source_url": "https://dealsmocktail.com/us/deal/asus-rog-strix-g16-2025-gaming-laptop-16-fhd-1610-165hz3ms-nvidia-geforce-rtx-5060-intel-core-i7-pro_1795100681911",
+      "retailer_url": "https://www.amazon.com/dp/B0DZZWMB2L?tag=mmdealsusa-20&linkCode=ogi&th=1&psc=1",
+      "link_type": "retailer",
+      "sheet_url": "https://dealsmocktail.com/us/deals?category=electronics",
       "sources": [
-        {
-          "gid": "dealsmocktail:latest",
-          "tab": "Latest",
-          "price_text": "1179.99",
-          "category": "Laptops & Accessories",
-          "posted_at": "2026-11-19T10:05:37.650-05:00",
-          "expires_at": "2026-11-30T23:59:59.999-05:00",
-          "advertised_price": "1586.67"
-        },
         {
           "gid": "dealsmocktail:electronics",
           "tab": "Electronics",
@@ -2550,18 +2829,12 @@
       "currency": "USD",
       "coupon": null,
       "notes": null,
-      "url": "https://dealsmocktail.com/us/deal/lenovo-legion-5i-153-oled-165hz-3k-intel-core-7-245hx-16gb-ram-nvidia-geforce-rtx-5060-512gb-ssd_1795101350421",
-      "sheet_url": "https://dealsmocktail.com/us/deals",
+      "url": "https://go.magik.ly/ml/4wom6/",
+      "source_url": "https://dealsmocktail.com/us/deal/lenovo-legion-5i-153-oled-165hz-3k-intel-core-7-245hx-16gb-ram-nvidia-geforce-rtx-5060-512gb-ssd_1795101350421",
+      "retailer_url": "https://go.magik.ly/ml/4wom6/",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://dealsmocktail.com/us/deals?category=electronics",
       "sources": [
-        {
-          "gid": "dealsmocktail:latest",
-          "tab": "Latest",
-          "price_text": "1199.99",
-          "category": "Laptops & Accessories",
-          "posted_at": "2026-11-19T10:16:24.902-05:00",
-          "expires_at": "2026-11-30T23:59:59.999-05:00",
-          "advertised_price": "1889.99"
-        },
         {
           "gid": "dealsmocktail:electronics",
           "tab": "Electronics",
@@ -2587,6 +2860,91 @@
       }
     },
     {
+      "id": "089ebfd1581488133eea98ea",
+      "title": "HyperX HP OMEN (2026): 16\" FHD+ IPS 165Hz, Intel Ultra 7 356H, RTX 5060, 16GB DDR5, 512GB SSD",
+      "retailer": "Best Buy",
+      "price_cents": 139999,
+      "currency": "USD",
+      "coupon": null,
+      "notes": null,
+      "url": "https://go.magik.ly/ml/4wozl/",
+      "source_url": "https://dealsmocktail.com/us/deal/hyperx-hp-omen-2026-16-fhd-ips-165hz-intel-ultra-7-356h-rtx-5060-16gb-ddr5-512gb-ssd_1795105387571",
+      "retailer_url": "https://go.magik.ly/ml/4wozl/",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://dealsmocktail.com/us/deals",
+      "sources": [
+        {
+          "gid": "dealsmocktail:latest",
+          "tab": "Latest",
+          "price_text": "1399.99",
+          "category": "Laptops & Accessories",
+          "posted_at": "2026-11-19T11:23:50.897-05:00",
+          "expires_at": "2026-11-30T23:59:59.999-05:00",
+          "advertised_price": "2099.99"
+        },
+        {
+          "gid": "dealsmocktail:electronics",
+          "tab": "Electronics",
+          "price_text": "1399.99",
+          "category": "Laptops & Accessories",
+          "posted_at": "2026-11-19T11:23:50.897-05:00",
+          "expires_at": "2026-11-30T23:59:59.999-05:00",
+          "advertised_price": "2099.99"
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
+      "id": "2e557fceade1eb302e18ac0f",
+      "title": "Apple MacBook Air 13-Inch Laptop with M5 chip (24GB RAM, 1TB SSD)",
+      "retailer": "Amazon",
+      "price_cents": 154900,
+      "currency": "USD",
+      "coupon": null,
+      "notes": null,
+      "url": "https://www.amazon.com/dp/B0GR19T81S?tag=mmdealsusa-20&linkCode=ogi&th=1&psc=1",
+      "source_url": "https://dealsmocktail.com/us/deal/apple-2026-macbook-air-13-inch-laptop-with-m5-chip-built-for-ai-136-inch-liquid-retina-display-24gb_1795102914068",
+      "retailer_url": "https://www.amazon.com/dp/B0GR19T81S?tag=mmdealsusa-20&linkCode=ogi&th=1&psc=1",
+      "link_type": "retailer",
+      "sheet_url": "https://dealsmocktail.com/us/deals?category=electronics",
+      "sources": [
+        {
+          "gid": "dealsmocktail:electronics",
+          "tab": "Electronics",
+          "price_text": "1549",
+          "category": "Laptops & Accessories",
+          "posted_at": "2026-11-19T10:43:57.630-05:00",
+          "expires_at": "2026-11-30T23:59:59.999-05:00",
+          "advertised_price": 1799
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
       "id": "ca0edbc6ecd722d9c070c4f2",
       "title": "Alienware 18 Area-51 Gaming Laptop, RTX 5080, Intel Ultra 9 290HX | WQXGA 300Hz Display, NVIDIA GeForce, 32GB DDR5 RAM, 2TB NVMe SSD, Windows 11 Home, Liquid Teal, AA18250",
       "retailer": "Amazon",
@@ -2594,18 +2952,12 @@
       "currency": "USD",
       "coupon": null,
       "notes": null,
-      "url": "https://dealsmocktail.com/us/deal/alienware-18-area-51-gaming-laptop-rtx-5080-intel-ultra-9-290hx-wqxga-300hz-display-nvidia-geforce-3_1795100352129",
-      "sheet_url": "https://dealsmocktail.com/us/deals",
+      "url": "https://www.amazon.com/dp/B07HJPZJ51?tag=mmdealsusa-20&linkCode=ogi&th=1&psc=1",
+      "source_url": "https://dealsmocktail.com/us/deal/alienware-18-area-51-gaming-laptop-rtx-5080-intel-ultra-9-290hx-wqxga-300hz-display-nvidia-geforce-3_1795100352129",
+      "retailer_url": "https://www.amazon.com/dp/B07HJPZJ51?tag=mmdealsusa-20&linkCode=ogi&th=1&psc=1",
+      "link_type": "retailer",
+      "sheet_url": "https://dealsmocktail.com/us/deals?category=electronics",
       "sources": [
-        {
-          "gid": "dealsmocktail:latest",
-          "tab": "Latest",
-          "price_text": "3999.99",
-          "category": "Laptops & Accessories",
-          "posted_at": "2026-11-19T09:59:52.709-05:00",
-          "expires_at": "2026-11-30T23:59:59.999-05:00",
-          "advertised_price": "4979.99"
-        },
         {
           "gid": "dealsmocktail:electronics",
           "tab": "Electronics",
