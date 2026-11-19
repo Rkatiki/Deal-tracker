@@ -1,0 +1,704 @@
+{
+  "schema_version": 1,
+  "retrieved_at": "2026-11-19T15:53:44.697859+00:00",
+  "source": {
+    "id": "cheapshark-steam",
+    "name": "CheapShark Steam Deals",
+    "url": "https://www.cheapshark.com/api/1.0/deals?storeID=1&upperPrice=15&pageSize=30",
+    "kind": "cheapshark",
+    "retailer": "Steam"
+  },
+  "baseline": true,
+  "events": [
+    {
+      "id": "0ee9ed1556ec7768606ee858",
+      "types": [
+        "new"
+      ],
+      "title": "MotoGP 14",
+      "retailer": "Steam",
+      "previous_price_cents": null,
+      "current_price_cents": 99,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.cheapshark.com/redirect?dealID=TQYOQwcaI9cDyUchi%2BFYbweXjytJ8Sb0PUMgiyaK7rE%3D"
+    },
+    {
+      "id": "116efd997de74b06e76866a9",
+      "types": [
+        "new"
+      ],
+      "title": "Two Point Campus",
+      "retailer": "Steam",
+      "previous_price_cents": null,
+      "current_price_cents": 449,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.cheapshark.com/redirect?dealID=IlYgXmiECqjShU%2FcRzwDdIPlnJ5A7p%2FWBqZHz81D7Zc%3D"
+    },
+    {
+      "id": "2d415588537210f10ef2b65f",
+      "types": [
+        "new"
+      ],
+      "title": "Distant Worlds: Universe",
+      "retailer": "Steam",
+      "previous_price_cents": null,
+      "current_price_cents": 299,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.cheapshark.com/redirect?dealID=CoyryML0LMR039mrHIRiquMVW%2FpRm6zbecdtqhyL1L0%3D"
+    },
+    {
+      "id": "300354c393de35055dd66302",
+      "types": [
+        "new"
+      ],
+      "title": "Silent Hunter III",
+      "retailer": "Steam",
+      "previous_price_cents": null,
+      "current_price_cents": 249,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.cheapshark.com/redirect?dealID=3%2BLw%2B3chUaZc9s86zlNNFtXGkOQIgtmAgF%2BsGHF2mpo%3D"
+    },
+    {
+      "id": "305bff6a2bcb8c4eb8f31a6b",
+      "types": [
+        "new"
+      ],
+      "title": "Dungeon Siege II",
+      "retailer": "Steam",
+      "previous_price_cents": null,
+      "current_price_cents": 97,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.cheapshark.com/redirect?dealID=wkiOaS3MEwkb9xOJ9%2BSdzhc8RNksf57lvtQ9sNx2GcQ%3D"
+    },
+    {
+      "id": "3158534f26aba73bca9b23ea",
+      "types": [
+        "new"
+      ],
+      "title": "Just Cause 2",
+      "retailer": "Steam",
+      "previous_price_cents": null,
+      "current_price_cents": 149,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.cheapshark.com/redirect?dealID=z4El8C19yCEHrk1%2ByEedebThQVbblI7H0Z%2BAmxgZiS8%3D"
+    },
+    {
+      "id": "3d50ae686e81b9dd1416ffde",
+      "types": [
+        "new"
+      ],
+      "title": "FINAL FANTASY VII REMAKE INTERGRADE",
+      "retailer": "Steam",
+      "previous_price_cents": null,
+      "current_price_cents": 719,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.cheapshark.com/redirect?dealID=pNOL829vk6CJPi8%2FsgkHo7WWKltzGGVwpaRs5cncewA%3D"
+    },
+    {
+      "id": "3dbea6ae6ed6392fbb53e914",
+      "types": [
+        "new"
+      ],
+      "title": "Machinarium",
+      "retailer": "Steam",
+      "previous_price_cents": null,
+      "current_price_cents": 299,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.cheapshark.com/redirect?dealID=SlXixeAY68wTiFIX7Mo5WLRcvT%2BMnMaquWFWH6yR7Lg%3D"
+    },
+    {
+      "id": "3fc94f7b493d10e380c6b8f0",
+      "types": [
+        "new"
+      ],
+      "title": "Just Cause",
+      "retailer": "Steam",
+      "previous_price_cents": null,
+      "current_price_cents": 97,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.cheapshark.com/redirect?dealID=wefWa0f%2FDzhCeF5vT2iNlMdiO3XVMXtuRbr49HWF9wk%3D"
+    },
+    {
+      "id": "4bc9a393b08d2d4decef9fbc",
+      "types": [
+        "new"
+      ],
+      "title": "Anachronox",
+      "retailer": "Steam",
+      "previous_price_cents": null,
+      "current_price_cents": 97,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.cheapshark.com/redirect?dealID=Wm5ixfZbwwOipKl68nV285QtdWkimjwiWHWNqNGFdsA%3D"
+    },
+    {
+      "id": "522bcf0b329e786a2ac4a36b",
+      "types": [
+        "new"
+      ],
+      "title": "Prince of Persia: Warrior Within",
+      "retailer": "Steam",
+      "previous_price_cents": null,
+      "current_price_cents": 199,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.cheapshark.com/redirect?dealID=0zluZy%2BMo%2FnKMr3O%2F%2BK%2B8L%2Fn4r5W7SVPX5oqGLePt7E%3D"
+    },
+    {
+      "id": "86e82aecf77507fc60b25ea6",
+      "types": [
+        "new"
+      ],
+      "title": "Prince of Persia: The Two Thrones",
+      "retailer": "Steam",
+      "previous_price_cents": null,
+      "current_price_cents": 199,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.cheapshark.com/redirect?dealID=2QqCv7qHzVAScckz0X4sOVeB%2F08naBroZIJzMKXzPIw%3D"
+    },
+    {
+      "id": "872e8a7c46bd52d38dbcb3e0",
+      "types": [
+        "new"
+      ],
+      "title": "Project: Snowblind",
+      "retailer": "Steam",
+      "previous_price_cents": null,
+      "current_price_cents": 89,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.cheapshark.com/redirect?dealID=JfRgVz7xYBAPYR3rU%2F2nN5gYeX%2Fv%2BdsGRPDkltIxvSE%3D"
+    },
+    {
+      "id": "88ecf188deb2c11e7545db5e",
+      "types": [
+        "new"
+      ],
+      "title": "Maskmaker",
+      "retailer": "Steam",
+      "previous_price_cents": null,
+      "current_price_cents": 99,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.cheapshark.com/redirect?dealID=uoD7g5t6jV15MJGRObs6lmq4aP5RnPpz%2B2wOt5i6XG0%3D"
+    },
+    {
+      "id": "96a9b0f9e915035b07d56d19",
+      "types": [
+        "new"
+      ],
+      "title": "Battlestations: Midway",
+      "retailer": "Steam",
+      "previous_price_cents": null,
+      "current_price_cents": 97,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.cheapshark.com/redirect?dealID=sUJsVIOun4HDA5vNHXYuz3ZnDXFoksRDD1TgYUWYnvQ%3D"
+    },
+    {
+      "id": "998323c5246737685eeabad8",
+      "types": [
+        "new"
+      ],
+      "title": "Bzzzt",
+      "retailer": "Steam",
+      "previous_price_cents": null,
+      "current_price_cents": 239,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.cheapshark.com/redirect?dealID=3Pckm6SdlacLnzyFl3i1nVlcg20apQ38NGDiLOWgyJY%3D"
+    },
+    {
+      "id": "a14f69d3a3be9525299c236c",
+      "types": [
+        "new"
+      ],
+      "title": "Quantum Conundrum",
+      "retailer": "Steam",
+      "previous_price_cents": null,
+      "current_price_cents": 98,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.cheapshark.com/redirect?dealID=gqc27BiFr8jCzKle49%2BRbgB4sb7q2qXsRGkYztk2%2Bpg%3D"
+    },
+    {
+      "id": "a7079d64f8c9c9303af76295",
+      "types": [
+        "new"
+      ],
+      "title": "Supreme Commander",
+      "retailer": "Steam",
+      "previous_price_cents": null,
+      "current_price_cents": 259,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.cheapshark.com/redirect?dealID=PiIIJF7zgluX9sg6FU3E%2FiWkuyRxcPENcN4YIusyWOU%3D"
+    },
+    {
+      "id": "abb7a5f29bda93b1c810e544",
+      "types": [
+        "new"
+      ],
+      "title": "Tom Clancy's Splinter Cell Chaos Theory",
+      "retailer": "Steam",
+      "previous_price_cents": null,
+      "current_price_cents": 249,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.cheapshark.com/redirect?dealID=v%2BNGUc7kMeoQ%2FFWRFbPR1lSwtlnKR2QLG5UnfBRoEmo%3D"
+    },
+    {
+      "id": "baf684deead9a28bd4fa4193",
+      "types": [
+        "new"
+      ],
+      "title": "Dungeon Siege",
+      "retailer": "Steam",
+      "previous_price_cents": null,
+      "current_price_cents": 97,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.cheapshark.com/redirect?dealID=Hli8KbDatTjYjj%2BjpnfUuVKjxPwQPmblW1llCXyMMmU%3D"
+    },
+    {
+      "id": "c58e30dc35a06cf92b6323aa",
+      "types": [
+        "new"
+      ],
+      "title": "Riders Republic",
+      "retailer": "Steam",
+      "previous_price_cents": null,
+      "current_price_cents": 399,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.cheapshark.com/redirect?dealID=4sQHxgPMHVP%2B9mdvtUlnYzY6EvW4pRB%2FaB13bXSoHbA%3D"
+    },
+    {
+      "id": "c5d95fd17be0bc7c73212015",
+      "types": [
+        "new"
+      ],
+      "title": "Total War: WARHAMMER III",
+      "retailer": "Steam",
+      "previous_price_cents": null,
+      "current_price_cents": 899,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.cheapshark.com/redirect?dealID=z933V0e72mT%2BSu66Mql25DCUsCqnlmsnJLFole9koG0%3D"
+    },
+    {
+      "id": "c886f7eae01be91f967c5b17",
+      "types": [
+        "new"
+      ],
+      "title": "FINAL FANTASY VII REBIRTH",
+      "retailer": "Steam",
+      "previous_price_cents": null,
+      "current_price_cents": 749,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.cheapshark.com/redirect?dealID=gJ60np9%2FzPD6n03wLQcUNEplVIDm%2B1%2B4ndLniZZ8PqQ%3D"
+    },
+    {
+      "id": "d19fffe99fd0529324367c9a",
+      "types": [
+        "new"
+      ],
+      "title": "Overpass",
+      "retailer": "Steam",
+      "previous_price_cents": null,
+      "current_price_cents": 99,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.cheapshark.com/redirect?dealID=JoVleT02fU3pk8m6ekMmBTt8L4GMI2NP8Sj9ujTI6po%3D"
+    },
+    {
+      "id": "ddb6c41f77ef41ea796cdc2b",
+      "types": [
+        "new"
+      ],
+      "title": "Attentat 1942",
+      "retailer": "Steam",
+      "previous_price_cents": null,
+      "current_price_cents": 109,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.cheapshark.com/redirect?dealID=NYJdHVXbL5OEsNHRdGvlb0WQDWchcqx4PTvxqHEiJS4%3D"
+    },
+    {
+      "id": "e7c1cee6ebd08352e188eff4",
+      "types": [
+        "new"
+      ],
+      "title": "Rise of the Triad",
+      "retailer": "Steam",
+      "previous_price_cents": null,
+      "current_price_cents": 149,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.cheapshark.com/redirect?dealID=XMlt2y%2B13c6y33kjhusPSaWxZCUJ5UjBMSu3RxAG%2Fqk%3D"
+    },
+    {
+      "id": "ef11350bc8b23f8685665e0a",
+      "types": [
+        "new"
+      ],
+      "title": "1428: Shadows over Silesia",
+      "retailer": "Steam",
+      "previous_price_cents": null,
+      "current_price_cents": 298,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.cheapshark.com/redirect?dealID=LEVVmL04cCZWZILT%2BduhfvUwaVZj0IQFsn7MHyQlFXM%3D"
+    },
+    {
+      "id": "f6d395ddd01fd5d4b05b5feb",
+      "types": [
+        "new"
+      ],
+      "title": "Prince of Persia",
+      "retailer": "Steam",
+      "previous_price_cents": null,
+      "current_price_cents": 199,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.cheapshark.com/redirect?dealID=5c%2FUiBic303AmXesDtRhz7DBzqUpSRxykKvQnMt2q%2Fw%3D"
+    },
+    {
+      "id": "fa645d3b83c2ab974e891d5e",
+      "types": [
+        "new"
+      ],
+      "title": "Chariot",
+      "retailer": "Steam",
+      "previous_price_cents": null,
+      "current_price_cents": 149,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.cheapshark.com/redirect?dealID=SJtwMqHmcdHzhryD5NoKvH6Nnk%2BblWEhlew2F42uPHk%3D"
+    },
+    {
+      "id": "ff684ca3deea5eef733ea061",
+      "types": [
+        "new"
+      ],
+      "title": "Nioh: Complete Edition",
+      "retailer": "Steam",
+      "previous_price_cents": null,
+      "current_price_cents": 749,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.cheapshark.com/redirect?dealID=0o%2F9e5nQP1XVTxhOzayol7%2Fpj9yS9PyAsYTEtNlM1bI%3D"
+    }
+  ]
+}
