@@ -8,7 +8,7 @@ from decimal import Decimal
 from urllib.parse import urlencode
 from urllib.robotparser import RobotFileParser
 
-from sheet_source import SourceError
+from sheet_source import SourceError, retailer_kind, safe_link
 
 LOG = logging.getLogger(__name__)
 ORIGIN = "https://dealsmocktail.com"
@@ -62,9 +62,11 @@ def parse_listing(page):
             raise SourceError("DealsMocktail US listing returned an unexpected country")
         amount = item.get("salePrice")
         price = str(amount) if isinstance(amount, (int, Decimal)) and not isinstance(amount, bool) else ""
+        retailer_url = safe_link(item.get("affiliateUrl"))
         rows.append({
             "id": deal_id, "title": title.strip(), "price": price,
             "retailer": str(item.get("store") or ""), "url": f"{ORIGIN}/us/deal/{slug}",
+            "retailer_url": retailer_url, "retailer_type": retailer_kind(retailer_url),
             "source_details": {
                 "category": item.get("category"), "posted_at": item.get("postedAt"),
                 "expires_at": item.get("expiresAt"), "advertised_price": item.get("originalPrice"),

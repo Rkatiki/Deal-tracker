@@ -7,6 +7,8 @@ import json
 import logging
 import re
 import time
+import unicodedata
+from collections import defaultdict
 from concurrent.futures import ThreadPoolExecutor
 from html.parser import HTMLParser
 from urllib.error import HTTPError, URLError
@@ -33,11 +35,11 @@ class SourceError(Exception):
     pass
 
 
-def request(url, accepted):
-    for attempt in range(3):
+def request(url, accepted, *, timeout=25, attempts=3):
+    for attempt in range(attempts):
         try:
             headers = {"User-Agent": "DealTracker/1.0", "Cache-Control": "no-cache"}
-            with urlopen(Request(url, headers=headers), timeout=25) as response:
+            with urlopen(Request(url, headers=headers), timeout=timeout) as response:
                 mime = response.headers.get_content_type()
                 if mime not in accepted:
                     raise SourceError(f"unexpected content type {mime} from {url}")
@@ -51,7 +53,7 @@ def request(url, accepted):
                 break
         except (URLError, TimeoutError, OSError) as exc:
             reason = str(exc)
-        if attempt < 2:
+        if attempt + 1 < attempts:
             LOG.warning("Retrying %s after %s", url, reason)
             time.sleep(2 ** attempt)
     raise SourceError(f"{reason} from {url}")
@@ -119,12 +121,69 @@ def grid_rows(page):
 
 
 def safe_link(value):
-    parsed = urlsplit(value.strip())
-    if parsed.hostname == "www.google.com" and parsed.path == "/url":
-        parsed = urlsplit(parse_qs(parsed.query).get("q", [""])[0])
-    if parsed.scheme in {"http", "https"} and parsed.hostname and not parsed.username:
-        return parsed.geturl()
+    if not isinstance(value, str):
+        return None
+    try:
+        parsed = urlsplit(value.strip())
+        if parsed.hostname == "www.google.com" and parsed.path == "/url":
+            parsed = urlsplit(parse_qs(parsed.query).get("q", [""])[0])
+        if parsed.scheme in {"http", "https"} and parsed.hostname and not parsed.username:
+            return parsed.geturl()
+    except ValueError:
+        pass
     return None
+
+
+RETAIL_HOSTS = {
+    "amazon.com", "bestbuy.com", "walmart.com", "target.com", "costco.com", "samsclub.com",
+    "homedepot.com", "lowes.com", "woot.com", "ebay.com", "macys.com", "kohls.com",
+    "newegg.com", "bhphotovideo.com", "adorama.com", "store.steampowered.com",
+}
+REDIRECT_HOSTS = {"amzn.to", "link.amazon", "go.magik.ly", "mavely.app.link", "theblogcm.com"}
+LINK_PRIORITY = {kind: index for index, kind in enumerate(
+    ("source", "offer_link", "retailer_redirect", "retailer")
+)}
+
+
+def retailer_kind(url):
+    parsed = urlsplit(url or "")
+    host = (parsed.hostname or "").removeprefix("www.")
+    if host in REDIRECT_HOSTS:
+        return "retailer_redirect"
+    if host in RETAIL_HOSTS and parsed.path.strip("/"):
+        return "retailer"
+    return None
+
+
+def deal_links(source_url, offer_url=None, retailer_url=None, retailer_type=None):
+    retailer_url = safe_link(retailer_url)
+    offer_url = safe_link(offer_url)
+    kind = retailer_kind(offer_url)
+    if not retailer_url and kind:
+        retailer_url, retailer_type = offer_url, kind
+    return {
+        "url": retailer_url or offer_url or source_url,
+        "source_url": source_url,
+        "retailer_url": retailer_url,
+        "link_type": (retailer_type or retailer_kind(retailer_url) or "retailer_redirect")
+        if retailer_url else ("offer_link" if offer_url and offer_url != source_url else "source"),
+    }
+
+
+def link_key(row):
+    return tuple(" ".join(unicodedata.normalize("NFKC", row.get(field, "")).casefold().split())
+                 for field in ("title", "retailer"))
+
+
+def enrich_links(deals, html_deals):
+    links = defaultdict(set)
+    for row in html_deals:
+        if row["url"]:
+            links[link_key(row)].add(row["url"])
+    for row in deals:
+        matches = links[link_key(row)]
+        if not row["url"] and len(matches) == 1:
+            row["url"] = next(iter(matches))
 
 
 def parse_rows(rows, links, layout):
@@ -160,7 +219,10 @@ def parse_rows(rows, links, layout):
             for key, column in fields.items()
         }
         title = values["title"]
-        url = safe_link(values.get("url") or links.get((index, fields["title"]), ""))
+        url = safe_link(values.get("url"))
+        for field in ("url", "title", "retailer"):
+            if not url and field in fields:
+                url = safe_link(links.get((index, fields[field])))
         notes = values.get("notes", "")
         if not url and notes.startswith(("http://", "https://")) and len(notes.split()) == 1:
             url = safe_link(notes)
@@ -183,10 +245,18 @@ def get_tab(base, gid, name, layout):
         ))),
     )
     failures = []
+    html_url = f"{base}/htmlview/sheet?headers=true&gid={gid}"
     for method, read in readers:
         try:
             deals = parse_rows(*read(), layout)
-            LOG.info("Tab %s (%s) via %s: %s offers", name, gid, method, len(deals))
+            if method == "gviz_csv" and any(not row["url"] for row in deals):
+                try:
+                    page = request(html_url, {"text/html"}, timeout=10, attempts=1)
+                    enrich_links(deals, parse_rows(*grid_rows(page), layout))
+                except (SourceError, ValueError) as exc:
+                    LOG.info("Tab %s (%s) hyperlink enrichment unavailable: %s", name, gid, exc)
+            LOG.info("Tab %s (%s) via %s: %s offers, %s offer links",
+                     name, gid, method, len(deals), sum(bool(row["url"]) for row in deals))
             return {"gid": gid, "name": name, "method": method, "count": len(deals)}, deals
         except (SourceError, ValueError, csv.Error) as exc:
             failures.append(f"{method}: {exc}")

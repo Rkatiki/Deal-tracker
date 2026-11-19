@@ -15,6 +15,7 @@ from pathlib import Path
 from urllib.parse import quote, urlsplit
 from xml.etree import ElementTree
 
+from sheet_source import deal_links, retailer_kind, safe_link
 from tracker import ROOT, cents, changes, publish, rank, read_json
 
 LOG = logging.getLogger(__name__)
@@ -23,6 +24,7 @@ PROMOTIONAL = re.compile(r"\b(?:off|savings|save|from|under|up to|was|msrp|reg\.
 DEAL_HEADLINE = re.compile(r"\b(?:deal[s]?|black friday|cyber monday|coupon|discount|freebie|clearance|sale|free shipping|save|price drop)\b|\$\d", re.I)
 NON_US = re.compile(r"[£€]|\b(?:CA\$|AU\$|NZ\$|C\$|A\$|CAD\b|AUD\b)", re.I)
 LINK = re.compile(r"\[([^\]]+)\]\((https?://[^\s)]+)\)")
+HREF = re.compile(r"""href\s*=\s*['"]([^'"]+)['"]""", re.I)
 URL_ID = re.compile(r"[a-z0-9]+(?:-[a-z0-9]+)*")
 
 
@@ -35,10 +37,7 @@ def text_only(value):
 
 
 def link_only(value):
-    parsed = urlsplit(value.strip())
-    if parsed.scheme in {"http", "https"} and parsed.hostname and not parsed.username:
-        return parsed.geturl()
-    return ""
+    return safe_link(value) or ""
 
 
 def fetch(url):
@@ -81,11 +80,13 @@ def possible_price(title):
     return None
 
 
-def record(source, identity, title, url, *, price=None, retailer=None, published=None, expires=None, category=None):
+def record(source, identity, title, url, *, price=None, retailer=None, published=None,
+           expires=None, category=None, retailer_url=None, retailer_type=None, source_url=None):
     key = f"{source['id']}:{identity}".encode()
     deal_id = hashlib.sha256(key).hexdigest()[:24]
     return {
-        "id": deal_id, "title": title, "url": url, "retailer": retailer or source.get("retailer"),
+        "id": deal_id, "title": title, **deal_links(source_url or url, url, retailer_url, retailer_type),
+        "retailer": retailer or source.get("retailer"),
         "price_cents": price, "headline_price_cents": possible_price(title) if price is None else None,
         "price_source": "publisher_structured_data" if price is not None else None,
         "currency": "USD" if price is not None else None,
@@ -134,10 +135,23 @@ def xml_entries(body, source, now, max_age):
             continue
         price_node = fields.get("price")
         price = cents(value("price")) if price_node is not None and price_node.get("currency") == "USD" else None
+        retailer_url = link_only(value("retailerUrl") or value("affiliateLink") or value("affiliateUrl"))
+        if not retailer_url and source["id"] in {"9to5toys", "9to5mac"}:
+            links = {link_only(html.unescape(href)) for href in HREF.findall(value("description"))}
+            merchant_links = {link for link in links if retailer_kind(link)}
+            if len(merchant_links) == 1:
+                retailer_url = merchant_links.pop()
+        if not retailer_url and source.get("retailer") == "Woot":
+            woot_links = {
+                html.unescape(link) for link in HREF.findall(value("description") or value("encoded"))
+                if re.fullmatch(r"https://(?:www\.)?woot\.com/offers/[\w-]+(?:\?[^\s]*)?", html.unescape(link))
+            }
+            if len(woot_links) == 1:
+                retailer_url = woot_links.pop()
         offers.append(record(
             source, value("id") or value("guid") or url, title, url, price=price,
             retailer=value("retailer") or None, published=published, expires=expires,
-            category=value("category") or None,
+            category=value("category") or None, retailer_url=retailer_url,
         ))
     if recognized < max(1, (len(entries) + 1) // 2):
         raise FeedError("most XML entries are missing a title or usable URL")
@@ -170,6 +184,7 @@ def github_entries(body, source, now, _max_age):
         price = cents(price_cell) if price_cell.startswith(("$", "US$")) else None
         offers.append(record(
             source, url, title, url, price=price, expires=expires, category=category,
+            source_url=source.get("homepage", source["url"]),
         ))
     if not recognized:
         raise FeedError("GitHub list contained no readable deal rows")
@@ -191,6 +206,9 @@ def cheapshark_entries(body, source, _now, _max_age):
         offers.append(record(
             source, item["gameID"], item["title"], url, price=cents(item["salePrice"]),
             published=updated, category="PC games",
+            retailer_url=f"https://store.steampowered.com/app/{item['steamAppID']}/"
+            if str(item.get("steamAppID", "")).isdigit() else url,
+            retailer_type="retailer" if str(item.get("steamAppID", "")).isdigit() else "retailer_redirect",
         ))
     return offers
 

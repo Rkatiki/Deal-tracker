@@ -17,7 +17,7 @@ from urllib.parse import urlsplit
 from urllib.request import Request, urlopen
 
 from dealsmocktail import retrieve_website
-from sheet_source import SourceError, retrieve
+from sheet_source import LINK_PRIORITY, SourceError, deal_links, retrieve
 
 ROOT = Path(__file__).resolve().parent
 LOG = logging.getLogger(__name__)
@@ -57,19 +57,22 @@ def consolidate(tabs, sheet_id):
             source = {"gid": gid, "tab": tab["name"], "price_text": row["price"]}
             if row.get("source_details"):
                 source.update(row["source_details"])
+            listing_url = tab.get("url") or f"https://docs.google.com/spreadsheets/d/{sheet_id}/htmlview#gid={gid}"
+            source_url = (row["url"] or listing_url) if tab.get("url") else listing_url
+            links = deal_links(source_url, row["url"], row.get("retailer_url"), row.get("retailer_type"))
             if deal_id not in offers:
                 offers[deal_id] = {
                     "id": deal_id, "title": title, "retailer": retailer or None,
                     "price_cents": price, "currency": "USD", "coupon": row.get("coupon") or None,
-                    "notes": row.get("notes") or None, "url": row["url"],
-                    "sheet_url": tab.get("url") or f"https://docs.google.com/spreadsheets/d/{sheet_id}/htmlview#gid={gid}",
+                    "notes": row.get("notes") or None, **links,
+                    "sheet_url": listing_url,
                     "sources": [],
                 }
             deal = offers[deal_id]
             if source not in deal["sources"]:
                 deal["sources"].append(source)
-            if not deal["url"]:
-                deal["url"] = row["url"]
+            if LINK_PRIORITY[links["link_type"]] > LINK_PRIORITY[deal["link_type"]]:
+                deal.update(links)
 
     conflicts = 0
     for deal in offers.values():
@@ -188,7 +191,9 @@ def changes(before, after):
                 "retailer": deal["retailer"],
                 "previous_price_cents": old["price_cents"] if old else None,
                 "current_price_cents": new["price_cents"] if new else None,
-                "rank": deal["rank"], "url": deal["url"] or deal["sheet_url"],
+                "rank": deal["rank"], "url": deal.get("url") or deal["sheet_url"],
+                "source_url": deal.get("source_url") or deal.get("sheet_url") or deal.get("url"),
+                "retailer_url": deal.get("retailer_url"), "link_type": deal.get("link_type", "source"),
             })
     return events
 

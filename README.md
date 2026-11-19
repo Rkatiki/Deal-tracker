@@ -16,6 +16,8 @@ Start with the [deal index](data/feeds/index.json) for publisher status, ranked 
 - `changes.json` records additions, removals, price changes, and offers newly qualifying for the shortlist. The first snapshot establishes a baseline.
 - `price_history.json` stores the first observed numeric price and later changes, including for offers that disappear from a listing.
 
+Every offer has a recommended `url` and an original `source_url`. `retailer_url` is included when a merchant page or click-through is available. `link_type` identifies direct retailer links, retailer redirects, other offer links, and source fallbacks. The spreadsheet reader also checks public HTML for product hyperlinks that CSV omits.
+
 Prices use integer USD cents. Headline prices are discovery leads. Structured prices feed the ranking and price history. A removal means an offer left a monitored source or aged out of a rolling feed. Check the linked offer for current price and availability. Multiple publishers can report the same offer.
 
 ## Automatic and manual refreshes
