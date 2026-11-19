@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-19T15:53:44.697859+00:00",
+  "retrieved_at": "2026-11-19T22:27:48.902472+00:00",
   "source": {
     "id": "passionate-penny-pincher",
     "name": "Passionate Penny Pincher",
@@ -8,12 +8,12 @@
     "kind": "rss",
     "deal_headlines_only": true
   },
-  "baseline": true,
+  "baseline": false,
   "events": [
     {
       "id": "071ed3e88e5c2ce68b929451",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Barnum’s Original Animal Crackers BETTER Than Half Off (From $2.25 Shipped!)",
       "retailer": null,
@@ -31,12 +31,67 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://passionatepennypincher.com/animal-crackers/"
+      "url": "https://passionatepennypincher.com/animal-crackers/",
+      "source_url": "https://passionatepennypincher.com/animal-crackers/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "0984a92be699531f80f29580",
+      "types": [
+        "new"
+      ],
+      "title": "Fruit of the Loom Sweatpants from $6.17 (Reg up to $19!)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://passionatepennypincher.com/fruit-of-the-loom/",
+      "source_url": "https://passionatepennypincher.com/fruit-of-the-loom/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "1034c695f3d2265e33430fbc",
+      "types": [
+        "new"
+      ],
+      "title": "Women’s Long Sleeve Tops from JUST $5!",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://passionatepennypincher.com/womens-long-sleeve-shirt/",
+      "source_url": "https://passionatepennypincher.com/womens-long-sleeve-shirt/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "11e99e453cb62b256bc4172e",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Kindle Colorsoft Essentials Bundle From $179.99 (Reg $352.97 – LIGHTNING DEAL!!!)",
       "retailer": null,
@@ -54,12 +109,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://passionatepennypincher.com/kindle-colorsoft/"
+      "url": "https://passionatepennypincher.com/kindle-colorsoft/",
+      "source_url": "https://passionatepennypincher.com/kindle-colorsoft/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "149a87fff124b6c0745db67f",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "KitchenAid Mixing Bowls Set Under $15.40!",
       "retailer": null,
@@ -77,12 +135,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://passionatepennypincher.com/kitchenaid-set-of-5-mixing-bowls/"
+      "url": "https://passionatepennypincher.com/kitchenaid-set-of-5-mixing-bowls/",
+      "source_url": "https://passionatepennypincher.com/kitchenaid-set-of-5-mixing-bowls/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "1c8313f0543ca1056fd77843",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Dr. Pepper From $3.77 Shipped!",
       "retailer": null,
@@ -100,12 +161,41 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://passionatepennypincher.com/dr-pepper-on-sale-this-week/"
+      "url": "https://passionatepennypincher.com/dr-pepper-on-sale-this-week/",
+      "source_url": "https://passionatepennypincher.com/dr-pepper-on-sale-this-week/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "21c00115255e7d1940d6cfe1",
+      "types": [
+        "new"
+      ],
+      "title": "Amazon Haul Deals From 11¢!",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://passionatepennypincher.com/what-is-amazon-haul/",
+      "source_url": "https://passionatepennypincher.com/what-is-amazon-haul/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "22691abb327a9658cbfbbbf3",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Amazon Black Friday Week is LIVE!",
       "retailer": null,
@@ -123,12 +213,41 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://passionatepennypincher.com/amazon-black-friday-deals/"
+      "url": "https://passionatepennypincher.com/amazon-black-friday-deals/",
+      "source_url": "https://passionatepennypincher.com/amazon-black-friday-deals/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "2c36e29124dd6e38edb47869",
+      "types": [
+        "new"
+      ],
+      "title": "Amazon Quarter-Snap Sweatshirt from $12.80! (Reg $39) – AERIE Vibes!",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://passionatepennypincher.com/amazon-quarter-snap-sweatshirt/",
+      "source_url": "https://passionatepennypincher.com/amazon-quarter-snap-sweatshirt/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "33f0b0b65e2557726c447b1c",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Portable Car Jump Starter with Power Bank from $29.99 Shipped (Reg $123!)",
       "retailer": null,
@@ -146,12 +265,67 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://passionatepennypincher.com/car-jump-starter-power-bank/"
+      "url": "https://passionatepennypincher.com/car-jump-starter-power-bank/",
+      "source_url": "https://passionatepennypincher.com/car-jump-starter-power-bank/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "4003755cbc124c00312ddadc",
+      "types": [
+        "new"
+      ],
+      "title": "1,000 Piece LEGO Puzzles with Posters from $6 (Reg. $13)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://passionatepennypincher.com/1000-piece-puzzles-amazon/",
+      "source_url": "https://passionatepennypincher.com/1000-piece-puzzles-amazon/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "4917c102bfb39bc8d5bc653d",
+      "types": [
+        "new"
+      ],
+      "title": "Grace & Stella Luscious Lip Butter AND Eye Brightener Just $6.45 Shipped!",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://passionatepennypincher.com/grace-and-stella-beauty-sale/",
+      "source_url": "https://passionatepennypincher.com/grace-and-stella-beauty-sale/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "4a4ec53b7245a07dd90774e5",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "MEGA Bloks Sets from $9.49 (+ Table 36% OFF Today!)",
       "retailer": null,
@@ -169,12 +343,41 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://passionatepennypincher.com/mega-bloks-sale/"
+      "url": "https://passionatepennypincher.com/mega-bloks-sale/",
+      "source_url": "https://passionatepennypincher.com/mega-bloks-sale/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "4ad633ec2c76e80cc3875350",
+      "types": [
+        "new"
+      ],
+      "title": "Men’s Athletic Shorts ONLY $9.99 (Reg. $20)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://passionatepennypincher.com/mens-workout-shorts/",
+      "source_url": "https://passionatepennypincher.com/mens-workout-shorts/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "4b6ce1407258e2d5cbf7bea0",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Bluey Book Advent Calendar JUST $15! (Reg. $30)",
       "retailer": null,
@@ -192,14 +395,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://passionatepennypincher.com/bluey-advent-calendar/"
+      "url": "https://passionatepennypincher.com/bluey-advent-calendar/",
+      "source_url": "https://passionatepennypincher.com/bluey-advent-calendar/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
-      "id": "4f5c35ea7f994ddeb5fdf006",
+      "id": "4c398ba338d8b6dfb21148e1",
       "types": [
         "new"
       ],
-      "title": "*RARE* Fisher-Price Nativity On Drop for $45.98 (Best Price ALL Season – Reg. $70)",
+      "title": "Beats Solo 4 Headphones from $79.99 (Reg $200!)",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -215,12 +421,41 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://passionatepennypincher.com/fisher-price-nativity-set-little-people/"
+      "url": "https://passionatepennypincher.com/beats-headphones/",
+      "source_url": "https://passionatepennypincher.com/beats-headphones/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "4e480219590a36f1559ee137",
+      "types": [
+        "new"
+      ],
+      "title": "Oscillococcinum for the Flu UNDER $16!",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://passionatepennypincher.com/oscillococcinum-for-the-flu-on-sale-and-in-stock/",
+      "source_url": "https://passionatepennypincher.com/oscillococcinum-for-the-flu-on-sale-and-in-stock/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "515b96652712a4c944895c9a",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Owala Water Bottles From $20!",
       "retailer": null,
@@ -238,12 +473,41 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://passionatepennypincher.com/owala-sale/"
+      "url": "https://passionatepennypincher.com/owala-sale/",
+      "source_url": "https://passionatepennypincher.com/owala-sale/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "5207bdff2b456816f7be28d1",
+      "types": [
+        "new"
+      ],
+      "title": "Women’s Fleece-Lined Leggings & Pants from Under $15 (Reg. $36)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://passionatepennypincher.com/fleece-joggers/",
+      "source_url": "https://passionatepennypincher.com/fleece-joggers/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "54800a34e9f6b95234f86395",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Bella Programmable Single-Serve Coffee Maker w/ Burr Grinder ONLY $49.99 Shipped (Reg. $150)",
       "retailer": null,
@@ -261,12 +525,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://passionatepennypincher.com/best-buy-deal-of-the-day/"
+      "url": "https://passionatepennypincher.com/best-buy-deal-of-the-day/",
+      "source_url": "https://passionatepennypincher.com/best-buy-deal-of-the-day/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "56e4010f2cddfc7f31016f70",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Cute Women’s Cardigan JUST $10! (Reg $25)",
       "retailer": null,
@@ -284,12 +551,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://passionatepennypincher.com/amazon-cardigan/"
+      "url": "https://passionatepennypincher.com/amazon-cardigan/",
+      "source_url": "https://passionatepennypincher.com/amazon-cardigan/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "57af843914d02bb840022057",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Crock-Pot Lunch Crock from $30 (Perfect for Lunches!)",
       "retailer": null,
@@ -307,12 +577,41 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://passionatepennypincher.com/mini-crockpot-lunch-food-warmer/"
+      "url": "https://passionatepennypincher.com/mini-crockpot-lunch-food-warmer/",
+      "source_url": "https://passionatepennypincher.com/mini-crockpot-lunch-food-warmer/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "58e2a40080858abb47e15913",
+      "types": [
+        "new"
+      ],
+      "title": "Electric Nail Drill Kit JUST $9.99 (Reg. $26)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://passionatepennypincher.com/rechargeable-electric-nail-drill-kit/",
+      "source_url": "https://passionatepennypincher.com/rechargeable-electric-nail-drill-kit/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "59fb6c839e257ca9751c47b8",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Up to $250 OFF Apple MacBook Laptops!",
       "retailer": null,
@@ -330,12 +629,41 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://passionatepennypincher.com/apple-13-macbook-air-laptop/"
+      "url": "https://passionatepennypincher.com/apple-13-macbook-air-laptop/",
+      "source_url": "https://passionatepennypincher.com/apple-13-macbook-air-laptop/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "5c435edda5fcdbd211d9147b",
+      "types": [
+        "new"
+      ],
+      "title": "Nike Socks 6-Packs ONLY $12.50!",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://passionatepennypincher.com/nike-socks/",
+      "source_url": "https://passionatepennypincher.com/nike-socks/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "618c59a38874bb45df799cfc",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "EARLY Bath & Body Works Black Friday Sale – 40% OFF ENTIRE STORE + Rewards Offer!",
       "retailer": null,
@@ -353,12 +681,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://passionatepennypincher.com/wow-bath-body-works-sale/"
+      "url": "https://passionatepennypincher.com/wow-bath-body-works-sale/",
+      "source_url": "https://passionatepennypincher.com/wow-bath-body-works-sale/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "63233eb82b4acb9677f34ea0",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Tonies Toniebox 2 Sets from $75.50 (Reg. $150) + Toniebox Lite $37.49!",
       "retailer": null,
@@ -376,12 +707,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://passionatepennypincher.com/disney-tonies-deal/"
+      "url": "https://passionatepennypincher.com/disney-tonies-deal/",
+      "source_url": "https://passionatepennypincher.com/disney-tonies-deal/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "63819ba2575d7fb9275be7dc",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Keurig Coffee Makers from $50!",
       "retailer": null,
@@ -399,12 +733,41 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://passionatepennypincher.com/keurig-single-serve-compact-coffee-maker/"
+      "url": "https://passionatepennypincher.com/keurig-single-serve-compact-coffee-maker/",
+      "source_url": "https://passionatepennypincher.com/keurig-single-serve-compact-coffee-maker/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "64cb0a10e266ef57d726b062",
+      "types": [
+        "new"
+      ],
+      "title": "Apple AirPods 3 From $179!",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://passionatepennypincher.com/apple-airpods/",
+      "source_url": "https://passionatepennypincher.com/apple-airpods/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "652053361b3aceed6316f7b9",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Crest 3D Whitestrips from $26! (Reg. $46)",
       "retailer": null,
@@ -422,12 +785,41 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://passionatepennypincher.com/crest-whitestrips-sale/"
+      "url": "https://passionatepennypincher.com/crest-whitestrips-sale/",
+      "source_url": "https://passionatepennypincher.com/crest-whitestrips-sale/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "687796e6331c876040cfac6c",
+      "types": [
+        "new"
+      ],
+      "title": "LEGO Classic Creative Suitcase From $11.90 (Reg $20)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://passionatepennypincher.com/lego-classic-creative-suitcase/",
+      "source_url": "https://passionatepennypincher.com/lego-classic-creative-suitcase/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "6a59fe20dfe50a7f0618a4df",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Beckham Hotel Collection Queen Pillows 2pk JUST $37.90! (Reg $60)",
       "retailer": null,
@@ -445,12 +837,41 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://passionatepennypincher.com/memory-foam-pillow/"
+      "url": "https://passionatepennypincher.com/memory-foam-pillow/",
+      "source_url": "https://passionatepennypincher.com/memory-foam-pillow/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "6b324a77436323d39b001b7e",
+      "types": [
+        "new"
+      ],
+      "title": "UGG Micro Boots Under $98! (Reg. $140)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://passionatepennypincher.com/ugg-boots-sale/",
+      "source_url": "https://passionatepennypincher.com/ugg-boots-sale/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "6b3641c464b1a73262c2f2f8",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Bamboo Cutting Boards From $9.49! (Reg $35)",
       "retailer": null,
@@ -468,12 +889,67 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://passionatepennypincher.com/bamboo-cutting-board/"
+      "url": "https://passionatepennypincher.com/bamboo-cutting-board/",
+      "source_url": "https://passionatepennypincher.com/bamboo-cutting-board/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "6edcec2590668e17c7118e12",
+      "types": [
+        "new"
+      ],
+      "title": "Highly-Rated 6-Pack Women’s Ankle Socks from $11.69 (Reg. $25)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://passionatepennypincher.com/amazon-socks/",
+      "source_url": "https://passionatepennypincher.com/amazon-socks/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "6f9155c48bcd20697f20d174",
+      "types": [
+        "new"
+      ],
+      "title": "4 Pairs Hoop Earrings JUST $6! (Reg $13)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://passionatepennypincher.com/amazon-jewelry-sale/",
+      "source_url": "https://passionatepennypincher.com/amazon-jewelry-sale/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "72c9d4fab793d989fe59a943",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Crockpot Mini Casserole Slow Cooker JUST $34.20! (Reg. $55)",
       "retailer": null,
@@ -491,12 +967,41 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://passionatepennypincher.com/crockpot-programmable-casserole-slow-cooker/"
+      "url": "https://passionatepennypincher.com/crockpot-programmable-casserole-slow-cooker/",
+      "source_url": "https://passionatepennypincher.com/crockpot-programmable-casserole-slow-cooker/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "731c5947d6c7d00730c24886",
+      "types": [
+        "new"
+      ],
+      "title": "Crayola Ultimate Light Board $19.20 (Reg $35) + Light Up Stamper $15!",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://passionatepennypincher.com/crayola-ultimate-light-board/",
+      "source_url": "https://passionatepennypincher.com/crayola-ultimate-light-board/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "7800c3735e3452b3d7f0cd8b",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Dyson Stick Vacuum $270 (Reg $600)!",
       "retailer": null,
@@ -514,12 +1019,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://passionatepennypincher.com/dyson-vacuum-sale/"
+      "url": "https://passionatepennypincher.com/dyson-vacuum-sale/",
+      "source_url": "https://passionatepennypincher.com/dyson-vacuum-sale/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "799b731fb130e6f0ac26c3d1",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Large Yankee Candles from $15! (Reg $25)",
       "retailer": null,
@@ -537,12 +1045,41 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://passionatepennypincher.com/large-yankee-jar-candles-sale/"
+      "url": "https://passionatepennypincher.com/large-yankee-jar-candles-sale/",
+      "source_url": "https://passionatepennypincher.com/large-yankee-jar-candles-sale/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "7aab337a62e149ff0d19cf27",
+      "types": [
+        "new"
+      ],
+      "title": "Women’s Long Sleeve Sweaters from ONLY $7.50!",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://passionatepennypincher.com/amazon-sweaters-hoodies/",
+      "source_url": "https://passionatepennypincher.com/amazon-sweaters-hoodies/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "7b5b90114af1bc224a928237",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Maxwell House Coffee From $9.90 for the BIG Canister! (Reg $16)",
       "retailer": null,
@@ -560,12 +1097,41 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://passionatepennypincher.com/maxwell-house-coffee-coupon/"
+      "url": "https://passionatepennypincher.com/maxwell-house-coffee-coupon/",
+      "source_url": "https://passionatepennypincher.com/maxwell-house-coffee-coupon/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "82994bcac3d75bfbc5310b4d",
+      "types": [
+        "new"
+      ],
+      "title": "Twinings Winter Tea Set From $10.75 (Reg $20 – Great for Gifting!)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://passionatepennypincher.com/twinings-tea-set/",
+      "source_url": "https://passionatepennypincher.com/twinings-tea-set/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "8370fa7ab20e26bb60e90a8e",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Target’s Deal of the Day | 30% Off Pura Diffusers!",
       "retailer": null,
@@ -583,14 +1149,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://passionatepennypincher.com/target-deal-of-the-day/"
+      "url": "https://passionatepennypincher.com/target-deal-of-the-day/",
+      "source_url": "https://passionatepennypincher.com/target-deal-of-the-day/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
-      "id": "89163e2208441c135a5acd74",
+      "id": "8cfc006fe573650bbac270c8",
       "types": [
         "new"
       ],
-      "title": "TikTok Viral KAHI Multi Balm Stick Just $11.99 Shipped (Reg. $24)",
+      "title": "Champion Hoodies from $15.74 (Reg $55!)",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -606,12 +1175,93 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://passionatepennypincher.com/kahi-multi-balm-stick/"
+      "url": "https://passionatepennypincher.com/champion-sale/",
+      "source_url": "https://passionatepennypincher.com/champion-sale/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "8e5d0aff399a9ca74802513a",
+      "types": [
+        "new"
+      ],
+      "title": "WOW! Ninja SLUSHi Machine ONLY $149.99 Shipped! (Reg. $350)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://passionatepennypincher.com/ninja-slushie-drink-maker-sale/",
+      "source_url": "https://passionatepennypincher.com/ninja-slushie-drink-maker-sale/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "8f5c02deeefc2dd9710912a1",
+      "types": [
+        "new"
+      ],
+      "title": "Extra Soft Bathroom Rug from $8.99 (Reg $15!)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://passionatepennypincher.com/chenille-bubble-bath-rugs/",
+      "source_url": "https://passionatepennypincher.com/chenille-bubble-bath-rugs/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "90ecdd22cdd43c588c95871b",
+      "types": [
+        "new"
+      ],
+      "title": "Crayola Light-Ups Sets from $3.49 Shipped (Reg. $11)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://passionatepennypincher.com/crayola-light-ups/",
+      "source_url": "https://passionatepennypincher.com/crayola-light-ups/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "9368db9d09b109ff01de7720",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Up to 55% OFF Stanley Tumblers (From ONLY $12.50)!",
       "retailer": null,
@@ -629,12 +1279,67 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://passionatepennypincher.com/stanley-tumblers-sale/"
+      "url": "https://passionatepennypincher.com/stanley-tumblers-sale/",
+      "source_url": "https://passionatepennypincher.com/stanley-tumblers-sale/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "985a18df00a05c337ee4b0f8",
+      "types": [
+        "new"
+      ],
+      "title": "Barefoot Dreams CozyChic Throw Only $54 Shipped (Reg. $180)!",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://passionatepennypincher.com/barefoot-dreams-cozychic-throw/",
+      "source_url": "https://passionatepennypincher.com/barefoot-dreams-cozychic-throw/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "99aaa9d44f061d01953c80e7",
+      "types": [
+        "new"
+      ],
+      "title": "Kids Karaoke Machine with Mics JUST $10! (Reg. $25)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://passionatepennypincher.com/karaoke-microphone/",
+      "source_url": "https://passionatepennypincher.com/karaoke-microphone/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "9bdb4c8507c0c929c59450c8",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Soft Pet Carrier Under $24 Shipped (Reg. $30) – Includes Collapsible Bowl!",
       "retailer": null,
@@ -652,12 +1357,119 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://passionatepennypincher.com/pet-carrier-deals/"
+      "url": "https://passionatepennypincher.com/pet-carrier-deals/",
+      "source_url": "https://passionatepennypincher.com/pet-carrier-deals/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "9d0c523f5ca7ce91f2e6ddb8",
+      "types": [
+        "new"
+      ],
+      "title": "Dr. Seuss 4-Book Boxed Set From $6.69 (Reg. $20) + Board Books from $3.77!",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://passionatepennypincher.com/amazon-childrens-board-books/",
+      "source_url": "https://passionatepennypincher.com/amazon-childrens-board-books/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "9d2134c6608efccf3a2e0e6a",
+      "types": [
+        "new"
+      ],
+      "title": "Highly Rated Fidget Toys Starting at Just $7.96 (Stocking Stuffers!)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://passionatepennypincher.com/fidget-cubes/",
+      "source_url": "https://passionatepennypincher.com/fidget-cubes/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "9f86ac07a835038eaeb5b6f1",
+      "types": [
+        "new"
+      ],
+      "title": "Lululemon Up to 60% OFF | $19 Belt Bags, $14 Shorts + $39 Leggings!",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://passionatepennypincher.com/lululemon-sale/",
+      "source_url": "https://passionatepennypincher.com/lululemon-sale/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "a0ba217372eb6b6c356455b1",
+      "types": [
+        "new"
+      ],
+      "title": "Darling Blouses from $10 Shipped (Reg. $27) – PPP Fave!",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://passionatepennypincher.com/floral-blouse/",
+      "source_url": "https://passionatepennypincher.com/floral-blouse/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "a795311d4e412d53183f2912",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "LEGO Classic Brick Box JUST $15 (Reg $35) – 57% OFF!",
       "retailer": null,
@@ -675,12 +1487,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://passionatepennypincher.com/lego-classic-brick-box/"
+      "url": "https://passionatepennypincher.com/lego-classic-brick-box/",
+      "source_url": "https://passionatepennypincher.com/lego-classic-brick-box/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "a86c4acd1ff034b4839432db",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Liquid I.V. from $13.85 Shipped! (Reg $20)",
       "retailer": null,
@@ -698,12 +1513,41 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://passionatepennypincher.com/liquid-iv-hydration-multiplier/"
+      "url": "https://passionatepennypincher.com/liquid-iv-hydration-multiplier/",
+      "source_url": "https://passionatepennypincher.com/liquid-iv-hydration-multiplier/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "a8dfe17cbf46977168d2568b",
+      "types": [
+        "new"
+      ],
+      "title": "Jade Roller & Gua Sha Facial Tools Set JUST $3.95! (Reg $8)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://passionatepennypincher.com/jade-roller-facial-massager/",
+      "source_url": "https://passionatepennypincher.com/jade-roller-facial-massager/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "aaad85dfeec10131f1904ecd",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "COSRX Snail Mucin from $11.55! (Reg. $25)",
       "retailer": null,
@@ -721,12 +1565,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://passionatepennypincher.com/snail-mucin-skincare/"
+      "url": "https://passionatepennypincher.com/snail-mucin-skincare/",
+      "source_url": "https://passionatepennypincher.com/snail-mucin-skincare/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "ac4656d445b8f32376b35625",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Bissell Little Green Carpet Cleaners from $74.62 (Reg. $102+)",
       "retailer": null,
@@ -744,12 +1591,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://passionatepennypincher.com/bissell-little-green-carpet-cleaning-machine/"
+      "url": "https://passionatepennypincher.com/bissell-little-green-carpet-cleaning-machine/",
+      "source_url": "https://passionatepennypincher.com/bissell-little-green-carpet-cleaning-machine/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "afc75dcd6d480dce39e523b2",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Quaker Oatmeal Squares Cereal FAMILY SIZE From $1.93 (Reg $4.42!)",
       "retailer": null,
@@ -767,12 +1617,67 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://passionatepennypincher.com/quaker-oatmeal-squares-cereal/"
+      "url": "https://passionatepennypincher.com/quaker-oatmeal-squares-cereal/",
+      "source_url": "https://passionatepennypincher.com/quaker-oatmeal-squares-cereal/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "b374bcf585bedf22936aba44",
+      "types": [
+        "new"
+      ],
+      "title": "Men’s Quarter Zip Pullovers & Sweaters from Under $12 (Reg. $40)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://passionatepennypincher.com/mens-quarter-zip-pullovers/",
+      "source_url": "https://passionatepennypincher.com/mens-quarter-zip-pullovers/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "b961604c62bd87a16c30099d",
+      "types": [
+        "new"
+      ],
+      "title": "Acacia Wood Charcuterie Boards From $17.40!",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://passionatepennypincher.com/serving-tray/",
+      "source_url": "https://passionatepennypincher.com/serving-tray/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "bc7e0ad89412e5782133d09e",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Ultimate Catch Phrase Game JUST $11.50! (Reg $22)",
       "retailer": null,
@@ -790,12 +1695,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://passionatepennypincher.com/catch-phrase-game/"
+      "url": "https://passionatepennypincher.com/catch-phrase-game/",
+      "source_url": "https://passionatepennypincher.com/catch-phrase-game/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "c324fd32d40ea1f2dd2ada44",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Nex Playground Only $209! (Reg $299)",
       "retailer": null,
@@ -813,12 +1721,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://passionatepennypincher.com/nex-playground-deal/"
+      "url": "https://passionatepennypincher.com/nex-playground-deal/",
+      "source_url": "https://passionatepennypincher.com/nex-playground-deal/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "c33fa8b9a28650db4b260894",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Clip-On LED Reading Light JUST $8! (Reg $26)",
       "retailer": null,
@@ -836,35 +1747,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://passionatepennypincher.com/reading-light/"
-    },
-    {
-      "id": "c3a687abaf01b663c74d0a07",
-      "types": [
-        "new"
-      ],
-      "title": "Touchland Fragrance Sprays ONLY $11.70! (Reg $20)",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://passionatepennypincher.com/touchland-sale/"
+      "url": "https://passionatepennypincher.com/reading-light/",
+      "source_url": "https://passionatepennypincher.com/reading-light/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "c3ab33419a8c57df3f26c0c3",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Ninja 5.5-Quart Air Fryer JUST $90 (Reg $180) + Ninja Foodi 8-Quart $109!",
       "retailer": null,
@@ -882,12 +1773,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://passionatepennypincher.com/ninja-air-fryer-lowest-price-ever/"
+      "url": "https://passionatepennypincher.com/ninja-air-fryer-lowest-price-ever/",
+      "source_url": "https://passionatepennypincher.com/ninja-air-fryer-lowest-price-ever/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "c9d419842aad8da9783b884b",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "6-in-1 Veggie Chopper from JUST $19! (Reg $30)",
       "retailer": null,
@@ -905,12 +1799,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://passionatepennypincher.com/manual-food-chopper-review/"
+      "url": "https://passionatepennypincher.com/manual-food-chopper-review/",
+      "source_url": "https://passionatepennypincher.com/manual-food-chopper-review/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "cc2626030b2e590da75c1967",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Fisher-Price Charcuterie Set JUST $14.50 (Reg $27!)",
       "retailer": null,
@@ -928,14 +1825,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://passionatepennypincher.com/fisher-price-toys/"
+      "url": "https://passionatepennypincher.com/fisher-price-toys/",
+      "source_url": "https://passionatepennypincher.com/fisher-price-toys/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
-      "id": "cc6775600b3ac9960fa5b06e",
+      "id": "d532ad1bbf59970eb022b7d2",
       "types": [
         "new"
       ],
-      "title": "Harry’s Body Wash 3-Pack from $14.70! (Reg $22)",
+      "title": "Tree Hut Sugar Scrub from JUST $5!",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -951,12 +1851,67 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://passionatepennypincher.com/harrys-sale/"
+      "url": "https://passionatepennypincher.com/amazon-tree-hut-deal/",
+      "source_url": "https://passionatepennypincher.com/amazon-tree-hut-deal/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "d8fd73c6bea17d3e2a82a8e1",
+      "types": [
+        "new"
+      ],
+      "title": "MaryRuth’s Liquid Morning Multivitamin Just $20.49 (Reg. $43)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://passionatepennypincher.com/mary-ruths-liquid-multivitamins/",
+      "source_url": "https://passionatepennypincher.com/mary-ruths-liquid-multivitamins/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "de68a1a76d2429c3cdf4b4e5",
+      "types": [
+        "new"
+      ],
+      "title": "SHOKZ Open Ear Headphones on Sale from $54.95 (Save over 30%!)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://passionatepennypincher.com/shokz-headphones/",
+      "source_url": "https://passionatepennypincher.com/shokz-headphones/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "de8a8fe37e8359fda0bc4b6a",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Lumineux Teeth Whitening Strips from $15!",
       "retailer": null,
@@ -974,12 +1929,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://passionatepennypincher.com/lumineux-teeth-whitening-products/"
+      "url": "https://passionatepennypincher.com/lumineux-teeth-whitening-products/",
+      "source_url": "https://passionatepennypincher.com/lumineux-teeth-whitening-products/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "e01f069baa9d10f727151daf",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Macy’s Black Friday Sale! Up to 80% OFF + Free Shipping on $25!",
       "retailer": null,
@@ -997,12 +1955,119 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://passionatepennypincher.com/best-macys-black-friday-deals/"
+      "url": "https://passionatepennypincher.com/best-macys-black-friday-deals/",
+      "source_url": "https://passionatepennypincher.com/best-macys-black-friday-deals/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "e2af9a11d1bedc4b5e585969",
+      "types": [
+        "new"
+      ],
+      "title": "Bath & Body Works Mailer (Free Body Care Item + $10 OFF!)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://passionatepennypincher.com/free-bath-body-works-coupon/",
+      "source_url": "https://passionatepennypincher.com/free-bath-body-works-coupon/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "e300bcec09782d5e4205fdc3",
+      "types": [
+        "new"
+      ],
+      "title": "Up to 80% OFF Macy’s Women’s Boots – Styles from $24.99 (Reg. $80)!",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://passionatepennypincher.com/macys-shoe-sale/",
+      "source_url": "https://passionatepennypincher.com/macys-shoe-sale/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "e8b6262118f660f83af611d5",
+      "types": [
+        "new"
+      ],
+      "title": "Little Tikes Tractor & Cart JUST $40! (Reg $65)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://passionatepennypincher.com/little-tikes-sale/",
+      "source_url": "https://passionatepennypincher.com/little-tikes-sale/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "eabf6611990edfb63f18ec89",
+      "types": [
+        "new"
+      ],
+      "title": "Flowyair Stretchy Flared Jeans ONLY $18! (Reg $50)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://passionatepennypincher.com/flowyair-stretchy-flared-jeans/",
+      "source_url": "https://passionatepennypincher.com/flowyair-stretchy-flared-jeans/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "f1c80c6b40b92c0a7c3aa3a2",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Best Buy Black Friday LIVE (Shop Doorbusters NOW!)",
       "retailer": null,
@@ -1020,12 +2085,41 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://passionatepennypincher.com/best-buy-black-friday-ad/"
+      "url": "https://passionatepennypincher.com/best-buy-black-friday-ad/",
+      "source_url": "https://passionatepennypincher.com/best-buy-black-friday-ad/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "f2ef105f95c4dd87e0455123",
+      "types": [
+        "new"
+      ],
+      "title": "Side Sleeper Knee Pillow from $14.45 (Reg. $29) – Great for Pregnancy!",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://passionatepennypincher.com/knee-pillow/",
+      "source_url": "https://passionatepennypincher.com/knee-pillow/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "f3666dc54a5c9bae199999a4",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "PPP Black Friday Sale | Ships FAST from Amazon!",
       "retailer": null,
@@ -1043,12 +2137,67 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://passionatepennypincher.com/ppp-amazon-sale/"
+      "url": "https://passionatepennypincher.com/ppp-amazon-sale/",
+      "source_url": "https://passionatepennypincher.com/ppp-amazon-sale/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "f3af89235c073745f11ee12c",
+      "types": [
+        "new"
+      ],
+      "title": "LEGO Creator 3-in-1 Wild Animal Set from $27! (Reg $60)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://passionatepennypincher.com/lego-creator-sets/",
+      "source_url": "https://passionatepennypincher.com/lego-creator-sets/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "f453aab877a03b9bca1634c8",
+      "types": [
+        "new"
+      ],
+      "title": "Care Bears Harry Potter Plush from ONLY $7 (Reg. $20)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://passionatepennypincher.com/care-bears-sale/",
+      "source_url": "https://passionatepennypincher.com/care-bears-sale/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "f70ffd8636e3bc0bad76da6b",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Apple Watches from $199 (+ Series 12 Just $329!)",
       "retailer": null,
@@ -1066,12 +2215,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://passionatepennypincher.com/apple-watch-sale/"
+      "url": "https://passionatepennypincher.com/apple-watch-sale/",
+      "source_url": "https://passionatepennypincher.com/apple-watch-sale/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "f862615ac890ea4b5143e5cf",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Smart Bird Feeder Camera Under $29! (Reg $76)",
       "retailer": null,
@@ -1089,12 +2241,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://passionatepennypincher.com/bird-feeder-camera/"
+      "url": "https://passionatepennypincher.com/bird-feeder-camera/",
+      "source_url": "https://passionatepennypincher.com/bird-feeder-camera/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "fb0e87d99b411ebce534334e",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Laura Geller Foundation from ONLY $17.10! (Reg up to $38)",
       "retailer": null,
@@ -1112,12 +2267,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://passionatepennypincher.com/laura-geller-sale/"
+      "url": "https://passionatepennypincher.com/laura-geller-sale/",
+      "source_url": "https://passionatepennypincher.com/laura-geller-sale/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "fd3171ef8db30d1f7ad6bfd7",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Buy 2 Get 1 50% OFF Alani (Cans from $1.75 – Reg $3!)",
       "retailer": null,
@@ -1135,12 +2293,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://passionatepennypincher.com/alani-nu-energy-drinks/"
+      "url": "https://passionatepennypincher.com/alani-nu-energy-drinks/",
+      "source_url": "https://passionatepennypincher.com/alani-nu-energy-drinks/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "fdfc9c6f0ba35c7863681e91",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Pepperidge Farm Milano Cookies from $2.38 Per Pack (Reg $4.50!)",
       "retailer": null,
@@ -1158,7 +2319,36 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://passionatepennypincher.com/pepperidge-farm-milano-cookie-tub/"
+      "url": "https://passionatepennypincher.com/pepperidge-farm-milano-cookie-tub/",
+      "source_url": "https://passionatepennypincher.com/pepperidge-farm-milano-cookie-tub/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "ffd8135d4ecdcad0ab662a54",
+      "types": [
+        "new"
+      ],
+      "title": "Ulta Early Black Friday Sale is LIVE! (Revlon, Armani, JoyBright, Billie Eilish)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://passionatepennypincher.com/ulta-black-friday/",
+      "source_url": "https://passionatepennypincher.com/ulta-black-friday/",
+      "retailer_url": null,
+      "link_type": "source"
     }
   ]
 }

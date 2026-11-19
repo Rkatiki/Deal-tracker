@@ -1,18 +1,96 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-19T15:53:44.697859+00:00",
+  "retrieved_at": "2026-11-19T22:27:48.902472+00:00",
   "source": {
     "id": "slickdeals",
     "name": "Slickdeals Frontpage",
     "url": "https://slickdeals.net/newsearch.php?mode=frontpage&searcharea=deals&searchin=first&rss=1",
     "kind": "rss"
   },
-  "baseline": true,
+  "baseline": false,
   "events": [
+    {
+      "id": "0432135472b8cbb064d4606f",
+      "types": [
+        "new"
+      ],
+      "title": "Disney+ Members: 3-Day, 3-Park Disney World Ticket to Select Theme Parks from $325 (January 11 to May 21, 2027)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://slickdeals.net/f/20328999-disney-subscribers-disney-world-ticket-offer-3-day-tickets-starting-at-325-tax-no-magic-kingdom-fyi-january-11-through-may-21-2027?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source_url": "https://slickdeals.net/f/20328999-disney-subscribers-disney-world-ticket-offer-3-day-tickets-starting-at-325-tax-no-magic-kingdom-fyi-january-11-through-may-21-2027?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "0c8e80867f3d0718e4ae95ec",
+      "types": [
+        "new"
+      ],
+      "title": "10-Pk Hanes Toddler's Boxer Briefs (2-3T or 4-5T) $9.30",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://slickdeals.net/f/20343816-9-31-10-pk-hanes-toddler-s-boxer-briefs-2-3t-or-4-5t-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source_url": "https://slickdeals.net/f/20343816-9-31-10-pk-hanes-toddler-s-boxer-briefs-2-3t-or-4-5t-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "0fd72ad081e0020aa04c8a95",
+      "types": [
+        "new"
+      ],
+      "title": "Prime Members: 5\" toolant Mini Groove-Joint Pliers Wrench w/ Smooth Jaws $12.80 & More + Free S&H",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://slickdeals.net/f/20344752-prime-5-or-7-toolant-mini-pliers-wrench-w-smooth-jaws-12-79-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source_url": "https://slickdeals.net/f/20344752-prime-5-or-7-toolant-mini-pliers-wrench-w-smooth-jaws-12-79-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "retailer_url": null,
+      "link_type": "source"
+    },
     {
       "id": "141aefb5a790b07ab9aeae13",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "24-Piece Astercook Black Silverware Set $12.35",
       "retailer": null,
@@ -30,12 +108,41 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://slickdeals.net/f/20335407-astercook-24-piece-black-silverware-set-12-99-free-shipping-w-prime-or-orders-35?utm_source=rss&utm_content=fp&utm_medium=RSS2"
+      "url": "https://slickdeals.net/f/20335407-astercook-24-piece-black-silverware-set-12-99-free-shipping-w-prime-or-orders-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source_url": "https://slickdeals.net/f/20335407-astercook-24-piece-black-silverware-set-12-99-free-shipping-w-prime-or-orders-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "1a62f9d2281fb4eb938f5f6d",
+      "types": [
+        "new"
+      ],
+      "title": "21-Pc Leatherman Double-Ended Screwdriver Bit Kit $20",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://slickdeals.net/f/20343030-20-21-pc-leatherman-double-ended-screwdriver-bit-kit-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source_url": "https://slickdeals.net/f/20343030-20-21-pc-leatherman-double-ended-screwdriver-bit-kit-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "1d2edf7d4bcb16ef6219fd96",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "eufy Security SoloCam E42 4K Solar Camera: 4-Cam w/ HomeBase $430, 1-Cam $100 + Free S&H",
       "retailer": null,
@@ -53,12 +160,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://slickdeals.net/f/20336820-eufy-security-solocam-e42-4k-solar-camera-1-cam-100-4-cam-w-homebase-3-430-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2"
+      "url": "https://slickdeals.net/f/20336820-eufy-security-solocam-e42-4k-solar-camera-1-cam-100-4-cam-w-homebase-3-430-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source_url": "https://slickdeals.net/f/20336820-eufy-security-solocam-e42-4k-solar-camera-1-cam-100-4-cam-w-homebase-3-430-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "220a2615ca818662e7f5f00b",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Prime Members: 16\" x 12\" Astercook Bamboo Cutting Board w/ Juice Groove & Handle $7.50 + Free S&H",
       "retailer": null,
@@ -76,12 +186,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://slickdeals.net/f/20316687-prime-16-x-12-astercook-bamboo-cutting-board-w-juice-groove-handle-brown-or-yellow-7-49-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2"
+      "url": "https://slickdeals.net/f/20316687-prime-16-x-12-astercook-bamboo-cutting-board-w-juice-groove-handle-brown-or-yellow-7-49-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source_url": "https://slickdeals.net/f/20316687-prime-16-x-12-astercook-bamboo-cutting-board-w-juice-groove-handle-brown-or-yellow-7-49-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "30cfcca72708d52d93cb4e18",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "DeWALT XR 20V MAX Cordless Brushless Oscillating Tool w/ 2 Ah Battery Kit $99 + Free S&H",
       "retailer": null,
@@ -99,12 +212,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://slickdeals.net/f/20325390-dewalt-20-volt-max-cordless-brushless-variable-speed-13-piece-battery-included-and-charger-included-dcs356d1-99?utm_source=rss&utm_content=fp&utm_medium=RSS2"
+      "url": "https://slickdeals.net/f/20325390-dewalt-20-volt-max-cordless-brushless-variable-speed-13-piece-battery-included-and-charger-included-dcs356d1-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source_url": "https://slickdeals.net/f/20325390-dewalt-20-volt-max-cordless-brushless-variable-speed-13-piece-battery-included-and-charger-included-dcs356d1-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "310fd5a65890727c41c6f66c",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Ryobi ONE+ 18V 4.0Ah Lithium Starter Kit + FREE Hybrid LED Work Light $79 + Free S&H",
       "retailer": null,
@@ -122,12 +238,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://slickdeals.net/f/20324565-ryobi-one-18v-4-0ah-lithium-starter-kit-free-hybrid-led-work-light-79-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2"
+      "url": "https://slickdeals.net/f/20324565-ryobi-one-18v-4-0ah-lithium-starter-kit-free-hybrid-led-work-light-79-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source_url": "https://slickdeals.net/f/20324565-ryobi-one-18v-4-0ah-lithium-starter-kit-free-hybrid-led-work-light-79-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "34a571f33294a45870653e37",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Costco Members: 29 Cu Ft Samsung Bespoke 4-Door French Door Refrigerator $1650 + Free Delivery & Install",
       "retailer": null,
@@ -145,12 +264,41 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://slickdeals.net/f/20329770-costco-members-samsung-29-cu-ft-bespoke-4-door-french-door-refrigerator-with-inner-beverage-center-and-flexzone-drawer-1849-99?utm_source=rss&utm_content=fp&utm_medium=RSS2"
+      "url": "https://slickdeals.net/f/20329770-costco-members-samsung-29-cu-ft-bespoke-4-door-french-door-refrigerator-with-inner-beverage-center-and-flexzone-drawer-1849-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source_url": "https://slickdeals.net/f/20329770-costco-members-samsung-29-cu-ft-bespoke-4-door-french-door-refrigerator-with-inner-beverage-center-and-flexzone-drawer-1849-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "37ce415c7023d8d853e0b9df",
+      "types": [
+        "new"
+      ],
+      "title": "Nothing Ear (a) Wireless Earbuds (3 Colors) $55 + Free S&H",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://slickdeals.net/f/20301969-nothing-ear-a-true-wireless-anc-in-ear-earbuds-various-colors-55-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source_url": "https://slickdeals.net/f/20301969-nothing-ear-a-true-wireless-anc-in-ear-earbuds-various-colors-55-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "38df6c321d8cb09f9f3de892",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Costco: Apple AirPods 5 ANC Wireless Earbuds + 1-Year of AppleCare+ Membership $130 + Free S&H",
       "retailer": null,
@@ -168,12 +316,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://slickdeals.net/f/20343957-costco-members-airpods-5-w-wireless-charging-case-anc-1-year-applecare-129?utm_source=rss&utm_content=fp&utm_medium=RSS2"
+      "url": "https://slickdeals.net/f/20343957-costco-members-airpods-5-w-wireless-charging-case-anc-1-year-applecare-129?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source_url": "https://slickdeals.net/f/20343957-costco-members-airpods-5-w-wireless-charging-case-anc-1-year-applecare-129?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "3bd9f4e40e3bc3da4c3733a5",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "LEGO Star Wars SMART Play: Darth Vader’s TIE Fighter Building Set + $12 WM Cash $56 + Free S/H",
       "retailer": null,
@@ -191,12 +342,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://slickdeals.net/f/20335536-473-piece-lego-star-wars-darth-vader-s-tie-fighter-smart-interactive-building-set-75421-12-walmart-cash-for-55-99-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2"
+      "url": "https://slickdeals.net/f/20335536-473-piece-lego-star-wars-darth-vader-s-tie-fighter-smart-interactive-building-set-75421-12-walmart-cash-for-55-99-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source_url": "https://slickdeals.net/f/20335536-473-piece-lego-star-wars-darth-vader-s-tie-fighter-smart-interactive-building-set-75421-12-walmart-cash-for-55-99-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "403a76ce01c2461f79861d39",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "IKEA Limited-Edition Holiday Bag Charm Free [Pickup In-Store on 11/28/26]",
       "retailer": null,
@@ -214,12 +368,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://slickdeals.net/f/20335767-ikea-limited-edition-holiday-bag-charm-free-ikea?utm_source=rss&utm_content=fp&utm_medium=RSS2"
+      "url": "https://slickdeals.net/f/20335767-ikea-limited-edition-holiday-bag-charm-free-ikea?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source_url": "https://slickdeals.net/f/20335767-ikea-limited-edition-holiday-bag-charm-free-ikea?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "457bd11e8ee722bce3166f14",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Costco Members: Men's 32 Degrees Battery-Powered Heated Jacket (various sizes) $55 + Free S&H",
       "retailer": null,
@@ -237,12 +394,67 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://slickdeals.net/f/20332047-32-degrees-men-s-heated-jacket-54-99-free-shipping-costco-com?utm_source=rss&utm_content=fp&utm_medium=RSS2"
+      "url": "https://slickdeals.net/f/20332047-32-degrees-men-s-heated-jacket-54-99-free-shipping-costco-com?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source_url": "https://slickdeals.net/f/20332047-32-degrees-men-s-heated-jacket-54-99-free-shipping-costco-com?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "50b59034892a951dd6c8e583",
+      "types": [
+        "new"
+      ],
+      "title": "Batman: 4-Film Collection (1989-1997) (4K Ultra HD + Blu-Ray) $31",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://slickdeals.net/f/20346777-batman-4k-film-collection-30-99-amazon-com?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source_url": "https://slickdeals.net/f/20346777-batman-4k-film-collection-30-99-amazon-com?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "50e64104db70952637543ea7",
+      "types": [
+        "new"
+      ],
+      "title": "Magic: The Gathering Marvel Super Heroes The Fantastic Four Commander Deck $39 + Free S&H",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://slickdeals.net/f/20302446-magic-the-gathering-marvel-super-heroes-the-fantastic-four-commander-deck-39-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source_url": "https://slickdeals.net/f/20302446-magic-the-gathering-marvel-super-heroes-the-fantastic-four-commander-deck-39-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "55db0152b2cd9f1aed2bea8f",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "TOTO WASHLET KS6 Electronic Heated Bidet (Elongated) $399 + Free S&H",
       "retailer": null,
@@ -260,12 +472,119 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://slickdeals.net/f/20340150-398-98-toto-washlet-ks6-electronic-heated-bidet-elongated-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2"
+      "url": "https://slickdeals.net/f/20340150-398-98-toto-washlet-ks6-electronic-heated-bidet-elongated-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source_url": "https://slickdeals.net/f/20340150-398-98-toto-washlet-ks6-electronic-heated-bidet-elongated-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "58fe3ae2c9adee34eae39e9c",
+      "types": [
+        "new"
+      ],
+      "title": "100-Pk Organic Café Romano Coffee Aluminum Espresso Pods (Variety Pack) $12.70 w/ S&S",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://slickdeals.net/f/20340702-100-pk-organic-caf-romano-coffee-aluminum-espresso-pods-variety-pack-12-70-w-s-s?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source_url": "https://slickdeals.net/f/20340702-100-pk-organic-caf-romano-coffee-aluminum-espresso-pods-variety-pack-12-70-w-s-s?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "5f00790cc70322c52d485dfe",
+      "types": [
+        "new"
+      ],
+      "title": "18.8-oz Campbell’s Chunky Soup (Savory Pot Roast or Spicy Sausage Mac) $1.55 w/ S&S",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://slickdeals.net/f/20339385-18-8-oz-campbell-s-chunky-soup-savory-pot-roast-or-spicy-sausage-mac-1-56-w-s-s-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source_url": "https://slickdeals.net/f/20339385-18-8-oz-campbell-s-chunky-soup-savory-pot-roast-or-spicy-sausage-mac-1-56-w-s-s-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "662f619a005146dd863fe62f",
+      "types": [
+        "new"
+      ],
+      "title": "Final Fantasy XVI (PlayStation 5) $18",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://slickdeals.net/f/20348418-final-fantasy-xvi-playstation-5-physical-17-97?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source_url": "https://slickdeals.net/f/20348418-final-fantasy-xvi-playstation-5-physical-17-97?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "70b516d76a932f827ec6d7bb",
+      "types": [
+        "new"
+      ],
+      "title": "Sony PlayStation 5 DualSense Wireless Controllers (various colors) From $54 + Free S&H",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://slickdeals.net/f/20317353-sony-playstation-5-dualsense-wireless-controllers-various-colors-from-54-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source_url": "https://slickdeals.net/f/20317353-sony-playstation-5-dualsense-wireless-controllers-various-colors-from-54-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "7436a015dd5e70df9377216c",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Targus 15.6\" Slate Padded Backpack (various colors) $10 + Free S&H",
       "retailer": null,
@@ -283,12 +602,67 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://slickdeals.net/f/20338623-targus-15-6-slate-backpack-various-colors-9-99-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2"
+      "url": "https://slickdeals.net/f/20338623-targus-15-6-slate-backpack-various-colors-9-99-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source_url": "https://slickdeals.net/f/20338623-targus-15-6-slate-backpack-various-colors-9-99-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "7d9d3a55865dcec6f86834d5",
+      "types": [
+        "new"
+      ],
+      "title": "Men's Ozark Trail Hike Pants in Classic Navy (various sizes) From $10.50 + Free S&H on $35+",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://slickdeals.net/f/20337183-ozark-trail-men-s-and-big-men-s-hike-pants-sizes-30-46-10-50-12-25-navy-blue?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source_url": "https://slickdeals.net/f/20337183-ozark-trail-men-s-and-big-men-s-hike-pants-sizes-30-46-10-50-12-25-navy-blue?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "83738bb3ca61818adaba5783",
+      "types": [
+        "new"
+      ],
+      "title": "DEWALT 20V MAX 8\" Battery Powered Mini Pruning Chainsaw (Tool Only) $99 + Free S&H",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://slickdeals.net/f/20345196-dewalt-20v-max-8-in-brushless-cordless-battery-powered-mini-pruning-chainsaw-tool-only-99-at-home-depot?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source_url": "https://slickdeals.net/f/20345196-dewalt-20v-max-8-in-brushless-cordless-battery-powered-mini-pruning-chainsaw-tool-only-99-at-home-depot?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "99009d772875d7dc41f89669",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Bambu Lab AMS 2 Pro Automatic Filament Storage Unit $229 + Free S&H",
       "retailer": null,
@@ -306,12 +680,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://slickdeals.net/f/20322081-bambu-lab-ams-2-pro-automatic-material-system-229-00-usd?utm_source=rss&utm_content=fp&utm_medium=RSS2"
+      "url": "https://slickdeals.net/f/20322081-bambu-lab-ams-2-pro-automatic-material-system-229-00-usd?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source_url": "https://slickdeals.net/f/20322081-bambu-lab-ams-2-pro-automatic-material-system-229-00-usd?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "9b4b2711f390cfcd7f20cca1",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Nike Men's Cortez Leather Shoes (White/Varsity Blue/Varsity Red) $54 + Free S&H",
       "retailer": null,
@@ -329,12 +706,249 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://slickdeals.net/f/20335845-nike-men-s-cortez-leather-shoes-white-varsity-blue-varsity-red-54-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2"
+      "url": "https://slickdeals.net/f/20335845-nike-men-s-cortez-leather-shoes-white-varsity-blue-varsity-red-54-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source_url": "https://slickdeals.net/f/20335845-nike-men-s-cortez-leather-shoes-white-varsity-blue-varsity-red-54-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "9dc2e6775183f20f044eb538",
+      "types": [
+        "new"
+      ],
+      "title": "2-Pk 1Kg eSUN PLA Basic 1.75mm 3D Printer Filament (Red + White) $17",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://slickdeals.net/f/20346468-2-pack-1kg-esun-pla-basic-1-75mm-3d-printer-filament-fire-engine-red-cold-white-16-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source_url": "https://slickdeals.net/f/20346468-2-pack-1kg-esun-pla-basic-1-75mm-3d-printer-filament-fire-engine-red-cold-white-16-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "a6a8758a06ead8cd771927cf",
+      "types": [
+        "new"
+      ],
+      "title": "adidas Men's Daily 4.0 Shoes (2 Colors) from $25.50 + Free S&H",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://slickdeals.net/f/20348079-adidas-men-daily-4-0-shoes-various-from-22-5?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source_url": "https://slickdeals.net/f/20348079-adidas-men-daily-4-0-shoes-various-from-22-5?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "ac0fd468135caeb7a7330947",
+      "types": [
+        "new"
+      ],
+      "title": "1-Year Walmart+ w/ Sam's Club Plus Membership (New Members Only) $120 or Upgrade Option w/ Existing Membership",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://slickdeals.net/f/20182197-1-year-walmart-w-sam-s-club-plus-membership-new-members-only-120-or-upgrade-option-w-existing-membership?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source_url": "https://slickdeals.net/f/20182197-1-year-walmart-w-sam-s-club-plus-membership-new-members-only-120-or-upgrade-option-w-existing-membership?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "ae5bd6b29c469e2ba1a1bca6",
+      "types": [
+        "new"
+      ],
+      "title": "The Super Mario Galaxy Movie Collector's Edition (Blu-ray + Digital) $9",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://slickdeals.net/f/20340033-the-super-mario-galaxy-movie-collector-s-edition-blu-ray-digital-8-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source_url": "https://slickdeals.net/f/20340033-the-super-mario-galaxy-movie-collector-s-edition-blu-ray-digital-8-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "af20f677aadda3eb495b88eb",
+      "types": [
+        "new"
+      ],
+      "title": "Walmart+ Members: 25-Ct 4x6 Photo Prints Free (In-Store Only)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://slickdeals.net/f/20348757-walmart-members-25-ct-4x6-photo-prints-free-in-store-only?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source_url": "https://slickdeals.net/f/20348757-walmart-members-25-ct-4x6-photo-prints-free-in-store-only?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "b2bbe40d941f4f201c37ae41",
+      "types": [
+        "new"
+      ],
+      "title": "45W Belkin Compact USB-C Foldable Charger Block: 2-Pk + Cables $25, Single $13",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://slickdeals.net/f/20340858-12-99-belkin-45w-compact-usb-c-foldable-charger-black-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source_url": "https://slickdeals.net/f/20340858-12-99-belkin-45w-compact-usb-c-foldable-charger-black-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "ba8344721016f85a734b921b",
+      "types": [
+        "new"
+      ],
+      "title": "ASUS ROG Strix G16 Laptop: i7 14650HX, 16\" 1200p, 16GB RAM, RTX 5060 $1180 + Free S&H",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://slickdeals.net/f/20344431-asus-rog-strix-g16-laptop-i7-14650hx-16-1200p-16gb-ram-rtx-5060-1180-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source_url": "https://slickdeals.net/f/20344431-asus-rog-strix-g16-laptop-i7-14650hx-16-1200p-16gb-ram-rtx-5060-1180-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "bdc1be14a1d39d93fc6cda18",
+      "types": [
+        "new"
+      ],
+      "title": "Select Accounts: 15-Pk 16-Oz Monster Energy Drink (Original) $14.15 w/ S&S",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://slickdeals.net/f/20347554-sns-ac-14-15-or-12-48-15-pack-16-oz-monster-energy-drink-original-at-amazon-94-3-each?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source_url": "https://slickdeals.net/f/20347554-sns-ac-14-15-or-12-48-15-pack-16-oz-monster-energy-drink-original-at-amazon-94-3-each?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "bfb7d33dd4e955fa8de66a05",
+      "types": [
+        "new"
+      ],
+      "title": "Prime Members: 6-Pk Tape King Heavy-Duty Clear Packing Tape (60-Yds/Roll) $8.50 + Free S&H",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://slickdeals.net/f/20341548-prime-6-pack-60-yard-tape-king-clear-heavy-duty-packing-tape-8-50-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source_url": "https://slickdeals.net/f/20341548-prime-6-pack-60-yard-tape-king-clear-heavy-duty-packing-tape-8-50-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "cb3d555f0ed79ec631e69839",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "15.6\" Macsecor FHD Dual-Screen Laptop Extender w/ USB-C & HDMI & Foldable Stand $80 + Free S&H",
       "retailer": null,
@@ -352,12 +966,93 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://slickdeals.net/f/20320599-15-6-macsecor-fhd-1080p-ips-laptop-screen-extender-external-monitor-79-99-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2"
+      "url": "https://slickdeals.net/f/20320599-15-6-macsecor-fhd-1080p-ips-laptop-screen-extender-external-monitor-79-99-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source_url": "https://slickdeals.net/f/20320599-15-6-macsecor-fhd-1080p-ips-laptop-screen-extender-external-monitor-79-99-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "cbad43a32ee5cded2be864c1",
+      "types": [
+        "new"
+      ],
+      "title": "2-Pk 25' DeWALT Magnetic Tape Measure $19.90 + Free S&H",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://slickdeals.net/f/20340486-2-pack-dewalt-25-magnetic-tape-measure-19-88-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source_url": "https://slickdeals.net/f/20340486-2-pack-dewalt-25-magnetic-tape-measure-19-88-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "cdac5c086e1743af82c679fe",
+      "types": [
+        "new"
+      ],
+      "title": "75\" Samsung U7900 Series 4K UHD Smart Tizen TV $400 + Free S&H",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "tv",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": 500,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://slickdeals.net/f/20339289-75-samsung-u7900-series-uhd-4k-smart-tizen-tv-399-99-best-buy?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source_url": "https://slickdeals.net/f/20339289-75-samsung-u7900-series-uhd-4k-smart-tizen-tv-399-99-best-buy?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "cf2843e69b69cdb8f412a955",
+      "types": [
+        "new"
+      ],
+      "title": "Nike Women's Air Max Bolt Shoes (White/White/Black) $45 + Free S&H",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://slickdeals.net/f/20346339-nike-women-s-air-max-bolt-shoes-white-white-black-45-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source_url": "https://slickdeals.net/f/20346339-nike-women-s-air-max-bolt-shoes-white-white-black-45-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "d0845e6e72586f3072e6bb1f",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Batman: Knightfall Part 1: DVD $8, Blu-ray + Digital $9",
       "retailer": null,
@@ -375,12 +1070,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://slickdeals.net/f/20323521-batman-knightfall-part-1-dvd-8-blu-ray-digital-9?utm_source=rss&utm_content=fp&utm_medium=RSS2"
+      "url": "https://slickdeals.net/f/20323521-batman-knightfall-part-1-dvd-8-blu-ray-digital-9?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source_url": "https://slickdeals.net/f/20323521-batman-knightfall-part-1-dvd-8-blu-ray-digital-9?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "d14aa555ad1eab650874d567",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "DJI Neo Mini Drone with 4K UHD Camera $139 & More + Free S&H",
       "retailer": null,
@@ -398,12 +1096,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://slickdeals.net/f/20339751-dji-neo-mini-drone-with-4k-uhd-camera-for-adults-135g-self-flying-drone-that-follows-you-more-139?utm_source=rss&utm_content=fp&utm_medium=RSS2"
+      "url": "https://slickdeals.net/f/20339751-dji-neo-mini-drone-with-4k-uhd-camera-for-adults-135g-self-flying-drone-that-follows-you-more-139?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source_url": "https://slickdeals.net/f/20339751-dji-neo-mini-drone-with-4k-uhd-camera-for-adults-135g-self-flying-drone-that-follows-you-more-139?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "d5be32fbb605c297b9db8981",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Mechanix Wear Material4X M-Pact Safety Work Gloves in Brown/Black (Large Only) $13 w/ S&S + Earn 10% Back w/ Prime Visa",
       "retailer": null,
@@ -421,12 +1122,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://slickdeals.net/f/20342106-sns-13-01-or-11-64-mechanix-wear-material4x-m-pact-gloves-large-only-10-back-w-prime-visa-card-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2"
+      "url": "https://slickdeals.net/f/20342106-sns-13-01-or-11-64-mechanix-wear-material4x-m-pact-gloves-large-only-10-back-w-prime-visa-card-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source_url": "https://slickdeals.net/f/20342106-sns-13-01-or-11-64-mechanix-wear-material4x-m-pact-gloves-large-only-10-back-w-prime-visa-card-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "d83192a211e9200bc54d5fb8",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Dr. Seuss's The Little Green Boxed Set: Bright and Early Board Books (4-Books) $6.70",
       "retailer": null,
@@ -444,12 +1148,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://slickdeals.net/f/20338731-6-69-dr-seuss-s-the-little-green-boxed-set-bright-and-early-board-books-4-books-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2"
+      "url": "https://slickdeals.net/f/20338731-6-69-dr-seuss-s-the-little-green-boxed-set-bright-and-early-board-books-4-books-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source_url": "https://slickdeals.net/f/20338731-6-69-dr-seuss-s-the-little-green-boxed-set-bright-and-early-board-books-4-books-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "e3664f53d1f0f42211829005",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "HP OmniBook X Flip 2-in-1 Laptop: Ryzen AI 430, 14\" WUXGA OLED Touch, 16GB, 512GB $650 + Free S&H",
       "retailer": null,
@@ -467,12 +1174,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://slickdeals.net/f/20338815-hp-omnibook-x-flip-14-oled-2-in-1-touchscreen-laptop-w-ryzen-ai-5-430-16gb-ram-512gb-ssd-deep-espresso-649-99-free-store-pickup-at-best-buy?utm_source=rss&utm_content=fp&utm_medium=RSS2"
+      "url": "https://slickdeals.net/f/20338815-hp-omnibook-x-flip-14-oled-2-in-1-touchscreen-laptop-w-ryzen-ai-5-430-16gb-ram-512gb-ssd-deep-espresso-649-99-free-store-pickup-at-best-buy?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source_url": "https://slickdeals.net/f/20338815-hp-omnibook-x-flip-14-oled-2-in-1-touchscreen-laptop-w-ryzen-ai-5-430-16gb-ram-512gb-ssd-deep-espresso-649-99-free-store-pickup-at-best-buy?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "e3679af0bc90e7271e758808",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Better Homes & Gardens Windsor Queen Platform Bed w/ Wingback Headboard $179.90 + Free S&H",
       "retailer": null,
@@ -490,12 +1200,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://slickdeals.net/f/20326620-better-homes-gardens-windsor-queen-platform-bed-w-wingback-headboard-gray-boucle-179-90-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2"
+      "url": "https://slickdeals.net/f/20326620-better-homes-gardens-windsor-queen-platform-bed-w-wingback-headboard-gray-boucle-179-90-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source_url": "https://slickdeals.net/f/20326620-better-homes-gardens-windsor-queen-platform-bed-w-wingback-headboard-gray-boucle-179-90-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "e4b053c5a7adc99181600161",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Bella Pro Series 12-Cup Programable Coffee Maker (Stainless Steel) $20 + Free S&H",
       "retailer": null,
@@ -513,12 +1226,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://slickdeals.net/f/20338662-bella-pro-12-cup-programmable-drip-coffee-maker-stainless-steel-19-99-free-store-pickup-at-best-buy?utm_source=rss&utm_content=fp&utm_medium=RSS2"
+      "url": "https://slickdeals.net/f/20338662-bella-pro-12-cup-programmable-drip-coffee-maker-stainless-steel-19-99-free-store-pickup-at-best-buy?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source_url": "https://slickdeals.net/f/20338662-bella-pro-12-cup-programmable-drip-coffee-maker-stainless-steel-19-99-free-store-pickup-at-best-buy?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "f42a56c61c2feea2ba2fd9ca",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "MSI Crosshair Max Gaming Laptop: Intel Ultra 7 255HX, 16\" QHD, 1TB SSD, RTX 5060 $1399 + Free S&H",
       "retailer": null,
@@ -536,12 +1252,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://slickdeals.net/f/20328687-msi-crosshair-max-16-qhd-240hz-gaming-laptop-intel-core-ultra-7-255hx-rtx-5060-16gb-1tb-1399-at-walmart?utm_source=rss&utm_content=fp&utm_medium=RSS2"
+      "url": "https://slickdeals.net/f/20328687-msi-crosshair-max-16-qhd-240hz-gaming-laptop-intel-core-ultra-7-255hx-rtx-5060-16gb-1tb-1399-at-walmart?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source_url": "https://slickdeals.net/f/20328687-msi-crosshair-max-16-qhd-240hz-gaming-laptop-intel-core-ultra-7-255hx-rtx-5060-16gb-1tb-1399-at-walmart?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "f60cc9cca485547a75ccdd19",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "3-Pk Blink Outdoor 2K+ Wireless Battery Security Camera w/ Sync Module Core $75 + Free S&H",
       "retailer": null,
@@ -559,12 +1278,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://slickdeals.net/f/20327163-3-pack-blink-outdoor-2k-wireless-battery-security-camera-w-sync-module-core-white-74-99-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2"
+      "url": "https://slickdeals.net/f/20327163-3-pack-blink-outdoor-2k-wireless-battery-security-camera-w-sync-module-core-white-74-99-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source_url": "https://slickdeals.net/f/20327163-3-pack-blink-outdoor-2k-wireless-battery-security-camera-w-sync-module-core-white-74-99-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "fff412de508e8db168825e67",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "[AUTO] Cuisinart PrepExpress Vegetable & Fruit Box Chopper $16.80",
       "retailer": null,
@@ -582,7 +1304,10 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://slickdeals.net/f/20336643-cuisinart-prepexpress-4-cup-vegetable-and-fruit-box-chopper-ctg-00-vfc-16-79-free-shipping-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2"
+      "url": "https://slickdeals.net/f/20336643-cuisinart-prepexpress-4-cup-vegetable-and-fruit-box-chopper-ctg-00-vfc-16-79-free-shipping-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source_url": "https://slickdeals.net/f/20336643-cuisinart-prepexpress-4-cup-vegetable-and-fruit-box-chopper-ctg-00-vfc-16-79-free-shipping-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "retailer_url": null,
+      "link_type": "source"
     }
   ]
 }

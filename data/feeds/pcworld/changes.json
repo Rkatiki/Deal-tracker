@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-19T15:53:44.697859+00:00",
+  "retrieved_at": "2026-11-19T22:27:48.902472+00:00",
   "source": {
     "id": "pcworld",
     "name": "PCWorld",
@@ -8,14 +8,14 @@
     "kind": "rss",
     "deal_headlines_only": true
   },
-  "baseline": true,
+  "baseline": false,
   "events": [
     {
-      "id": "1bb223409d76e9530221acc3",
+      "id": "030e1e49a83a0254610144f6",
       "types": [
         "new"
       ],
-      "title": "Today’s best laptop deals: Save big on work, school, home use, and gaming",
+      "title": "My favorite Shokz open-ear headphones are $80 off for Black Friday",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -31,12 +31,41 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.pcworld.com/article/550968/best-laptop-deals-3.html"
+      "url": "https://www.pcworld.com/article/3290953/my-favorite-shokz-open-ear-headphones-are-80-off-for-black-friday.html",
+      "source_url": "https://www.pcworld.com/article/3290953/my-favorite-shokz-open-ear-headphones-are-80-off-for-black-friday.html",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "21fed21706c40e56bbf94c94",
+      "types": [
+        "new"
+      ],
+      "title": "This 240Hz OLED gaming monitor is an absurdly cheap $280",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.pcworld.com/article/3291017/this-240hz-oled-gaming-monitor-is-an-absurdly-cheap-280.html",
+      "source_url": "https://www.pcworld.com/article/3291017/this-240hz-oled-gaming-monitor-is-an-absurdly-cheap-280.html",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "2ee220fce2aeea1fb3bcf209",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Best VPN deals: Protect your privacy for the lowest prices",
       "retailer": null,
@@ -54,12 +83,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.pcworld.com/article/2548950/best-vpn-deals.html"
+      "url": "https://www.pcworld.com/article/2548950/best-vpn-deals.html",
+      "source_url": "https://www.pcworld.com/article/2548950/best-vpn-deals.html",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "52cec9912934372f095bd49e",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "I paid $300 for this JBL party speaker. It’s now $180 for Black Friday",
       "retailer": null,
@@ -77,35 +109,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.pcworld.com/article/3289814/i-paid-300-for-this-jbl-party-speaker-its-now-180-for-black-friday.html"
-    },
-    {
-      "id": "5ac7084a9212adac40635d52",
-      "types": [
-        "new"
-      ],
-      "title": "Blink’s rotating indoor 2K+ security camera is a steal for $20",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.pcworld.com/article/3282937/blinks-rotating-indoor-2k-security-camera-is-a-steal-for-20.html"
+      "url": "https://www.pcworld.com/article/3289814/i-paid-300-for-this-jbl-party-speaker-its-now-180-for-black-friday.html",
+      "source_url": "https://www.pcworld.com/article/3289814/i-paid-300-for-this-jbl-party-speaker-its-now-180-for-black-friday.html",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "64cbbb32f234a8f5734f9c92",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Move everything to your new PC for $59.97 with this three-app transfer kit",
       "retailer": null,
@@ -123,12 +135,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.pcworld.com/article/3287079/move-everything-to-your-new-pc-for-59-97-with-this-three-app-transfer-kit.html"
+      "url": "https://www.pcworld.com/article/3287079/move-everything-to-your-new-pc-for-59-97-with-this-three-app-transfer-kit.html",
+      "source_url": "https://www.pcworld.com/article/3287079/move-everything-to-your-new-pc-for-59-97-with-this-three-app-transfer-kit.html",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "67d74acab7545b1c91654715",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Sony’s best noise-canceling wireless headphones are $82 off today",
       "retailer": null,
@@ -146,14 +161,43 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.pcworld.com/article/3275861/sonys-best-noise-canceling-wireless-headphones-are-82-off-today.html"
+      "url": "https://www.pcworld.com/article/3275861/sonys-best-noise-canceling-wireless-headphones-are-82-off-today.html",
+      "source_url": "https://www.pcworld.com/article/3275861/sonys-best-noise-canceling-wireless-headphones-are-82-off-today.html",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
-      "id": "9666273ff0d5ac95970be729",
+      "id": "6a820163c27a37647e1a2dbd",
       "types": [
         "new"
       ],
-      "title": "Roborock’s Qrevo S Pro vacuum-mop just hit a record-low $380 for Black Friday",
+      "title": "Fix your TV’s muddy dialogue: Fire TV Soundbar Plus hits $140, an all-time low",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "soundbar",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": 100,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.pcworld.com/article/3290857/fix-your-tvs-muddy-dialogue-fire-tv-soundbar-plus-hits-140-an-all-time-low.html",
+      "source_url": "https://www.pcworld.com/article/3290857/fix-your-tvs-muddy-dialogue-fire-tv-soundbar-plus-hits-140-an-all-time-low.html",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "6ee5175fab381498fa8db226",
+      "types": [
+        "new"
+      ],
+      "title": "Samsung’s 2TB T9 portable SSD is $140 off, its best price since April",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -169,12 +213,41 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.pcworld.com/article/3290854/roborocks-qrevo-s-pro-vacuum-mop-just-hit-a-record-low-380-for-black-friday.html"
+      "url": "https://www.pcworld.com/article/3291204/samsungs-2tb-t9-portable-ssd-is-140-off-its-best-price-since-april.html",
+      "source_url": "https://www.pcworld.com/article/3291204/samsungs-2tb-t9-portable-ssd-is-140-off-its-best-price-since-april.html",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "88c04e270e36e602f71a9dea",
+      "types": [
+        "new"
+      ],
+      "title": "Best Black Friday Thunderbolt dock deals: What to expect and early sales",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.pcworld.com/article/2133475/best-early-black-friday-thunderbolt-dock-deals-2026.html",
+      "source_url": "https://www.pcworld.com/article/2133475/best-early-black-friday-thunderbolt-dock-deals-2026.html",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "9cd89511001aaa008e23edb8",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "11 early Amazon Black Friday deals worth buying for your desk and bag",
       "retailer": null,
@@ -192,12 +265,67 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.pcworld.com/article/3278025/best-early-amazon-black-friday-accessory-deals-2026.html"
+      "url": "https://www.pcworld.com/article/3278025/best-early-amazon-black-friday-accessory-deals-2026.html",
+      "source_url": "https://www.pcworld.com/article/3278025/best-early-amazon-black-friday-accessory-deals-2026.html",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "a03cce47fa7528a5e06c10f1",
+      "types": [
+        "new"
+      ],
+      "title": "Early Black Friday steals: 10 tech deals under $25, at or near all-time lows",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.pcworld.com/article/3278024/best-amazon-black-friday-tech-deals-under-25.html",
+      "source_url": "https://www.pcworld.com/article/3278024/best-amazon-black-friday-tech-deals-under-25.html",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "b6b94c20fc0a757cf04b51cb",
+      "types": [
+        "new"
+      ],
+      "title": "Best Black Friday Chromebook deals: What to expect and early sales",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.pcworld.com/article/1377179/best-early-black-friday-chromebook-deals-2026.html",
+      "source_url": "https://www.pcworld.com/article/1377179/best-early-black-friday-chromebook-deals-2026.html",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "e084965ba85b61b1c3bc56b2",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Best early Black Friday VPN deals: What to expect and early sales",
       "retailer": null,
@@ -215,12 +343,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.pcworld.com/article/2519967/best-early-black-friday-vpn-deals-2026.html"
+      "url": "https://www.pcworld.com/article/2519967/best-early-black-friday-vpn-deals-2026.html",
+      "source_url": "https://www.pcworld.com/article/2519967/best-early-black-friday-vpn-deals-2026.html",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "e17f8def5ce9cd1611d1f578",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "SSD prices are still brutal. These 2TB deals are worth a look",
       "retailer": null,
@@ -238,12 +369,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.pcworld.com/article/3289740/ssd-prices-are-still-brutal-these-2tb-deals-are-worth-a-look.html"
+      "url": "https://www.pcworld.com/article/3289740/ssd-prices-are-still-brutal-these-2tb-deals-are-worth-a-look.html",
+      "source_url": "https://www.pcworld.com/article/3289740/ssd-prices-are-still-brutal-these-2tb-deals-are-worth-a-look.html",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "e76bd080702530cbfab51a53",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Ask AI to beat Amazon’s Black Friday deals with this prompt",
       "retailer": null,
@@ -261,7 +395,36 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.pcworld.com/article/3289448/ask-ai-to-beat-amazons-black-friday-deals-with-this-prompt.html"
+      "url": "https://www.pcworld.com/article/3289448/ask-ai-to-beat-amazons-black-friday-deals-with-this-prompt.html",
+      "source_url": "https://www.pcworld.com/article/3289448/ask-ai-to-beat-amazons-black-friday-deals-with-this-prompt.html",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "f647c736ca10a213f226b5ff",
+      "types": [
+        "new"
+      ],
+      "title": "Best Black Friday mini PC deals: What to expect and early sales",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.pcworld.com/article/2971789/best-early-black-friday-mini-pc-deals-2026.html",
+      "source_url": "https://www.pcworld.com/article/2971789/best-early-black-friday-mini-pc-deals-2026.html",
+      "retailer_url": null,
+      "link_type": "source"
     }
   ]
 }

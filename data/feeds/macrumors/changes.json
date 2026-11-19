@@ -1,20 +1,20 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-19T15:53:44.697859+00:00",
+  "retrieved_at": "2026-11-19T22:27:48.902472+00:00",
   "source": {
     "id": "macrumors",
     "name": "MacRumors Deals",
     "url": "https://feeds.macrumors.com/MacRumors-Deals",
     "kind": "rss"
   },
-  "baseline": true,
+  "baseline": false,
   "events": [
     {
-      "id": "27e5fc211d0729c08b1ad9a5",
+      "id": "06b733fc9d4a09e010864cfd",
       "types": [
         "new"
       ],
-      "title": "Apple Releases Safari Technology Preview 257 With Bug Fixes and Performance Improvements",
+      "title": "Google's Gemini Can Now Control Apps on Your Mac",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -30,12 +30,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.macrumors.com/2026/11/18/apple-releases-safari-technology-preview-257/"
+      "url": "https://www.macrumors.com/2026/11/19/google-gemini-mac-app-control/",
+      "source_url": "https://www.macrumors.com/2026/11/19/google-gemini-mac-app-control/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "2aa41912cddf419a75b376bc",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Apple Announces 2026 App Store Award Finalists",
       "retailer": null,
@@ -53,12 +56,41 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.macrumors.com/2026/11/18/2026-app-store-award-finalists/"
+      "url": "https://www.macrumors.com/2026/11/18/2026-app-store-award-finalists/",
+      "source_url": "https://www.macrumors.com/2026/11/18/2026-app-store-award-finalists/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "578d09238f5ef545dafa8e46",
+      "types": [
+        "new"
+      ],
+      "title": "Apple Announces 2026 Black Friday Event, Here's What You Can Get",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.macrumors.com/2026/11/19/apple-announces-2026-black-friday-event/",
+      "source_url": "https://www.macrumors.com/2026/11/19/apple-announces-2026-black-friday-event/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "608afcda672b989ed6d53e3b",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Amazon Offering $100 Off Nearly All M4 iPad Air Models",
       "retailer": null,
@@ -76,14 +108,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.macrumors.com/2026/11/18/amazon-100-off-m4-ipad-air-models/"
+      "url": "https://www.macrumors.com/2026/11/18/amazon-100-off-m4-ipad-air-models/",
+      "source_url": "https://www.macrumors.com/2026/11/18/amazon-100-off-m4-ipad-air-models/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
-      "id": "6ae773fcf9eb8460266ae1b9",
+      "id": "63a69d24493eefcd24a70fcb",
       "types": [
         "new"
       ],
-      "title": "Beats 360 Black Friday Deal Arrives With Massive $100 Discount on Amazon",
+      "title": "iPhone Duo vs. Samsung Galaxy Z Fold8: Which is Better?",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -99,12 +134,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.macrumors.com/2026/11/19/beats-360-black-friday-deal/"
+      "url": "https://www.macrumors.com/2026/11/19/iphone-duo-vs-samsung-galaxy-z-fold8/",
+      "source_url": "https://www.macrumors.com/2026/11/19/iphone-duo-vs-samsung-galaxy-z-fold8/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "6ed35daccf5cb21b697fd65a",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "HomeView 27.2.1 Update Fixes Siri Bugs",
       "retailer": null,
@@ -122,14 +160,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.macrumors.com/2026/11/18/homeview-27-2-1-update-fixes-siri-bugs/"
+      "url": "https://www.macrumors.com/2026/11/18/homeview-27-2-1-update-fixes-siri-bugs/",
+      "source_url": "https://www.macrumors.com/2026/11/18/homeview-27-2-1-update-fixes-siri-bugs/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
-      "id": "768eea35b1d393b80ad8c9dd",
+      "id": "75eb33b750880a1f0f784b4f",
       "types": [
         "new"
       ],
-      "title": "Apple Faces 'Planned Obsolescence' Trial Over iPhone Repairs",
+      "title": "AirPods Black Friday Deals Hit Pro 3 at $179 and Max 2 at $429",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -145,81 +186,41 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.macrumors.com/2026/11/19/apple-faces-planned-obsolescence-trial/"
+      "url": "https://www.macrumors.com/2026/11/19/airpods-black-friday-deals/",
+      "source_url": "https://www.macrumors.com/2026/11/19/airpods-black-friday-deals/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
-      "id": "7da6adb2042b734751922613",
+      "id": "79d51cb5ee5297d4c8969a5f",
       "types": [
         "new"
       ],
-      "title": "Future Macs Could Get Brighter, Longer-Lasting OLED Displays in 2030",
+      "title": "Black Friday Deal: Apple TV Streaming Service for $6.99/Month",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
       "rank": {
-        "category": "other",
+        "category": "tv",
         "variant": null,
         "status": "price_unavailable",
         "score": 0,
-        "max_usd": null,
+        "max_usd": 500,
         "preferred_usd": null,
         "within_budget": null,
         "comparisons": {},
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.macrumors.com/2026/11/19/future-macs-could-get-brighter-oled-displays/"
-    },
-    {
-      "id": "8a7aca1946986f0fa869886d",
-      "types": [
-        "new"
-      ],
-      "title": "Amazon Takes $200 Off Every Apple Studio Display for Black Friday",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.macrumors.com/2026/11/19/200-off-apple-studio-display/"
-    },
-    {
-      "id": "8b212d91fe5dffbb15daaa94",
-      "types": [
-        "new"
-      ],
-      "title": "MacBook Pro Black Friday Deals Are Here: Get Up to $250 Off M6 and PROLED XDR",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.macrumors.com/2026/11/19/macbook-pro-black-friday-deals-3/"
+      "url": "https://www.macrumors.com/2026/11/19/apple-tv-black-friday-streaming-deal/",
+      "source_url": "https://www.macrumors.com/2026/11/19/apple-tv-black-friday-streaming-deal/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "8e382443073621de1d90d2ba",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Apple's Fall Creator Studio Updates Now Live",
       "retailer": null,
@@ -237,35 +238,41 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.macrumors.com/2026/11/18/apple-fall-creator-studio-updates/"
+      "url": "https://www.macrumors.com/2026/11/18/apple-fall-creator-studio-updates/",
+      "source_url": "https://www.macrumors.com/2026/11/18/apple-fall-creator-studio-updates/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
-      "id": "913782841f7098485ea039bf",
+      "id": "9083d0a8be8ea2778ac00952",
       "types": [
         "new"
       ],
-      "title": "Instagram Now Lets You Save Songs to Apple Music",
+      "title": "Sonos Black Friday Sale Takes Up to 25% Off Speakers, Soundbars, and More",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
       "rank": {
-        "category": "other",
+        "category": "soundbar",
         "variant": null,
         "status": "price_unavailable",
         "score": 0,
-        "max_usd": null,
+        "max_usd": 100,
         "preferred_usd": null,
         "within_budget": null,
         "comparisons": {},
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.macrumors.com/2026/11/18/apple-music-instagram-playlist/"
+      "url": "https://www.macrumors.com/2026/11/19/sonos-black-friday-sale-3/",
+      "source_url": "https://www.macrumors.com/2026/11/19/sonos-black-friday-sale-3/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "91d50342ec21fe4a5dca9065",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Apple Card Offers New Users Double Daily Cash for a Year",
       "retailer": null,
@@ -283,58 +290,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.macrumors.com/2026/11/18/apple-card-double-daily-cash/"
-    },
-    {
-      "id": "97b4c8d018290739161c9b54",
-      "types": [
-        "new"
-      ],
-      "title": "Apple Music Radio Now Reaches Over 50 Million Monthly Listeners",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.macrumors.com/2026/11/19/apple-music-radio-50-million-listeners/"
-    },
-    {
-      "id": "a75ccbd6b20e878ceb5f80e8",
-      "types": [
-        "new"
-      ],
-      "title": "Tomorrow Marks the End of a 28-Year Era at Apple",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.macrumors.com/2026/11/19/tomorrow-marks-end-of-28-year-era-at-apple/"
+      "url": "https://www.macrumors.com/2026/11/18/apple-card-double-daily-cash/",
+      "source_url": "https://www.macrumors.com/2026/11/18/apple-card-double-daily-cash/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "aad6c80ed64f6c552032a017",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "iPhone 20 Pro Rumored to Return to Titanium",
       "retailer": null,
@@ -352,12 +316,41 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.macrumors.com/2026/11/18/iphone-20-pro-rumored-to-return-to-titanium/"
+      "url": "https://www.macrumors.com/2026/11/18/iphone-20-pro-rumored-to-return-to-titanium/",
+      "source_url": "https://www.macrumors.com/2026/11/18/iphone-20-pro-rumored-to-return-to-titanium/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "b5a32e30b819b44003bf852b",
+      "types": [
+        "new"
+      ],
+      "title": "Second iOS 27.3 and macOS Golden Gate 27.3 Public Betas Now Available",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.macrumors.com/2026/11/19/ios-27-3-public-beta-2/",
+      "source_url": "https://www.macrumors.com/2026/11/19/ios-27-3-public-beta-2/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "bcb37fae8e976f53d3e6940f",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Target's Early Black Friday Event Offers Savings on Apple, TVs, and Accessories",
       "retailer": null,
@@ -375,14 +368,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.macrumors.com/2026/11/18/targets-early-black-friday/"
+      "url": "https://www.macrumors.com/2026/11/18/targets-early-black-friday/",
+      "source_url": "https://www.macrumors.com/2026/11/18/targets-early-black-friday/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
-      "id": "bfc421960b753080d8d0e669",
+      "id": "bec3e4a1a98321e857bd639f",
       "types": [
         "new"
       ],
-      "title": "UK Loses Secrecy Fight Over Apple 'Backdoor' Order",
+      "title": "Apple Executive in Charge of iPhone's Camera App Reportedly Retires",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -398,35 +394,41 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.macrumors.com/2026/11/19/uk-loses-secrecy-fight-over-apple-backdoor-order/"
+      "url": "https://www.macrumors.com/2026/11/19/iphone-camera-app-vp-retires/",
+      "source_url": "https://www.macrumors.com/2026/11/19/iphone-camera-app-vp-retires/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
-      "id": "d05b0d327a293609bf1d65d7",
+      "id": "e7916ee6a79fd274b312ee8c",
       "types": [
         "new"
       ],
-      "title": "Apple May Cancel OLED iMac",
+      "title": "Apple TV to Stream Female 'F1 Academy' Races in U.S. Starting in 2027",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
       "rank": {
-        "category": "other",
+        "category": "tv",
         "variant": null,
         "status": "price_unavailable",
         "score": 0,
-        "max_usd": null,
+        "max_usd": 500,
         "preferred_usd": null,
         "within_budget": null,
         "comparisons": {},
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.macrumors.com/2026/11/19/apple-may-cancel-oled-imac/"
+      "url": "https://www.macrumors.com/2026/11/19/apple-tv-f1-academy/",
+      "source_url": "https://www.macrumors.com/2026/11/19/apple-tv-f1-academy/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "fca356b670ffab823fc32518",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Apple Releases 27.2.1 HomeView Software Update",
       "retailer": null,
@@ -444,12 +446,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.macrumors.com/2026/11/18/homeview-27-2-1-software/"
+      "url": "https://www.macrumors.com/2026/11/18/homeview-27-2-1-software/",
+      "source_url": "https://www.macrumors.com/2026/11/18/homeview-27-2-1-software/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "fddb041778b688def12a06ea",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Apple Releases Siri Remote Firmware Update",
       "retailer": null,
@@ -467,7 +472,10 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.macrumors.com/2026/11/18/apple-releases-new-siri-remote-firmware-update/"
+      "url": "https://www.macrumors.com/2026/11/18/apple-releases-new-siri-remote-firmware-update/",
+      "source_url": "https://www.macrumors.com/2026/11/18/apple-releases-new-siri-remote-firmware-update/",
+      "retailer_url": null,
+      "link_type": "source"
     }
   ]
 }

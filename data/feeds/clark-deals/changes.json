@@ -1,20 +1,20 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-19T15:53:44.697859+00:00",
+  "retrieved_at": "2026-11-19T22:27:48.902472+00:00",
   "source": {
     "id": "clark-deals",
     "name": "Clark Deals",
     "url": "https://clarkdeals.com/feed/",
     "kind": "rss"
   },
-  "baseline": true,
+  "baseline": false,
   "events": [
     {
-      "id": "01e90e34378f59cd7f646c64",
+      "id": "063800940f757a22313aecdf",
       "types": [
         "new"
       ],
-      "title": "The best Black Friday deals at Amazon starting today!",
+      "title": "HP 14-in. laptop with Intel N150 processor, 4GB RAM and 128GB storage for $180",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -30,14 +30,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://clarkdeals.com/home-kitchen/great-deals-at-amazon/"
+      "url": "https://clarkdeals.com/laptops/hp-14-in-laptop-with-intel-n150-processor-4gb-ram-and-128gb-storage/",
+      "source_url": "https://clarkdeals.com/laptops/hp-14-in-laptop-with-intel-n150-processor-4gb-ram-and-128gb-storage/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
-      "id": "036873692f66d8260f56cfcd",
+      "id": "0ff67312e19a8e2eef33601b",
       "types": [
         "new"
       ],
-      "title": "The best deals on TVs available now!",
+      "title": "Insignia 55-in. Class F50 Series LED 4K UHD smart Fire TV for $170",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -53,12 +56,41 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://clarkdeals.com/best-deals/great-deals-on-tvs/"
+      "url": "https://clarkdeals.com/tv/insignia-55-in-class-f50-series-led-4k-uhd-smart-fire-tv/",
+      "source_url": "https://clarkdeals.com/tv/insignia-55-in-class-f50-series-led-4k-uhd-smart-fire-tv/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "110759c7cdf851df7a2db4ae",
+      "types": [
+        "new"
+      ],
+      "title": "Moccamaster 53925 KBGV Select 10-cup coffee maker for $248",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://clarkdeals.com/home-kitchen/moccamaster-53925-kbgv-select-10-cup-coffee-maker/",
+      "source_url": "https://clarkdeals.com/home-kitchen/moccamaster-53925-kbgv-select-10-cup-coffee-maker/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "16252cabc6dccd745c123798",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "George men’s flannel-lined slippers for $5",
       "retailer": null,
@@ -76,12 +108,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://clarkdeals.com/shoes/george-mens-flannel-lined-slippers/"
+      "url": "https://clarkdeals.com/shoes/george-mens-flannel-lined-slippers/",
+      "source_url": "https://clarkdeals.com/shoes/george-mens-flannel-lined-slippers/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "198981a963304010bb5861af",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Tahiti escapes with flights from $4,995",
       "retailer": null,
@@ -99,12 +134,67 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://clarkdeals.com/travel/tahiti-sale/"
+      "url": "https://clarkdeals.com/travel/tahiti-sale/",
+      "source_url": "https://clarkdeals.com/travel/tahiti-sale/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "1d2ce0748931b5fc6625e684",
+      "types": [
+        "new"
+      ],
+      "title": "3-pack Under Armour men’s Performance Tech brief underwear for $22",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://clarkdeals.com/clothing/3-pack-under-armour-mens-performance-tech-brief-underwear/",
+      "source_url": "https://clarkdeals.com/clothing/3-pack-under-armour-mens-performance-tech-brief-underwear/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "230f4f83349a9b6b02eb232d",
+      "types": [
+        "new"
+      ],
+      "title": "Hisense 98-in. Class QD5 Hi-QLED Series 4K UHD smart Fire TV for $800",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "tv",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": 500,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://clarkdeals.com/tv/hisense-98-in-class-qd5-hi-qled-series-4k-uhd-smart-fire-tv/",
+      "source_url": "https://clarkdeals.com/tv/hisense-98-in-class-qd5-hi-qled-series-4k-uhd-smart-fire-tv/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "29105b9e775be55ac1a7d81d",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Walker’s Game Ear Razor slim electronic muff for $17",
       "retailer": null,
@@ -122,12 +212,41 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://clarkdeals.com/sporting-goods/walkers-game-ear-razor-slim-electronic-muff/"
+      "url": "https://clarkdeals.com/sporting-goods/walkers-game-ear-razor-slim-electronic-muff/",
+      "source_url": "https://clarkdeals.com/sporting-goods/walkers-game-ear-razor-slim-electronic-muff/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "296309d9cdabdc9c6c1939de",
+      "types": [
+        "new"
+      ],
+      "title": "Samsung 75-in. Class U7900 Series UHD 4K smart Tizen TV for $400",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "tv",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": 500,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://clarkdeals.com/tv/samsung-75-in-class-u7900-series-uhd-4k-smart-tizen-tv/",
+      "source_url": "https://clarkdeals.com/tv/samsung-75-in-class-u7900-series-uhd-4k-smart-tizen-tv/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "2d590aabdac3991dd5aa8961",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Dewalt 20V Max lithium-ion cordless brushless 3-speed oscillating multi-tool with battery and charger for $99",
       "retailer": null,
@@ -145,14 +264,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://clarkdeals.com/tools-diy/dewalt-20v-max-lithium-ion-cordless-brushless-3-speed-oscillating-multi-tool-with-battery-and-charger/"
+      "url": "https://clarkdeals.com/tools-diy/dewalt-20v-max-lithium-ion-cordless-brushless-3-speed-oscillating-multi-tool-with-battery-and-charger/",
+      "source_url": "https://clarkdeals.com/tools-diy/dewalt-20v-max-lithium-ion-cordless-brushless-3-speed-oscillating-multi-tool-with-battery-and-charger/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
-      "id": "2e2786408fedaec1eb0de143",
+      "id": "2d6aaf83d932bef27860eb1c",
       "types": [
         "new"
       ],
-      "title": "Amelia Island, Florida escapes: Save $100 when you book 3 nights",
+      "title": "JLab JBuds Mini true wireless earbuds in matte sage for $24",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -168,14 +290,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://clarkdeals.com/travel/amelia-island-florida/"
+      "url": "https://clarkdeals.com/electronics/jlab-jbuds-mini-true-wireless-earbuds-in-matte-sage/",
+      "source_url": "https://clarkdeals.com/electronics/jlab-jbuds-mini-true-wireless-earbuds-in-matte-sage/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
-      "id": "3175c563355b05789a64bd55",
+      "id": "32238f94e042b4fe9048e247",
       "types": [
         "new"
       ],
-      "title": "Arch Studio microwave food cover for $7",
+      "title": "Apple’s latest laptop is less than $650",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -191,12 +316,41 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://clarkdeals.com/home-kitchen/arch-studio-microwave-food-cover/"
+      "url": "https://clarkdeals.com/laptops/apple-macbook-neo/",
+      "source_url": "https://clarkdeals.com/laptops/apple-macbook-neo/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "3416a74685d670b88a477358",
+      "types": [
+        "new"
+      ],
+      "title": "Waterpik Aquarius water flosser for $50",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://clarkdeals.com/health-beauty/waterpik-aquarius-water-flosser/",
+      "source_url": "https://clarkdeals.com/health-beauty/waterpik-aquarius-water-flosser/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "3bf35dd6055e75434910f93a",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Cuisinart 4-qt. glass basket air fryer for $84",
       "retailer": null,
@@ -214,104 +368,41 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://clarkdeals.com/home-kitchen/cuisinart-4-qt-glass-basket-air-fryer/"
+      "url": "https://clarkdeals.com/home-kitchen/cuisinart-4-qt-glass-basket-air-fryer/",
+      "source_url": "https://clarkdeals.com/home-kitchen/cuisinart-4-qt-glass-basket-air-fryer/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
-      "id": "3c671d549494be6cd6c3242f",
+      "id": "45c629912335e1c7a4a7aa07",
       "types": [
         "new"
       ],
-      "title": "5-piece Art & Cook nesting stainless steel mixing bowl set for $25",
+      "title": "Hisense 65-in. U6 Pro Mini-LED 4K TV for $530",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
       "rank": {
-        "category": "other",
+        "category": "tv",
         "variant": null,
         "status": "price_unavailable",
         "score": 0,
-        "max_usd": null,
+        "max_usd": 500,
         "preferred_usd": null,
         "within_budget": null,
         "comparisons": {},
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://clarkdeals.com/home-kitchen/5-piece-art-cook-nesting-stainless-steel-mixing-bowl-set/"
-    },
-    {
-      "id": "3f278f36418015312d90fdae",
-      "types": [
-        "new"
-      ],
-      "title": "Apple Airpods Max Gen 2 Bluetooth headphones for $449",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://clarkdeals.com/electronics/headphones/apple-airpods-max-gen-2-bluetooth-headphones/"
-    },
-    {
-      "id": "401b5b104500089fd1b3a0fa",
-      "types": [
-        "new"
-      ],
-      "title": "6-night Costa Rica escape with flights & hotels from $1,459",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://clarkdeals.com/travel/costa-rica-escape-with-flights-and-hotels/"
-    },
-    {
-      "id": "5096beccb2f850a05eff8609",
-      "types": [
-        "new"
-      ],
-      "title": "35 restaurants offering family meal deals to-go or for delivery",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://clarkdeals.com/food-drink/family-meals/"
+      "url": "https://clarkdeals.com/tv/hisense-65-u6-pro-mini-led-4k-tv/",
+      "source_url": "https://clarkdeals.com/tv/hisense-65-u6-pro-mini-led-4k-tv/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "5264834242d5285400dd840a",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "880-piece PatchCare pimple patches for $8",
       "retailer": null,
@@ -329,14 +420,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://clarkdeals.com/health-beauty/880-piece-patchcare-pimple-patches/"
+      "url": "https://clarkdeals.com/health-beauty/880-piece-patchcare-pimple-patches/",
+      "source_url": "https://clarkdeals.com/health-beauty/880-piece-patchcare-pimple-patches/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
-      "id": "6195fdc07c5c3539d27d09b5",
+      "id": "87bd7b26376f52be16b9a960",
       "types": [
         "new"
       ],
-      "title": "Today only: Apple EarPods (USB-C) for $15",
+      "title": "Oral-B iO Deep Clean rechargeable electric powered toothbrush for $60",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -352,14 +446,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://clarkdeals.com/electronics/headphones/apple-earpods-usb-c/"
+      "url": "https://clarkdeals.com/health-beauty/oral-b-io-deep-clean-rechargeable-electric-powered-toothbrush/",
+      "source_url": "https://clarkdeals.com/health-beauty/oral-b-io-deep-clean-rechargeable-electric-powered-toothbrush/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
-      "id": "76dcfc5c7d170123559ec48d",
+      "id": "8b8f603be3714891db1f8992",
       "types": [
         "new"
       ],
-      "title": "Newegg Black Friday ad: Here are the best deals!",
+      "title": "Govee RGBIC smart table lamp 2 corded for $54",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -375,14 +472,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://clarkdeals.com/black-friday/newegg-black-friday/"
+      "url": "https://clarkdeals.com/home-kitchen/govee-rgbic-smart-table-lamp-2-corded/",
+      "source_url": "https://clarkdeals.com/home-kitchen/govee-rgbic-smart-table-lamp-2-corded/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
-      "id": "8eed44e5828463f75407ace2",
+      "id": "8e15372973fe9bd4d27f1258",
       "types": [
         "new"
       ],
-      "title": "Victoria 12-inch cast iron skillet with helper handle for $24",
+      "title": "Anua PDRN hyaluronic acid 100 moisturizing cream for $17",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -398,12 +498,41 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://clarkdeals.com/home-kitchen/victoria-12-inch-cast-iron-skillet-with-helper-handle/"
+      "url": "https://clarkdeals.com/health-beauty/anua-pdrn-hyaluronic-acid-100-moisturizing-cream/",
+      "source_url": "https://clarkdeals.com/health-beauty/anua-pdrn-hyaluronic-acid-100-moisturizing-cream/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "92efafcad0bbdf9d69eaee11",
+      "types": [
+        "new"
+      ],
+      "title": "Ninja 14-in-1 PossibleCooker Pro 8.5-qt. multi-cooker for $100",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://clarkdeals.com/home-kitchen/ninja-14-in-1-possiblecooker-pro-8-5-qt-multi-cooker/",
+      "source_url": "https://clarkdeals.com/home-kitchen/ninja-14-in-1-possiblecooker-pro-8-5-qt-multi-cooker/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "94c280482a7025bd9b1ed494",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Costco Black Friday: The best deals available now and coming soon!",
       "retailer": null,
@@ -421,12 +550,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://clarkdeals.com/black-friday/costco-black-friday-ad/"
+      "url": "https://clarkdeals.com/black-friday/costco-black-friday-ad/",
+      "source_url": "https://clarkdeals.com/black-friday/costco-black-friday-ad/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "9635226839e5adb81cbb2d71",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Casio Illuminator men’s Bluetooth watch for $24",
       "retailer": null,
@@ -444,12 +576,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://clarkdeals.com/jewelry-watches/casio-illuminator-mens-bluetooth-watch/"
+      "url": "https://clarkdeals.com/jewelry-watches/casio-illuminator-mens-bluetooth-watch/",
+      "source_url": "https://clarkdeals.com/jewelry-watches/casio-illuminator-mens-bluetooth-watch/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "9ad01c8e6100b9f0b96e6fd5",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "La Roche-Posay Cicaplast Balm B5 healing ointment for $9",
       "retailer": null,
@@ -467,12 +602,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://clarkdeals.com/health-beauty/la-roche-posay-cicaplast-balm-b5-healing-ointment/"
+      "url": "https://clarkdeals.com/health-beauty/la-roche-posay-cicaplast-balm-b5-healing-ointment/",
+      "source_url": "https://clarkdeals.com/health-beauty/la-roche-posay-cicaplast-balm-b5-healing-ointment/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "a72c88ddc54a11401795f454",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Apple iPad 11″ with A16 chip for $399",
       "retailer": null,
@@ -490,35 +628,41 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://clarkdeals.com/electronics/tablets/apple-ipad-11-with-a16-chip/"
+      "url": "https://clarkdeals.com/electronics/tablets/apple-ipad-11-with-a16-chip/",
+      "source_url": "https://clarkdeals.com/electronics/tablets/apple-ipad-11-with-a16-chip/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
-      "id": "ab4f0d8532d1bd0b5e54c7a4",
+      "id": "aab1e1faa2d85a77a3065d2e",
       "types": [
         "new"
       ],
-      "title": "Tzumi Puree electric coffee grinder for $12",
+      "title": "TCL 65-in. S4CF Series 4K UHD HDR smart TV with Fire TV for $230",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
       "rank": {
-        "category": "other",
+        "category": "tv",
         "variant": null,
         "status": "price_unavailable",
         "score": 0,
-        "max_usd": null,
+        "max_usd": 500,
         "preferred_usd": null,
         "within_budget": null,
         "comparisons": {},
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://clarkdeals.com/home-kitchen/tzumi-puree-electric-coffee-grinder/"
+      "url": "https://clarkdeals.com/tv/tcl-65-in-s4cf-series-4k-uhd-hdr-smart-tv-with-fire-tv/",
+      "source_url": "https://clarkdeals.com/tv/tcl-65-in-s4cf-series-4k-uhd-hdr-smart-tv-with-fire-tv/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "afbfbf9ee62e4a67715c33e7",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Mosolan 3-in-1 water bottle cleaning brush set for $6",
       "retailer": null,
@@ -536,12 +680,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://clarkdeals.com/home-kitchen/mosolan-3-in-1-water-bottle-cleaning-brush-set/"
+      "url": "https://clarkdeals.com/home-kitchen/mosolan-3-in-1-water-bottle-cleaning-brush-set/",
+      "source_url": "https://clarkdeals.com/home-kitchen/mosolan-3-in-1-water-bottle-cleaning-brush-set/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "b15998d2fca0ac3b2aa52dcf",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Samsung Galaxy Tab A11+ 128GB widescreen tablet for $199",
       "retailer": null,
@@ -559,12 +706,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://clarkdeals.com/electronics/tablets/samsung-galaxy-tab-a11-128gb-widescreen-tablet/"
+      "url": "https://clarkdeals.com/electronics/tablets/samsung-galaxy-tab-a11-128gb-widescreen-tablet/",
+      "source_url": "https://clarkdeals.com/electronics/tablets/samsung-galaxy-tab-a11-128gb-widescreen-tablet/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "ba0b78c3228832d9804ff430",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Today only: Solac Pro 1000W hand blender with accessories for $30 shipped",
       "retailer": null,
@@ -582,81 +732,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://clarkdeals.com/home-kitchen/solac-pro-1000w-hand-blender-with-accessories/"
-    },
-    {
-      "id": "bacef89021c7ba4acd1d01b4",
-      "types": [
-        "new"
-      ],
-      "title": "Art & Cook 8-piece round nesting bowl set with lids for $10",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://clarkdeals.com/home-kitchen/art-cook-8-piece-round-nesting-bowl-set-with-lids-in-green/"
-    },
-    {
-      "id": "c345174eeea880b31f7f165d",
-      "types": [
-        "new"
-      ],
-      "title": "Astercook 4-piece cutting board set for $23",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://clarkdeals.com/home-kitchen/astercook-4-piece-cutting-board-set/"
-    },
-    {
-      "id": "cacad9bc48b8bcacffe119db",
-      "types": [
-        "new"
-      ],
-      "title": "11-piece Rachael Ray Cook + Create aluminum nonstick cookware set for $80",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://clarkdeals.com/home-kitchen/11-piece-rachael-ray-cook-create-aluminum-nonstick-cookware-set/"
+      "url": "https://clarkdeals.com/home-kitchen/solac-pro-1000w-hand-blender-with-accessories/",
+      "source_url": "https://clarkdeals.com/home-kitchen/solac-pro-1000w-hand-blender-with-accessories/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "cebfcb58341d7a6500852663",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Save $100 on the Oura Ring 5",
       "retailer": null,
@@ -674,12 +758,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://clarkdeals.com/electronics/oura-ring-5/"
+      "url": "https://clarkdeals.com/electronics/oura-ring-5/",
+      "source_url": "https://clarkdeals.com/electronics/oura-ring-5/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "d83befaf42e1d2b9aa85bfa3",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Any-size 8-piece comforter sets from $30",
       "retailer": null,
@@ -697,81 +784,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://clarkdeals.com/home-kitchen/8-piece-comforter-sets/"
-    },
-    {
-      "id": "d857e113d914b64af983790e",
-      "types": [
-        "new"
-      ],
-      "title": "Simzlife 35-lb. 24H countertop nugget ice maker for $123",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://clarkdeals.com/home-kitchen/simzlife-35-lb-24h-countertop-nugget-ice-maker/"
-    },
-    {
-      "id": "d875cf01c23e5ae4a1aaa475",
-      "types": [
-        "new"
-      ],
-      "title": "Today only: 8-pack Perfect Pod Cafe reusable K-cup pods for $12 shipped",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://clarkdeals.com/home-kitchen/8-pack-perfect-pod-cafe-reusable-k-cup-pods/"
-    },
-    {
-      "id": "d93e136fa43c4468fd48cd5e",
-      "types": [
-        "new"
-      ],
-      "title": "Today only: 3-pack Statik Snap-N-Charge mini power banks for $25 shipped",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://clarkdeals.com/electronics/3-pack-statik-snap-n-charge-mini-power-banks/"
+      "url": "https://clarkdeals.com/home-kitchen/8-piece-comforter-sets/",
+      "source_url": "https://clarkdeals.com/home-kitchen/8-piece-comforter-sets/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "da43af37dfff39e1d0a49baf",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "10-night Ecuador, Galapagos & Amazon tour with air from $1,699",
       "retailer": null,
@@ -789,35 +810,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://clarkdeals.com/travel/ecuador-galapagos-amazon-tour-with-air/"
-    },
-    {
-      "id": "dc5e55aec99d974438b3caa7",
-      "types": [
-        "new"
-      ],
-      "title": "Uhomepro 32-in. wood-burning fire pit with screen lid for $70",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://clarkdeals.com/home-kitchen/uhomepro-32-in-wood-burning-fire-pit-with-screen-lid/"
+      "url": "https://clarkdeals.com/travel/ecuador-galapagos-amazon-tour-with-air/",
+      "source_url": "https://clarkdeals.com/travel/ecuador-galapagos-amazon-tour-with-air/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "e2330746fa00799a95aadcae",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Made In Cookware stainless steel cleaner for $9",
       "retailer": null,
@@ -835,58 +836,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://clarkdeals.com/home-kitchen/made-in-cookware-stainless-steel-cleaner/"
-    },
-    {
-      "id": "ec951a3706ab80b2e6770836",
-      "types": [
-        "new"
-      ],
-      "title": "Reebok kids’ hooded puffer jackets from $20",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://clarkdeals.com/clothing/reebok-kids-hooded-puffer-jackets/"
-    },
-    {
-      "id": "ecd8ad85a9fca6c9a90c215f",
-      "types": [
-        "new"
-      ],
-      "title": "Today only: 3-pack Statik HyperMount Gen 2 magnetic phone holders for $15 shipped",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://clarkdeals.com/electronics/statik-hypermount-gen-2-magnetic-phone-holders/"
+      "url": "https://clarkdeals.com/home-kitchen/made-in-cookware-stainless-steel-cleaner/",
+      "source_url": "https://clarkdeals.com/home-kitchen/made-in-cookware-stainless-steel-cleaner/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "eeddafab0ad5d646b750a8d8",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Zebco Saltfisher Spincast fishing reel for $25",
       "retailer": null,
@@ -904,12 +862,119 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://clarkdeals.com/sporting-goods/zebco-saltfisher-spincast-fishing-reel/"
+      "url": "https://clarkdeals.com/sporting-goods/zebco-saltfisher-spincast-fishing-reel/",
+      "source_url": "https://clarkdeals.com/sporting-goods/zebco-saltfisher-spincast-fishing-reel/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "f081a9e6e6f0da7b75d63357",
+      "types": [
+        "new"
+      ],
+      "title": "Today only: Save 30% on Pura diffusers and accessories",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://clarkdeals.com/home-kitchen/pura-diffusers-and-accessories/",
+      "source_url": "https://clarkdeals.com/home-kitchen/pura-diffusers-and-accessories/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "f1a20fcc437dad3c977e99be",
+      "types": [
+        "new"
+      ],
+      "title": "Eufy Security smart lock C220 with fingerprint keyless entry for $90",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://clarkdeals.com/home-kitchen/eufy-security-smart-lock-c220-with-fingerprint-keyless-entry/",
+      "source_url": "https://clarkdeals.com/home-kitchen/eufy-security-smart-lock-c220-with-fingerprint-keyless-entry/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "faa06aabe40c624fe65037cf",
+      "types": [
+        "new"
+      ],
+      "title": "Prime members: Olanly extra soft bathroom rug for $9",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://clarkdeals.com/home-kitchen/olanly-extra-soft-bathroom-rug/",
+      "source_url": "https://clarkdeals.com/home-kitchen/olanly-extra-soft-bathroom-rug/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "fb8f81eb87b44bf6e066b791",
+      "types": [
+        "new"
+      ],
+      "title": "Today only: Take up to 30% off garage storage and accessories",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://clarkdeals.com/tools-diy/garage-storage-hand-tools-and-more/",
+      "source_url": "https://clarkdeals.com/tools-diy/garage-storage-hand-tools-and-more/",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "fd87b655af75ff1bab7acf20",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Best Buy Black Friday: The best deals happening now!",
       "retailer": null,
@@ -927,7 +992,10 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://clarkdeals.com/black-friday/best-buy/"
+      "url": "https://clarkdeals.com/black-friday/best-buy/",
+      "source_url": "https://clarkdeals.com/black-friday/best-buy/",
+      "retailer_url": null,
+      "link_type": "source"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-19T15:53:44.697859+00:00",
+  "retrieved_at": "2026-11-19T22:27:48.902472+00:00",
   "source": {
     "id": "techradar",
     "name": "TechRadar",
@@ -8,35 +8,12 @@
     "kind": "rss",
     "deal_headlines_only": true
   },
-  "baseline": true,
+  "baseline": false,
   "events": [
-    {
-      "id": "01079e9180d7b495010b3ed1",
-      "types": [
-        "new"
-      ],
-      "title": "Elegoo Mars 5 Ultra resin 3D printer deal drops to $259 for Black Friday",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.techradar.com/pro/elegoo-mars-5-ultra-resin-3d-printer-deal-drops-to-usd259-for-black-friday"
-    },
     {
       "id": "18bc98efec2c17a2db19defd",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "I can’t recommend Sonos enough for multi-room audio and home theatre — and that goes double with up to 30% off in its official Australian Black Friday sale",
       "retailer": null,
@@ -54,12 +31,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.techradar.com/audio/multi-room/i-cant-recommend-sonos-enough-for-multi-room-audio-and-home-theatre-and-that-goes-double-with-up-to-30-percent-off-in-its-official-australian-black-friday-sale"
+      "url": "https://www.techradar.com/audio/multi-room/i-cant-recommend-sonos-enough-for-multi-room-audio-and-home-theatre-and-that-goes-double-with-up-to-30-percent-off-in-its-official-australian-black-friday-sale",
+      "source_url": "https://www.techradar.com/audio/multi-room/i-cant-recommend-sonos-enough-for-multi-room-audio-and-home-theatre-and-that-goes-double-with-up-to-30-percent-off-in-its-official-australian-black-friday-sale",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "19db1fc50e5ada4adb609a59",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Best phone accessories under $100",
       "retailer": null,
@@ -77,12 +57,41 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.techradar.com/phones/phone-accessories/best-phone-accessories-under-usd100-15-of-our-favorite-chargers-trackers-cases-and-more"
+      "url": "https://www.techradar.com/phones/phone-accessories/best-phone-accessories-under-usd100-15-of-our-favorite-chargers-trackers-cases-and-more",
+      "source_url": "https://www.techradar.com/phones/phone-accessories/best-phone-accessories-under-usd100-15-of-our-favorite-chargers-trackers-cases-and-more",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "24f97c09f3cdc5f774f0afbd",
+      "types": [
+        "new"
+      ],
+      "title": "Ugreen's NASync DXP4800GT four-bay NAS gets 28% off for Black Friday",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.techradar.com/pro/the-best-value-4-bay-nas-with-10gbe-networking-weve-seen-yet-the-ugreen-nasync-dxp4800gt-earned-our-five-star-rating-and-its-over-usd200-off-for-black-friday",
+      "source_url": "https://www.techradar.com/pro/the-best-value-4-bay-nas-with-10gbe-networking-weve-seen-yet-the-ugreen-nasync-dxp4800gt-earned-our-five-star-rating-and-its-over-usd200-off-for-black-friday",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "392a5f072fa416e6bf81b4df",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Intego One Complete is 43% off, protecting your Mac and iPhone for $85.49",
       "retailer": null,
@@ -100,81 +109,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.techradar.com/pro/intego-one-complete-with-antivirus-vpn-firewall-and-cleanup-tools-for-mac-and-iphone-gets-43-percent-off-its-two-year-plan-for-black-friday"
-    },
-    {
-      "id": "43744ebcaae1c61af5806c53",
-      "types": [
-        "new"
-      ],
-      "title": "95+ best Black Friday deals 2026 in the UK — GTA 6, Shokz OpenRun, Shark vacuums, Oura Ring, Kindle, Switch 2, and more",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.techradar.com/live/news/black-friday-deals-uk-2026-november-19"
-    },
-    {
-      "id": "48d79fee36e2a2a7217ca01c",
-      "types": [
-        "new"
-      ],
-      "title": "Grado and Campfire Audio have new premium headphones and IEMs, despite Black Friday breathing down their neck",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.techradar.com/audio/headphones/forget-black-friday-for-headphones-meet-two-new-wired-and-oddly-wireless-headphones-and-iems-from-the-audiophile-worlds-heavy-hitters"
-    },
-    {
-      "id": "4a4933baef5f7387a948fc6b",
-      "types": [
-        "new"
-      ],
-      "title": "Boulies EP600 ergonomic office chair deal drops for Black Friday — and it's one of the best mid-range picks we've ever tested",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.techradar.com/pro/boulies-ep600-ergonomic-office-chair-deal-drops-for-black-friday-and-its-one-of-the-best-mid-range-picks-weve-ever-tested"
+      "url": "https://www.techradar.com/pro/intego-one-complete-with-antivirus-vpn-firewall-and-cleanup-tools-for-mac-and-iphone-gets-43-percent-off-its-two-year-plan-for-black-friday",
+      "source_url": "https://www.techradar.com/pro/intego-one-complete-with-antivirus-vpn-firewall-and-cleanup-tools-for-mac-and-iphone-gets-43-percent-off-its-two-year-plan-for-black-friday",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "61554d660e102007b3d13540",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "This GMKtec Ryzen-powered mini PC is a solid daily driver with an $80 discount ahead of Black Friday",
       "retailer": null,
@@ -192,14 +135,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.techradar.com/pro/this-gmktec-ryzen-powered-mini-pc-is-a-solid-daily-driver-with-an-usd80-discount-ahead-of-black-friday"
+      "url": "https://www.techradar.com/pro/this-gmktec-ryzen-powered-mini-pc-is-a-solid-daily-driver-with-an-usd80-discount-ahead-of-black-friday",
+      "source_url": "https://www.techradar.com/pro/this-gmktec-ryzen-powered-mini-pc-is-a-solid-daily-driver-with-an-usd80-discount-ahead-of-black-friday",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
-      "id": "6fcb488c5175d0584dda9cc7",
+      "id": "a51a26f27bdd9d7692faac95",
       "types": [
         "new"
       ],
-      "title": "Seagate’s shuckable 20TB Expansion desktop hard drive drops to $500 ahead of Black Friday",
+      "title": "The AMD Ryzen 7 5800X3D CPU comes with a free 850W PSU thanks to Newegg’s Black Friday sale",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -215,14 +161,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.techradar.com/pro/seagates-shuckable-20tb-expansion-desktop-hard-drive-drops-to-usd500-ahead-of-black-friday"
+      "url": "https://www.techradar.com/pro/the-amd-ryzen-7-5800x3d-cpu-comes-with-a-free-850w-psu-thanks-to-neweggs-black-friday-sale",
+      "source_url": "https://www.techradar.com/pro/the-amd-ryzen-7-5800x3d-cpu-comes-with-a-free-850w-psu-thanks-to-neweggs-black-friday-sale",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
-      "id": "6ff93e17431d99afa642f8b2",
+      "id": "b34f2068e8413dbbaf2ebc30",
       "types": [
         "new"
       ],
-      "title": "Lexar's 512GB ES3 Portable SSD gets 35% off for Black Friday",
+      "title": "FlexiSpot's C7 ergonomic office chair gets a $130 discount in the Black Friday sale",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -238,14 +187,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.techradar.com/pro/black-friday-bargain-the-512gb-lexar-es3-portable-ssd-has-dropped-35-percent-to-gbp78-offering-speedy-transfers-in-a-pocket-sized-design"
+      "url": "https://www.techradar.com/pro/flexispots-c7-ergonomic-office-chair-gets-a-usd130-discount-in-the-black-friday-sale",
+      "source_url": "https://www.techradar.com/pro/flexispots-c7-ergonomic-office-chair-gets-a-usd130-discount-in-the-black-friday-sale",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
-      "id": "800533476ddcdf72a1f93e2b",
+      "id": "c928d8755707a9fb6cfe37b3",
       "types": [
         "new"
       ],
-      "title": "Your small business could lose out on Black Friday business if your website isn’t resilient enough — here's what you need to know",
+      "title": "Sansui's 32-inch 240Hz curved gaming monitor is just $169.99 at Amazon",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -261,37 +213,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.techradar.com/pro/your-small-business-could-lose-out-on-black-friday-business-if-your-website-isnt-resilient-enough-heres-what-you-need-to-know"
+      "url": "https://www.techradar.com/pro/sansuis-32-inch-curved-creative-monitor-packs-a-240hz-refresh-rate-and-freesync-support-for-just-usd259-99",
+      "source_url": "https://www.techradar.com/pro/sansuis-32-inch-curved-creative-monitor-packs-a-240hz-refresh-rate-and-freesync-support-for-just-usd259-99",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
-      "id": "93b0da94f6364a50dd7b6a9f",
+      "id": "dc70ecced8ca0c7fabf37d74",
       "types": [
         "new"
       ],
-      "title": "Black Friday TV deals 2026 — $1,350 off LG C6 OLED, big savings on Sony, Samsung, TCL and more",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "tv",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": 500,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.techradar.com/televisions/black-friday-tv-deals-2026-smart-tvs-from-usd69-usd1-350-off-lg-c6-oled-big-savings-on-sony-samsung-tcl-mini-led-and-more"
-    },
-    {
-      "id": "9a7d60cac3c5efc0114edf5f",
-      "types": [
-        "new"
-      ],
-      "title": "Black Friday deals 2026 — I've found the 25+ best discounts on laptops, TVs, appliances, headphones, and more from leading retailers",
+      "title": "NordPass Premium is 55% off this Black Friday with our money-off code",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -307,81 +239,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.techradar.com/live/news/early-black-friday-sales-us-19-november"
-    },
-    {
-      "id": "a5618aa18e9f2da0ae4e36be",
-      "types": [
-        "new"
-      ],
-      "title": "The best Paramount+ Black Friday streaming deal is back",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.techradar.com/seasonal-sales/wondering-if-there-will-be-a-paramount-black-friday-streaming-deal-its-lowest-price-is-back-and-better-than-ever"
-    },
-    {
-      "id": "ad992f921dad7d14b228e316",
-      "types": [
-        "new"
-      ],
-      "title": "Geekom A9 Max mini PC deal: Black Friday sale drops our favorite Mac mini alternative to $1269",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.techradar.com/pro/geekom-a9-max-mini-pc-deal-black-friday-sale-drops-our-favorite-mac-mini-alternative-to-usd1269"
-    },
-    {
-      "id": "b1c997297500682cc13fcfca",
-      "types": [
-        "new"
-      ],
-      "title": "Our favourite 4K Blu-ray player just got a rare discount for Black Friday",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.techradar.com/televisions/blu-ray/the-panasonic-dp-ub820-4k-blu-ray-player-just-got-a-rare-discount-at-amazon-for-black-friday-which-makes-its-recent-price-increase-a-bit-easier-to-swallow"
+      "url": "https://www.techradar.com/pro/nordpass-premium-is-52-percent-off-for-black-friday-pay-just-usd40-16-with-our-exclusive-code-for-two-years-of-password-protection-plus-four-extra-months-for-free",
+      "source_url": "https://www.techradar.com/pro/nordpass-premium-is-52-percent-off-for-black-friday-pay-just-usd40-16-with-our-exclusive-code-for-two-years-of-password-protection-plus-four-extra-months-for-free",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
       "id": "eb727ffb190d18b481019ba4",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "The five-star Samsung 990 PRO 2TB SSD gets a massive $250 discount at Newegg ahead of Black Friday",
       "retailer": null,
@@ -399,14 +265,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.techradar.com/pro/the-five-star-samsung-990-pro-2tb-ssd-gets-a-massive-usd250-discount-at-newegg-ahead-of-black-friday"
+      "url": "https://www.techradar.com/pro/the-five-star-samsung-990-pro-2tb-ssd-gets-a-massive-usd250-discount-at-newegg-ahead-of-black-friday",
+      "source_url": "https://www.techradar.com/pro/the-five-star-samsung-990-pro-2tb-ssd-gets-a-massive-usd250-discount-at-newegg-ahead-of-black-friday",
+      "retailer_url": null,
+      "link_type": "source"
     },
     {
-      "id": "f85652d020443e11d993e324",
+      "id": "edc242c4c478755a07f1220e",
       "types": [
         "new"
       ],
-      "title": "All the best Black Friday deals at Amazon UK — 35 top offers on Switch 2, Kindles, Lego, Sony, Philips, Ninja, and more",
+      "title": "Lenovo's business-friendly ThinkPad T14 Gen 7 is $600 off in the Black Friday laptop sale",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -422,7 +291,36 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.techradar.com/live/news/amazon-uk-black-friday-deals-2026-november-19"
+      "url": "https://www.techradar.com/pro/lenovos-business-friendly-thinkpad-t14-gen-7-is-usd600-off-in-the-black-friday-laptop-sale",
+      "source_url": "https://www.techradar.com/pro/lenovos-business-friendly-thinkpad-t14-gen-7-is-usd600-off-in-the-black-friday-laptop-sale",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "fc7c4ce41800e78329d76ecb",
+      "types": [
+        "new"
+      ],
+      "title": "Hackers steal over 1 million credit card details across 20 countries — attackers hit old Windows bug to infect over 700 point-of-sale terminals",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.techradar.com/pro/security/hackers-steal-over-1-million-credit-card-details-across-20-countries-attackers-hit-old-windows-bug-to-infect-over-700-point-of-sale-terminals",
+      "source_url": "https://www.techradar.com/pro/security/hackers-steal-over-1-million-credit-card-details-across-20-countries-attackers-hit-old-windows-bug-to-infect-over-700-point-of-sale-terminals",
+      "retailer_url": null,
+      "link_type": "source"
     }
   ]
 }
