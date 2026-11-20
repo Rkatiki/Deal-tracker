@@ -1,18 +1,44 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-19T23:15:35.949774+00:00",
+  "retrieved_at": "2026-11-20T07:49:24.955736+00:00",
   "source": {
     "id": "bens-bargains",
     "name": "Ben's Bargains",
     "url": "https://bensbargains.com/rss/",
     "kind": "rss"
   },
-  "baseline": true,
+  "baseline": false,
   "events": [
+    {
+      "id": "0456144515f91d6fc4525079",
+      "types": [
+        "new"
+      ],
+      "title": "11-Piece Dremel EZ Lock Cutting Accessory Kit $16 at Amazon",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://bensbargains.com/bargain/11-piece-dremel-ez-lock-cutting-accessory-kit-1097384/#rss",
+      "source_url": "https://bensbargains.com/bargain/11-piece-dremel-ez-lock-cutting-accessory-kit-1097384/#rss",
+      "retailer_url": null,
+      "link_type": "source"
+    },
     {
       "id": "06647afca9ba2cbccbbe9ad3",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "‎DNA MOTORING Folding Tire Step (Fits 9\" - 13\" Tires) $31 at Amazon",
       "retailer": null,
@@ -36,9 +62,61 @@
       "link_type": "source"
     },
     {
-      "id": "1f71f3636813aefb4d00ffa6",
+      "id": "11be7a6bc0dfb2aee8cc8a3a",
       "types": [
         "new"
+      ],
+      "title": "Ninja ES601 Luxe Cafe Fully Automatic Espresso Machine (Refurb) $250 at Woot!",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://bensbargains.com/bargain/ninja-es601-luxe-cafe-fully-automatic-espresso-machine-refurb-1097390/#rss",
+      "source_url": "https://bensbargains.com/bargain/ninja-es601-luxe-cafe-fully-automatic-espresso-machine-refurb-1097390/#rss",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "15e0439a2f94e2e7fdfa349a",
+      "types": [
+        "new"
+      ],
+      "title": "Avenco Airsea 12\" King Size Medium Firm Support Hybrid Mattress $204 at Walmart",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://bensbargains.com/bargain/avenco-airsea-12-king-size-medium-firm-support-hybrid-mattress-1097388/#rss",
+      "source_url": "https://bensbargains.com/bargain/avenco-airsea-12-king-size-medium-firm-support-hybrid-mattress-1097388/#rss",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "1f71f3636813aefb4d00ffa6",
+      "types": [
+        "removed"
       ],
       "title": "Igloo WWE Championship Belt 4-Can Insulated Fanny Pack Cooler $29 at Amazon",
       "retailer": null,
@@ -64,7 +142,7 @@
     {
       "id": "2892dcb89864df8678dddbb5",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Set-of-4 L’AGRATY 24\" x 24\" Outdoor Chair Cushions w/ Backrest $37 at Amazon",
       "retailer": null,
@@ -90,7 +168,7 @@
     {
       "id": "30f7566a40bd382e44424f7d",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Apple MacBook Air M5 CPU / 24GB RAM / 1TB SSD 13\" Laptop (2026) $1549 at Amazon",
       "retailer": null,
@@ -114,9 +192,35 @@
       "link_type": "source"
     },
     {
-      "id": "3c4a3769b35b7c626dab3c1b",
+      "id": "3a762cd0959c74f09eb7bfae",
       "types": [
         "new"
+      ],
+      "title": "ASUDESIRE 3-Pack Men's Fleece Sweatpants $30 at Walmart",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://bensbargains.com/bargain/asudesire-3-pack-men-s-fleece-sweatpants-1097394/#rss",
+      "source_url": "https://bensbargains.com/bargain/asudesire-3-pack-men-s-fleece-sweatpants-1097394/#rss",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "3c4a3769b35b7c626dab3c1b",
+      "types": [
+        "removed"
       ],
       "title": "Mars Explo 10' x 10' Screen Pop-Up House Room Tent $78 at Amazon",
       "retailer": null,
@@ -140,9 +244,35 @@
       "link_type": "source"
     },
     {
-      "id": "3fb070183108db5414755489",
+      "id": "3ec5d6c164ca2f9be25b76ec",
       "types": [
         "new"
+      ],
+      "title": "Up to 64% Off Amazon Exclusive Black Friday Deals at Amazon",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://bensbargains.com/bargain/up-to-64-off-amazon-exclusive-black-friday-deals-1097374/#rss",
+      "source_url": "https://bensbargains.com/bargain/up-to-64-off-amazon-exclusive-black-friday-deals-1097374/#rss",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "3fb070183108db5414755489",
+      "types": [
+        "removed"
       ],
       "title": "KLEIN TOOLS Klein Fastbit Tru-Grip 1/4\" Screwdriver Bit Holder $13 at Amazon",
       "retailer": null,
@@ -168,7 +298,7 @@
     {
       "id": "40d1ab2db3d47cb1af632ad6",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "WYZE Cam v4 2.5K Indoor / Outdoor Security Camera $30 at Amazon",
       "retailer": null,
@@ -194,7 +324,7 @@
     {
       "id": "41ce19c85968d2e201dda5ac",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "16-Piece Sports Research Creatine + Electrolytes Variety Packs $13 at Amazon",
       "retailer": null,
@@ -218,9 +348,35 @@
       "link_type": "source"
     },
     {
-      "id": "6c66de86083e946af624d2e7",
+      "id": "526e548ac2bef9bb3acd362b",
       "types": [
         "new"
+      ],
+      "title": "3 Pairs COZIA Merino Wool Warm Thermal Boot Hiking Socks $9.44 at Amazon",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://bensbargains.com/bargain/3-pairs-cozia-merino-wool-warm-thermal-boot-hiking-socks-1097381/#rss",
+      "source_url": "https://bensbargains.com/bargain/3-pairs-cozia-merino-wool-warm-thermal-boot-hiking-socks-1097381/#rss",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "6c66de86083e946af624d2e7",
+      "types": [
+        "removed"
       ],
       "title": "Hyper Tough 28\" Steel Mechanics Tool Cart w/ Drawers $84 at Walmart",
       "retailer": null,
@@ -244,9 +400,87 @@
       "link_type": "source"
     },
     {
-      "id": "947442f3941a5cbf515cf9c3",
+      "id": "6f468161f56f668246d92b12",
       "types": [
         "new"
+      ],
+      "title": "Hisense 75\" H5R1 Series 4K UHD HDR Smart Roku TV (2026) $328 at Walmart",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "tv",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": 500,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://bensbargains.com/bargain/hisense-75-h5r1-series-4k-uhd-hdr-smart-roku-tv-2026-1097387/#rss",
+      "source_url": "https://bensbargains.com/bargain/hisense-75-h5r1-series-4k-uhd-hdr-smart-roku-tv-2026-1097387/#rss",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "772258f9480b1cabbb207209",
+      "types": [
+        "new"
+      ],
+      "title": "WYZE Indoor HD Window Camera $22 at Amazon",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://bensbargains.com/bargain/wyze-indoor-hd-window-camera-1097375/#rss",
+      "source_url": "https://bensbargains.com/bargain/wyze-indoor-hd-window-camera-1097375/#rss",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "83bf2481da4f6a46ba77bed6",
+      "types": [
+        "new"
+      ],
+      "title": "BOSCH 3323 Premium Oil Filter $5.22 at Amazon",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://bensbargains.com/bargain/bosch-3323-premium-oil-filter-1097386/#rss",
+      "source_url": "https://bensbargains.com/bargain/bosch-3323-premium-oil-filter-1097386/#rss",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "947442f3941a5cbf515cf9c3",
+      "types": [
+        "removed"
       ],
       "title": "BLUETTI Elite 300 2400W / 3014Wh LiFePO4 Portable Power Station w/ 2x Solar Panels $1519 at Amazon",
       "retailer": null,
@@ -270,9 +504,35 @@
       "link_type": "source"
     },
     {
-      "id": "969d623e792bcc0364467b6a",
+      "id": "95666fafab79ea840eddc745",
       "types": [
         "new"
+      ],
+      "title": "Rubbermaid Brilliance 12-Cup Airtight Food Storage Pantry Container $11 at Amazon",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://bensbargains.com/bargain/rubbermaid-brilliance-12-cup-airtight-food-storage-pantry-container-1097385/#rss",
+      "source_url": "https://bensbargains.com/bargain/rubbermaid-brilliance-12-cup-airtight-food-storage-pantry-container-1097385/#rss",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "969d623e792bcc0364467b6a",
+      "types": [
+        "removed"
       ],
       "title": "roborock 18,500Pa Qrevo S Pro Robot Vacuum and Mop $380 at Amazon",
       "retailer": null,
@@ -296,9 +556,61 @@
       "link_type": "source"
     },
     {
-      "id": "992fee7b271418bd283983a3",
+      "id": "973006f2d0bf50ba0f8ea9f1",
       "types": [
         "new"
+      ],
+      "title": "Vertvie Women's Seamless Wireless Scalloped Jelly Bra $7.49 at Amazon",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://bensbargains.com/bargain/vertvie-women-s-seamless-wireless-scalloped-jelly-bra-1097395/#rss",
+      "source_url": "https://bensbargains.com/bargain/vertvie-women-s-seamless-wireless-scalloped-jelly-bra-1097395/#rss",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "98cab0cb2ccae075bc24e382",
+      "types": [
+        "new"
+      ],
+      "title": "RAYOCON Red Light Therapy Heated Knee Massager Brace $16 at Amazon",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://bensbargains.com/bargain/rayocon-red-light-therapy-heated-knee-massager-brace-1097393/#rss",
+      "source_url": "https://bensbargains.com/bargain/rayocon-red-light-therapy-heated-knee-massager-brace-1097393/#rss",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "992fee7b271418bd283983a3",
+      "types": [
+        "removed"
       ],
       "title": "MEALNET Thermal Sherpa Zipper Balaclava Ski Mask $5.50 at Amazon",
       "retailer": null,
@@ -322,9 +634,35 @@
       "link_type": "source"
     },
     {
-      "id": "a5e68ec3203e66d5f90f7ff4",
+      "id": "a0c62b6b36ccf27cc95fd390",
       "types": [
         "new"
+      ],
+      "title": "3-Pack Waterspecialist WS645A Refrigerator Water Filters $22 at Amazon",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://bensbargains.com/bargain/3-pack-waterspecialist-ws645a-refrigerator-water-filters-1097383/#rss",
+      "source_url": "https://bensbargains.com/bargain/3-pack-waterspecialist-ws645a-refrigerator-water-filters-1097383/#rss",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "a5e68ec3203e66d5f90f7ff4",
+      "types": [
+        "removed"
       ],
       "title": "2-Pack WYZE Indoor HD WiFi Window Camera w/ Color Night Vision $35 at Amazon",
       "retailer": null,
@@ -348,9 +686,35 @@
       "link_type": "source"
     },
     {
-      "id": "adaf66a358c3bd45eb0b3b00",
+      "id": "ad814ab6591ae8199a261166",
       "types": [
         "new"
+      ],
+      "title": "Levi Strauss Signature Men's Carpenter Jeans $19 at Walmart",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://bensbargains.com/bargain/levi-strauss-signature-men-s-carpenter-jeans-1097389/#rss",
+      "source_url": "https://bensbargains.com/bargain/levi-strauss-signature-men-s-carpenter-jeans-1097389/#rss",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "adaf66a358c3bd45eb0b3b00",
+      "types": [
+        "removed"
       ],
       "title": "Anker SOLIX S5000 5,024Wh/4,500W Portable Power Station $2500 at Amazon",
       "retailer": null,
@@ -374,9 +738,35 @@
       "link_type": "source"
     },
     {
-      "id": "d9058008201c8fb8534ef03c",
+      "id": "ae9cdaa5e2055ea347fb3809",
       "types": [
         "new"
+      ],
+      "title": "GEEKOM A8 Max Gaming Ryzen 7 / 16GB RAM / 1TB SSD Mini Desktop $679 at Amazon",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://bensbargains.com/bargain/geekom-a8-max-gaming-ryzen-7-16gb-ram-1tb-ssd-mini-desktop-1097371/#rss",
+      "source_url": "https://bensbargains.com/bargain/geekom-a8-max-gaming-ryzen-7-16gb-ram-1tb-ssd-mini-desktop-1097371/#rss",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "d9058008201c8fb8534ef03c",
+      "types": [
+        "removed"
       ],
       "title": "Fvyaln 11\" Cordless Snow Shovel $75 at Amazon",
       "retailer": null,
@@ -402,7 +792,7 @@
     {
       "id": "d98a918fb1b07ea3223a5031",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "256GB Motorola Moto G Stylus 5G Smartphone (2025) $200 at Amazon",
       "retailer": null,
@@ -426,9 +816,61 @@
       "link_type": "source"
     },
     {
-      "id": "e518987ee6a62c30ee06fcc7",
+      "id": "e0714fd37c326316f8d0f622",
       "types": [
         "new"
+      ],
+      "title": "ASUS ROG Strix G16 Intel i7 14650HX 16GB DDR5 1TB GeForce RTX 5060 16\" Gaming Laptop $1180 at Amazon",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://bensbargains.com/bargain/asus-rog-strix-g16-intel-i7-14650hx-16gb-ddr5-1tb-geforce-rtx-5060-16-gaming-laptop-1097392/#rss",
+      "source_url": "https://bensbargains.com/bargain/asus-rog-strix-g16-intel-i7-14650hx-16gb-ddr5-1tb-geforce-rtx-5060-16-gaming-laptop-1097392/#rss",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "e19da0753c6153bf3d738f31",
+      "types": [
+        "new"
+      ],
+      "title": "Astercook 16\" x 11\" Titanium 2-in-1 Cutting Board $12 at Amazon",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://bensbargains.com/bargain/astercook-16-x-11-titanium-2-in-1-cutting-board-1097382/#rss",
+      "source_url": "https://bensbargains.com/bargain/astercook-16-x-11-titanium-2-in-1-cutting-board-1097382/#rss",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "e518987ee6a62c30ee06fcc7",
+      "types": [
+        "removed"
       ],
       "title": "Black Jack 3-Ton Low Profile Aluminum / Steel Floor Jack w/ Quick Lift Pump $132 at Walmart",
       "retailer": null,
@@ -452,9 +894,35 @@
       "link_type": "source"
     },
     {
-      "id": "f0639b20166646e568cd61a2",
+      "id": "ec0daf930134ec1b41b3ace3",
       "types": [
         "new"
+      ],
+      "title": "Up to 65% off Black Friday Tire Sale at Walmart",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://bensbargains.com/bargain/up-to-65-off-black-friday-tire-sale-1097369/#rss",
+      "source_url": "https://bensbargains.com/bargain/up-to-65-off-black-friday-tire-sale-1097369/#rss",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "f0639b20166646e568cd61a2",
+      "types": [
+        "removed"
       ],
       "title": "George Men's Flannel Lined Slippers $5 at Walmart",
       "retailer": null,
@@ -480,7 +948,7 @@
     {
       "id": "f5fe8547eb03829543066740",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "4-Pack SANJICHA 132-Foot Multicolor Solar Christmas String Lights $14 at Amazon",
       "retailer": null,
@@ -506,7 +974,7 @@
     {
       "id": "fa40dcb4b33cf2550e6d36b0",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Mothers California Gold 3 Clay Bar Complete Kit $14 at Amazon",
       "retailer": null,
@@ -526,6 +994,58 @@
       },
       "url": "https://bensbargains.com/bargain/mothers-california-gold-3-clay-bar-complete-kit-1097188/#rss",
       "source_url": "https://bensbargains.com/bargain/mothers-california-gold-3-clay-bar-complete-kit-1097188/#rss",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "fd14691c76716102bf27f9f3",
+      "types": [
+        "new"
+      ],
+      "title": "TCL TAB A1 Plus 12.2\" 2.4K 128GB Android Tablet $180 at Amazon",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://bensbargains.com/bargain/tcl-tab-a1-plus-12-2-2-4k-128gb-android-tablet-1097391/#rss",
+      "source_url": "https://bensbargains.com/bargain/tcl-tab-a1-plus-12-2-2-4k-128gb-android-tablet-1097391/#rss",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "ffd311746629f0b0ac64029b",
+      "types": [
+        "new"
+      ],
+      "title": "Amazon Fresh Apple Cider Vinegar (128 Oz) $6.05 at Amazon",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://bensbargains.com/bargain/amazon-fresh-apple-cider-vinegar-128-oz-1097370/#rss",
+      "source_url": "https://bensbargains.com/bargain/amazon-fresh-apple-cider-vinegar-128-oz-1097370/#rss",
       "retailer_url": null,
       "link_type": "source"
     }

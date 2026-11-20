@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-19T23:15:35.949774+00:00",
+  "retrieved_at": "2026-11-20T07:49:24.955736+00:00",
   "source": {
     "id": "southern-savers",
     "name": "Southern Savers",
@@ -9,32 +9,5 @@
     "deal_headlines_only": true
   },
   "baseline": false,
-  "events": [
-    {
-      "id": "d0b1bb24b2175ef0b9b28103",
-      "types": [
-        "new"
-      ],
-      "title": "*HOT* Ninja SLUSHi Just $149.99 at Best Buy (Reg. $350)",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.southernsavers.com/hot-ninja-slushi-just-149-99-at-best-buy-reg-350/",
-      "source_url": "https://www.southernsavers.com/hot-ninja-slushi-just-149-99-at-best-buy-reg-350/",
-      "retailer_url": null,
-      "link_type": "source"
-    }
-  ]
+  "events": []
 }

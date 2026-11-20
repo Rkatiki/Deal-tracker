@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-19T23:15:35.949774+00:00",
+  "retrieved_at": "2026-11-20T07:49:24.955736+00:00",
   "source": {
     "id": "cheapshark-steam",
     "name": "CheapShark Steam Deals",
@@ -9,5 +9,162 @@
     "retailer": "Steam"
   },
   "baseline": false,
-  "events": []
+  "events": [
+    {
+      "id": "107af033b0e28bc2fc2e1b8c",
+      "types": [
+        "removed"
+      ],
+      "title": "Dead Space 2",
+      "retailer": "Steam",
+      "previous_price_cents": 399,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://store.steampowered.com/app/47780/",
+      "source_url": "https://www.cheapshark.com/redirect?dealID=Qo2D1P2lfHX6uag%2FLp6sSJpcxsTBKTHiDRPPsx2%2Fluw%3D",
+      "retailer_url": "https://store.steampowered.com/app/47780/",
+      "link_type": "retailer"
+    },
+    {
+      "id": "38c63f856447e23848aa5e3c",
+      "types": [
+        "removed"
+      ],
+      "title": "Relicta",
+      "retailer": "Steam",
+      "previous_price_cents": 199,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://store.steampowered.com/app/941570/",
+      "source_url": "https://www.cheapshark.com/redirect?dealID=tRhFOOPN8NuSYp7drqNrz2CZ4LqkhKofmX6ZuxG9nic%3D",
+      "retailer_url": "https://store.steampowered.com/app/941570/",
+      "link_type": "retailer"
+    },
+    {
+      "id": "5ff5e39dc7bcd5f8cf2ad1a4",
+      "types": [
+        "new"
+      ],
+      "title": "The Red Solstice",
+      "retailer": "Steam",
+      "previous_price_cents": null,
+      "current_price_cents": 99,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://store.steampowered.com/app/265590/",
+      "source_url": "https://www.cheapshark.com/redirect?dealID=4Z7ZOAP0ixP%2FKY1fILv8hq4QMIOfChrqV%2Blr6l%2BDYQ0%3D",
+      "retailer_url": "https://store.steampowered.com/app/265590/",
+      "link_type": "retailer"
+    },
+    {
+      "id": "a28f4ca67a72fdda85a7d022",
+      "types": [
+        "removed"
+      ],
+      "title": "It Takes Two",
+      "retailer": "Steam",
+      "previous_price_cents": 799,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://store.steampowered.com/app/1426210/",
+      "source_url": "https://www.cheapshark.com/redirect?dealID=yK9aqIEJjipAe5hoxP4skEqH3Sp98rdVBdGO7TlkTm4%3D",
+      "retailer_url": "https://store.steampowered.com/app/1426210/",
+      "link_type": "retailer"
+    },
+    {
+      "id": "ba79fbd03e3ce33b6d61633d",
+      "types": [
+        "new"
+      ],
+      "title": "Joe Dever's Lone Wolf HD Remastered",
+      "retailer": "Steam",
+      "previous_price_cents": null,
+      "current_price_cents": 149,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://store.steampowered.com/app/279440/",
+      "source_url": "https://www.cheapshark.com/redirect?dealID=B%2BP8xo9yxMT0PpDOf0gW0ZFl5%2F5V8yd9ViW0kloPGQ8%3D",
+      "retailer_url": "https://store.steampowered.com/app/279440/",
+      "link_type": "retailer"
+    },
+    {
+      "id": "c907290b25e5c99faa50b39d",
+      "types": [
+        "new"
+      ],
+      "title": "Agents of Mayhem",
+      "retailer": "Steam",
+      "previous_price_cents": null,
+      "current_price_cents": 149,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://store.steampowered.com/app/304530/",
+      "source_url": "https://www.cheapshark.com/redirect?dealID=9QB5AJK%2FikPz4Z2nW2z0Dnes%2Bz7cHMeaSXLH%2FCd4TWs%3D",
+      "retailer_url": "https://store.steampowered.com/app/304530/",
+      "link_type": "retailer"
+    }
+  ]
 }
