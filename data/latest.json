@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-19T23:03:35+00:00",
+  "retrieved_at": "2026-11-20T07:14:51+00:00",
   "sheet_id": "18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4",
   "tabs": [
     {
       "gid": "0",
       "name": "Master List",
       "method": "gviz_csv",
-      "count": 1485
+      "count": 1482
     },
     {
       "gid": "447244790",
@@ -73,13 +73,13 @@
       "gid": "47040948",
       "name": "Fashion",
       "method": "gviz_csv",
-      "count": 255
+      "count": 254
     },
     {
       "gid": "618994169",
       "name": "Other",
       "method": "gviz_csv",
-      "count": 100
+      "count": 99
     }
   ],
   "deals": [
@@ -442,10 +442,10 @@
       "currency": "USD",
       "coupon": null,
       "notes": "Was $298.00 (40% off); Posted Nov 12; Price can change; check before posting",
-      "url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
+      "url": "https://mavely.app.link/xhVcAlrT07b",
       "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
-      "retailer_url": null,
-      "link_type": "source",
+      "retailer_url": "https://mavely.app.link/xhVcAlrT07b",
+      "link_type": "retailer_redirect",
       "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
       "sources": [
         {
@@ -7760,10 +7760,10 @@
       "currency": "USD",
       "coupon": null,
       "notes": "Was $20.00 (57% off); 5; Price can change; check before posting",
-      "url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=0",
+      "url": "https://mavely.app.link/tnnRnY9Tc8b",
       "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=0",
-      "retailer_url": null,
-      "link_type": "source",
+      "retailer_url": "https://mavely.app.link/tnnRnY9Tc8b",
+      "link_type": "retailer_redirect",
       "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=0",
       "sources": [
         {
@@ -9994,40 +9994,6 @@
           "tab": "Personal Care",
           "price_text": "$9.99"
         },
-        {
-          "gid": "0",
-          "tab": "Master List",
-          "price_text": "$9.99"
-        }
-      ],
-      "price_conflict": false,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
-      "id": "b24d141c3583649d97335d29",
-      "title": "Transformers Studio Series Bumblebee Deluxe Class Action Figure (Devastation)",
-      "retailer": "Amazon",
-      "price_cents": 999,
-      "currency": "USD",
-      "coupon": null,
-      "notes": "Was $28.00 (64% off); 5; Price can change; check before posting",
-      "url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=0",
-      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=0",
-      "retailer_url": null,
-      "link_type": "source",
-      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=0",
-      "sources": [
         {
           "gid": "0",
           "tab": "Master List",
@@ -20063,45 +20029,6 @@
       }
     },
     {
-      "id": "d997292bb621970ffdafc30a",
-      "title": "adidas Adizero Adios OG Sneakers",
-      "retailer": "Shopbop",
-      "price_cents": 2200,
-      "currency": "USD",
-      "coupon": null,
-      "notes": "Was $110.00 (80% off); Final sale, limited sizes; Posted Sep 24; Price can change; check before posting",
-      "url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=47040948",
-      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=47040948",
-      "retailer_url": null,
-      "link_type": "source",
-      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=47040948",
-      "sources": [
-        {
-          "gid": "47040948",
-          "tab": "Fashion",
-          "price_text": "$22.00"
-        },
-        {
-          "gid": "0",
-          "tab": "Master List",
-          "price_text": "$22.00"
-        }
-      ],
-      "price_conflict": false,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
       "id": "a45c7f3304c3aff90956e21a",
       "title": "Glycolic Acid Toner (16 oz)",
       "retailer": "Mario Badescu",
@@ -23400,10 +23327,10 @@
       "currency": "USD",
       "coupon": null,
       "notes": "Was $198.00 (85% off); Posted Sep 25; Price can change; check before posting",
-      "url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=47040948",
+      "url": "https://mavely.app.link/57DlPzTFI6b",
       "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=47040948",
-      "retailer_url": null,
-      "link_type": "source",
+      "retailer_url": "https://mavely.app.link/57DlPzTFI6b",
+      "link_type": "retailer_redirect",
       "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=47040948",
       "sources": [
         {
@@ -23673,10 +23600,10 @@
       "currency": "USD",
       "coupon": null,
       "notes": "Was $69.99 (57% off); Posted Nov 4; Price can change; check before posting",
-      "url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=1423386812",
+      "url": "https://mavely.app.link/iEs0Gp2Tc8b",
       "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=1423386812",
-      "retailer_url": null,
-      "link_type": "source",
+      "retailer_url": "https://mavely.app.link/iEs0Gp2Tc8b",
+      "link_type": "retailer_redirect",
       "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=1423386812",
       "sources": [
         {
@@ -25116,10 +25043,10 @@
       "currency": "USD",
       "coupon": null,
       "notes": "Was $116.99 (72% off); 7; Price can change; check before posting",
-      "url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=0",
+      "url": "https://mavely.app.link/68TWc8aUc8b",
       "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=0",
-      "retailer_url": null,
-      "link_type": "source",
+      "retailer_url": "https://mavely.app.link/68TWc8aUc8b",
+      "link_type": "retailer_redirect",
       "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=0",
       "sources": [
         {
@@ -28553,10 +28480,10 @@
       "currency": "USD",
       "coupon": "WELCOME2026",
       "notes": "Was $81.95 (48% off); Posted Sep 13; Price can change; check before posting",
-      "url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=2126119671",
+      "url": "https://mavely.app.link/X29Rn53zp6b",
       "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=2126119671",
-      "retailer_url": null,
-      "link_type": "source",
+      "retailer_url": "https://mavely.app.link/X29Rn53zp6b",
+      "link_type": "retailer_redirect",
       "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=2126119671",
       "sources": [
         {
@@ -38211,10 +38138,10 @@
       "currency": "USD",
       "coupon": null,
       "notes": "Was $199.99 (55% off); Posted Nov 17; Price can change; check before posting",
-      "url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=2126119671",
+      "url": "https://mavely.app.link/gsjPTTbe97b",
       "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=2126119671",
-      "retailer_url": null,
-      "link_type": "source",
+      "retailer_url": "https://mavely.app.link/gsjPTTbe97b",
+      "link_type": "retailer_redirect",
       "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=2126119671",
       "sources": [
         {
@@ -38757,10 +38684,10 @@
       "currency": "USD",
       "coupon": null,
       "notes": "Was $160.00 (43% off); Posted Nov 13; Price can change; check before posting",
-      "url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=47040948",
+      "url": "https://mavely.app.link/ubuoeX8Tc8b",
       "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=47040948",
-      "retailer_url": null,
-      "link_type": "source",
+      "retailer_url": "https://mavely.app.link/ubuoeX8Tc8b",
+      "link_type": "retailer_redirect",
       "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=47040948",
       "sources": [
         {
@@ -40512,10 +40439,10 @@
       "currency": "USD",
       "coupon": null,
       "notes": "Was $299.99 (67% off); Posted Nov 13; Price can change; check before posting",
-      "url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=2126119671",
+      "url": "https://mavely.app.link/lDsM2c1Tc8b",
       "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=2126119671",
-      "retailer_url": null,
-      "link_type": "source",
+      "retailer_url": "https://mavely.app.link/lDsM2c1Tc8b",
+      "link_type": "retailer_redirect",
       "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=2126119671",
       "sources": [
         {
@@ -52673,45 +52600,6 @@
       }
     },
     {
-      "id": "220dd47ac33b292c0ff9dbae",
-      "title": "Steve Silver Grayson Transitional Gray Ash Sideboard",
-      "retailer": "Lowe's",
-      "price_cents": 62940,
-      "currency": "USD",
-      "coupon": null,
-      "notes": "Was $1,049.00 (40% off); Posted Nov 15; Price can change; check before posting",
-      "url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=618994169",
-      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=618994169",
-      "retailer_url": null,
-      "link_type": "source",
-      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=618994169",
-      "sources": [
-        {
-          "gid": "618994169",
-          "tab": "Other",
-          "price_text": "$629.40"
-        },
-        {
-          "gid": "0",
-          "tab": "Master List",
-          "price_text": "$629.40"
-        }
-      ],
-      "price_conflict": false,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
       "id": "fe3eb4086f1b73a529a679c8",
       "title": "[EPP/EDU] 49\" Samsung Odyssey G9 G95C DQHD 240Hz Curved Gaming Monitor + 24\" S36GD Monitor",
       "retailer": "Samsung",
@@ -53070,10 +52958,10 @@
       "currency": "USD",
       "coupon": "LOVE2SAVE",
       "notes": "Was $1,099.98 (38% off); $549.99 with code; Posted Nov 1; Price can change; check before posting",
-      "url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=47040948",
+      "url": "https://mavely.app.link/k3ZlmwirH7b",
       "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=47040948",
-      "retailer_url": null,
-      "link_type": "source",
+      "retailer_url": "https://mavely.app.link/k3ZlmwirH7b",
+      "link_type": "retailer_redirect",
       "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=47040948",
       "sources": [
         {
