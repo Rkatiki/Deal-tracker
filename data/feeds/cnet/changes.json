@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-20T07:49:24.955736+00:00",
+  "retrieved_at": "2026-11-20T17:21:23.145738+00:00",
   "source": {
     "id": "cnet",
     "name": "CNET Deals",
@@ -8,5 +8,110 @@
     "kind": "rss"
   },
   "baseline": false,
-  "events": []
+  "events": [
+    {
+      "id": "a475b1dc4139aa5ce908230a",
+      "types": [
+        "removed"
+      ],
+      "title": "Snap’s Specs AR Glasses Are Coming, and You Can Preorder Them Today",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.cnet.com/deals/snap-specs-ar-glasses-preorder/",
+      "source_url": "https://www.cnet.com/deals/snap-specs-ar-glasses-preorder/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "df8a4bc691edc78e0fc0fa34",
+      "types": [
+        "new"
+      ],
+      "title": "Black Friday Deal Hits Nintendo Switch 2. Save on the Console Today",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.cnet.com/deals/nintendo-switch-2-black-friday-deal/",
+      "source_url": "https://www.cnet.com/deals/nintendo-switch-2-black-friday-deal/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "f52f3a7133396e7827172b1c",
+      "types": [
+        "removed"
+      ],
+      "title": "Save Up to 47% Off Arlo Smart Home Security Cameras and Doorbells With These Black Friday Deals",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.cnet.com/deals/arlo-cameras-and-doorbells-black-friday-deals/",
+      "source_url": "https://www.cnet.com/deals/arlo-cameras-and-doorbells-black-friday-deals/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "fa6c4f60ea6da8734eb3ae87",
+      "types": [
+        "removed"
+      ],
+      "title": "Amazon Deals of the Day: Get Ready for GTA 6 With a New Controller That’s Almost 30% Off Right Before Black Friday",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.cnet.com/deals/amazon-deals-of-the-day-2026-11-16/",
+      "source_url": "https://www.cnet.com/deals/amazon-deals-of-the-day-2026-11-16/",
+      "retailer_url": null,
+      "link_type": "source"
+    }
+  ]
 }

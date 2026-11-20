@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-20T07:49:24.955736+00:00",
+  "retrieved_at": "2026-11-20T17:21:23.145738+00:00",
   "source": {
     "id": "windows-central",
     "name": "Windows Central",
@@ -9,5 +9,188 @@
     "deal_headlines_only": true
   },
   "baseline": false,
-  "events": []
+  "events": [
+    {
+      "id": "0235d6eac772ba1e1be55c29",
+      "types": [
+        "removed"
+      ],
+      "title": "Lenovo's IdeaPad Slim 3x price drop makes it a budget friendly pick for Black Friday",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.windowscentral.com/hardware/laptops/lenovo-ideapad-slim-3x-budget-friendly-early-black-friday",
+      "source_url": "https://www.windowscentral.com/hardware/laptops/lenovo-ideapad-slim-3x-budget-friendly-early-black-friday",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "0e011290acdd94041fd0a326",
+      "types": [
+        "removed"
+      ],
+      "title": "Razer Soma Pro review: This $999 gaming chair literally shook my butt, and I’m shocked by how much I love it",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.windowscentral.com/gaming/gaming-chairs/razer-soma-pro-review-this-usd999-gaming-chair-literally-shook-my-butt-and-im-shocked-by-how-much-i-love-it",
+      "source_url": "https://www.windowscentral.com/gaming/gaming-chairs/razer-soma-pro-review-this-usd999-gaming-chair-literally-shook-my-butt-and-im-shocked-by-how-much-i-love-it",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "1286656744ee4f18587ef557",
+      "types": [
+        "new"
+      ],
+      "title": "Game on the go with the affordable with over $400 off this ASUS gaming laptop",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.windowscentral.com/hardware/laptops/save-over-usd400-on-the-asus-rog-strix-g16-with-rtx-5060-in-this-mega-early-black-friday-sale",
+      "source_url": "https://www.windowscentral.com/hardware/laptops/save-over-usd400-on-the-asus-rog-strix-g16-with-rtx-5060-in-this-mega-early-black-friday-sale",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "3b1fb4eb45fb09d1db23bcb4",
+      "types": [
+        "removed"
+      ],
+      "title": "Best Buy knocks a massive $850 off this Ryzen AI 9 laptop, but only for one day",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.windowscentral.com/hardware/laptops/this-ungodly-powerful-amd-ryzen-ai-9-laptop-with-32gb-of-ram-is-now-off-by-usd850-for-a-one-day-only-early-black-friday-discount",
+      "source_url": "https://www.windowscentral.com/hardware/laptops/this-ungodly-powerful-amd-ryzen-ai-9-laptop-with-32gb-of-ram-is-now-off-by-usd850-for-a-one-day-only-early-black-friday-discount",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "5bc114da25180e3e9ef835e7",
+      "types": [
+        "new"
+      ],
+      "title": "Grand Theft Auto 6 is already on sale exclusively in the UK for up to 25% off",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.windowscentral.com/gaming/grand-theft-auto-6s-standard-and-ultimate-editions-on-xbox-are-already-having-discounts-up-to-25-percent-off-exclusively-in-the-uk",
+      "source_url": "https://www.windowscentral.com/gaming/grand-theft-auto-6s-standard-and-ultimate-editions-on-xbox-are-already-having-discounts-up-to-25-percent-off-exclusively-in-the-uk",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "877bfa8f70f3c5a29d154e96",
+      "types": [
+        "new"
+      ],
+      "title": "Best Xbox Ally microSD deals: Add up to 1.5TB",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.windowscentral.com/hardware/storage/your-xbox-allys-storage-will-fill-up-fast-these-discounted-microsd-cards-fix-that-for-as-little-as-usd70",
+      "source_url": "https://www.windowscentral.com/hardware/storage/your-xbox-allys-storage-will-fill-up-fast-these-discounted-microsd-cards-fix-that-for-as-little-as-usd70",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "d9530660975a1140e892d717",
+      "types": [
+        "new"
+      ],
+      "title": "2024's Microsoft Surface Laptop is still one of the best and it's back to an incredible price for Black Friday",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.windowscentral.com/hardware/surface/the-microsoft-surface-laptop-7-is-still-an-amazing-laptop-and-has-a-far-more-attractive-price-again-thanks-to-black-friday",
+      "source_url": "https://www.windowscentral.com/hardware/surface/the-microsoft-surface-laptop-7-is-still-an-amazing-laptop-and-has-a-far-more-attractive-price-again-thanks-to-black-friday",
+      "retailer_url": null,
+      "link_type": "source"
+    }
+  ]
 }

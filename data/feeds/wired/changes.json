@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-20T07:49:24.955736+00:00",
+  "retrieved_at": "2026-11-20T17:21:23.145738+00:00",
   "source": {
     "id": "wired",
     "name": "WIRED Deals",
@@ -8,5 +8,58 @@
     "kind": "rss"
   },
   "baseline": false,
-  "events": []
+  "events": [
+    {
+      "id": "c8344d92b98b1d4e6b02a3f1",
+      "types": [
+        "removed"
+      ],
+      "title": "The Best Leaf Blower We’ve Tested Is Ready for Halloween",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.wired.com/story/ego-blower-sale-tp-cannon-october-2026/",
+      "source_url": "https://www.wired.com/story/ego-blower-sale-tp-cannon-october-2026/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "f36fa36d55a98d675a045073",
+      "types": [
+        "new"
+      ],
+      "title": "The Best Pura Deals for Cyber Week (2026)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.wired.com/story/pura-black-friday-2026/",
+      "source_url": "https://www.wired.com/story/pura-black-friday-2026/",
+      "retailer_url": null,
+      "link_type": "source"
+    }
+  ]
 }
