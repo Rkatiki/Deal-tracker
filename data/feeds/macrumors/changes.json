@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-21T07:44:45.777752+00:00",
+  "retrieved_at": "2026-11-21T16:24:39.437813+00:00",
   "source": {
     "id": "macrumors",
     "name": "MacRumors Deals",
@@ -8,5 +8,110 @@
     "kind": "rss"
   },
   "baseline": false,
-  "events": []
+  "events": [
+    {
+      "id": "020b5662a99a539d029f59f6",
+      "types": [
+        "new"
+      ],
+      "title": "Top Stories: iPhone Duo Face Unlock, HomeView Tidbits, and More",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.macrumors.com/2026/11/21/top-stories-iphone-duo-face-unlock/",
+      "source_url": "https://www.macrumors.com/2026/11/21/top-stories-iphone-duo-face-unlock/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "6c226404e4b32f89a0ac41b4",
+      "types": [
+        "new"
+      ],
+      "title": "Apple Black Friday Deals Available Now: AirPods, Apple Watches, MacBooks, and More",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.macrumors.com/2026/11/21/apple-black-friday-deals-available-now-2026/",
+      "source_url": "https://www.macrumors.com/2026/11/21/apple-black-friday-deals-available-now-2026/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "943cac3a93421b4459ed0682",
+      "types": [
+        "removed"
+      ],
+      "title": "Apple Black Friday Deals Available Now: AirPods, Apple Watches, MacBooks, and More",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.macrumors.com/2026/11/20/apple-black-friday-deals-available-now-2026/",
+      "source_url": "https://www.macrumors.com/2026/11/20/apple-black-friday-deals-available-now-2026/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "e7916ee6a79fd274b312ee8c",
+      "types": [
+        "removed"
+      ],
+      "title": "Apple TV to Stream Female 'F1 Academy' Races in U.S. Starting in 2027",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "tv",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": 500,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.macrumors.com/2026/11/19/apple-tv-f1-academy/",
+      "source_url": "https://www.macrumors.com/2026/11/19/apple-tv-f1-academy/",
+      "retailer_url": null,
+      "link_type": "source"
+    }
+  ]
 }

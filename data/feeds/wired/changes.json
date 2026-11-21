@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-21T07:44:45.777752+00:00",
+  "retrieved_at": "2026-11-21T16:24:39.437813+00:00",
   "source": {
     "id": "wired",
     "name": "WIRED Deals",
@@ -8,5 +8,84 @@
     "kind": "rss"
   },
   "baseline": false,
-  "events": []
+  "events": [
+    {
+      "id": "0dc55406bea8e6711cd982a4",
+      "types": [
+        "new"
+      ],
+      "title": "Our Top Tested Picks From Tineco’s Black Friday Sale (2026)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.wired.com/story/tineco-black-friday-sale-2026/",
+      "source_url": "https://www.wired.com/story/tineco-black-friday-sale-2026/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "bb5ceacda4771a775631b950",
+      "types": [
+        "removed"
+      ],
+      "title": "Bose QC Headphones (2nd Gen) Sale: Lowest Price Ahead of Black Friday",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.wired.com/story/bose-deals-october-2026/",
+      "source_url": "https://www.wired.com/story/bose-deals-october-2026/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "c7ec647db2fef1c5e35b6c63",
+      "types": [
+        "removed"
+      ],
+      "title": "Govee Christmas Lights 2 Deal: Save $25 on These Smart String Lights",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.wired.com/story/govee-christmas-lights-deal-october-2026/",
+      "source_url": "https://www.wired.com/story/govee-christmas-lights-deal-october-2026/",
+      "retailer_url": null,
+      "link_type": "source"
+    }
+  ]
 }

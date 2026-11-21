@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-21T07:44:45.777752+00:00",
+  "retrieved_at": "2026-11-21T16:24:39.437813+00:00",
   "source": {
     "id": "cheapshark-steam",
     "name": "CheapShark Steam Deals",
@@ -9,58 +9,5 @@
     "retailer": "Steam"
   },
   "baseline": false,
-  "events": [
-    {
-      "id": "21ed1740fac03639260091bf",
-      "types": [
-        "new"
-      ],
-      "title": "Eldest Souls",
-      "retailer": "Steam",
-      "previous_price_cents": null,
-      "current_price_cents": 199,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://store.steampowered.com/app/1108590/",
-      "source_url": "https://www.cheapshark.com/redirect?dealID=DbFKl3FLjU5LLbPaXRzpMSf0%2BTxgLibtu%2BEfGvz5pU8%3D",
-      "retailer_url": "https://store.steampowered.com/app/1108590/",
-      "link_type": "retailer"
-    },
-    {
-      "id": "2d415588537210f10ef2b65f",
-      "types": [
-        "removed"
-      ],
-      "title": "Distant Worlds: Universe",
-      "retailer": "Steam",
-      "previous_price_cents": 299,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://store.steampowered.com/app/261470/",
-      "source_url": "https://www.cheapshark.com/redirect?dealID=CoyryML0LMR039mrHIRiquMVW%2FpRm6zbecdtqhyL1L0%3D",
-      "retailer_url": "https://store.steampowered.com/app/261470/",
-      "link_type": "retailer"
-    }
-  ]
+  "events": []
 }
