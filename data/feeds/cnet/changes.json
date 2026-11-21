@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-21T00:19:46.448904+00:00",
+  "retrieved_at": "2026-11-21T07:44:45.777752+00:00",
   "source": {
     "id": "cnet",
     "name": "CNET Deals",
@@ -8,84 +8,5 @@
     "kind": "rss"
   },
   "baseline": false,
-  "events": [
-    {
-      "id": "0ea1c1d445dcf9d1012a23f6",
-      "types": [
-        "new"
-      ],
-      "title": "Get an Apple Watch and AirPods on Verizon When You Buy an iPhone 18 Pro This Black Friday",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.cnet.com/deals/verizon-iphone-18-pro-black-friday-deal/",
-      "source_url": "https://www.cnet.com/deals/verizon-iphone-18-pro-black-friday-deal/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "4a5df9441d1ec64cf5ebd673",
-      "types": [
-        "new"
-      ],
-      "title": "Apple TV’s Black Friday Deal Is Here: Score 6 Months for Over 50% Off",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "tv",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": 500,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.cnet.com/deals/apple-tv-black-friday-deal/",
-      "source_url": "https://www.cnet.com/deals/apple-tv-black-friday-deal/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "83695b188b8aa98ae56c502e",
-      "types": [
-        "removed"
-      ],
-      "title": "Amazon Deals of the Day: Don’t Wait Until Black Friday to Score $100 Off the A17 iPad Mini",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.cnet.com/deals/amazon-deals-of-the-day-2026-11-17/",
-      "source_url": "https://www.cnet.com/deals/amazon-deals-of-the-day-2026-11-17/",
-      "retailer_url": null,
-      "link_type": "source"
-    }
-  ]
+  "events": []
 }

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-21T00:19:46.448904+00:00",
+  "retrieved_at": "2026-11-21T07:44:45.777752+00:00",
   "source": {
     "id": "android-authority",
     "name": "Android Authority Deals",
@@ -8,58 +8,5 @@
     "kind": "rss"
   },
   "baseline": false,
-  "events": [
-    {
-      "id": "406ba0f728111144d942d45f",
-      "types": [
-        "removed"
-      ],
-      "title": "Apple Watch Series 12 hits a new all-time low at $329",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.androidauthority.com/apple-watch-series-12-deal-amazon-3735657/",
-      "source_url": "https://www.androidauthority.com/apple-watch-series-12-deal-amazon-3735657/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "b063a104fde74a1110b58c0e",
-      "types": [
-        "new"
-      ],
-      "title": "SoundPEATS Q40 HD neckband earbuds get 35% off price drop",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.androidauthority.com/soundpeats-q40-hd-deal-3737825/",
-      "source_url": "https://www.androidauthority.com/soundpeats-q40-hd-deal-3737825/",
-      "retailer_url": null,
-      "link_type": "source"
-    }
-  ]
+  "events": []
 }

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-21T00:19:46.448904+00:00",
+  "retrieved_at": "2026-11-21T07:44:45.777752+00:00",
   "source": {
     "id": "free-stuff-finder",
     "name": "Free Stuff Finder",
@@ -10,37 +10,11 @@
   "baseline": false,
   "events": [
     {
-      "id": "000ee4a31573fe196cff8881",
-      "types": [
-        "removed"
-      ],
-      "title": "BioSilk Leave-In Hair Treatment $7 Shipped (Reg $21) at Amazon",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.freestufffinder.com/biosilk-leave-in-hair-treatment-7-shipped-reg-21-at-amazon/",
-      "source_url": "https://www.freestufffinder.com/biosilk-leave-in-hair-treatment-7-shipped-reg-21-at-amazon/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "16c09b3d9a370b21eff27fba",
+      "id": "007cf3430d8b992634b30d98",
       "types": [
         "new"
       ],
-      "title": "Welch’s Fruit Snacks 50-Pack for $7.88 Shipped at Amazon",
+      "title": "Reversible Comforter $19.99 at JCPenney",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -56,17 +30,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.freestufffinder.com/welchs-fruit-snacks-50-pack-for-10-shipped-at-amazon/",
-      "source_url": "https://www.freestufffinder.com/welchs-fruit-snacks-50-pack-for-10-shipped-at-amazon/",
+      "url": "https://www.freestufffinder.com/reversible-comforter-20-99-at-jcpenney/",
+      "source_url": "https://www.freestufffinder.com/reversible-comforter-20-99-at-jcpenney/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "1f22b7980fae72b18f0ebfe4",
+      "id": "019347f9fa892c318d4558f5",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "CVS Black Friday Ad 2026",
+      "title": "Candy Land Bluey Board Game $10.99 at Amazon",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -82,17 +56,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.freestufffinder.com/cvs-black-friday-ad-2026/",
-      "source_url": "https://www.freestufffinder.com/cvs-black-friday-ad-2026/",
+      "url": "https://www.freestufffinder.com/candy-land-bluey-board-game-11-99-at-amazon/",
+      "source_url": "https://www.freestufffinder.com/candy-land-bluey-board-game-11-99-at-amazon/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "1f2a5af9763fadf7844224ba",
+      "id": "02b4ccda7853aeb28f1b1ad3",
       "types": [
         "removed"
       ],
-      "title": "Luna Wireless Controller $39 Shipped at Amazon",
+      "title": "Cashmere-Blend Ribbed Crew Socks $19 (Reg $54) at Macy’s – Today Only!",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -108,274 +82,222 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.freestufffinder.com/luna-wireless-controller-49-shipped/",
-      "source_url": "https://www.freestufffinder.com/luna-wireless-controller-49-shipped/",
+      "url": "https://www.freestufffinder.com/cashmere-blend-ribbed-crew-socks-19-reg-54-at-macys-today-only/",
+      "source_url": "https://www.freestufffinder.com/cashmere-blend-ribbed-crew-socks-19-reg-54-at-macys-today-only/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "02d8416c0caca5d3682f4dd2",
+      "types": [
+        "removed"
+      ],
+      "title": "$5 Off Your First Amazon Order by Texting With Alexa!",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/5-off-your-first-amazon-order-by-texting-with-alexa/",
+      "source_url": "https://www.freestufffinder.com/5-off-your-first-amazon-order-by-texting-with-alexa/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "034a2d098129624d41ad0630",
+      "types": [
+        "new"
+      ],
+      "title": "Red Light Knee Massager $99 Shipped",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/red-light-knee-massager-99-shipped/",
+      "source_url": "https://www.freestufffinder.com/red-light-knee-massager-99-shipped/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "0a520e90ecaf55fc7e2ccebb",
+      "types": [
+        "new"
+      ],
+      "title": "Roborock Wet & Dry Vacuum $369 Shipped at Amazon",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/roborock-wet-dry-vacuum-369-shipped-at-amazon/",
+      "source_url": "https://www.freestufffinder.com/roborock-wet-dry-vacuum-369-shipped-at-amazon/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "0ba8e16db33e5341da763eb1",
+      "types": [
+        "new"
+      ],
+      "title": "Christmas Butter Squishy 2-Pack for $9.68 at Amazon",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/christmas-butter-squishy-2-pack-for-9-68-at-amazon/",
+      "source_url": "https://www.freestufffinder.com/christmas-butter-squishy-2-pack-for-9-68-at-amazon/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "0d6194c005c6e3fec917652a",
+      "types": [
+        "removed"
+      ],
+      "title": "BEST Amazon Deals Under $2 (Great Filler Subscribe & Save Items)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/amazon-deals-under-2/",
+      "source_url": "https://www.freestufffinder.com/amazon-deals-under-2/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "0f40c704a32ff8ff3f507c83",
+      "types": [
+        "removed"
+      ],
+      "title": "Christmas Door Mat $13 Shipped at Amazon",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/christmas-door-mat-13-shipped-at-amazon/",
+      "source_url": "https://www.freestufffinder.com/christmas-door-mat-13-shipped-at-amazon/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "198eaaffa4af86b8365d99a9",
+      "types": [
+        "removed"
+      ],
+      "title": "Microfiber Sheet Set $15.99 Shipped at Wayfair",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/microfiber-sheet-set-15-99-shipped-at-wayfair/",
+      "source_url": "https://www.freestufffinder.com/microfiber-sheet-set-15-99-shipped-at-wayfair/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "217fb9745daba4713b269444",
+      "types": [
+        "removed"
+      ],
+      "title": "Handheld Steam Cleaner $29 Shipped (Reg $80) at Amazon",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/handheld-steam-cleaner-29-shipped-reg-80-at-amazon/",
+      "source_url": "https://www.freestufffinder.com/handheld-steam-cleaner-29-shipped-reg-80-at-amazon/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "218d4baaed8c3dfc6fe1addd",
       "types": [
-        "new"
-      ],
-      "title": "Crock-Pot 7-Quart Slow Cooker $44 at Sam’s Club (Includes Thermal Bag!)",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.freestufffinder.com/crock-pot-7-quart-slow-cooker-44/",
-      "source_url": "https://www.freestufffinder.com/crock-pot-7-quart-slow-cooker-44/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "23ec7563ff165c26cb4311ec",
-      "types": [
-        "new"
-      ],
-      "title": "3 Dawn Liquid Dish Soap $2.66 Each Shipped at Amazon",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.freestufffinder.com/dawn-liquid-dish-soap-3-pack-for-7-68-shipped-at-amazon/",
-      "source_url": "https://www.freestufffinder.com/dawn-liquid-dish-soap-3-pack-for-7-68-shipped-at-amazon/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "2869605fdd6f7c954bbefb65",
-      "types": [
-        "new"
-      ],
-      "title": "Women’s Sweater $6.99 at Amazon",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.freestufffinder.com/womens-sweater-6-99-at-amazon-2/",
-      "source_url": "https://www.freestufffinder.com/womens-sweater-6-99-at-amazon-2/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "2c5faca81264eb4560ba1f8f",
-      "types": [
-        "removed"
-      ],
-      "title": "Twinings 60-Count Tea Bags Gift Box $10 Shipped at Amazon",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.freestufffinder.com/twinings-60-count-tea-bags-10-at-amazon/",
-      "source_url": "https://www.freestufffinder.com/twinings-60-count-tea-bags-10-at-amazon/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "33e21b872850d380663764a6",
-      "types": [
-        "removed"
-      ],
-      "title": "Purex Laundry Detergent 165-Loads $8.50 Shipped at Amazon",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.freestufffinder.com/purex-laundry-detergent-165-loads-8-72-shipped-at-amazon/",
-      "source_url": "https://www.freestufffinder.com/purex-laundry-detergent-165-loads-8-72-shipped-at-amazon/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "489b84fea6bc5b1593963cdf",
-      "types": [
-        "new"
-      ],
-      "title": "Toothbrush Holder $17.99 Shipped at Amazon",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.freestufffinder.com/toothbrush-holder-17-99-shipped-at-amazon/",
-      "source_url": "https://www.freestufffinder.com/toothbrush-holder-17-99-shipped-at-amazon/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "4e05c26cca16de5afca30dcf",
-      "types": [
-        "new"
-      ],
-      "title": "Kids Holiday Sweatshirt $10.98 at Sam’s Club",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.freestufffinder.com/kids-holiday-sweatshirts-10-98/",
-      "source_url": "https://www.freestufffinder.com/kids-holiday-sweatshirts-10-98/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "4efc2d440fffafe05503b13e",
-      "types": [
-        "removed"
-      ],
-      "title": "Circle K Fuel Day – Save 40¢ Off Per Gallon!",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.freestufffinder.com/circle-k-fuel-day/",
-      "source_url": "https://www.freestufffinder.com/circle-k-fuel-day/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "54d697831d6a1ce98c41dea2",
-      "types": [
-        "new"
-      ],
-      "title": "FREE LEGO-themed Gift Tag at Target (on November 21st)",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.freestufffinder.com/target-store-event/",
-      "source_url": "https://www.freestufffinder.com/target-store-event/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "5c24861d2bed2c212e9ceb6d",
-      "types": [
-        "new"
-      ],
-      "title": "Today’s Big Deals for Amazon Black Friday (Labubu, Toniebox & More)!",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.freestufffinder.com/amazon-todays-big-deals/",
-      "source_url": "https://www.freestufffinder.com/amazon-todays-big-deals/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "5cf91e46afcf7c18d68382f8",
-      "types": [
         "removed"
       ],
       "title": "Crock-Pot 7-Quart Slow Cooker $44 at Sam’s Club (Includes Thermal Bag!)",
@@ -400,11 +322,11 @@
       "link_type": "source"
     },
     {
-      "id": "6a12aee8018be1400617dacc",
+      "id": "262064bf53b4cb8df2329579",
       "types": [
         "new"
       ],
-      "title": "CVS Black Friday Ad 2026",
+      "title": "Barbie DreamCamper Playset $51 Shipped at Amazon",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -420,17 +342,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.freestufffinder.com/cvs-black-friday-ad-2026/",
-      "source_url": "https://www.freestufffinder.com/cvs-black-friday-ad-2026/",
+      "url": "https://www.freestufffinder.com/barbie-dreamcamper-playset-50-shipped-at-amazon/",
+      "source_url": "https://www.freestufffinder.com/barbie-dreamcamper-playset-50-shipped-at-amazon/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "7862beb68c06bb9f627e83f8",
+      "id": "266a0f42bd27a7fd4c6bd1f6",
       "types": [
         "removed"
       ],
-      "title": "Amazon Basics 6-Pack Hand Soap $3.79 Shipped at Amazon",
+      "title": "Hunter Women’s Boots $79 Shipped",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -446,13 +368,247 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.freestufffinder.com/solimo-hand-soap-6-pack-for-5-73/",
-      "source_url": "https://www.freestufffinder.com/solimo-hand-soap-6-pack-for-5-73/",
+      "url": "https://www.freestufffinder.com/hunter-boots-79-shipped/",
+      "source_url": "https://www.freestufffinder.com/hunter-boots-79-shipped/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "788bb7c72a9f3456c388b978",
+      "id": "2bd88c45af5673497b178de9",
+      "types": [
+        "removed"
+      ],
+      "title": "Chaco Women’s Clogs $27 (Reg $140) + FREE Gift",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/chaco-womens-clogs-43-boots-99/",
+      "source_url": "https://www.freestufffinder.com/chaco-womens-clogs-43-boots-99/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "2f1c01dfb9a801756e5f5f0a",
+      "types": [
+        "removed"
+      ],
+      "title": "Godiva 50-Piece Holiday Chocolate Tin $27 Shipped at Macy’s – Today Only!",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/godiva-50-piece-holiday-chocolate-tin-27-at-macys/",
+      "source_url": "https://www.freestufffinder.com/godiva-50-piece-holiday-chocolate-tin-27-at-macys/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "34d241271e41fb396afc545f",
+      "types": [
+        "new"
+      ],
+      "title": "Estee Lauder Face Serum $13 Shipped at Amazon",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/estee-lauder-face-serum-13-shipped-at-amazon/",
+      "source_url": "https://www.freestufffinder.com/estee-lauder-face-serum-13-shipped-at-amazon/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "34eb3d77cddd5862e7c40834",
+      "types": [
+        "new"
+      ],
+      "title": "100% Cashmere Sweaters $49 Shipped at Macy’s (Reg $159)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/100-cashmere-sweaters-49-shipped-at-macys-reg-159/",
+      "source_url": "https://www.freestufffinder.com/100-cashmere-sweaters-49-shipped-at-macys-reg-159/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "37063a2361eb15f7797a968d",
+      "types": [
+        "new"
+      ],
+      "title": "Possible FREE Turkey Today from Instacart!",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/possible-free-turkey-on-november-18th/",
+      "source_url": "https://www.freestufffinder.com/possible-free-turkey-on-november-18th/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "3f1b300cc3e574b83af79ed4",
+      "types": [
+        "new"
+      ],
+      "title": "Michael Kors Wristlets $26 Shipped (Leather Belt $21)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/michael-kors-wristlets-29/",
+      "source_url": "https://www.freestufffinder.com/michael-kors-wristlets-29/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "4125e6788ab9f0a89055230f",
+      "types": [
+        "removed"
+      ],
+      "title": "Tocobo Lip Oil $9 Shipped",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/tocobo-lip-oil-9-shipped/",
+      "source_url": "https://www.freestufffinder.com/tocobo-lip-oil-9-shipped/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "44885eb708f1f6d232ab9d99",
+      "types": [
+        "new"
+      ],
+      "title": "Insignia 70-Inch Smart Fire TV $299 Shipped at Amazon",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "tv",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": 500,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/insignia-70-inch-smart-fire-tv-299-at-best-buy/",
+      "source_url": "https://www.freestufffinder.com/insignia-70-inch-smart-fire-tv-299-at-best-buy/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "4a2f6d76f5c2acc9dbe91e4a",
+      "types": [
+        "new"
+      ],
+      "title": "FREE Downy Refresh Fabric Sheets 30-Count at Target",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/free-downy-refresh-fabric-sheets-30-count-at-target/",
+      "source_url": "https://www.freestufffinder.com/free-downy-refresh-fabric-sheets-30-count-at-target/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "4ae97fa0319cbebc2366ae2c",
       "types": [
         "new"
       ],
@@ -478,59 +634,7 @@
       "link_type": "source"
     },
     {
-      "id": "7b4c7e8d88d718b06fd6e368",
-      "types": [
-        "removed"
-      ],
-      "title": "Lululemon Belt Bags $19 Shipped",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.freestufffinder.com/lululemon-belt-bags-19-shipped-2/",
-      "source_url": "https://www.freestufffinder.com/lululemon-belt-bags-19-shipped-2/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "a09319e89c20918166108fca",
-      "types": [
-        "new"
-      ],
-      "title": "Beats Solo 4 Headphones $79 Shipped at Amazon",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.freestufffinder.com/new-beats-solo4-headphones-in-stock/",
-      "source_url": "https://www.freestufffinder.com/new-beats-solo4-headphones-in-stock/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "a7bbd1d50d3d75d0f1004efe",
+      "id": "4e05c26cca16de5afca30dcf",
       "types": [
         "removed"
       ],
@@ -556,11 +660,11 @@
       "link_type": "source"
     },
     {
-      "id": "ca193b9a9a82739441e0b8a8",
+      "id": "50807a41a836cb1cb459f84a",
       "types": [
         "new"
       ],
-      "title": "Dolce & Gabbana Gift Set $35 Shipped (BaBylissPRO Curling Iron $48)",
+      "title": "Kiko Milano 3D Hydra Lipstick $10 at Macy’s",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -576,17 +680,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.freestufffinder.com/dolce-gabbana-gift-set-35-shipped-babylisspro-curling-iron-48/",
-      "source_url": "https://www.freestufffinder.com/dolce-gabbana-gift-set-35-shipped-babylisspro-curling-iron-48/",
+      "url": "https://www.freestufffinder.com/kiko-milano-lip-gloss-11-at-macys/",
+      "source_url": "https://www.freestufffinder.com/kiko-milano-lip-gloss-11-at-macys/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "e7055d470a0cc2c3b0af4126",
+      "id": "522b26f9a97bbbef0d269dba",
       "types": [
         "removed"
       ],
-      "title": "Best Deals to Check Out Today 11/19 (Best Buy Black Friday, LEGO)",
+      "title": "Levi’s Vintage Overalls $37 Shipped (Reg $90)",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -602,17 +706,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.freestufffinder.com/top-deals-roundup/",
-      "source_url": "https://www.freestufffinder.com/top-deals-roundup/",
+      "url": "https://www.freestufffinder.com/levis-vintage-shortalls-20-reg-80/",
+      "source_url": "https://www.freestufffinder.com/levis-vintage-shortalls-20-reg-80/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "ef4d5396a5b49a200f2c4270",
+      "id": "557eb99b75569915f3ff4a9d",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "Nespresso Vertuo Pop $59 Shipped (Reg $119) at Walmart",
+      "title": "Blink Security Camera & Doorbell $27 at Amazon",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -628,8 +732,1152 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.freestufffinder.com/nespresso-vertuo-pop-59-shipped-at-walmart/",
-      "source_url": "https://www.freestufffinder.com/nespresso-vertuo-pop-59-shipped-at-walmart/",
+      "url": "https://www.freestufffinder.com/blink-security-camera-doorbell-30-at-amazon/",
+      "source_url": "https://www.freestufffinder.com/blink-security-camera-doorbell-30-at-amazon/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "5603d2bf03b63d0aa139c7e9",
+      "types": [
+        "new"
+      ],
+      "title": "Yesterday’s Top 5 Amazon Products Still Up for Grabs (Ferrero Rocher, Christmas Lights!)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/amazon-daily-best-sellers/",
+      "source_url": "https://www.freestufffinder.com/amazon-daily-best-sellers/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "5c24861d2bed2c212e9ceb6d",
+      "types": [
+        "removed"
+      ],
+      "title": "Today’s Big Deals for Amazon Black Friday (Labubu, Toniebox & More)!",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/amazon-todays-big-deals/",
+      "source_url": "https://www.freestufffinder.com/amazon-todays-big-deals/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "5caedbb4d981754f60adb4db",
+      "types": [
+        "removed"
+      ],
+      "title": "Spanx Booty-Lifting Brief $33 Shipped",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/spanx-booty-lifting-brief-33-shipped/",
+      "source_url": "https://www.freestufffinder.com/spanx-booty-lifting-brief-33-shipped/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "6a12aee8018be1400617dacc",
+      "types": [
+        "removed"
+      ],
+      "title": "CVS Black Friday Ad 2026",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/cvs-black-friday-ad-2026/",
+      "source_url": "https://www.freestufffinder.com/cvs-black-friday-ad-2026/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "6d24f908dc51dc2b18b7b472",
+      "types": [
+        "new"
+      ],
+      "title": "FREE Krispy Kreme Thanksgiving Doughnut With Any Purchase!",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/krispy-kreme-coupons/",
+      "source_url": "https://www.freestufffinder.com/krispy-kreme-coupons/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "6d96c0be1d388267d6390838",
+      "types": [
+        "new"
+      ],
+      "title": "Boots From $19.99 at Macy’s!",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/macys-boots-sale/",
+      "source_url": "https://www.freestufffinder.com/macys-boots-sale/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "788bb7c72a9f3456c388b978",
+      "types": [
+        "removed"
+      ],
+      "title": "5-Piece Luggage Set $69 Shipped at Macy’s",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/5-piece-luggage-set-71-shipped-at-macys/",
+      "source_url": "https://www.freestufffinder.com/5-piece-luggage-set-71-shipped-at-macys/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "91015fb98d062d3c3aa46438",
+      "types": [
+        "removed"
+      ],
+      "title": "Old Navy 50% Off Holiday Dressy (From $9.99!)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/old-navy-50-off-holiday-dressy-from-9-99/",
+      "source_url": "https://www.freestufffinder.com/old-navy-50-off-holiday-dressy-from-9-99/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "9ac3b3fda5ebd6d090e539e0",
+      "types": [
+        "new"
+      ],
+      "title": "12-Day Lip Advent Calendar $47 Shipped at Macy’s",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/12-day-lip-advent-calendar-67-shipped-at-macys/",
+      "source_url": "https://www.freestufffinder.com/12-day-lip-advent-calendar-67-shipped-at-macys/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "9f66fb0a92e6f1d4bcac2bfd",
+      "types": [
+        "removed"
+      ],
+      "title": "Amazon Prime Video Channels Subscriptions from 99¢ (AMC+, Paramount+, STARZ)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/prime-video-subscription/",
+      "source_url": "https://www.freestufffinder.com/prime-video-subscription/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "9f6dde4890ec05911cde96f3",
+      "types": [
+        "removed"
+      ],
+      "title": "Merrell Kids Boots $20 (Women’s Shoes $34)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/merrell-kids-shoes-13-reg-45/",
+      "source_url": "https://www.freestufffinder.com/merrell-kids-shoes-13-reg-45/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "ab5372e4364b79c3718346d5",
+      "types": [
+        "new"
+      ],
+      "title": "Sam’s Club Holiday Finds (Festive Apparel, Gift Ideas & More)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/sams-club-holiday-finds/",
+      "source_url": "https://www.freestufffinder.com/sams-club-holiday-finds/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "abff2bad8b80c63b2fb5386c",
+      "types": [
+        "removed"
+      ],
+      "title": "The Body Shop Advent Calendar $83 Shipped at Amazon",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/the-body-shop-advent-calendar-88-shipped-at-amazon/",
+      "source_url": "https://www.freestufffinder.com/the-body-shop-advent-calendar-88-shipped-at-amazon/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "ad0374bc825ac87803cf3c22",
+      "types": [
+        "new"
+      ],
+      "title": "Toddler Holiday Pajamas $5.98 at Sam’s Club",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/toddler-2-piece-holiday-pajamas-5-98/",
+      "source_url": "https://www.freestufffinder.com/toddler-2-piece-holiday-pajamas-5-98/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "af87ec43853f7dba0f6ec131",
+      "types": [
+        "new"
+      ],
+      "title": "6-Piece Washcloth Set $4.99 at JCPenney",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/washcloth-set-6-piece-6-at-jcpenney/",
+      "source_url": "https://www.freestufffinder.com/washcloth-set-6-piece-6-at-jcpenney/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "b034995150e8af85b56669ae",
+      "types": [
+        "new"
+      ],
+      "title": "JCPenney Black Friday 2026 LIVE Now – Save on Clothing, Home, Kitchen & More!",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/jcpenney-black-friday/",
+      "source_url": "https://www.freestufffinder.com/jcpenney-black-friday/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "b155e5589840fb276c555eca",
+      "types": [
+        "removed"
+      ],
+      "title": "FREE Holiday Mug at Lowe’s (On December 5th!)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/free-lowes-gift/",
+      "source_url": "https://www.freestufffinder.com/free-lowes-gift/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "b31fa24f78f40bab4f3e08fe",
+      "types": [
+        "removed"
+      ],
+      "title": "Bamboo Mattress Topper $44 Shipped at Amazon",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/bamboo-mattress-topper-44-shipped-at-amazon/",
+      "source_url": "https://www.freestufffinder.com/bamboo-mattress-topper-44-shipped-at-amazon/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "b80f7bba4d3a9e9a665782c5",
+      "types": [
+        "removed"
+      ],
+      "title": "Listerine 3-Pack Breath Strips $3.57 Shipped at Amazon",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/listerine-breath-strips-3-pack-for-5-43-shipped-at-amazon/",
+      "source_url": "https://www.freestufffinder.com/listerine-breath-strips-3-pack-for-5-43-shipped-at-amazon/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "b8644a26234d841002277350",
+      "types": [
+        "new"
+      ],
+      "title": "Target Deal of the Day: 30% Off Beauty & Personal Care Sets!",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/target-deal-of-the-day/",
+      "source_url": "https://www.freestufffinder.com/target-deal-of-the-day/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "bc0bed2b57efb3d0434fe43c",
+      "types": [
+        "removed"
+      ],
+      "title": "Lunch Bag $4.70 Shipped at Amazon",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/lunch-bag-3-99-shipped-reg-16-at-amazon/",
+      "source_url": "https://www.freestufffinder.com/lunch-bag-3-99-shipped-reg-16-at-amazon/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "be0ccf4febf9d2e3b48b7386",
+      "types": [
+        "new"
+      ],
+      "title": "Sam’s Club Countdown to Black Friday Sale (Toys, Clothing, Electronics)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/sams-club-pre-black-friday-sale/",
+      "source_url": "https://www.freestufffinder.com/sams-club-pre-black-friday-sale/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "bf2d5f37bba95642c0de76fb",
+      "types": [
+        "new"
+      ],
+      "title": "Onion Soup & Dip Seasoning Mix 53¢ Shipped at Amazon",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/onion-soup-dip-seasoning-mix-48-shipped-at-amazon/",
+      "source_url": "https://www.freestufffinder.com/onion-soup-dip-seasoning-mix-48-shipped-at-amazon/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "c68fc6157516a825abb9a128",
+      "types": [
+        "new"
+      ],
+      "title": "Today’s Big Deals for Amazon Black Friday (Labubu, Toniebox & More)!",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/amazon-todays-big-deals/",
+      "source_url": "https://www.freestufffinder.com/amazon-todays-big-deals/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "cb7498cd608f5a1ea9ae7511",
+      "types": [
+        "removed"
+      ],
+      "title": "Christmas Butter Squishy 2-Pack for $9.68 at Amazon",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/christmas-butter-squishy-2-pack-for-9-68-at-amazon/",
+      "source_url": "https://www.freestufffinder.com/christmas-butter-squishy-2-pack-for-9-68-at-amazon/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "cd7da69d7828b84294177ce7",
+      "types": [
+        "removed"
+      ],
+      "title": "Quay Sunglasses 50% Off – From $37",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/quay-australia-sunglasses/",
+      "source_url": "https://www.freestufffinder.com/quay-australia-sunglasses/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "cd827be561212b02286abebf",
+      "types": [
+        "removed"
+      ],
+      "title": "3 FREE Months of Amazon Music Unlimited!",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/free-amazon-music-unlimited-for-3-months/",
+      "source_url": "https://www.freestufffinder.com/free-amazon-music-unlimited-for-3-months/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "d0def0ee238cf13d34bc7ea8",
+      "types": [
+        "new"
+      ],
+      "title": "Burger King 2026 Advent Calendar – Last Chance to Get!",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/burger-king-coupons/",
+      "source_url": "https://www.freestufffinder.com/burger-king-coupons/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "d34d11084fc7d87e6b197c47",
+      "types": [
+        "removed"
+      ],
+      "title": "Thermal Brush $29 Shipped at Amazon",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/thermal-brush-29-shipped-at-amazon/",
+      "source_url": "https://www.freestufffinder.com/thermal-brush-29-shipped-at-amazon/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "d5403fd6e0ab4c11194c1e4d",
+      "types": [
+        "removed"
+      ],
+      "title": "Medicube Skincare from $6.58 Shipped at Amazon",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/medicube-skincare/",
+      "source_url": "https://www.freestufffinder.com/medicube-skincare/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "d5de07d17bcb086752016680",
+      "types": [
+        "removed"
+      ],
+      "title": "Electric Bucket Towel Warmer $44 Shipped (Reg $149) at Macy’s",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/electric-bucket-towel-warmer-44-shipped-reg-149-at-macys/",
+      "source_url": "https://www.freestufffinder.com/electric-bucket-towel-warmer-44-shipped-reg-149-at-macys/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "d697256cfef3d3cc9d253b46",
+      "types": [
+        "new"
+      ],
+      "title": "Sam’s Club Instant Savings Deals (Family PJs, Kitchen Appliances & More)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/instant-savings-sams-club/",
+      "source_url": "https://www.freestufffinder.com/instant-savings-sams-club/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "d6c2af833aaab66d8314e570",
+      "types": [
+        "new"
+      ],
+      "title": "Jell-O Pudding Mix $1 Shipped at Amazon",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/jell-o-pudding-mix-1-41-shipped-at-amazon/",
+      "source_url": "https://www.freestufffinder.com/jell-o-pudding-mix-1-41-shipped-at-amazon/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "df4196eeb783a28e66276e13",
+      "types": [
+        "removed"
+      ],
+      "title": "Calvin Klein Puffer Jackets $59 Shipped (Reg $149) – Last Chance!",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/calvin-klein-puffer-jackets-59-shipped-reg-149/",
+      "source_url": "https://www.freestufffinder.com/calvin-klein-puffer-jackets-59-shipped-reg-149/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "e0b3afed2ace850ac5c8e06b",
+      "types": [
+        "new"
+      ],
+      "title": "New Balance 408 Shoes $45 Shipped",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/new-balance-410-shoes-55/",
+      "source_url": "https://www.freestufffinder.com/new-balance-410-shoes-55/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "e68248942e901fb733199d99",
+      "types": [
+        "removed"
+      ],
+      "title": "Curology x Dove Cameron Skincare Set $14.95 + FREE Pouch!",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/curology-x-dove-cameron-skincare-set-24-95-free-pouch/",
+      "source_url": "https://www.freestufffinder.com/curology-x-dove-cameron-skincare-set-24-95-free-pouch/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "e73302bd49c426fb3b9c314a",
+      "types": [
+        "new"
+      ],
+      "title": "Bath & Body Works Early Black Friday: 40% Off Entire Store – Ends Today!",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/bath-body-works-black-friday/",
+      "source_url": "https://www.freestufffinder.com/bath-body-works-black-friday/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "ea90a8e12671a4dff80f658c",
+      "types": [
+        "removed"
+      ],
+      "title": "Little Tikes Dr. Seuss Story Dream Machine $29 at Amazon",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/little-tikes-dr-seuss-story-dream-machine-29-at-amazon/",
+      "source_url": "https://www.freestufffinder.com/little-tikes-dr-seuss-story-dream-machine-29-at-amazon/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "eacfee3e4e3a30995b21120e",
+      "types": [
+        "new"
+      ],
+      "title": "Golden Santa Scavenger Hunt at World Market – Find Rewards!",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/world-market-scavenger-hunt/",
+      "source_url": "https://www.freestufffinder.com/world-market-scavenger-hunt/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "ee127344771dc8d1c5a73303",
+      "types": [
+        "removed"
+      ],
+      "title": "Carter’s Disney Fleece Pullovers $12 (Reg $38)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/carters-disney-fleece-pullovers-8-reg-38/",
+      "source_url": "https://www.freestufffinder.com/carters-disney-fleece-pullovers-8-reg-38/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "f0c4c6e2e8a4ba14c0f02130",
+      "types": [
+        "new"
+      ],
+      "title": "Sherpa Fleece Throw $9.59 at Amazon",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/sherpa-fleece-throw-9-99-at-amazon/",
+      "source_url": "https://www.freestufffinder.com/sherpa-fleece-throw-9-99-at-amazon/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "f61f66c84b255cb8ab35f15d",
+      "types": [
+        "new"
+      ],
+      "title": "Prime Members Save 20¢ Per Gallon Each Friday!",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/amazon-prime-gas-deals/",
+      "source_url": "https://www.freestufffinder.com/amazon-prime-gas-deals/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "f791fc329997725f8539c696",
+      "types": [
+        "new"
+      ],
+      "title": "FREE Purina 2026 Feastivities Ornament (Last Day)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/purina-freebie/",
+      "source_url": "https://www.freestufffinder.com/purina-freebie/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "fab18e5f9389e557e06a9779",
+      "types": [
+        "removed"
+      ],
+      "title": "New York Yankees Hat $11 (Reg $38)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/new-york-yankees-hat-11-reg-38/",
+      "source_url": "https://www.freestufffinder.com/new-york-yankees-hat-11-reg-38/",
       "retailer_url": null,
       "link_type": "source"
     }

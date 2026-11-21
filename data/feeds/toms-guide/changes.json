@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-21T00:19:46.448904+00:00",
+  "retrieved_at": "2026-11-21T07:44:45.777752+00:00",
   "source": {
     "id": "toms-guide",
     "name": "Tom's Guide",
@@ -11,11 +11,11 @@
   "baseline": false,
   "events": [
     {
-      "id": "2a74490260321080c296b539",
+      "id": "2c5fdeefb7c9564123e8ae59",
       "types": [
         "removed"
       ],
-      "title": "Google just gave its $99 AI Ultra plan a free upgrade your whole household can use",
+      "title": "Get ready for winter outages — stock up on Black Friday deals on snow blowers, space heaters, power stations and generators",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -31,147 +31,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.tomsguide.com/ai/google-just-gave-its-usd99-ai-ultra-plan-a-free-upgrade-your-whole-household-can-use",
-      "source_url": "https://www.tomsguide.com/ai/google-just-gave-its-usd99-ai-ultra-plan-a-free-upgrade-your-whole-household-can-use",
+      "url": "https://www.tomsguide.com/sales-events/get-ready-for-winter-outages-stock-up-on-black-friday-deals-on-snow-blowers-space-heaters-power-stations-and-generators",
+      "source_url": "https://www.tomsguide.com/sales-events/get-ready-for-winter-outages-stock-up-on-black-friday-deals-on-snow-blowers-space-heaters-power-stations-and-generators",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "42813c0904c35025ebe6ec7e",
-      "types": [
-        "removed"
-      ],
-      "title": "Best Black Friday clothing and footwear deals — Skechers, Timberland, Patagonia and more from just $9",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.tomsguide.com/sales-events/best-black-friday-clothing-and-footwear-deals-skechers-timberland-patagonia-and-more-from-just-usd9",
-      "source_url": "https://www.tomsguide.com/sales-events/best-black-friday-clothing-and-footwear-deals-skechers-timberland-patagonia-and-more-from-just-usd9",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "58aadded01b3b81b30de57f1",
-      "types": [
-        "removed"
-      ],
-      "title": "Target Black Friday deals are live with up to 50% off Stanley, holiday decor from $10 and more",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.tomsguide.com/sales-events/target-black-friday-deals-are-live-with-up-to-50-percent-off-november-2026",
-      "source_url": "https://www.tomsguide.com/sales-events/target-black-friday-deals-are-live-with-up-to-50-percent-off-november-2026",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "6f728abfdd3c3a6f920df4f7",
-      "types": [
-        "removed"
-      ],
-      "title": "I’m sharing my favorite iPhone Black Friday deals — free iPhone 18 Pro Max, iPhone Duo $1,200 off and more",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.tomsguide.com/phones/iphones/im-sharing-my-favorite-iphone-black-friday-deals-free-iphone-18-pro-max-iphone-duo-usd1-200-off-and-more",
-      "source_url": "https://www.tomsguide.com/phones/iphones/im-sharing-my-favorite-iphone-black-friday-deals-free-iphone-18-pro-max-iphone-duo-usd1-200-off-and-more",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "8d320b5b1aed35b36d6ec1da",
-      "types": [
-        "removed"
-      ],
-      "title": "Black Friday refrigerator deals are live: Save up to 47% off my top picks from Samsung, LG, Whirlpool and more",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.tomsguide.com/home/home-appliances/the-black-friday-refrigerator-sales",
-      "source_url": "https://www.tomsguide.com/home/home-appliances/the-black-friday-refrigerator-sales",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "a07e5dbf64e3887c061a0d78",
+      "id": "3bc42951d496a4a91fe6930e",
       "types": [
         "new"
       ],
-      "title": "I found 31 Amazon Black Friday deals under $25 actually worth buying — Fire TV, Apple, Carhartt, Stanley, Ring and more",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "tv",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": 500,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.tomsguide.com/sales-events/31-best-early-black-friday-deals-under-usd25-on-amazon-shop-apple-earpods-fire-tv-stick-4k-stanley-quencher-h20-and-more",
-      "source_url": "https://www.tomsguide.com/sales-events/31-best-early-black-friday-deals-under-usd25-on-amazon-shop-apple-earpods-fire-tv-stick-4k-stanley-quencher-h20-and-more",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "b54313b9fb0e4af3fe399b5f",
-      "types": [
-        "removed"
-      ],
-      "title": "Amazon has slashed prices on some of Carhartt's most loved pieces for Black Friday — I've found the best deals with up to 57% off",
+      "title": "Gaming laptop Black Friday deals — my 5 favorites take up to $700 off Asus, Lenovo, Acer and more",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -187,8 +57,60 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.tomsguide.com/sales-events/carhartt-black-friday-deals-amazon-thursday-19-november-2026",
-      "source_url": "https://www.tomsguide.com/sales-events/carhartt-black-friday-deals-amazon-thursday-19-november-2026",
+      "url": "https://www.tomsguide.com/computing/gaming-laptops/gaming-laptop-black-friday-deals-2026",
+      "source_url": "https://www.tomsguide.com/computing/gaming-laptops/gaming-laptop-black-friday-deals-2026",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "70dda4b53ed0fb9d2c8304ed",
+      "types": [
+        "new"
+      ],
+      "title": "I’ve spent months testing the iPhone 17, Galaxy S26, and Pixel 11 — here’s the sub-$1,000 phone worth buying",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.tomsguide.com/phones/ive-spent-months-testing-the-iphone-17-galaxy-s26-and-pixel-11-heres-the-sub-usd1-000-phone-worth-buying",
+      "source_url": "https://www.tomsguide.com/phones/ive-spent-months-testing-the-iphone-17-galaxy-s26-and-pixel-11-heres-the-sub-usd1-000-phone-worth-buying",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "b2c54ff0730f0f5bce8f5b00",
+      "types": [
+        "removed"
+      ],
+      "title": "Xbox Black Friday deals — save on Xbox games, peripherals, and more right now",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.tomsguide.com/gaming/xbox/best-xbox-black-friday-2026-deals",
+      "source_url": "https://www.tomsguide.com/gaming/xbox/best-xbox-black-friday-2026-deals",
       "retailer_url": null,
       "link_type": "source"
     }
