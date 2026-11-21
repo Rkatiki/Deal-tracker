@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-20T23:59:14+00:00",
+  "retrieved_at": "2026-11-21T07:06:53+00:00",
   "website": "https://dealsmocktail.com/us",
   "tabs": [
     {
@@ -758,44 +758,6 @@
       }
     },
     {
-      "id": "05d6c612986982d44cb8f671",
-      "title": "soundcore P30i by Anker Noise Cancelling Earbuds, Hands-Free Viewing | Strong and Smart Noise Cancelling, Powerful Bass, 45H Playtime, 2-in-1 Case and Phone Stand, IP54, Bluetooth 5.4",
-      "retailer": "Amazon",
-      "price_cents": 2350,
-      "currency": "USD",
-      "coupon": null,
-      "notes": null,
-      "url": "https://link.amazon/B01RMfGrw",
-      "source_url": "https://dealsmocktail.com/us/deal/soundcore-p30i-by-anker-noise-cancelling-earbuds-hands-free-viewing-strong-and-smart-noise-cancellin_1795095078871",
-      "retailer_url": "https://link.amazon/B01RMfGrw",
-      "link_type": "retailer_redirect",
-      "sheet_url": "https://dealsmocktail.com/us/deals?category=electronics",
-      "sources": [
-        {
-          "gid": "dealsmocktail:electronics",
-          "tab": "Electronics",
-          "price_text": "23.5",
-          "category": "Audio & Headphones",
-          "posted_at": "2026-11-19T08:31:18.896-05:00",
-          "expires_at": "2026-11-30T23:59:59.999-05:00",
-          "advertised_price": "49.99"
-        }
-      ],
-      "price_conflict": false,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
       "id": "2ae66568f2a5f357b65698c1",
       "title": "JBL Tune 530BT (2026) – Wireless On-Ear Bluetooth Headphones (Black) | JBL Pure Bass Sound, Up to 76H Battery Life (19H More Than Previous Gen), Lightweight, 2 Beamforming Mics for Clear Calls",
       "retailer": "Amazon",
@@ -812,6 +774,15 @@
         {
           "gid": "dealsmocktail:latest",
           "tab": "Latest",
+          "price_text": "29.95",
+          "category": "Audio & Headphones",
+          "posted_at": "2026-11-20T18:07:45.239-05:00",
+          "expires_at": "2026-11-29T23:59:59.999-05:00",
+          "advertised_price": "59.95"
+        },
+        {
+          "gid": "dealsmocktail:electronics",
+          "tab": "Electronics",
           "price_text": "29.95",
           "category": "Audio & Headphones",
           "posted_at": "2026-11-20T18:07:45.239-05:00",
@@ -1481,44 +1452,6 @@
           "posted_at": "2026-11-19T07:48:17.245-05:00",
           "expires_at": "2026-11-30T23:59:59.999-05:00",
           "advertised_price": "134.99"
-        }
-      ],
-      "price_conflict": false,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
-      "id": "65b7b6b984a6187fde067679",
-      "title": "bella PRO - 5-Speed Centrifugal Digital Juice Extractor - Stainless Steel",
-      "retailer": "Best Buy",
-      "price_cents": 6999,
-      "currency": "USD",
-      "coupon": null,
-      "notes": null,
-      "url": "https://go.magik.ly/ml/4w2ue/",
-      "source_url": "https://dealsmocktail.com/us/deal/bella-pro-5-speed-centrifugal-digital-juice-extractor-stainless-steel_1794901068492",
-      "retailer_url": "https://go.magik.ly/ml/4w2ue/",
-      "link_type": "retailer_redirect",
-      "sheet_url": "https://dealsmocktail.com/us/deals?category=home-kitchen",
-      "sources": [
-        {
-          "gid": "dealsmocktail:home-kitchen",
-          "tab": "Home and Kitchen",
-          "price_text": "69.99",
-          "category": "Kitchen & Dining",
-          "posted_at": "2026-11-17T02:38:19.160-05:00",
-          "expires_at": "2026-11-30T23:59:59.999-05:00",
-          "advertised_price": "119.99"
         }
       ],
       "price_conflict": false,
@@ -2511,6 +2444,15 @@
         {
           "gid": "dealsmocktail:latest",
           "tab": "Latest",
+          "price_text": "379.99",
+          "category": "Home Appliances",
+          "posted_at": "2026-11-20T18:20:54.308-05:00",
+          "expires_at": "2026-11-30T23:59:59.999-05:00",
+          "advertised_price": "799.99"
+        },
+        {
+          "gid": "dealsmocktail:home-kitchen",
+          "tab": "Home and Kitchen",
           "price_text": "379.99",
           "category": "Home Appliances",
           "posted_at": "2026-11-20T18:20:54.308-05:00",
