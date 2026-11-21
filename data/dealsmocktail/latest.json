@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-21T16:08:57+00:00",
+  "retrieved_at": "2026-11-21T21:39:49+00:00",
   "website": "https://dealsmocktail.com/us",
   "tabs": [
     {
@@ -76,17 +76,8 @@
       "source_url": "https://dealsmocktail.com/us/deal/3-in-1-robot-vacuum-and-mop-cleaner_1795252759158",
       "retailer_url": "https://go.magik.ly/ml/4x3aq/",
       "link_type": "retailer_redirect",
-      "sheet_url": "https://dealsmocktail.com/us/deals",
+      "sheet_url": "https://dealsmocktail.com/us/deals?category=home-kitchen",
       "sources": [
-        {
-          "gid": "dealsmocktail:latest",
-          "tab": "Latest",
-          "price_text": "75.99",
-          "category": "Home Cleaning & Organization",
-          "posted_at": "2026-11-21T04:20:09.232-05:00",
-          "expires_at": "2026-12-04T23:59:59.999-05:00",
-          "advertised_price": "299.99"
-        },
         {
           "gid": "dealsmocktail:home-kitchen",
           "tab": "Home and Kitchen",
@@ -103,6 +94,44 @@
         "variant": null,
         "status": "candidate",
         "score": 40.83,
+        "max_usd": 350,
+        "preferred_usd": 250,
+        "within_budget": true,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
+      "id": "7f1f7f022ecc093684872f86",
+      "title": "Roborock Q7 L5 Robot Vacuum & Mop – 8,000Pa Suction, LiDAR Navigation",
+      "retailer": "Amazon",
+      "price_cents": 11325,
+      "currency": "USD",
+      "coupon": null,
+      "notes": null,
+      "url": "https://link.amazon/B08XJgC8j",
+      "source_url": "https://dealsmocktail.com/us/deal/roborock-q7-l5-robot-vacuum-mop-8000pa-suction-lidar-navigation_1782334809057",
+      "retailer_url": "https://link.amazon/B08XJgC8j",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://dealsmocktail.com/us/deals",
+      "sources": [
+        {
+          "gid": "dealsmocktail:latest",
+          "tab": "Latest",
+          "price_text": "113.25",
+          "category": "Home Improvement",
+          "posted_at": "2026-11-21T14:54:17.960-05:00",
+          "expires_at": "2026-11-30T23:59:59.999-05:00",
+          "advertised_price": "249.99"
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "robot_vacuum_mop",
+        "variant": null,
+        "status": "candidate",
+        "score": 39.76,
         "max_usd": 350,
         "preferred_usd": 250,
         "within_budget": true,
@@ -226,6 +255,53 @@
       }
     },
     {
+      "id": "5890272498010a90e6aa6d8f",
+      "title": "Samsung B-Series Soundbar HW B400F 2.0 ch Soundbar with Built in Subwoofer (2025 Model) One Remote Control, Surround Sound Expansion, Voice Enhance Mode",
+      "retailer": "Amazon",
+      "price_cents": 6999,
+      "currency": "USD",
+      "coupon": null,
+      "notes": null,
+      "url": "https://www.amazon.com/dp/B0DY1Z934F?tag=mmdealsusa-20&linkCode=ogi&th=1&psc=1",
+      "source_url": "https://dealsmocktail.com/us/deal/samsung-b-series-soundbar-hw-b400f-20-ch-soundbar-with-built-in-subwoofer-2025-model-one-remote-cont_1795293289400",
+      "retailer_url": "https://www.amazon.com/dp/B0DY1Z934F?tag=mmdealsusa-20&linkCode=ogi&th=1&psc=1",
+      "link_type": "retailer",
+      "sheet_url": "https://dealsmocktail.com/us/deals",
+      "sources": [
+        {
+          "gid": "dealsmocktail:latest",
+          "tab": "Latest",
+          "price_text": "69.99",
+          "category": "Audio & Headphones",
+          "posted_at": "2026-11-21T15:36:30.049-05:00",
+          "expires_at": "2026-11-30T23:59:59.999-05:00",
+          "advertised_price": "139.99"
+        },
+        {
+          "gid": "dealsmocktail:electronics",
+          "tab": "Electronics",
+          "price_text": "69.99",
+          "category": "Audio & Headphones",
+          "posted_at": "2026-11-21T15:36:30.049-05:00",
+          "expires_at": "2026-11-30T23:59:59.999-05:00",
+          "advertised_price": "139.99"
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "soundbar",
+        "variant": null,
+        "status": "candidate",
+        "score": 28.0,
+        "max_usd": 100,
+        "preferred_usd": null,
+        "within_budget": true,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
       "id": "f211e02e2b192c14b4ec2a97",
       "title": "Samsung - 75\" Class U7900 Series UHD 4K Smart Tizen TV",
       "retailer": "Best Buy",
@@ -285,6 +361,44 @@
           "posted_at": "2026-11-20T11:48:55.853-05:00",
           "expires_at": "2026-11-30T23:59:59.999-05:00",
           "advertised_price": "22.99"
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
+      "id": "e927344cd077a91ff9dbc5dd",
+      "title": "THE FACE SHOP Rice Water Bright Foaming Cleanser, Face Wash, 10.1 fl. oz. | Gentle Cleansing Foam, with Rice Water, Deep Pore Cleansing, Hydrating, Vegan",
+      "retailer": "Amazon",
+      "price_cents": 1169,
+      "currency": "USD",
+      "coupon": null,
+      "notes": null,
+      "url": "https://www.amazon.com/dp/B07DS69MHD?tag=mmdealsusa-20&linkCode=ogi&th=1&psc=1",
+      "source_url": "https://dealsmocktail.com/us/deal/the-face-shop-rice-water-bright-foaming-cleanser-face-wash-101-fl-oz-gentle-cleansing-foam-with-rice_1795286590763",
+      "retailer_url": "https://www.amazon.com/dp/B07DS69MHD?tag=mmdealsusa-20&linkCode=ogi&th=1&psc=1",
+      "link_type": "retailer",
+      "sheet_url": "https://dealsmocktail.com/us/deals",
+      "sources": [
+        {
+          "gid": "dealsmocktail:latest",
+          "tab": "Latest",
+          "price_text": "11.69",
+          "category": "Skin Care",
+          "posted_at": "2026-11-21T13:45:35.843-05:00",
+          "expires_at": "2026-11-30T23:59:59.999-05:00",
+          "advertised_price": 17
         }
       ],
       "price_conflict": false,
@@ -399,44 +513,6 @@
           "posted_at": "2026-11-18T13:11:00.245-05:00",
           "expires_at": "2026-11-30T23:59:59.999-05:00",
           "advertised_price": "38.99"
-        }
-      ],
-      "price_conflict": false,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
-      "id": "c248b55108d8701aaa4efbbe",
-      "title": "Adidas Galaxy 7 Running Shoes",
-      "retailer": "Adidas",
-      "price_cents": 2040,
-      "currency": "USD",
-      "coupon": null,
-      "notes": null,
-      "url": "https://mavely.app.link/YYKjpr9ef8b",
-      "source_url": "https://dealsmocktail.com/us/deal/adidas-galaxy-7-running-shoes_1795256668346",
-      "retailer_url": "https://mavely.app.link/YYKjpr9ef8b",
-      "link_type": "retailer_redirect",
-      "sheet_url": "https://dealsmocktail.com/us/deals",
-      "sources": [
-        {
-          "gid": "dealsmocktail:latest",
-          "tab": "Latest",
-          "price_text": "20.4",
-          "category": "Footwear",
-          "posted_at": "2026-11-21T05:24:59.747-05:00",
-          "expires_at": "2026-11-30T23:59:59.999-05:00",
-          "advertised_price": 60
         }
       ],
       "price_conflict": false,
@@ -655,17 +731,8 @@
       "source_url": "https://dealsmocktail.com/us/deal/carote-3-piece-insulated-stainless-steel-water-bottle-set_1795251050349",
       "retailer_url": "https://go.magik.ly/ml/4x2z1/",
       "link_type": "retailer_redirect",
-      "sheet_url": "https://dealsmocktail.com/us/deals",
+      "sheet_url": "https://dealsmocktail.com/us/deals?category=home-kitchen",
       "sources": [
-        {
-          "gid": "dealsmocktail:latest",
-          "tab": "Latest",
-          "price_text": "24.68",
-          "category": "Kitchen & Dining",
-          "posted_at": "2026-11-21T03:51:24.373-05:00",
-          "expires_at": "2026-12-04T23:59:59.999-05:00",
-          "advertised_price": "49.99"
-        },
         {
           "gid": "dealsmocktail:home-kitchen",
           "tab": "Home and Kitchen",
@@ -702,17 +769,8 @@
       "source_url": "https://dealsmocktail.com/us/deal/small-portable-electric-space-heater-with-thermostat-remote_1795252522428",
       "retailer_url": "https://go.magik.ly/ml/4x3a4/",
       "link_type": "retailer_redirect",
-      "sheet_url": "https://dealsmocktail.com/us/deals",
+      "sheet_url": "https://dealsmocktail.com/us/deals?category=home-kitchen",
       "sources": [
-        {
-          "gid": "dealsmocktail:latest",
-          "tab": "Latest",
-          "price_text": "27.85",
-          "category": "Home Improvement",
-          "posted_at": "2026-11-21T04:15:57.764-05:00",
-          "expires_at": "2026-12-04T23:59:59.999-05:00",
-          "advertised_price": "42.99"
-        },
         {
           "gid": "dealsmocktail:home-kitchen",
           "tab": "Home and Kitchen",
@@ -787,17 +845,8 @@
       "source_url": "https://dealsmocktail.com/us/deal/prettycare-2-pack-36-gallon-touchless-automatic-trash-cans_1795251266652",
       "retailer_url": "https://go.magik.ly/ml/4x30e/",
       "link_type": "retailer_redirect",
-      "sheet_url": "https://dealsmocktail.com/us/deals",
+      "sheet_url": "https://dealsmocktail.com/us/deals?category=home-kitchen",
       "sources": [
-        {
-          "gid": "dealsmocktail:latest",
-          "tab": "Latest",
-          "price_text": "29.96",
-          "category": "Home Cleaning & Organization",
-          "posted_at": "2026-11-21T03:55:08.379-05:00",
-          "expires_at": "2026-12-04T23:59:59.999-05:00",
-          "advertised_price": "58.99"
-        },
         {
           "gid": "dealsmocktail:home-kitchen",
           "tab": "Home and Kitchen",
@@ -1185,17 +1234,8 @@
       "source_url": "https://dealsmocktail.com/us/deal/best-choice-products-10ft-inflatable-christmas-tree_1795251953494",
       "retailer_url": "https://go.magik.ly/ml/4x360/",
       "link_type": "retailer_redirect",
-      "sheet_url": "https://dealsmocktail.com/us/deals",
+      "sheet_url": "https://dealsmocktail.com/us/deals?category=home-kitchen",
       "sources": [
-        {
-          "gid": "dealsmocktail:latest",
-          "tab": "Latest",
-          "price_text": "59.99",
-          "category": "Home Decor",
-          "posted_at": "2026-11-21T04:06:33.263-05:00",
-          "expires_at": "2026-12-04T23:59:59.999-05:00",
-          "advertised_price": "106.99"
-        },
         {
           "gid": "dealsmocktail:home-kitchen",
           "tab": "Home and Kitchen",
@@ -1242,6 +1282,44 @@
           "posted_at": "2026-11-21T07:37:46.338-05:00",
           "expires_at": "2026-11-30T23:59:59.999-05:00",
           "advertised_price": 125
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
+      "id": "64fddf9795e854b191e2b65b",
+      "title": "lululemon Scuba Backpack 32L Paracord",
+      "retailer": "lululemon",
+      "price_cents": 6400,
+      "currency": "USD",
+      "coupon": null,
+      "notes": null,
+      "url": "https://mavely.app.link/d9hKcXRMf8b",
+      "source_url": "https://dealsmocktail.com/us/deal/lululemon-scuba-backpack-32l-paracord_1795284986139",
+      "retailer_url": "https://mavely.app.link/d9hKcXRMf8b",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://dealsmocktail.com/us/deals",
+      "sources": [
+        {
+          "gid": "dealsmocktail:latest",
+          "tab": "Latest",
+          "price_text": "64",
+          "category": "Luggage and Bags",
+          "posted_at": "2026-11-21T13:23:57.703-05:00",
+          "expires_at": "2026-11-30T23:59:59.999-05:00",
+          "advertised_price": 128
         }
       ],
       "price_conflict": false,
@@ -1384,17 +1462,8 @@
       "source_url": "https://dealsmocktail.com/us/deal/best-choice-products-360-degree-swivel-gaming-floor-chair_1795252203875",
       "retailer_url": "https://go.magik.ly/ml/4x37k/",
       "link_type": "retailer_redirect",
-      "sheet_url": "https://dealsmocktail.com/us/deals",
+      "sheet_url": "https://dealsmocktail.com/us/deals?category=home-kitchen",
       "sources": [
-        {
-          "gid": "dealsmocktail:latest",
-          "tab": "Latest",
-          "price_text": "93.49",
-          "category": "Home Appliances",
-          "posted_at": "2026-11-21T04:11:44.096-05:00",
-          "expires_at": "2026-12-04T23:59:59.999-05:00",
-          "advertised_price": "157.99"
-        },
         {
           "gid": "dealsmocktail:home-kitchen",
           "tab": "Home and Kitchen",
@@ -1507,17 +1576,8 @@
       "source_url": "https://dealsmocktail.com/us/deal/8-inch-gel-memory-foam-mattress-twin-size_1795251477747",
       "retailer_url": "https://go.magik.ly/ml/4x30f/",
       "link_type": "retailer_redirect",
-      "sheet_url": "https://dealsmocktail.com/us/deals",
+      "sheet_url": "https://dealsmocktail.com/us/deals?category=home-kitchen",
       "sources": [
-        {
-          "gid": "dealsmocktail:latest",
-          "tab": "Latest",
-          "price_text": "99.99",
-          "category": "Bedding & Bath",
-          "posted_at": "2026-11-21T03:58:27.658-05:00",
-          "expires_at": "2026-12-04T23:59:59.999-05:00",
-          "advertised_price": "189.98"
-        },
         {
           "gid": "dealsmocktail:home-kitchen",
           "tab": "Home and Kitchen",
@@ -1704,6 +1764,138 @@
       }
     },
     {
+      "id": "5507e656280090e34ac5d2a7",
+      "title": "Samsung Galaxy Watch 7 40mm Bluetooth AI Smartwatch w/Energy Score, Wellness Tips, Heart Rate Tracking, Sleep Monitor, Fitness Tracker, 2024, Green [US Version, 1Yr Manufacturer Warranty]",
+      "retailer": "Amazon",
+      "price_cents": 14900,
+      "currency": "USD",
+      "coupon": null,
+      "notes": null,
+      "url": "https://www.amazon.com/dp/B0D1YQKDML?tag=mmdealsusa-20&linkCode=ogi&th=1&psc=1",
+      "source_url": "https://dealsmocktail.com/us/deal/samsung-galaxy-watch-7-40mm-bluetooth-ai-smartwatch-wenergy-score-wellness-tips-heart-rate-tracking_1795289512833",
+      "retailer_url": "https://www.amazon.com/dp/B0D1YQKDML?tag=mmdealsusa-20&linkCode=ogi&th=1&psc=1",
+      "link_type": "retailer",
+      "sheet_url": "https://dealsmocktail.com/us/deals",
+      "sources": [
+        {
+          "gid": "dealsmocktail:latest",
+          "tab": "Latest",
+          "price_text": "149",
+          "category": "Watches",
+          "posted_at": "2026-11-21T14:34:10.805-05:00",
+          "expires_at": "2026-11-30T23:59:59.999-05:00",
+          "advertised_price": "249.99"
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
+      "id": "63df8823f445ced0b41ac0c8",
+      "title": "GoPro LIT Hero - Lightweight, Compact, Waterproof Action Camera with Built-in Light, 4K60 Ultra HD Video, 12MP Photo, Touch Screen, HyperSmooth Stabilization",
+      "retailer": "Amazon",
+      "price_cents": 16999,
+      "currency": "USD",
+      "coupon": null,
+      "notes": null,
+      "url": "https://www.amazon.com/dp/B0FP5R9BDZ?tag=mmdealsusa-20&linkCode=ogi&th=1&psc=1",
+      "source_url": "https://dealsmocktail.com/us/deal/gopro-lit-hero-lightweight-compact-waterproof-action-camera-with-built-in-light-4k60-ultra-hd-video_1795294021969",
+      "retailer_url": "https://www.amazon.com/dp/B0FP5R9BDZ?tag=mmdealsusa-20&linkCode=ogi&th=1&psc=1",
+      "link_type": "retailer",
+      "sheet_url": "https://dealsmocktail.com/us/deals",
+      "sources": [
+        {
+          "gid": "dealsmocktail:latest",
+          "tab": "Latest",
+          "price_text": "169.99",
+          "category": "Cameras",
+          "posted_at": "2026-11-21T15:48:03.060-05:00",
+          "expires_at": "2026-11-30T23:59:59.999-05:00",
+          "advertised_price": "269.99"
+        },
+        {
+          "gid": "dealsmocktail:electronics",
+          "tab": "Electronics",
+          "price_text": "169.99",
+          "category": "Cameras",
+          "posted_at": "2026-11-21T15:48:03.060-05:00",
+          "expires_at": "2026-11-30T23:59:59.999-05:00",
+          "advertised_price": "269.99"
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
+      "id": "a7d19f83e34bad26109869f0",
+      "title": "Marshall Acton III Bluetooth Speaker | Stereo Sound | Bass & Treble Controls | Aux Input",
+      "retailer": "Amazon",
+      "price_cents": 16999,
+      "currency": "USD",
+      "coupon": null,
+      "notes": null,
+      "url": "https://link.amazon/B0bA1tKpd",
+      "source_url": "https://dealsmocktail.com/us/deal/marshall-acton-iii-bluetooth-speaker-stereo-sound-bass-treble-controls-aux-input_1783255170037",
+      "retailer_url": "https://link.amazon/B0bA1tKpd",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://dealsmocktail.com/us/deals",
+      "sources": [
+        {
+          "gid": "dealsmocktail:latest",
+          "tab": "Latest",
+          "price_text": "169.99",
+          "category": "Audio & Headphones",
+          "posted_at": "2026-11-21T15:26:13.718-05:00",
+          "expires_at": "2026-11-30T23:59:59.999-05:00",
+          "advertised_price": "299.99"
+        },
+        {
+          "gid": "dealsmocktail:electronics",
+          "tab": "Electronics",
+          "price_text": "169.99",
+          "category": "Audio & Headphones",
+          "posted_at": "2026-11-21T15:26:13.718-05:00",
+          "expires_at": "2026-11-30T23:59:59.999-05:00",
+          "advertised_price": "299.99"
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
       "id": "8fb0664eb1ecfc121324f1ce",
       "title": "DJI Osmo Action 4 Standard Combo, Waterproof Action Camera Vlogging Camera",
       "retailer": "Amazon",
@@ -1800,17 +1992,8 @@
       "source_url": "https://dealsmocktail.com/us/deal/lenovo-ideapad-slim-3-14-2k-touchscreen-chromebook_1795253022998",
       "retailer_url": "https://go.magik.ly/ml/4x3au/",
       "link_type": "retailer_redirect",
-      "sheet_url": "https://dealsmocktail.com/us/deals",
+      "sheet_url": "https://dealsmocktail.com/us/deals?category=electronics",
       "sources": [
-        {
-          "gid": "dealsmocktail:latest",
-          "tab": "Latest",
-          "price_text": "189",
-          "category": "Laptops & Accessories",
-          "posted_at": "2026-11-21T04:24:25.306-05:00",
-          "expires_at": "2026-11-28T04:20:45.899-05:00",
-          "advertised_price": 419
-        },
         {
           "gid": "dealsmocktail:electronics",
           "tab": "Electronics",
@@ -1819,6 +2002,91 @@
           "posted_at": "2026-11-21T04:24:25.306-05:00",
           "expires_at": "2026-11-28T04:20:45.899-05:00",
           "advertised_price": 419
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
+      "id": "f265145688b520c3c4bf3e24",
+      "title": "WHOOP 5.0/MG Fitness Tracker + 12-Month Membership- Peak",
+      "retailer": "Amazon",
+      "price_cents": 19900,
+      "currency": "USD",
+      "coupon": null,
+      "notes": null,
+      "url": "https://amzn.to/4vzvMXi",
+      "source_url": "https://dealsmocktail.com/us/deal/whoop-50mg-fitness-tracker-12-month-membership-peak_1782213088104",
+      "retailer_url": "https://amzn.to/4vzvMXi",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://dealsmocktail.com/us/deals",
+      "sources": [
+        {
+          "gid": "dealsmocktail:latest",
+          "tab": "Latest",
+          "price_text": "199",
+          "category": "Fitness & Equipment",
+          "posted_at": "2026-11-21T16:26:33.550-05:00",
+          "expires_at": "2026-11-30T23:59:59.999-05:00",
+          "advertised_price": 239
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
+      "id": "750ff8f9019baf5272838990",
+      "title": "Samsung Galaxy Watch 8 40mm Bluetooth Smartwatch, Cushion Design, Quick Button, Sleep Coaching, Now Bar, Running Coach, Energy Score, Graphite [US Version, Amazon Exclusive 2Yr Warranty]",
+      "retailer": "Amazon",
+      "price_cents": 19999,
+      "currency": "USD",
+      "coupon": null,
+      "notes": null,
+      "url": "https://www.amazon.com/dp/B0F7QD4HSD?tag=mmdealsusa-20&linkCode=ogi&th=1&psc=1",
+      "source_url": "https://dealsmocktail.com/us/deal/samsung-galaxy-watch-8-40mm-bluetooth-smartwatch-cushion-design-quick-button-sleep-coaching-now-bar_1795295178196",
+      "retailer_url": "https://www.amazon.com/dp/B0F7QD4HSD?tag=mmdealsusa-20&linkCode=ogi&th=1&psc=1",
+      "link_type": "retailer",
+      "sheet_url": "https://dealsmocktail.com/us/deals",
+      "sources": [
+        {
+          "gid": "dealsmocktail:latest",
+          "tab": "Latest",
+          "price_text": "199.99",
+          "category": "Smart Gadgets",
+          "posted_at": "2026-11-21T16:07:27.775-05:00",
+          "expires_at": "2026-11-30T23:59:59.999-05:00",
+          "advertised_price": "299.99"
+        },
+        {
+          "gid": "dealsmocktail:electronics",
+          "tab": "Electronics",
+          "price_text": "199.99",
+          "category": "Smart Gadgets",
+          "posted_at": "2026-11-21T16:07:27.775-05:00",
+          "expires_at": "2026-11-30T23:59:59.999-05:00",
+          "advertised_price": "299.99"
         }
       ],
       "price_conflict": false,
@@ -2330,6 +2598,53 @@
       }
     },
     {
+      "id": "931ad06db1b04fdcc68d8633",
+      "title": "Samsung Galaxy Tab S10 FE 128GB WiFi Android Tablet, US Version, Gray | Large Display, Long Battery Life, Exynos 1580 Processor, IP68 Water-Resistant, 90 Hz Refresh, S Pen for Note-Taking",
+      "retailer": "Amazon",
+      "price_cents": 34999,
+      "currency": "USD",
+      "coupon": null,
+      "notes": null,
+      "url": "https://www.amazon.com/dp/B0DVZWKCDV?tag=mmdealsusa-20&linkCode=ogi&th=1&psc=1",
+      "source_url": "https://dealsmocktail.com/us/deal/samsung-galaxy-tab-s10-fe-128gb-wifi-android-tablet-us-version-gray-large-display-long-battery-life_1795294804594",
+      "retailer_url": "https://www.amazon.com/dp/B0DVZWKCDV?tag=mmdealsusa-20&linkCode=ogi&th=1&psc=1",
+      "link_type": "retailer",
+      "sheet_url": "https://dealsmocktail.com/us/deals",
+      "sources": [
+        {
+          "gid": "dealsmocktail:latest",
+          "tab": "Latest",
+          "price_text": "349.99",
+          "category": "Mobiles, Tablets & Accessories",
+          "posted_at": "2026-11-21T16:02:08.267-05:00",
+          "expires_at": "2026-11-30T23:59:59.999-05:00",
+          "advertised_price": "549.99"
+        },
+        {
+          "gid": "dealsmocktail:electronics",
+          "tab": "Electronics",
+          "price_text": "349.99",
+          "category": "Mobiles, Tablets & Accessories",
+          "posted_at": "2026-11-21T16:02:08.267-05:00",
+          "expires_at": "2026-11-30T23:59:59.999-05:00",
+          "advertised_price": "549.99"
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
       "id": "a58e33b19c949b4786fb9421",
       "title": "eufy C28 Robot Vacuum and Mop for Pet Hair, 15,000 Pa, HydroJet Roller Mop | Self-Clean Mop, Zero-Tangle, Auto Mop Washing&Drying, Self-Emptying&Refilling, Hard Floor&Carpet, Upgraded from X10 Pro",
       "retailer": "Amazon",
@@ -2417,17 +2732,8 @@
       "source_url": "https://dealsmocktail.com/us/deal/lenovo-chromebook-plus-14-2k-2-in-1-touchscreen-laptop_1795254057546",
       "retailer_url": "https://go.magik.ly/ml/4x3kj/",
       "link_type": "retailer_redirect",
-      "sheet_url": "https://dealsmocktail.com/us/deals",
+      "sheet_url": "https://dealsmocktail.com/us/deals?category=electronics",
       "sources": [
-        {
-          "gid": "dealsmocktail:latest",
-          "tab": "Latest",
-          "price_text": "399",
-          "category": "Laptops & Accessories",
-          "posted_at": "2026-11-21T04:41:28.201-05:00",
-          "expires_at": "2026-11-28T04:33:21.250-05:00",
-          "advertised_price": 679
-        },
         {
           "gid": "dealsmocktail:electronics",
           "tab": "Electronics",
@@ -2614,44 +2920,6 @@
       }
     },
     {
-      "id": "12c70b822d8f516bd6605515",
-      "title": "HP OmniBook X Flip 2-in-1 Laptop: Ryzen AI 430, 14\" WUXGA OLED Touch, 16GB, 512GB",
-      "retailer": "Best Buy",
-      "price_cents": 64999,
-      "currency": "USD",
-      "coupon": null,
-      "notes": null,
-      "url": "https://go.magik.ly/ml/4woyw/",
-      "source_url": "https://dealsmocktail.com/us/deal/hp-omnibook-x-flip-2-in-1-laptop-ryzen-ai-430-14-wuxga-oled-touch-16gb-512gb_1795104961199",
-      "retailer_url": "https://go.magik.ly/ml/4woyw/",
-      "link_type": "retailer_redirect",
-      "sheet_url": "https://dealsmocktail.com/us/deals?category=electronics",
-      "sources": [
-        {
-          "gid": "dealsmocktail:electronics",
-          "tab": "Electronics",
-          "price_text": "649.99",
-          "category": "Laptops & Accessories",
-          "posted_at": "2026-11-19T11:17:36.457-05:00",
-          "expires_at": "2026-11-30T23:59:59.999-05:00",
-          "advertised_price": "1299.99"
-        }
-      ],
-      "price_conflict": false,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
       "id": "693f9ea652b1fc57436457c4",
       "title": "Lenovo - Yoga 7i 2-in-1 - Copilot+ PC - 16\" 2K Touchscreen Laptop - Intel Core Ultra 5 Processor 2024 - 16GB Memory - 512GB SSD",
       "retailer": "Lenovo",
@@ -2701,17 +2969,8 @@
       "source_url": "https://dealsmocktail.com/us/deal/lg-55-b6e-oled-ai-4k-smart-tv-2026_1795253435451",
       "retailer_url": "https://go.magik.ly/ml/4x3gj/",
       "link_type": "retailer_redirect",
-      "sheet_url": "https://dealsmocktail.com/us/deals",
+      "sheet_url": "https://dealsmocktail.com/us/deals?category=electronics",
       "sources": [
-        {
-          "gid": "dealsmocktail:latest",
-          "tab": "Latest",
-          "price_text": "699.99",
-          "category": "Laptops & Accessories",
-          "posted_at": "2026-11-21T04:31:40.970-05:00",
-          "expires_at": "2026-12-04T23:59:59.999-05:00",
-          "advertised_price": "1399.99"
-        },
         {
           "gid": "dealsmocktail:electronics",
           "tab": "Electronics",
@@ -2731,44 +2990,6 @@
         "max_usd": 500,
         "preferred_usd": null,
         "within_budget": false,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
-      "id": "3d45736f18fbee3bfdf7f8e4",
-      "title": "ASUS ZenBook 14: 14\" FHD+ OLED Touch, Ryzen AI 9 465, 16GB LPDDR5, 512GB SSD",
-      "retailer": "Best Buy",
-      "price_cents": 84999,
-      "currency": "USD",
-      "coupon": null,
-      "notes": null,
-      "url": "https://go.magik.ly/ml/4woqw/",
-      "source_url": "https://dealsmocktail.com/us/deal/asus-zenbook-14-14-fhd-oled-touch-ryzen-ai-9-465-16gb-lpddr5-512gb-ssd_1795103770395",
-      "retailer_url": "https://go.magik.ly/ml/4woqw/",
-      "link_type": "retailer_redirect",
-      "sheet_url": "https://dealsmocktail.com/us/deals?category=electronics",
-      "sources": [
-        {
-          "gid": "dealsmocktail:electronics",
-          "tab": "Electronics",
-          "price_text": "849.99",
-          "category": "Laptops & Accessories",
-          "posted_at": "2026-11-19T10:58:12.979-05:00",
-          "expires_at": "2026-11-30T23:59:59.999-05:00",
-          "advertised_price": "1299.99"
-        }
-      ],
-      "price_conflict": false,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
         "comparisons": {},
         "savings_vs_comparison_cents": null,
         "evidence": {}
@@ -2851,141 +3072,36 @@
       }
     },
     {
-      "id": "15c0d8e3d966e703f043b0c2",
-      "title": "Microsoft - Surface Laptop - 13.8\" 2K Touchscreen - Snapdragon X2 Plus (10 Core) 2026 - 16GB - 512GB Storage",
-      "retailer": "Best Buy",
-      "price_cents": 99999,
-      "currency": "USD",
-      "coupon": null,
-      "notes": null,
-      "url": "https://go.magik.ly/ml/4wowf/",
-      "source_url": "https://dealsmocktail.com/us/deal/microsoft-surface-laptop-138-2k-touchscreen-snapdragon-x2-plus-10-core-2026-16gb-512gb-storage_1795104400261",
-      "retailer_url": "https://go.magik.ly/ml/4wowf/",
-      "link_type": "retailer_redirect",
-      "sheet_url": "https://dealsmocktail.com/us/deals?category=electronics",
-      "sources": [
-        {
-          "gid": "dealsmocktail:electronics",
-          "tab": "Electronics",
-          "price_text": "999.99",
-          "category": "Laptops & Accessories",
-          "posted_at": "2026-11-19T11:07:13.496-05:00",
-          "expires_at": "2026-11-30T23:59:59.999-05:00",
-          "advertised_price": "1599.99"
-        }
-      ],
-      "price_conflict": false,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
-      "id": "29a001451d83a78d0718db80",
-      "title": "Lenovo Legion 5i 15.3\" OLED 165Hz 3K Intel Core 7 245HX 16GB RAM NVIDIA GeForce RTX 5060 512GB SSD",
-      "retailer": "Best Buy",
-      "price_cents": 119999,
-      "currency": "USD",
-      "coupon": null,
-      "notes": null,
-      "url": "https://go.magik.ly/ml/4wom6/",
-      "source_url": "https://dealsmocktail.com/us/deal/lenovo-legion-5i-153-oled-165hz-3k-intel-core-7-245hx-16gb-ram-nvidia-geforce-rtx-5060-512gb-ssd_1795101350421",
-      "retailer_url": "https://go.magik.ly/ml/4wom6/",
-      "link_type": "retailer_redirect",
-      "sheet_url": "https://dealsmocktail.com/us/deals?category=electronics",
-      "sources": [
-        {
-          "gid": "dealsmocktail:electronics",
-          "tab": "Electronics",
-          "price_text": "1199.99",
-          "category": "Laptops & Accessories",
-          "posted_at": "2026-11-19T10:16:24.902-05:00",
-          "expires_at": "2026-11-30T23:59:59.999-05:00",
-          "advertised_price": "1889.99"
-        }
-      ],
-      "price_conflict": false,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
-      "id": "089ebfd1581488133eea98ea",
-      "title": "HyperX HP OMEN (2026): 16\" FHD+ IPS 165Hz, Intel Ultra 7 356H, RTX 5060, 16GB DDR5, 512GB SSD",
-      "retailer": "Best Buy",
-      "price_cents": 139999,
-      "currency": "USD",
-      "coupon": null,
-      "notes": null,
-      "url": "https://go.magik.ly/ml/4wozl/",
-      "source_url": "https://dealsmocktail.com/us/deal/hyperx-hp-omen-2026-16-fhd-ips-165hz-intel-ultra-7-356h-rtx-5060-16gb-ddr5-512gb-ssd_1795105387571",
-      "retailer_url": "https://go.magik.ly/ml/4wozl/",
-      "link_type": "retailer_redirect",
-      "sheet_url": "https://dealsmocktail.com/us/deals?category=electronics",
-      "sources": [
-        {
-          "gid": "dealsmocktail:electronics",
-          "tab": "Electronics",
-          "price_text": "1399.99",
-          "category": "Laptops & Accessories",
-          "posted_at": "2026-11-19T11:23:50.897-05:00",
-          "expires_at": "2026-11-30T23:59:59.999-05:00",
-          "advertised_price": "2099.99"
-        }
-      ],
-      "price_conflict": false,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
-      "id": "2e557fceade1eb302e18ac0f",
-      "title": "Apple MacBook Air 13-Inch Laptop with M5 chip (24GB RAM, 1TB SSD)",
+      "id": "1587dda5ebd8f463e960fae6",
+      "title": "Samsung Galaxy Z Fold8 Unlocked Android Smartphone, 256GB Lavender",
       "retailer": "Amazon",
-      "price_cents": 154900,
+      "price_cents": 154999,
       "currency": "USD",
       "coupon": null,
       "notes": null,
-      "url": "https://www.amazon.com/dp/B0GR19T81S?tag=mmdealsusa-20&linkCode=ogi&th=1&psc=1",
-      "source_url": "https://dealsmocktail.com/us/deal/apple-2026-macbook-air-13-inch-laptop-with-m5-chip-built-for-ai-136-inch-liquid-retina-display-24gb_1795102914068",
-      "retailer_url": "https://www.amazon.com/dp/B0GR19T81S?tag=mmdealsusa-20&linkCode=ogi&th=1&psc=1",
+      "url": "https://www.amazon.com/dp/B0H12M2TY4?tag=mmdealsusa-20&linkCode=ogi&th=1&psc=1",
+      "source_url": "https://dealsmocktail.com/us/deal/samsung-galaxy-z-fold8-unlocked-android-smartphone-256gb-lavender_1791282000463",
+      "retailer_url": "https://www.amazon.com/dp/B0H12M2TY4?tag=mmdealsusa-20&linkCode=ogi&th=1&psc=1",
       "link_type": "retailer",
-      "sheet_url": "https://dealsmocktail.com/us/deals?category=electronics",
+      "sheet_url": "https://dealsmocktail.com/us/deals",
       "sources": [
+        {
+          "gid": "dealsmocktail:latest",
+          "tab": "Latest",
+          "price_text": "1549.99",
+          "category": "Mobiles, Tablets & Accessories",
+          "posted_at": "2026-11-21T16:17:18.228-05:00",
+          "expires_at": "2026-11-30T23:59:59.999-05:00",
+          "advertised_price": "1899.99"
+        },
         {
           "gid": "dealsmocktail:electronics",
           "tab": "Electronics",
-          "price_text": "1549",
-          "category": "Laptops & Accessories",
-          "posted_at": "2026-11-19T10:43:57.630-05:00",
+          "price_text": "1549.99",
+          "category": "Mobiles, Tablets & Accessories",
+          "posted_at": "2026-11-21T16:17:18.228-05:00",
           "expires_at": "2026-11-30T23:59:59.999-05:00",
-          "advertised_price": 1799
+          "advertised_price": "1899.99"
         }
       ],
       "price_conflict": false,
