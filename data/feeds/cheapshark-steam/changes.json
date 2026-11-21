@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-20T17:21:23.145738+00:00",
+  "retrieved_at": "2026-11-21T00:19:46.448904+00:00",
   "source": {
     "id": "cheapshark-steam",
     "name": "CheapShark Steam Deals",
@@ -9,5 +9,266 @@
     "retailer": "Steam"
   },
   "baseline": false,
-  "events": []
+  "events": [
+    {
+      "id": "11c386efefad5b32b3cb306d",
+      "types": [
+        "new"
+      ],
+      "title": "Tails of Iron",
+      "retailer": "Steam",
+      "previous_price_cents": null,
+      "current_price_cents": 299,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://store.steampowered.com/app/1283410/",
+      "source_url": "https://www.cheapshark.com/redirect?dealID=5SVeZtavzKw5Y1sCUkZpPtLKJVjM3eh%2BA48gsrEWHxw%3D",
+      "retailer_url": "https://store.steampowered.com/app/1283410/",
+      "link_type": "retailer"
+    },
+    {
+      "id": "261714c8f72e7ca8e01b34fb",
+      "types": [
+        "new"
+      ],
+      "title": "Roki",
+      "retailer": "Steam",
+      "previous_price_cents": null,
+      "current_price_cents": 229,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://store.steampowered.com/app/1067540/",
+      "source_url": "https://www.cheapshark.com/redirect?dealID=haBmFYOLTY4Xi3U3oVnVJy135%2Bdbep10TLJayW2BIHA%3D",
+      "retailer_url": "https://store.steampowered.com/app/1067540/",
+      "link_type": "retailer"
+    },
+    {
+      "id": "31f5b51cd6b162a45460d44b",
+      "types": [
+        "removed"
+      ],
+      "title": "Command and Conquer Remastered Collection",
+      "retailer": "Steam",
+      "previous_price_cents": 299,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://store.steampowered.com/app/1213210/",
+      "source_url": "https://www.cheapshark.com/redirect?dealID=QbIiPzOUfE5zpsURDrM%2FeBfGf6dJiWTzz7FEEOT09Ao%3D",
+      "retailer_url": "https://store.steampowered.com/app/1213210/",
+      "link_type": "retailer"
+    },
+    {
+      "id": "4bdc35af0581e49db0ba8881",
+      "types": [
+        "new"
+      ],
+      "title": "Deceive Inc.",
+      "retailer": "Steam",
+      "previous_price_cents": null,
+      "current_price_cents": 199,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://store.steampowered.com/app/820520/",
+      "source_url": "https://www.cheapshark.com/redirect?dealID=%2BRx8eGYUNYTaM40k4VN8DNvSNUYSNCXw5KPCHMR3mb4%3D",
+      "retailer_url": "https://store.steampowered.com/app/820520/",
+      "link_type": "retailer"
+    },
+    {
+      "id": "5f8a458e250fc8c18b74a1e7",
+      "types": [
+        "removed"
+      ],
+      "title": "Deus Ex: Mankind Divided",
+      "retailer": "Steam",
+      "previous_price_cents": 449,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://store.steampowered.com/app/337000/",
+      "source_url": "https://www.cheapshark.com/redirect?dealID=Ppi1hduzzSTTcVfyap53KkMwyHbwS8In80ZKCDLt3I4%3D",
+      "retailer_url": "https://store.steampowered.com/app/337000/",
+      "link_type": "retailer"
+    },
+    {
+      "id": "5ff5e39dc7bcd5f8cf2ad1a4",
+      "types": [
+        "removed"
+      ],
+      "title": "The Red Solstice",
+      "retailer": "Steam",
+      "previous_price_cents": 99,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://store.steampowered.com/app/265590/",
+      "source_url": "https://www.cheapshark.com/redirect?dealID=4Z7ZOAP0ixP%2FKY1fILv8hq4QMIOfChrqV%2Blr6l%2BDYQ0%3D",
+      "retailer_url": "https://store.steampowered.com/app/265590/",
+      "link_type": "retailer"
+    },
+    {
+      "id": "90093fde8ef56809c6e189eb",
+      "types": [
+        "new"
+      ],
+      "title": "Ultra Street Fighter IV",
+      "retailer": "Steam",
+      "previous_price_cents": null,
+      "current_price_cents": 389,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://store.steampowered.com/app/45760/",
+      "source_url": "https://www.cheapshark.com/redirect?dealID=7JWDpApz3Yee5JDgO2UrtekSUc5XIOvkX6pwVcI%2B9xQ%3D",
+      "retailer_url": "https://store.steampowered.com/app/45760/",
+      "link_type": "retailer"
+    },
+    {
+      "id": "e440b1eb2a8ddfd7d9dbe98e",
+      "types": [
+        "removed"
+      ],
+      "title": "Red Faction: Armageddon",
+      "retailer": "Steam",
+      "previous_price_cents": 199,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://store.steampowered.com/app/55110/",
+      "source_url": "https://www.cheapshark.com/redirect?dealID=VRXE7dLEh%2BhaZ6%2BPu9FtGMoiBb9xsU8sUnxrswZlmz4%3D",
+      "retailer_url": "https://store.steampowered.com/app/55110/",
+      "link_type": "retailer"
+    },
+    {
+      "id": "eedff6e1994a9daa7585a492",
+      "types": [
+        "new"
+      ],
+      "title": "Lords Of The Fallen 2014",
+      "retailer": "Steam",
+      "previous_price_cents": null,
+      "current_price_cents": 299,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://store.steampowered.com/app/265300/",
+      "source_url": "https://www.cheapshark.com/redirect?dealID=k1UZ2Oj9UY73ss%2FqrQgChUzE%2B3KgHIPm5a3aomvnPuY%3D",
+      "retailer_url": "https://store.steampowered.com/app/265300/",
+      "link_type": "retailer"
+    },
+    {
+      "id": "ef076233b2a7a23b1d05af39",
+      "types": [
+        "removed"
+      ],
+      "title": "Nobody Wants to Die",
+      "retailer": "Steam",
+      "previous_price_cents": 249,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://store.steampowered.com/app/1939970/",
+      "source_url": "https://www.cheapshark.com/redirect?dealID=KNslEfCGATnodYZcJjOf3wPC0KLjNkwRhsb8nk7Gqng%3D",
+      "retailer_url": "https://store.steampowered.com/app/1939970/",
+      "link_type": "retailer"
+    }
+  ]
 }

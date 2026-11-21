@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-20T17:21:23.145738+00:00",
+  "retrieved_at": "2026-11-21T00:19:46.448904+00:00",
   "source": {
     "id": "dealnews",
     "name": "DealNews",
@@ -12,7 +12,7 @@
     {
       "id": "0117e3403bcc884592d30fb4",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Best Buy Black Friday Camera & Drone Deals: Up to $1,100 off + free shipping",
       "retailer": "Best Buy",
@@ -38,12 +38,12 @@
     {
       "id": "017f7b4bde000e0c1d616a3a",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Sour Jacks Sour Gummy Wedges 75-Count Variety Pack for $8.87 via Sub. & Save + free shipping w/ Prime",
       "retailer": "Amazon",
-      "previous_price_cents": null,
-      "current_price_cents": 887,
+      "previous_price_cents": 887,
+      "current_price_cents": null,
       "rank": {
         "category": "other",
         "variant": null,
@@ -64,12 +64,12 @@
     {
       "id": "01de1091d127ab500232bf64",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Cincom Upgraded Hand Massager w/ Heat & Compression for $31 + free shipping w/ Prime",
       "retailer": "Amazon",
-      "previous_price_cents": null,
-      "current_price_cents": 3099,
+      "previous_price_cents": 3099,
+      "current_price_cents": null,
       "rank": {
         "category": "other",
         "variant": null,
@@ -88,61 +88,9 @@
       "link_type": "source"
     },
     {
-      "id": "01e5e71abe20a0557d06d820",
-      "types": [
-        "removed"
-      ],
-      "title": "Microsoft Bundle: Windows 11 Pro + Office Professional 2024 + Visio 2024 Professional (Bonus: Visio Templates) for $15 + digital delivery",
-      "retailer": "Digitalkeysbox",
-      "previous_price_cents": 1499,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.dealnews.com/Microsoft-Bundle-Windows-11-Pro-Office-Professional-2024-Visio-2024-Professional-Bonus-Visio-Templates-for-15-digital-delivery/22411060.html?iref=rss",
-      "source_url": "https://www.dealnews.com/Microsoft-Bundle-Windows-11-Pro-Office-Professional-2024-Visio-2024-Professional-Bonus-Visio-Templates-for-15-digital-delivery/22411060.html?iref=rss",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "027a6eaa9b3c984b0eb9dc0e",
-      "types": [
-        "removed"
-      ],
-      "title": "adidas Men's Originals Archive Country Flag Hoodie for $23 + free shipping w/ $49",
-      "retailer": "Dick's Sporting Goods",
-      "previous_price_cents": 2300,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.dealnews.com/adidas-Mens-Originals-Archive-Country-Flag-Hoodie-for-23-free-shipping-w-49/22412718.html?iref=rss",
-      "source_url": "https://www.dealnews.com/adidas-Mens-Originals-Archive-Country-Flag-Hoodie-for-23-free-shipping-w-49/22412718.html?iref=rss",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
       "id": "074b645a485061eabce26947",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Tommy Hilfiger Black Friday Men's Deals at Macy's: Up to 85% off + free shipping w/ $39",
       "retailer": "Macy's",
@@ -166,35 +114,9 @@
       "link_type": "source"
     },
     {
-      "id": "0acaa6fe58de7ba46fc55988",
-      "types": [
-        "removed"
-      ],
-      "title": "Lewitt LCT 040 MATCH Small-Diaphragm Condenser Microphone Stereo Pair for $199 + free shipping",
-      "retailer": "Sweetwater",
-      "previous_price_cents": 19900,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.dealnews.com/Lewitt-LCT-040-MATCH-Small-Diaphragm-Condenser-Microphone-Stereo-Pair-for-199-free-shipping/22412661.html?iref=rss",
-      "source_url": "https://www.dealnews.com/Lewitt-LCT-040-MATCH-Small-Diaphragm-Condenser-Microphone-Stereo-Pair-for-199-free-shipping/22412661.html?iref=rss",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
       "id": "0ae6e7479aad5e0d442f6e4a",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "eufy Black Friday Deals at Amazon: Up to 45% off + free shipping w/ Prime",
       "retailer": "Amazon",
@@ -218,14 +140,66 @@
       "link_type": "source"
     },
     {
-      "id": "1207c301e125de334621f8f1",
+      "id": "0ce8de17cebc3141eb9083c9",
       "types": [
         "new"
       ],
-      "title": "Lefant M210 OMNI Robot Vacuum and Mop for $160 + free shipping",
+      "title": "Ultra Mobile Ultra-Early Access Savings for 50% off plans, from $6.50/mo. + free shipping",
+      "retailer": "Ultra Mobile",
+      "previous_price_cents": null,
+      "current_price_cents": 650,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.dealnews.com/Ultra-Mobile-Ultra-Early-Access-Savings-for-50-off-plans-from-6-50-mo-free-shipping/22414668.html?iref=rss",
+      "source_url": "https://www.dealnews.com/Ultra-Mobile-Ultra-Early-Access-Savings-for-50-off-plans-from-6-50-mo-free-shipping/22414668.html?iref=rss",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "0df5559311eec6a9809c59e4",
+      "types": [
+        "new"
+      ],
+      "title": "Medicube Multi Silicone Jelly Brush Pore Brush & Face Mask Applicator for $2.90 + free shipping w/ Prime",
       "retailer": "Amazon",
       "previous_price_cents": null,
-      "current_price_cents": 15999,
+      "current_price_cents": 290,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.dealnews.com/Medicube-Multi-Silicone-Jelly-Brush-Pore-Brush-Face-Mask-Applicator-for-2-90-free-shipping-w-Prime/22415713.html?iref=rss",
+      "source_url": "https://www.dealnews.com/Medicube-Multi-Silicone-Jelly-Brush-Pore-Brush-Face-Mask-Applicator-for-2-90-free-shipping-w-Prime/22415713.html?iref=rss",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "1207c301e125de334621f8f1",
+      "types": [
+        "removed"
+      ],
+      "title": "Lefant M210 OMNI Robot Vacuum and Mop for $160 + free shipping",
+      "retailer": "Amazon",
+      "previous_price_cents": 15999,
+      "current_price_cents": null,
       "rank": {
         "category": "robot_vacuum_mop",
         "variant": null,
@@ -244,9 +218,113 @@
       "link_type": "source"
     },
     {
-      "id": "1c15cc36a2c90813b034f65c",
+      "id": "13b93cc55ce7cd1ad0b44ab7",
       "types": [
         "new"
+      ],
+      "title": "JustHang Shower Squeegee w/ Built-in Hook for $18 + free shipping w/ Prime",
+      "retailer": "Amazon",
+      "previous_price_cents": null,
+      "current_price_cents": 1786,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.dealnews.com/products/Dancemoon/Dancemoon-Just-Hang-10-Shower-Squeegee-with-Built-in-Hook/515406.html?iref=rss",
+      "source_url": "https://www.dealnews.com/products/Dancemoon/Dancemoon-Just-Hang-10-Shower-Squeegee-with-Built-in-Hook/515406.html?iref=rss",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "16ac1060a4366aa85b00ac6c",
+      "types": [
+        "new"
+      ],
+      "title": "Lowe's Black Friday Snow Blower Deals: Up to 49% off + free shipping w/ $25",
+      "retailer": "Lowe's",
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.dealnews.com/Lowes-Black-Friday-Snow-Blower-Deals-Up-to-49-off-free-shipping-w-25/22415747.html?iref=rss",
+      "source_url": "https://www.dealnews.com/Lowes-Black-Friday-Snow-Blower-Deals-Up-to-49-off-free-shipping-w-25/22415747.html?iref=rss",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "16e9d33f69d42513c9d98bd2",
+      "types": [
+        "new"
+      ],
+      "title": "Memoket Gem Wearable AI Voice Recorder for $143 + free shipping",
+      "retailer": "Memoket",
+      "previous_price_cents": null,
+      "current_price_cents": 14300,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.dealnews.com/Memoket-Gem-Wearable-AI-Voice-Recorder-for-143-free-shipping/22403369.html?iref=rss",
+      "source_url": "https://www.dealnews.com/Memoket-Gem-Wearable-AI-Voice-Recorder-for-143-free-shipping/22403369.html?iref=rss",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "1b04fc3442eec5126d9f855a",
+      "types": [
+        "new"
+      ],
+      "title": "Olight Deals at Amazon: Up to 40% off + free shipping w/ Prime",
+      "retailer": "Amazon",
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.dealnews.com/Olight-Deals-at-Amazon-Up-to-40-off-free-shipping-w-Prime/22415695.html?iref=rss",
+      "source_url": "https://www.dealnews.com/Olight-Deals-at-Amazon-Up-to-40-off-free-shipping-w-Prime/22415695.html?iref=rss",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "1c15cc36a2c90813b034f65c",
+      "types": [
+        "removed"
       ],
       "title": "EGO Power+ Black Friday Deals at Amazon: Up to 34% off + free shipping",
       "retailer": "Amazon",
@@ -270,92 +348,14 @@
       "link_type": "source"
     },
     {
-      "id": "1f82861c5aabdc94b3d49de2",
+      "id": "21b0ce87ea34f38d57f42d45",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "Amazon Essentials Men's Modern Oversized-Fit Heavyweight Parka (L only) for $14 + free shipping w/ Prime",
-      "retailer": "Woot! An Amazon Company",
-      "previous_price_cents": 1400,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.dealnews.com/Amazon-Essentials-Mens-Modern-Oversized-Fit-Heavyweight-Parka-L-only-for-14-free-shipping-w-Prime/22413025.html?iref=rss",
-      "source_url": "https://www.dealnews.com/Amazon-Essentials-Mens-Modern-Oversized-Fit-Heavyweight-Parka-L-only-for-14-free-shipping-w-Prime/22413025.html?iref=rss",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "212db49fdc19b5ce1a21dc9a",
-      "types": [
-        "removed"
-      ],
-      "title": "American Tourister Kontour 24\" Hardside Spinner Luggage for $60 + free shipping w/ $99",
-      "retailer": "Belk",
-      "previous_price_cents": 6000,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.dealnews.com/American-Tourister-Kontour-24-Hardside-Spinner-Luggage-for-60-free-shipping-w-99/22412638.html?iref=rss",
-      "source_url": "https://www.dealnews.com/American-Tourister-Kontour-24-Hardside-Spinner-Luggage-for-60-free-shipping-w-99/22412638.html?iref=rss",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "21ec18b116c098652d3ac45e",
-      "types": [
-        "removed"
-      ],
-      "title": "CamelBak Arête 14 50-oz. Hydration Pack for $24 + free shipping w/ $35",
-      "retailer": "Walmart",
-      "previous_price_cents": 2400,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.dealnews.com/Camel-Bak-Ar-te-14-50-oz-Hydration-Pack-for-24-free-shipping-w-35/22412526.html?iref=rss",
-      "source_url": "https://www.dealnews.com/Camel-Bak-Ar-te-14-50-oz-Hydration-Pack-for-24-free-shipping-w-35/22412526.html?iref=rss",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "264d6001557b990de72b6015",
-      "types": [
-        "removed"
-      ],
-      "title": "Levi's Men's Faux Leather Aviator Bomber Jacket w/ Sherpa Collar for $51 + free shipping",
+      "title": "Meta Oakley Vanguard AI Glasses for $424 + free shipping",
       "retailer": "Amazon",
-      "previous_price_cents": 5100,
-      "current_price_cents": null,
+      "previous_price_cents": null,
+      "current_price_cents": 42400,
       "rank": {
         "category": "other",
         "variant": null,
@@ -368,20 +368,72 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.dealnews.com/Levis-Mens-Faux-Leather-Aviator-Bomber-Jacket-w-Sherpa-Collar-for-51-free-shipping/22412507.html?iref=rss",
-      "source_url": "https://www.dealnews.com/Levis-Mens-Faux-Leather-Aviator-Bomber-Jacket-w-Sherpa-Collar-for-51-free-shipping/22412507.html?iref=rss",
+      "url": "https://www.dealnews.com/Meta-Oakley-Vanguard-AI-Glasses-for-424-free-shipping/22415749.html?iref=rss",
+      "source_url": "https://www.dealnews.com/Meta-Oakley-Vanguard-AI-Glasses-for-424-free-shipping/22415749.html?iref=rss",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "22f2528e0ec9b880039df09f",
+      "types": [
+        "new"
+      ],
+      "title": "Medicube Capsule Cream w/ Hyaluronic Acid Facial Moisturizer for $15 + free shipping w/ Prime",
+      "retailer": "Amazon",
+      "previous_price_cents": null,
+      "current_price_cents": 1500,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.dealnews.com/Medicube-Capsule-Cream-w-Hyaluronic-Acid-Facial-Moisturizer-for-15-free-shipping-w-Prime/22415714.html?iref=rss",
+      "source_url": "https://www.dealnews.com/Medicube-Capsule-Cream-w-Hyaluronic-Acid-Facial-Moisturizer-for-15-free-shipping-w-Prime/22415714.html?iref=rss",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "24b9d98f507949f2aa64aa9b",
+      "types": [
+        "new"
+      ],
+      "title": "Lowe's Black Friday Outdoor Cooking and Grill Deals: Up to $466 off + free shipping w/ $25",
+      "retailer": "Lowe's",
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.dealnews.com/Lowes-Black-Friday-Outdoor-Cooking-and-Grill-Deals-Up-to-466-off-free-shipping-w-25/22415712.html?iref=rss",
+      "source_url": "https://www.dealnews.com/Lowes-Black-Friday-Outdoor-Cooking-and-Grill-Deals-Up-to-466-off-free-shipping-w-25/22415712.html?iref=rss",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "286abd9e9e5e22ee4b444c54",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Yozma IN10 2,600W Electric Dirt Bike for $999 + free shipping",
       "retailer": "Amazon",
-      "previous_price_cents": null,
-      "current_price_cents": 99900,
+      "previous_price_cents": 99900,
+      "current_price_cents": null,
       "rank": {
         "category": "other",
         "variant": null,
@@ -400,14 +452,14 @@
       "link_type": "source"
     },
     {
-      "id": "288919c783d75d3848fcf25c",
+      "id": "2d0b640919a9b31162960948",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "Heavy Duty Steel Truck Bed Tool Box for $100 + free shipping w/ Prime",
-      "retailer": "Woot! An Amazon Company",
-      "previous_price_cents": 10000,
-      "current_price_cents": null,
+      "title": "Amazon Prime Visa Credit Card for $200 Amazon GC w/ Approval",
+      "retailer": "Amazon",
+      "previous_price_cents": null,
+      "current_price_cents": 20000,
       "rank": {
         "category": "other",
         "variant": null,
@@ -420,46 +472,20 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.dealnews.com/Heavy-Duty-Steel-Truck-Bed-Tool-Box-for-100-free-shipping-w-Prime/22412444.html?iref=rss",
-      "source_url": "https://www.dealnews.com/Heavy-Duty-Steel-Truck-Bed-Tool-Box-for-100-free-shipping-w-Prime/22412444.html?iref=rss",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "2a042ff33045bc1feff070ca",
-      "types": [
-        "removed"
-      ],
-      "title": "Hershey's Classic Milk Chocolate Bar: 5 cents",
-      "retailer": "The Hershey Company",
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.dealnews.com/Hersheys-Classic-Milk-Chocolate-Bar-5-cents/22412584.html?iref=rss",
-      "source_url": "https://www.dealnews.com/Hersheys-Classic-Milk-Chocolate-Bar-5-cents/22412584.html?iref=rss",
+      "url": "https://www.dealnews.com/Amazon-Prime-Visa-Credit-Card-for-200-Amazon-GC-w-Approval/22415764.html?iref=rss",
+      "source_url": "https://www.dealnews.com/Amazon-Prime-Visa-Credit-Card-for-200-Amazon-GC-w-Approval/22415764.html?iref=rss",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "2f5d5ac6552d307b2989fbfa",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Giantex C-Shaped End Table for $24 + free shipping w/ Prime",
       "retailer": "Amazon",
-      "previous_price_cents": null,
-      "current_price_cents": 2400,
+      "previous_price_cents": 2400,
+      "current_price_cents": null,
       "rank": {
         "category": "other",
         "variant": null,
@@ -480,12 +506,12 @@
     {
       "id": "309067ad817e72a17483d0b0",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Magic Jimmy 3D Printer for Kids for $200 + free shipping",
       "retailer": "Amazon",
-      "previous_price_cents": null,
-      "current_price_cents": 19999,
+      "previous_price_cents": 19999,
+      "current_price_cents": null,
       "rank": {
         "category": "other",
         "variant": null,
@@ -504,66 +530,14 @@
       "link_type": "source"
     },
     {
-      "id": "320f2d0648052c857dc1cccc",
-      "types": [
-        "removed"
-      ],
-      "title": "Nespresso Vertuo Pop by De'Longhi Coffee & Espresso Maker w/ Coffee Tasting Set for $59 + free shipping",
-      "retailer": "Walmart",
-      "previous_price_cents": 5900,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.dealnews.com/Nespresso-Vertuo-Pop-by-De-Longhi-Coffee-Espresso-Maker-w-Coffee-Tasting-Set-for-59-free-shipping/22412602.html?iref=rss",
-      "source_url": "https://www.dealnews.com/Nespresso-Vertuo-Pop-by-De-Longhi-Coffee-Espresso-Maker-w-Coffee-Tasting-Set-for-59-free-shipping/22412602.html?iref=rss",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "332eb32a3aa5870ed943bce3",
-      "types": [
-        "removed"
-      ],
-      "title": "ErGear Dual Monitor Stand for $25 + free shipping w/ Prime",
-      "retailer": "Woot! An Amazon Company",
-      "previous_price_cents": 2500,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.dealnews.com/Er-Gear-Dual-Monitor-Stand-for-25-free-shipping-w-Prime/22412466.html?iref=rss",
-      "source_url": "https://www.dealnews.com/Er-Gear-Dual-Monitor-Stand-for-25-free-shipping-w-Prime/22412466.html?iref=rss",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
       "id": "336627cb33c708c5e5f9bbc7",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "KomeStone K1 2.5-lb. Rock Tumbler Kit for $49.70 + free shipping",
       "retailer": "Amazon",
-      "previous_price_cents": null,
-      "current_price_cents": 4970,
+      "previous_price_cents": 4970,
+      "current_price_cents": null,
       "rank": {
         "category": "other",
         "variant": null,
@@ -584,12 +558,12 @@
     {
       "id": "349676551e8b24229a14a55d",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Soliom Smart Bird Feeder with Camera for $29.50 + free shipping w/ Prime",
       "retailer": "Amazon",
-      "previous_price_cents": null,
-      "current_price_cents": 2950,
+      "previous_price_cents": 2950,
+      "current_price_cents": null,
       "rank": {
         "category": "other",
         "variant": null,
@@ -608,14 +582,40 @@
       "link_type": "source"
     },
     {
-      "id": "38863aaaedf209c32aaf2167",
+      "id": "36c2e17e17eeb1bea2ef54b8",
       "types": [
         "new"
       ],
+      "title": "Milwaukee Tool Deals at eBay: Up to 67% off + free shipping on many items",
+      "retailer": "eBay",
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.dealnews.com/Milwaukee-Tool-Deals-at-eBay-Up-to-67-off-free-shipping-on-many-items/22415843.html?iref=rss",
+      "source_url": "https://www.dealnews.com/Milwaukee-Tool-Deals-at-eBay-Up-to-67-off-free-shipping-on-many-items/22415843.html?iref=rss",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "38863aaaedf209c32aaf2167",
+      "types": [
+        "removed"
+      ],
       "title": "Gotham Steel Brownie Pan for $17 + free shipping w/ Prime",
       "retailer": "Amazon",
-      "previous_price_cents": null,
-      "current_price_cents": 1700,
+      "previous_price_cents": 1700,
+      "current_price_cents": null,
       "rank": {
         "category": "other",
         "variant": null,
@@ -636,7 +636,7 @@
     {
       "id": "394ee28393c630be7acac581",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Dyson Black Friday Deals at Amazon: Up to $251 off + free shipping w/ Prime",
       "retailer": "Amazon",
@@ -662,7 +662,7 @@
     {
       "id": "398855b90ec97538903589fe",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "New Balance Black Friday Men's Sneaker Deals at Macy's: Up to 52% off + free shipping w/ $39",
       "retailer": "Macy's",
@@ -686,14 +686,66 @@
       "link_type": "source"
     },
     {
-      "id": "3da628aaefec0182d54c8919",
+      "id": "3b210818f21b871aa7148441",
       "types": [
         "new"
       ],
+      "title": "Lowe's Black Friday Leaf Blower Deals for From $99 + free shipping w/ $25",
+      "retailer": "Lowe's",
+      "previous_price_cents": null,
+      "current_price_cents": 9900,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.dealnews.com/Lowes-Black-Friday-Leaf-Blower-Deals-for-From-99-free-shipping-w-25/22415730.html?iref=rss",
+      "source_url": "https://www.dealnews.com/Lowes-Black-Friday-Leaf-Blower-Deals-for-From-99-free-shipping-w-25/22415730.html?iref=rss",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "3c2d2c11a550c2e183790d08",
+      "types": [
+        "new"
+      ],
+      "title": "Amazon Black Friday Gift Card Deals: Up to 20% off + free shipping w/ Prime",
+      "retailer": "Amazon",
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.dealnews.com/Amazon-Black-Friday-Gift-Card-Deals-Up-to-20-off-free-shipping-w-Prime/22415750.html?iref=rss",
+      "source_url": "https://www.dealnews.com/Amazon-Black-Friday-Gift-Card-Deals-Up-to-20-off-free-shipping-w-Prime/22415750.html?iref=rss",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "3da628aaefec0182d54c8919",
+      "types": [
+        "removed"
+      ],
       "title": "Polo Ralph Lauren Black Friday Men's Deals at Macy's for From $17 + free shipping w/ $39",
       "retailer": "Macy's",
-      "previous_price_cents": null,
-      "current_price_cents": 1700,
+      "previous_price_cents": 1700,
+      "current_price_cents": null,
       "rank": {
         "category": "other",
         "variant": null,
@@ -712,14 +764,14 @@
       "link_type": "source"
     },
     {
-      "id": "4157e8526d17b906f475a174",
+      "id": "44bde9eff9404b8c33ebf6c5",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "Disney Men's Graphic Button-Up for $7 + free shipping w/ $35",
-      "retailer": "Walmart",
-      "previous_price_cents": 651,
-      "current_price_cents": null,
+      "title": "Refurb Valve Steam Deck 256GB 720p Handheld Gaming Console w/ Case & Charger for $580 + free shipping",
+      "retailer": "eBay",
+      "previous_price_cents": null,
+      "current_price_cents": 58000,
       "rank": {
         "category": "other",
         "variant": null,
@@ -732,20 +784,20 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.dealnews.com/Disney-Mens-Graphic-Button-Up-for-7-free-shipping-w-35/22412681.html?iref=rss",
-      "source_url": "https://www.dealnews.com/Disney-Mens-Graphic-Button-Up-for-7-free-shipping-w-35/22412681.html?iref=rss",
+      "url": "https://www.dealnews.com/Refurb-Valve-Steam-Deck-256-GB-720-p-Handheld-Gaming-Console-w-Case-Charger-for-580-free-shipping/22415841.html?iref=rss",
+      "source_url": "https://www.dealnews.com/Refurb-Valve-Steam-Deck-256-GB-720-p-Handheld-Gaming-Console-w-Case-Charger-for-580-free-shipping/22415841.html?iref=rss",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "4dfc229d41b328236929f474",
+      "id": "45369b0fed88537b032218a4",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "Levi's 505 Regular Fit Men's Jeans for From $28 + free shipping w/ Prime",
-      "retailer": "Amazon",
-      "previous_price_cents": 2800,
-      "current_price_cents": null,
+      "title": "vSeeBox V6 Pro Android 14 Smart TV Box w/ Voice Remote for $273 + free shipping",
+      "retailer": "eBay",
+      "previous_price_cents": null,
+      "current_price_cents": 27300,
       "rank": {
         "category": "other",
         "variant": null,
@@ -758,20 +810,20 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.dealnews.com/Levis-505-Regular-Fit-Mens-Jeans-for-From-28-free-shipping-w-Prime/22412525.html?iref=rss",
-      "source_url": "https://www.dealnews.com/Levis-505-Regular-Fit-Mens-Jeans-for-From-28-free-shipping-w-Prime/22412525.html?iref=rss",
+      "url": "https://www.dealnews.com/vSee-Box-V6-Pro-Android-14-Smart-TV-Box-w-Voice-Remote-for-273-free-shipping/22415838.html?iref=rss",
+      "source_url": "https://www.dealnews.com/vSee-Box-V6-Pro-Android-14-Smart-TV-Box-w-Voice-Remote-for-273-free-shipping/22415838.html?iref=rss",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "4f0f08cdf446b0dd60e0d1d3",
+      "id": "4b0e538f4d6088fd8a25e495",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "Microsoft Visual Studio 2026 Professional (Lifetime License, 1 PC) for $30 + digital delivery",
-      "retailer": "Digitalkeysbox",
-      "previous_price_cents": 2999,
-      "current_price_cents": null,
+      "title": "Brooks Men's Dash 1/4 Zip 3.0 Running Shirt for $56 + free shipping",
+      "retailer": "Brooks Running",
+      "previous_price_cents": null,
+      "current_price_cents": 5600,
       "rank": {
         "category": "other",
         "variant": null,
@@ -784,20 +836,20 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.dealnews.com/Microsoft-Visual-Studio-2026-Professional-Lifetime-License-1-PC-for-30-digital-delivery/22411062.html?iref=rss",
-      "source_url": "https://www.dealnews.com/Microsoft-Visual-Studio-2026-Professional-Lifetime-License-1-PC-for-30-digital-delivery/22411062.html?iref=rss",
+      "url": "https://www.dealnews.com/Brooks-Mens-Dash-1-4-Zip-3-0-Running-Shirt-for-56-free-shipping/22415792.html?iref=rss",
+      "source_url": "https://www.dealnews.com/Brooks-Mens-Dash-1-4-Zip-3-0-Running-Shirt-for-56-free-shipping/22415792.html?iref=rss",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "5069eff9e54b1282efdcf10c",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Tineco Floor One S7 Smart Wet Dry Vacuum Mop for $479 + free shipping",
       "retailer": "Amazon",
-      "previous_price_cents": null,
-      "current_price_cents": 47900,
+      "previous_price_cents": 47900,
+      "current_price_cents": null,
       "rank": {
         "category": "other",
         "variant": null,
@@ -816,14 +868,14 @@
       "link_type": "source"
     },
     {
-      "id": "56a0d8ec0564e67900e91a1e",
+      "id": "521b20a5c145cfbc2a303d00",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "Krispy Kreme Pumpkin Spice Original Glazed Dozen for $5 w/ any dozen purchase + pickup or delivery available",
-      "retailer": "Krispy Kreme",
-      "previous_price_cents": 500,
-      "current_price_cents": null,
+      "title": "Medicube Triple Collagen Toner 4.73-oz. for $13 + free shipping w/ Prime",
+      "retailer": "Amazon",
+      "previous_price_cents": null,
+      "current_price_cents": 1300,
       "rank": {
         "category": "other",
         "variant": null,
@@ -836,20 +888,20 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.dealnews.com/Krispy-Kreme-Pumpkin-Spice-Original-Glazed-Dozen-for-5-w-any-dozen-purchase-pickup-or-delivery-available/22412760.html?iref=rss",
-      "source_url": "https://www.dealnews.com/Krispy-Kreme-Pumpkin-Spice-Original-Glazed-Dozen-for-5-w-any-dozen-purchase-pickup-or-delivery-available/22412760.html?iref=rss",
+      "url": "https://www.dealnews.com/Medicube-Triple-Collagen-Toner-4-73-oz-for-13-free-shipping-w-Prime/22415745.html?iref=rss",
+      "source_url": "https://www.dealnews.com/Medicube-Triple-Collagen-Toner-4-73-oz-for-13-free-shipping-w-Prime/22415745.html?iref=rss",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "5710981963c7347ab04ff737",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "60 Seya Health Fiber Gummies for Women for $16 + free shipping w/ Prime",
       "retailer": "Amazon",
-      "previous_price_cents": null,
-      "current_price_cents": 1624,
+      "previous_price_cents": 1624,
+      "current_price_cents": null,
       "rank": {
         "category": "other",
         "variant": null,
@@ -868,14 +920,66 @@
       "link_type": "source"
     },
     {
-      "id": "5c9d48069f73fdaf7dd289d1",
+      "id": "58bd08ed0d5c8e143afc59ef",
       "types": [
         "new"
       ],
-      "title": "eufy Security Video Doorbell E340 2K Dual Camera Wired/Battery Doorbell for $100 + free shipping",
+      "title": "Apple iPad mini 128GB A17 Pro 8.3\" WiFi Tablet (2024) for $499 + free shipping",
       "retailer": "Amazon",
       "previous_price_cents": null,
-      "current_price_cents": 10000,
+      "current_price_cents": 49900,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.dealnews.com/products/Apple/Apple-iPad-mini-128-GB-A17-Pro-8-3-Wi-Fi-Tablet-2024/484046.html?iref=rss",
+      "source_url": "https://www.dealnews.com/products/Apple/Apple-iPad-mini-128-GB-A17-Pro-8-3-Wi-Fi-Tablet-2024/484046.html?iref=rss",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "5ab4774192d4a35c690ed606",
+      "types": [
+        "new"
+      ],
+      "title": "Hanes Men's EcoSmart Fleece Full-Zip Hoodie for $11 + free w/ Prime",
+      "retailer": "Amazon",
+      "previous_price_cents": null,
+      "current_price_cents": 1100,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.dealnews.com/Hanes-Mens-Eco-Smart-Fleece-Full-Zip-Hoodie-for-11-free-w-Prime/22415765.html?iref=rss",
+      "source_url": "https://www.dealnews.com/Hanes-Mens-Eco-Smart-Fleece-Full-Zip-Hoodie-for-11-free-w-Prime/22415765.html?iref=rss",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "5c9d48069f73fdaf7dd289d1",
+      "types": [
+        "removed"
+      ],
+      "title": "eufy Security Video Doorbell E340 2K Dual Camera Wired/Battery Doorbell for $100 + free shipping",
+      "retailer": "Amazon",
+      "previous_price_cents": 10000,
+      "current_price_cents": null,
       "rank": {
         "category": "other",
         "variant": null,
@@ -896,7 +1000,7 @@
     {
       "id": "5f857fc9260f08c9292d6f60",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Amazon Black Friday Generator & Portable Power Station Deals: Up to 57% off + free shipping w/ Prime",
       "retailer": "Amazon",
@@ -920,13 +1024,39 @@
       "link_type": "source"
     },
     {
-      "id": "6ade09a39ea5893bb9143f31",
+      "id": "6baf389c9834752f1a65af2d",
+      "types": [
+        "new"
+      ],
+      "title": "WORX Landroid Vision Cloud WR341 4WD Robotic Lawn Mower w/ Cut to Edge Attachment for $1,500 + free delivery",
+      "retailer": "Lowe's",
+      "previous_price_cents": null,
+      "current_price_cents": 150000,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.dealnews.com/products/Worx-Tools/WORX-Landroid-Vision-Cloud-WR341-4-WD-Robotic-Lawn-Mower-w-Cut-to-Edge-Attachment/561513.html?iref=rss",
+      "source_url": "https://www.dealnews.com/products/Worx-Tools/WORX-Landroid-Vision-Cloud-WR341-4-WD-Robotic-Lawn-Mower-w-Cut-to-Edge-Attachment/561513.html?iref=rss",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "71bdcb40777695b329ac9068",
       "types": [
         "removed"
       ],
-      "title": "Nike Women's ReactX Rejuven8 Recovery Shoes for $25 + free shipping w/ $49",
-      "retailer": "Dick's Sporting Goods",
-      "previous_price_cents": 2500,
+      "title": "Chase Private Client Checking℠ for $3,000 bonus w/ new account",
+      "retailer": "Chase Consumer Bank",
+      "previous_price_cents": 300000,
       "current_price_cents": null,
       "rank": {
         "category": "other",
@@ -940,46 +1070,20 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.dealnews.com/Nike-Womens-React-X-Rejuven8-Recovery-Shoes-for-25-free-shipping-w-49/22412701.html?iref=rss",
-      "source_url": "https://www.dealnews.com/Nike-Womens-React-X-Rejuven8-Recovery-Shoes-for-25-free-shipping-w-49/22412701.html?iref=rss",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "6c006eb529d00f3d1e7c329b",
-      "types": [
-        "new"
-      ],
-      "title": "lululemon Men's Black Friday Pants Specials for From $49 + free shipping",
-      "retailer": "lululemon",
-      "previous_price_cents": null,
-      "current_price_cents": 4900,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.dealnews.com/lululemon-Mens-Black-Friday-Pants-Specials-for-From-49-free-shipping/22414611.html?iref=rss",
-      "source_url": "https://www.dealnews.com/lululemon-Mens-Black-Friday-Pants-Specials-for-From-49-free-shipping/22414611.html?iref=rss",
+      "url": "https://www.dealnews.com/Chase-Private-Client-Checking-for-3-000-bonus-w-new-account/21980765.html?iref=rss",
+      "source_url": "https://www.dealnews.com/Chase-Private-Client-Checking-for-3-000-bonus-w-new-account/21980765.html?iref=rss",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "7370f83512c39ce1cb545d3a",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Momcozy Triple-Seal Diaper Pail for $72 + free shipping",
       "retailer": "Amazon",
-      "previous_price_cents": null,
-      "current_price_cents": 7199,
+      "previous_price_cents": 7199,
+      "current_price_cents": null,
       "rank": {
         "category": "other",
         "variant": null,
@@ -998,14 +1102,14 @@
       "link_type": "source"
     },
     {
-      "id": "75c4690b19f899ab45f82237",
+      "id": "74880ff96acfddba9df54405",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "Bicycle Stargazer 204 Playing Cards for $8 + free shipping w/ Prime",
+      "title": "Enya Nova Go Carbon Fiber Travel Guitar for $210 + free shipping",
       "retailer": "Amazon",
-      "previous_price_cents": 846,
-      "current_price_cents": null,
+      "previous_price_cents": null,
+      "current_price_cents": 20999,
       "rank": {
         "category": "other",
         "variant": null,
@@ -1018,20 +1122,46 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.dealnews.com/Bicycle-Stargazer-204-Playing-Cards-for-8-free-shipping-w-Prime/22412335.html?iref=rss",
-      "source_url": "https://www.dealnews.com/Bicycle-Stargazer-204-Playing-Cards-for-8-free-shipping-w-Prime/22412335.html?iref=rss",
+      "url": "https://www.dealnews.com/products/Enya/Enya-Nova-Go-Carbon-Fiber-Travel-Guitar/501140.html?iref=rss",
+      "source_url": "https://www.dealnews.com/products/Enya/Enya-Nova-Go-Carbon-Fiber-Travel-Guitar/501140.html?iref=rss",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "7ebd771d98a5c16977e11f3f",
+      "id": "7ea0c59626207cce4b76cf40",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "SM57 Dynamic Instrument Microphone for $89 + free shipping",
+      "title": "Brooks Men's Revel Max Road Running Shoes for $100 + free shipping",
+      "retailer": "Brooks Running",
+      "previous_price_cents": null,
+      "current_price_cents": 10000,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.dealnews.com/Brooks-Mens-Revel-Max-Road-Running-Shoes-for-100-free-shipping/22415791.html?iref=rss",
+      "source_url": "https://www.dealnews.com/Brooks-Mens-Revel-Max-Road-Running-Shoes-for-100-free-shipping/22415791.html?iref=rss",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "7fb108839b031434f357a5cf",
+      "types": [
+        "new"
+      ],
+      "title": "Apple MacBook Pro M6 14.2\" Laptop for $1,849 + free shipping",
       "retailer": "Amazon",
-      "previous_price_cents": 8900,
-      "current_price_cents": null,
+      "previous_price_cents": null,
+      "current_price_cents": 184900,
       "rank": {
         "category": "other",
         "variant": null,
@@ -1044,72 +1174,20 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.dealnews.com/products/Shure/SM57-Dynamic-Instrument-Microphone/471300.html?iref=rss",
-      "source_url": "https://www.dealnews.com/products/Shure/SM57-Dynamic-Instrument-Microphone/471300.html?iref=rss",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "7ee14c4cca75ad64600df0ec",
-      "types": [
-        "removed"
-      ],
-      "title": "Harman Kardon Onyx Studio 8 Portable Bluetooth Speaker for $100 + free shipping",
-      "retailer": "Harman Kardon",
-      "previous_price_cents": 10000,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.dealnews.com/Harman-Kardon-Onyx-Studio-8-Portable-Bluetooth-Speaker-for-100-free-shipping/22412759.html?iref=rss",
-      "source_url": "https://www.dealnews.com/Harman-Kardon-Onyx-Studio-8-Portable-Bluetooth-Speaker-for-100-free-shipping/22412759.html?iref=rss",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "8035c959a0ea18d572976e55",
-      "types": [
-        "removed"
-      ],
-      "title": "Alesis Talent 61 MKII 61-Key Portable Keyboard Package for $89 + free shipping",
-      "retailer": "Musician's Friend",
-      "previous_price_cents": 8900,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.dealnews.com/Alesis-Talent-61-MKII-61-Key-Portable-Keyboard-Package-for-89-free-shipping/22412643.html?iref=rss",
-      "source_url": "https://www.dealnews.com/Alesis-Talent-61-MKII-61-Key-Portable-Keyboard-Package-for-89-free-shipping/22412643.html?iref=rss",
+      "url": "https://www.dealnews.com/products/Apple/Apple-Mac-Book-Pro-M6-14-2-Laptop/561555.html?iref=rss",
+      "source_url": "https://www.dealnews.com/products/Apple/Apple-Mac-Book-Pro-M6-14-2-Laptop/561555.html?iref=rss",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "82258efde2c5cea2bfa5f8c7",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Homall Ergonomic High-Back Faux Leather Gaming Chair for $80 + free shipping",
       "retailer": "Amazon",
-      "previous_price_cents": null,
-      "current_price_cents": 7999,
+      "previous_price_cents": 7999,
+      "current_price_cents": null,
       "rank": {
         "category": "other",
         "variant": null,
@@ -1128,18 +1206,18 @@
       "link_type": "source"
     },
     {
-      "id": "83bfb3419055b7501b0fd2d6",
+      "id": "844b7eeb31bb878c3ae08478",
       "types": [
         "new"
       ],
-      "title": "Fanatics Early Black Friday Deals: Up to an extra 60% off + shipping varies",
-      "retailer": "Fanatics",
+      "title": "GetD AI Smart Glasses for $20 + free shipping w/ Prime",
+      "retailer": "Amazon",
       "previous_price_cents": null,
-      "current_price_cents": null,
+      "current_price_cents": 2039,
       "rank": {
         "category": "other",
         "variant": null,
-        "status": "price_unavailable",
+        "status": "watch",
         "score": 0,
         "max_usd": null,
         "preferred_usd": null,
@@ -1148,20 +1226,20 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.dealnews.com/Fanatics-Early-Black-Friday-Deals-Up-to-an-extra-60-off-shipping-varies/22414598.html?iref=rss",
-      "source_url": "https://www.dealnews.com/Fanatics-Early-Black-Friday-Deals-Up-to-an-extra-60-off-shipping-varies/22414598.html?iref=rss",
+      "url": "https://www.dealnews.com/Get-D-AI-Smart-Glasses-for-20-free-shipping-w-Prime/22408872.html?iref=rss",
+      "source_url": "https://www.dealnews.com/Get-D-AI-Smart-Glasses-for-20-free-shipping-w-Prime/22408872.html?iref=rss",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "877231d544ffd622ae043f96",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "1,000X Handheld Digital Microscope for Kids for $24 + free shipping w/ Prime",
       "retailer": "Amazon",
-      "previous_price_cents": null,
-      "current_price_cents": 2399,
+      "previous_price_cents": 2399,
+      "current_price_cents": null,
       "rank": {
         "category": "other",
         "variant": null,
@@ -1180,9 +1258,61 @@
       "link_type": "source"
     },
     {
-      "id": "8959aee6b6fad171e066d3cd",
+      "id": "88b8c8f06628026de57c8bbc",
+      "types": [
+        "removed"
+      ],
+      "title": "Black Friday Sale at The Jacket Maker: Up to 25% off + extra 12% off + free shipping",
+      "retailer": "The Jacket Maker",
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.dealnews.com/Black-Friday-Sale-at-The-Jacket-Maker-Up-to-25-off-extra-12-off-free-shipping/22402935.html?iref=rss",
+      "source_url": "https://www.dealnews.com/Black-Friday-Sale-at-The-Jacket-Maker-Up-to-25-off-extra-12-off-free-shipping/22402935.html?iref=rss",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "88d13b39ce5fc65006848fb2",
       "types": [
         "new"
+      ],
+      "title": "Apple iPad Pro M5 256GB 13\" Wi-Fi Tablet for $1,399 + free shipping",
+      "retailer": "Amazon",
+      "previous_price_cents": null,
+      "current_price_cents": 139900,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.dealnews.com/Apple-iPad-Pro-M5-256-GB-13-Wi-Fi-Tablet-for-1-399-free-shipping/22415837.html?iref=rss",
+      "source_url": "https://www.dealnews.com/Apple-iPad-Pro-M5-256-GB-13-Wi-Fi-Tablet-for-1-399-free-shipping/22415837.html?iref=rss",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "8959aee6b6fad171e066d3cd",
+      "types": [
+        "removed"
       ],
       "title": "BLU X5+ 32GB Android Phone: $0 w/ Annual Plan + free shipping",
       "retailer": "Red Pocket",
@@ -1206,61 +1336,9 @@
       "link_type": "source"
     },
     {
-      "id": "8bc9a251c98beb16f9f5f0ec",
-      "types": [
-        "new"
-      ],
-      "title": "AMC Tickets for 2 + Popcorn for $26 + instant e-voucher delivery",
-      "retailer": "Giftory",
-      "previous_price_cents": null,
-      "current_price_cents": 2553,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.dealnews.com/AMC-Tickets-for-2-Popcorn-for-26-instant-e-voucher-delivery/22414534.html?iref=rss",
-      "source_url": "https://www.dealnews.com/AMC-Tickets-for-2-Popcorn-for-26-instant-e-voucher-delivery/22414534.html?iref=rss",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "8d6f946b8db1d044d338ce7b",
-      "types": [
-        "removed"
-      ],
-      "title": "Ozark Trail Men's Half-Zip Pullover for $8 + free shipping w/ $35",
-      "retailer": "Walmart",
-      "previous_price_cents": 761,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.dealnews.com/Ozark-Trail-Mens-Half-Zip-Pullover-for-8-free-shipping-w-35/22412693.html?iref=rss",
-      "source_url": "https://www.dealnews.com/Ozark-Trail-Mens-Half-Zip-Pullover-for-8-free-shipping-w-35/22412693.html?iref=rss",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
       "id": "8fb62967a2e4a76b2d27c450",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Nike Early Black Friday Sale: Extra 25% off + free shipping w/ $50",
       "retailer": "Nike",
@@ -1286,12 +1364,12 @@
     {
       "id": "91b784ca2fbcab8a2de8a711",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Refurb Apple MacBook Air Core i3 13\" Laptop (2020) for $425 + free shipping",
       "retailer": "dailysteals",
-      "previous_price_cents": null,
-      "current_price_cents": 42500,
+      "previous_price_cents": 42500,
+      "current_price_cents": null,
       "rank": {
         "category": "other",
         "variant": null,
@@ -1310,66 +1388,14 @@
       "link_type": "source"
     },
     {
-      "id": "93c3fa126893f6737cc9dc82",
-      "types": [
-        "removed"
-      ],
-      "title": "Henredon Caley Reversible Sofa Chaise w/ Ottoman for $1,000 + free delivery, setup, & packaging removal",
-      "retailer": "Costco",
-      "previous_price_cents": 100000,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.dealnews.com/Henredon-Caley-Reversible-Sofa-Chaise-w-Ottoman-for-1-000-free-delivery-setup-packaging-removal/22412740.html?iref=rss",
-      "source_url": "https://www.dealnews.com/Henredon-Caley-Reversible-Sofa-Chaise-w-Ottoman-for-1-000-free-delivery-setup-packaging-removal/22412740.html?iref=rss",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "94e29c039074d3678bf35059",
-      "types": [
-        "removed"
-      ],
-      "title": "AliExpress Black Friday Sale: Up to 90% off + extra $3 to $180 off + free shipping",
-      "retailer": "AliExpress",
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.dealnews.com/Ali-Express-Black-Friday-Sale-Up-to-90-off-extra-3-to-180-off-free-shipping/22411065.html?iref=rss",
-      "source_url": "https://www.dealnews.com/Ali-Express-Black-Friday-Sale-Up-to-90-off-extra-3-to-180-off-free-shipping/22411065.html?iref=rss",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
       "id": "96687fd3d909ef95420754a2",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "SKG TS700 Cordless Full Back Massager for $56 + free shipping",
       "retailer": "Amazon",
-      "previous_price_cents": null,
-      "current_price_cents": 5649,
+      "previous_price_cents": 5649,
+      "current_price_cents": null,
       "rank": {
         "category": "other",
         "variant": null,
@@ -1390,12 +1416,12 @@
     {
       "id": "994c2f79540bed596da25acc",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Trendstitch Girls' Floral Print Crewneck Pullover Sweater 7-8 Years for $16 + free shipping w/ Prime",
       "retailer": "Amazon",
-      "previous_price_cents": null,
-      "current_price_cents": 1599,
+      "previous_price_cents": 1599,
+      "current_price_cents": null,
       "rank": {
         "category": "other",
         "variant": null,
@@ -1414,14 +1440,14 @@
       "link_type": "source"
     },
     {
-      "id": "a15f756932bcbe9dfe54b65e",
+      "id": "9d2e854a495ab297170fafd5",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "Kobalt 31-Piece Multipurpose Air Tool Kit for $85 + free shipping",
-      "retailer": "Lowe's",
-      "previous_price_cents": 8500,
-      "current_price_cents": null,
+      "title": "Apple MacBook Neo A18 Pro 13\" Laptop for $649 + free shipping",
+      "retailer": "Amazon",
+      "previous_price_cents": null,
+      "current_price_cents": 64900,
       "rank": {
         "category": "other",
         "variant": null,
@@ -1434,41 +1460,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.dealnews.com/products/Kobalt/Kobalt-31-Piece-Multipurpose-Air-Tool-Kit/438183.html?iref=rss",
-      "source_url": "https://www.dealnews.com/products/Kobalt/Kobalt-31-Piece-Multipurpose-Air-Tool-Kit/438183.html?iref=rss",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "a17e53b6b288b44865fc38be",
-      "types": [
-        "removed"
-      ],
-      "title": "LEGO Star Wars Smart Play: Mos Eisley Cantina for $45 + free shipping",
-      "retailer": "Target",
-      "previous_price_cents": 4500,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.dealnews.com/products/LEGO/LEGO-Star-Wars-Smart-Play-Mos-Eisley-Cantina/534876.html?iref=rss",
-      "source_url": "https://www.dealnews.com/products/LEGO/LEGO-Star-Wars-Smart-Play-Mos-Eisley-Cantina/534876.html?iref=rss",
+      "url": "https://www.dealnews.com/products/Apple/Apple-Mac-Book-Neo-A18-Pro-13-Laptop/561556.html?iref=rss",
+      "source_url": "https://www.dealnews.com/products/Apple/Apple-Mac-Book-Neo-A18-Pro-13-Laptop/561556.html?iref=rss",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "a587cd9bc6dc3c9e0bcf80fe",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Squarespace Black Friday Sale: 55% off monthly & annual plans + free shipping",
       "retailer": "Squarespace",
@@ -1494,12 +1494,12 @@
     {
       "id": "a9987cc36ef98ded77c6d2ea",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Samsung Galaxy S26 FE 128GB for Verizon w/ Galaxy Watch9 & Galaxy Buds4 for $13/mo. w/ Simplicity plan + free shipping",
       "retailer": "Verizon",
-      "previous_price_cents": null,
-      "current_price_cents": 1300,
+      "previous_price_cents": 1300,
+      "current_price_cents": null,
       "rank": {
         "category": "other",
         "variant": null,
@@ -1518,14 +1518,14 @@
       "link_type": "source"
     },
     {
-      "id": "aadbfe6f2242619cdd7ebff0",
+      "id": "aba1d6b261e10981ccb4884e",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "Kobalt Inflator Gun w/ Pressure Gauge for $10 + free shipping",
-      "retailer": "Lowe's",
-      "previous_price_cents": 998,
-      "current_price_cents": null,
+      "title": "Apple Watch Ultra 3 49mm GPS + Cellular Smart Watch for $549 + free shipping",
+      "retailer": "Best Buy",
+      "previous_price_cents": null,
+      "current_price_cents": 54900,
       "rank": {
         "category": "other",
         "variant": null,
@@ -1538,20 +1538,20 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.dealnews.com/Kobalt-Inflator-Gun-w-Pressure-Gauge-for-10-free-shipping/22412443.html?iref=rss",
-      "source_url": "https://www.dealnews.com/Kobalt-Inflator-Gun-w-Pressure-Gauge-for-10-free-shipping/22412443.html?iref=rss",
+      "url": "https://www.dealnews.com/products/Apple/Apple-Watch-Ultra-3-49-mm-GPS-Cellular-Smart-Watch/496563.html?iref=rss",
+      "source_url": "https://www.dealnews.com/products/Apple/Apple-Watch-Ultra-3-49-mm-GPS-Cellular-Smart-Watch/496563.html?iref=rss",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "ac2cedf28c5c542a096d5716",
+      "id": "ac36c5ffa69fb16f33d6f062",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "Martin X Series Special D-X2E Acoustic-Electric Guitar for $500 + free shipping",
-      "retailer": "Guitar Center",
-      "previous_price_cents": 50000,
-      "current_price_cents": null,
+      "title": "Olight O'Pen 3 Rechargeable Pen Light for $64 + free shipping",
+      "retailer": "Amazon",
+      "previous_price_cents": null,
+      "current_price_cents": 6399,
       "rank": {
         "category": "other",
         "variant": null,
@@ -1564,20 +1564,20 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.dealnews.com/products/Martin/Martin-X-Series-Special-D-X2-E-Acoustic-Electric-Guitar/560955.html?iref=rss",
-      "source_url": "https://www.dealnews.com/products/Martin/Martin-X-Series-Special-D-X2-E-Acoustic-Electric-Guitar/560955.html?iref=rss",
+      "url": "https://www.dealnews.com/products/Olight/Olight-OPen-3-Rechargeable-Pen-Light/560618.html?iref=rss",
+      "source_url": "https://www.dealnews.com/products/Olight/Olight-OPen-3-Rechargeable-Pen-Light/560618.html?iref=rss",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "acef58db06483747996ce5c8",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Avylo ADC018 90-Pint Dehumidifier w/ Pump & Hose for $191 + free shipping",
       "retailer": "Amazon",
-      "previous_price_cents": null,
-      "current_price_cents": 19119,
+      "previous_price_cents": 19119,
+      "current_price_cents": null,
       "rank": {
         "category": "other",
         "variant": null,
@@ -1598,7 +1598,7 @@
     {
       "id": "afffd11bdd343b2cb85b443a",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Dyson Black Friday Deals: Up to $400 off + free shipping",
       "retailer": "Dyson",
@@ -1622,118 +1622,14 @@
       "link_type": "source"
     },
     {
-      "id": "b1184488d110a40e67ad748e",
+      "id": "b749699fb5cc4250a04024e5",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "Govee RGBIC Smart Table Lamp with Touch Control for $54 + free shipping",
+      "title": "Asyplaer 1:14 Scale Off-Road RC Truck for $30 + free shipping w/ Prime",
       "retailer": "Amazon",
-      "previous_price_cents": 5400,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.dealnews.com/products/Govee/Govee-RGBIC-Smart-Table-Lamp-with-Touch-Control/494598.html?iref=rss",
-      "source_url": "https://www.dealnews.com/products/Govee/Govee-RGBIC-Smart-Table-Lamp-with-Touch-Control/494598.html?iref=rss",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "b1317dbd98933c5366b6f9c3",
-      "types": [
-        "removed"
-      ],
-      "title": "onn Core 7\" 64GB Android 16 Tablet (2026) for $87 + free shipping",
-      "retailer": "Walmart",
-      "previous_price_cents": 8700,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.dealnews.com/onn-Core-7-64-GB-Android-16-Tablet-2026-for-87-free-shipping/22412619.html?iref=rss",
-      "source_url": "https://www.dealnews.com/onn-Core-7-64-GB-Android-16-Tablet-2026-for-87-free-shipping/22412619.html?iref=rss",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "bbdeb7ea746550423610669a",
-      "types": [
-        "removed"
-      ],
-      "title": "Tzumi 20L Electric Bucket Towel Warmer for $45 + free shipping",
-      "retailer": "Macy's",
-      "previous_price_cents": 4500,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.dealnews.com/Tzumi-20-L-Electric-Bucket-Towel-Warmer-for-45-free-shipping/22412741.html?iref=rss",
-      "source_url": "https://www.dealnews.com/Tzumi-20-L-Electric-Bucket-Towel-Warmer-for-45-free-shipping/22412741.html?iref=rss",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "c14a5529b422691334ffb09d",
-      "types": [
-        "removed"
-      ],
-      "title": "lululemon Black Friday Specials: Up to 84% off + free shipping",
-      "retailer": "lululemon",
       "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.dealnews.com/lululemon-Black-Friday-Specials-Up-to-84-off-free-shipping/22410988.html?iref=rss",
-      "source_url": "https://www.dealnews.com/lululemon-Black-Friday-Specials-Up-to-84-off-free-shipping/22410988.html?iref=rss",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "c1ebde0f8e64123699c2fd7c",
-      "types": [
-        "removed"
-      ],
-      "title": "Greenworks 50-Piece Impact Rated Driving Set w/ Case for $9 + free shipping w/ $35",
-      "retailer": "Walmart",
-      "previous_price_cents": 899,
-      "current_price_cents": null,
+      "current_price_cents": 2998,
       "rank": {
         "category": "other",
         "variant": null,
@@ -1746,20 +1642,150 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.dealnews.com/products/Greenworks/Greenworks-50-Piece-Impact-Rated-Driving-Set-w-Case/560908.html?iref=rss",
-      "source_url": "https://www.dealnews.com/products/Greenworks/Greenworks-50-Piece-Impact-Rated-Driving-Set-w-Case/560908.html?iref=rss",
+      "url": "https://www.dealnews.com/Asyplaer-1-14-Scale-Off-Road-RC-Truck-for-30-free-shipping-w-Prime/22390095.html?iref=rss",
+      "source_url": "https://www.dealnews.com/Asyplaer-1-14-Scale-Off-Road-RC-Truck-for-30-free-shipping-w-Prime/22390095.html?iref=rss",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "b824021363ccd7628d130aea",
+      "types": [
+        "new"
+      ],
+      "title": "Magic Jimmy Spark AI 3D Printer for $184 + free shipping",
+      "retailer": "Amazon",
+      "previous_price_cents": null,
+      "current_price_cents": 18399,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.dealnews.com/Magic-Jimmy-Spark-AI-3-D-Printer-for-184-free-shipping/22411965.html?iref=rss",
+      "source_url": "https://www.dealnews.com/Magic-Jimmy-Spark-AI-3-D-Printer-for-184-free-shipping/22411965.html?iref=rss",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "b91f83b9c165b90ca458dc4d",
+      "types": [
+        "new"
+      ],
+      "title": "Olight Seeker Ultra Rechargeable Flashlight w/ USB-C Charging Holster for $119 + free shipping",
+      "retailer": "Amazon",
+      "previous_price_cents": null,
+      "current_price_cents": 11900,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.dealnews.com/Olight-Seeker-Ultra-Rechargeable-Flashlight-w-USB-C-Charging-Holster-for-119-free-shipping/22415729.html?iref=rss",
+      "source_url": "https://www.dealnews.com/Olight-Seeker-Ultra-Rechargeable-Flashlight-w-USB-C-Charging-Holster-for-119-free-shipping/22415729.html?iref=rss",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "bac9721809fbdace4b6ff5cf",
+      "types": [
+        "new"
+      ],
+      "title": "Anker Solix C1000 Gen 2 2,000W Portable Power Station for $470 + free shipping",
+      "retailer": "Amazon",
+      "previous_price_cents": null,
+      "current_price_cents": 46999,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.dealnews.com/products/Anker/Anker-Solix-C1000-Gen-2-2-000-W-Portable-Power-Station/496151.html?iref=rss",
+      "source_url": "https://www.dealnews.com/products/Anker/Anker-Solix-C1000-Gen-2-2-000-W-Portable-Power-Station/496151.html?iref=rss",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "bd9cf6575aba13488562fc4d",
+      "types": [
+        "new"
+      ],
+      "title": "Magnetic Exercise Bike w/ App Training for $285 + free shipping",
+      "retailer": "Amazon",
+      "previous_price_cents": null,
+      "current_price_cents": 28500,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.dealnews.com/Magnetic-Exercise-Bike-w-App-Training-for-285-free-shipping/22415781.html?iref=rss",
+      "source_url": "https://www.dealnews.com/Magnetic-Exercise-Bike-w-App-Training-for-285-free-shipping/22415781.html?iref=rss",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "c11864db4a9be0e2615c66c8",
+      "types": [
+        "new"
+      ],
+      "title": "Belkin Isolate Over-Ear ANC Wireless Headphones for $36 + free shipping",
+      "retailer": "Amazon",
+      "previous_price_cents": null,
+      "current_price_cents": 3600,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.dealnews.com/Belkin-Isolate-Over-Ear-ANC-Wireless-Headphones-for-36-free-shipping/22415696.html?iref=rss",
+      "source_url": "https://www.dealnews.com/Belkin-Isolate-Over-Ear-ANC-Wireless-Headphones-for-36-free-shipping/22415696.html?iref=rss",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "c356c2aacf4ef20e804564ca",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "1,000X Digital Handheld Microscope for Kids for $25 + free shipping w/ Prime",
       "retailer": "Amazon",
-      "previous_price_cents": null,
-      "current_price_cents": 2549,
+      "previous_price_cents": 2549,
+      "current_price_cents": null,
       "rank": {
         "category": "other",
         "variant": null,
@@ -1780,12 +1806,12 @@
     {
       "id": "c3636db9f40974b22741f425",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "xTool Advancer AD20 Pro Wireless OBD2 Scanner for $39 + free shipping",
       "retailer": "Amazon",
-      "previous_price_cents": null,
-      "current_price_cents": 3900,
+      "previous_price_cents": 3900,
+      "current_price_cents": null,
       "rank": {
         "category": "other",
         "variant": null,
@@ -1804,14 +1830,14 @@
       "link_type": "source"
     },
     {
-      "id": "c3fc5f8817fc6c3428f1ad5e",
+      "id": "c4777b064374dc8ff91b05c4",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "Kobalt 24V LED Rechargeable Portable Work Light for $49 + free shipping",
-      "retailer": "Lowe's",
-      "previous_price_cents": 4900,
-      "current_price_cents": null,
+      "title": "KnitPro Rainbow Knit Blockers 20-Pack for $30 + free shipping w/ Prime",
+      "retailer": "Amazon",
+      "previous_price_cents": null,
+      "current_price_cents": 2990,
       "rank": {
         "category": "other",
         "variant": null,
@@ -1824,20 +1850,46 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.dealnews.com/products/Kobalt/Kobalt-24-V-LED-Rechargeable-Portable-Work-Light/560895.html?iref=rss",
-      "source_url": "https://www.dealnews.com/products/Kobalt/Kobalt-24-V-LED-Rechargeable-Portable-Work-Light/560895.html?iref=rss",
+      "url": "https://www.dealnews.com/Knit-Pro-Rainbow-Knit-Blockers-20-Pack-for-30-free-shipping-w-Prime/22414226.html?iref=rss",
+      "source_url": "https://www.dealnews.com/Knit-Pro-Rainbow-Knit-Blockers-20-Pack-for-30-free-shipping-w-Prime/22414226.html?iref=rss",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "c4859d18050e0e3af4c77116",
+      "types": [
+        "new"
+      ],
+      "title": "Bestier 70.8\" Freestanding Electric Fireplace TV Stand w/ Adjustable Glass Shelves for $212 + free shipping",
+      "retailer": "Home Depot",
+      "previous_price_cents": null,
+      "current_price_cents": 21193,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.dealnews.com/Bestier-70-8-Freestanding-Electric-Fireplace-TV-Stand-w-Adjustable-Glass-Shelves-for-212-free-shipping/22406580.html?iref=rss",
+      "source_url": "https://www.dealnews.com/Bestier-70-8-Freestanding-Electric-Fireplace-TV-Stand-w-Adjustable-Glass-Shelves-for-212-free-shipping/22406580.html?iref=rss",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "c8cbb01371ed4190de19206f",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Anker SOLIX S5000 5,024Wh Portable Power Station for $2,499.99 + free shipping",
       "retailer": "Amazon",
-      "previous_price_cents": null,
-      "current_price_cents": 249999,
+      "previous_price_cents": 249999,
+      "current_price_cents": null,
       "rank": {
         "category": "other",
         "variant": null,
@@ -1856,18 +1908,18 @@
       "link_type": "source"
     },
     {
-      "id": "cda34540cd2da021e0dc486d",
+      "id": "ccb12f485e2153a1d0c2424c",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "HHYSSG Mini Electric Screwdriver Set w/ 18 Bits for $24 + free shipping w/ Prime",
-      "retailer": "Woot! An Amazon Company",
-      "previous_price_cents": 2400,
+      "title": "adidas Black Friday Sale: Up to 60% off + free shipping",
+      "retailer": "adidas",
+      "previous_price_cents": null,
       "current_price_cents": null,
       "rank": {
         "category": "other",
         "variant": null,
-        "status": "watch",
+        "status": "price_unavailable",
         "score": 0,
         "max_usd": null,
         "preferred_usd": null,
@@ -1876,20 +1928,20 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.dealnews.com/HHYSSG-Mini-Electric-Screwdriver-Set-w-18-Bits-for-24-free-shipping-w-Prime/22412442.html?iref=rss",
-      "source_url": "https://www.dealnews.com/HHYSSG-Mini-Electric-Screwdriver-Set-w-18-Bits-for-24-free-shipping-w-Prime/22412442.html?iref=rss",
+      "url": "https://www.dealnews.com/adidas-Black-Friday-Sale-Up-to-60-off-free-shipping/22414577.html?iref=rss",
+      "source_url": "https://www.dealnews.com/adidas-Black-Friday-Sale-Up-to-60-off-free-shipping/22414577.html?iref=rss",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "d017c6c77b440042fe0b84fd",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Fit King Pro Cordless Leg Compression Recovery Boots for $145 + free shipping",
       "retailer": "Amazon",
-      "previous_price_cents": null,
-      "current_price_cents": 14500,
+      "previous_price_cents": 14500,
+      "current_price_cents": null,
       "rank": {
         "category": "other",
         "variant": null,
@@ -1908,40 +1960,14 @@
       "link_type": "source"
     },
     {
-      "id": "d0ce4346fcd735cce5d04d29",
+      "id": "d4e09f419f06cfd0235d9bab",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "Gourmia All-in-One 14-Quart Air Fryer for $55 + free shipping",
-      "retailer": "Walmart",
-      "previous_price_cents": 5500,
-      "current_price_cents": null,
-      "rank": {
-        "category": "air_fryer",
-        "variant": null,
-        "status": "watch",
-        "score": 22.67,
-        "max_usd": 75,
-        "preferred_usd": null,
-        "within_budget": true,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.dealnews.com/products/Gourmia/Gourmia-All-in-One-14-Quart-Air-Fryer/560916.html?iref=rss",
-      "source_url": "https://www.dealnews.com/products/Gourmia/Gourmia-All-in-One-14-Quart-Air-Fryer/560916.html?iref=rss",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "d4cfade4a67f919e05fed564",
-      "types": [
-        "removed"
-      ],
-      "title": "Fanttik Flip G10 Electric Spin Scrubber 15-Piece Set for $30 + free shipping w/ Prime",
+      "title": "Anker 25,000mAh Laptop Power Bank for $91 + free shipping",
       "retailer": "Amazon",
-      "previous_price_cents": 2999,
-      "current_price_cents": null,
+      "previous_price_cents": null,
+      "current_price_cents": 9100,
       "rank": {
         "category": "other",
         "variant": null,
@@ -1954,72 +1980,20 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.dealnews.com/products/Fanttik/Fanttik-Flip-G10-Electric-Spin-Scrubber-15-Piece-Set/553770.html?iref=rss",
-      "source_url": "https://www.dealnews.com/products/Fanttik/Fanttik-Flip-G10-Electric-Spin-Scrubber-15-Piece-Set/553770.html?iref=rss",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "d740365c9f90751dff236855",
-      "types": [
-        "removed"
-      ],
-      "title": "Tenergy Alkaline AA & AAA Batteries 200-Pack for $33 w/ Subscribe & Save + free shipping w/ Prime",
-      "retailer": "Amazon",
-      "previous_price_cents": 3300,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.dealnews.com/products/Tenergy/Tenergy-Alkaline-AA-AAA-Batteries-200-Pack/560924.html?iref=rss",
-      "source_url": "https://www.dealnews.com/products/Tenergy/Tenergy-Alkaline-AA-AAA-Batteries-200-Pack/560924.html?iref=rss",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "dd588d4f9fb882f1adf14398",
-      "types": [
-        "removed"
-      ],
-      "title": "Xbox Wireless Controller Forza Horizon 6 Limited Edition for $49 + free shipping",
-      "retailer": "Amazon",
-      "previous_price_cents": 4900,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.dealnews.com/products/Xbox/Xbox-Wireless-Controller-Forza-Horizon-6-Limited-Edition/530963.html?iref=rss",
-      "source_url": "https://www.dealnews.com/products/Xbox/Xbox-Wireless-Controller-Forza-Horizon-6-Limited-Edition/530963.html?iref=rss",
+      "url": "https://www.dealnews.com/products/Anker/Anker-25-000-m-Ah-Laptop-Power-Bank/486804.html?iref=rss",
+      "source_url": "https://www.dealnews.com/products/Anker/Anker-25-000-m-Ah-Laptop-Power-Bank/486804.html?iref=rss",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "dec1559d080c32be66569276",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Soliom Solar Powered Smart Bird Feeder with 2K Camera for $24.50 + free shipping w/ Prime",
       "retailer": "Amazon",
-      "previous_price_cents": null,
-      "current_price_cents": 2450,
+      "previous_price_cents": 2450,
+      "current_price_cents": null,
       "rank": {
         "category": "other",
         "variant": null,
@@ -2038,40 +2012,14 @@
       "link_type": "source"
     },
     {
-      "id": "e0610b29eb0e9c6078099e0e",
+      "id": "e1c1c7267575978806d963cc",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "Werner 6-Ft. Fiberglass Type 1 Step Ladder for $69 + pickup",
-      "retailer": "Lowe's",
-      "previous_price_cents": 6900,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.dealnews.com/products/Werner/Werner-6-Ft-Fiberglass-Type-1-Step-Ladder/560879.html?iref=rss",
-      "source_url": "https://www.dealnews.com/products/Werner/Werner-6-Ft-Fiberglass-Type-1-Step-Ladder/560879.html?iref=rss",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "e2f2330f7887f6549d605104",
-      "types": [
-        "removed"
-      ],
-      "title": "The Shop by LeBron James Men's Exfoliating Face Wash 4-oz. for $6 + free shipping w/ Prime",
+      "title": "Apple AirPods Max 2 for $419 + free shipping",
       "retailer": "Amazon",
-      "previous_price_cents": 598,
-      "current_price_cents": null,
+      "previous_price_cents": null,
+      "current_price_cents": 41900,
       "rank": {
         "category": "other",
         "variant": null,
@@ -2084,46 +2032,20 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.dealnews.com/The-Shop-by-Le-Bron-James-Mens-Exfoliating-Face-Wash-4-oz-for-6-free-shipping-w-Prime/22412358.html?iref=rss",
-      "source_url": "https://www.dealnews.com/The-Shop-by-Le-Bron-James-Mens-Exfoliating-Face-Wash-4-oz-for-6-free-shipping-w-Prime/22412358.html?iref=rss",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "e342ff5f76bbb76965cd3172",
-      "types": [
-        "removed"
-      ],
-      "title": "Woot Black Friday Week Deals: Up to 78% off + free shipping w/ Prime",
-      "retailer": "Woot! An Amazon Company",
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.dealnews.com/Woot-Black-Friday-Week-Deals-Up-to-78-off-free-shipping-w-Prime/22411039.html?iref=rss",
-      "source_url": "https://www.dealnews.com/Woot-Black-Friday-Week-Deals-Up-to-78-off-free-shipping-w-Prime/22411039.html?iref=rss",
+      "url": "https://www.dealnews.com/products/Apple/Apple-Air-Pods-Max-2/498076.html?iref=rss",
+      "source_url": "https://www.dealnews.com/products/Apple/Apple-Air-Pods-Max-2/498076.html?iref=rss",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "e7e3f5594d94d34184fe692b",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "6-Foot Folding Picnic Table and Bench Set for $150 + free shipping",
       "retailer": "Amazon",
-      "previous_price_cents": null,
-      "current_price_cents": 14999,
+      "previous_price_cents": 14999,
+      "current_price_cents": null,
       "rank": {
         "category": "other",
         "variant": null,
@@ -2142,14 +2064,14 @@
       "link_type": "source"
     },
     {
-      "id": "e945a0d99c2efbdaaf4fbbe1",
+      "id": "ede51ccf1f6112a30d6f916d",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "Klein Tools Heavy-Duty Construction Jack for $70 + free shipping",
-      "retailer": "Lowe's",
-      "previous_price_cents": 7000,
-      "current_price_cents": null,
+      "title": "Osulloc 7.05-oz. Green Tea Milk Spread for $9.11 w/ S&S + free shipping w/ Prime",
+      "retailer": "Amazon",
+      "previous_price_cents": null,
+      "current_price_cents": 911,
       "rank": {
         "category": "other",
         "variant": null,
@@ -2162,20 +2084,20 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.dealnews.com/products/Klein-Tools/Klein-Tools-Heavy-Duty-Construction-Jack/560894.html?iref=rss",
-      "source_url": "https://www.dealnews.com/products/Klein-Tools/Klein-Tools-Heavy-Duty-Construction-Jack/560894.html?iref=rss",
+      "url": "https://www.dealnews.com/Osulloc-7-05-oz-Green-Tea-Milk-Spread-for-9-11-w-S-S-free-shipping-w-Prime/22411106.html?iref=rss",
+      "source_url": "https://www.dealnews.com/Osulloc-7-05-oz-Green-Tea-Milk-Spread-for-9-11-w-S-S-free-shipping-w-Prime/22411106.html?iref=rss",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "ea1d75c6a636a2ca9b67667e",
+      "id": "ee6363e37a169baad1a325b5",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "Hyper Tough 50-Foot String Work Light w/ 5 LED Heads for $70 + free shipping",
-      "retailer": "Walmart",
-      "previous_price_cents": 7000,
-      "current_price_cents": null,
+      "title": "Apple 11\" iPad Air M4 128GB WiFi (2026) for $649 + free shipping",
+      "retailer": "Amazon",
+      "previous_price_cents": null,
+      "current_price_cents": 64900,
       "rank": {
         "category": "other",
         "variant": null,
@@ -2188,72 +2110,20 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.dealnews.com/products/Hyper-Tough/Hyper-Tough-50-Foot-String-Work-Light-w-5-LED-Heads/560956.html?iref=rss",
-      "source_url": "https://www.dealnews.com/products/Hyper-Tough/Hyper-Tough-50-Foot-String-Work-Light-w-5-LED-Heads/560956.html?iref=rss",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "eb18954682ca43e7e650c805",
-      "types": [
-        "removed"
-      ],
-      "title": "FOGFLY 20\" Expandable Hardside Carry-On Spinner Luggage for $50 + free shipping w/ Prime",
-      "retailer": "Woot! An Amazon Company",
-      "previous_price_cents": 5000,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.dealnews.com/FOGFLY-20-Expandable-Hardside-Carry-On-Spinner-Luggage-for-50-free-shipping-w-Prime/22412485.html?iref=rss",
-      "source_url": "https://www.dealnews.com/FOGFLY-20-Expandable-Hardside-Carry-On-Spinner-Luggage-for-50-free-shipping-w-Prime/22412485.html?iref=rss",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "ecff5ed4439a9c69d0fa56c1",
-      "types": [
-        "removed"
-      ],
-      "title": "Hyper Tough 110-Piece Screwdriver Set w/ Storage Rack for $25 + free shipping w/ $35",
-      "retailer": "Walmart",
-      "previous_price_cents": 2500,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.dealnews.com/products/Hyper-Tough/Hyper-Tough-110-Piece-Screwdriver-Set-w-Storage-Rack/560951.html?iref=rss",
-      "source_url": "https://www.dealnews.com/products/Hyper-Tough/Hyper-Tough-110-Piece-Screwdriver-Set-w-Storage-Rack/560951.html?iref=rss",
+      "url": "https://www.dealnews.com/products/Apple/Apple-11-iPad-Air-M4-128-GB-Wi-Fi-2026/498550.html?iref=rss",
+      "source_url": "https://www.dealnews.com/products/Apple/Apple-11-iPad-Air-M4-128-GB-Wi-Fi-2026/498550.html?iref=rss",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "ef3994698a83e599418bd6a1",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "200W Portable Bluetooth Party Speaker for $248 + free shipping",
       "retailer": "Amazon",
-      "previous_price_cents": null,
-      "current_price_cents": 24804,
+      "previous_price_cents": 24804,
+      "current_price_cents": null,
       "rank": {
         "category": "other",
         "variant": null,
@@ -2272,14 +2142,14 @@
       "link_type": "source"
     },
     {
-      "id": "f0c449caf6c82898f1a4d0ec",
+      "id": "f1582c8925c9389a25950a48",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "Victoria La Calaca Cast Iron 12\" Skillet w/ Helper Handle for $24 + free shipping w/ $39",
-      "retailer": "Macy's",
-      "previous_price_cents": 2400,
-      "current_price_cents": null,
+      "title": "Tineco Floor One S7 Stretch Cordless Wet Dry Vacuum and Steam Mop for $389 + free shipping",
+      "retailer": "Amazon",
+      "previous_price_cents": null,
+      "current_price_cents": 38900,
       "rank": {
         "category": "other",
         "variant": null,
@@ -2292,20 +2162,20 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.dealnews.com/Victoria-La-Calaca-Cast-Iron-12-Skillet-w-Helper-Handle-for-24-free-shipping-w-39/22412722.html?iref=rss",
-      "source_url": "https://www.dealnews.com/Victoria-La-Calaca-Cast-Iron-12-Skillet-w-Helper-Handle-for-24-free-shipping-w-39/22412722.html?iref=rss",
+      "url": "https://www.dealnews.com/products/Tineco/Tineco-Floor-One-S7-Stretch-Cordless-Wet-Dry-Vacuum-and-Steam-Mop/560706.html?iref=rss",
+      "source_url": "https://www.dealnews.com/products/Tineco/Tineco-Floor-One-S7-Stretch-Cordless-Wet-Dry-Vacuum-and-Steam-Mop/560706.html?iref=rss",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "f189ff12893a7b107a99d650",
+      "id": "f2e063f09fcfe82891ba998c",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "Pure Living Interior Design 6-Foot Unlit Artificial Christmas Tree for $80 + free shipping",
+      "title": "Solar Electric Bug Zapper for $27 + free shipping w/ Prime",
       "retailer": "Amazon",
-      "previous_price_cents": 8000,
-      "current_price_cents": null,
+      "previous_price_cents": null,
+      "current_price_cents": 2719,
       "rank": {
         "category": "other",
         "variant": null,
@@ -2318,15 +2188,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.dealnews.com/Pure-Living-Interior-Design-6-Foot-Unlit-Artificial-Christmas-Tree-for-80-free-shipping/22412680.html?iref=rss",
-      "source_url": "https://www.dealnews.com/Pure-Living-Interior-Design-6-Foot-Unlit-Artificial-Christmas-Tree-for-80-free-shipping/22412680.html?iref=rss",
+      "url": "https://www.dealnews.com/products/Zechuan/Solar-Electric-Bug-Zapper/559281.html?iref=rss",
+      "source_url": "https://www.dealnews.com/products/Zechuan/Solar-Electric-Bug-Zapper/559281.html?iref=rss",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "f7cb979e77319baac548c7d3",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Rosewill Black Friday Deals at Amazon: Up to 55% off + free shipping w/ Prime",
       "retailer": "Amazon",
@@ -2352,7 +2222,7 @@
     {
       "id": "f832b3807fce90eb88b13fc4",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Oral-B Black Friday Deals at Amazon: Up to 48% off + free shipping w/ Prime",
       "retailer": "Amazon",
@@ -2376,14 +2246,14 @@
       "link_type": "source"
     },
     {
-      "id": "fbc642f2aaa952d3df138dc2",
+      "id": "fd17de17fc20d860248e57f8",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "Yankee Candle Mistletoe Scented 22-oz. Large Jar Candle for $15 + free shipping w/ Prime",
+      "title": "Medicube Skincare Deals at Amazon for From $10 + free shipping w/ Prime",
       "retailer": "Amazon",
-      "previous_price_cents": 1500,
-      "current_price_cents": null,
+      "previous_price_cents": null,
+      "current_price_cents": 1000,
       "rank": {
         "category": "other",
         "variant": null,
@@ -2396,20 +2266,20 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.dealnews.com/products/Yankee-Candle/Yankee-Candle-Mistletoe-Scented-22-oz-Large-Jar-Candle/560966.html?iref=rss",
-      "source_url": "https://www.dealnews.com/products/Yankee-Candle/Yankee-Candle-Mistletoe-Scented-22-oz-Large-Jar-Candle/560966.html?iref=rss",
+      "url": "https://www.dealnews.com/Medicube-Skincare-Deals-at-Amazon-for-From-10-free-shipping-w-Prime/22415746.html?iref=rss",
+      "source_url": "https://www.dealnews.com/Medicube-Skincare-Deals-at-Amazon-for-From-10-free-shipping-w-Prime/22415746.html?iref=rss",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "fd6622f6f9e6b4aa3c726f83",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Insta360 X4 Air Starter Bundle 8K 360 Camera for $330 + free shipping",
       "retailer": "Amazon",
-      "previous_price_cents": null,
-      "current_price_cents": 33000,
+      "previous_price_cents": 33000,
+      "current_price_cents": null,
       "rank": {
         "category": "other",
         "variant": null,
@@ -2424,32 +2294,6 @@
       },
       "url": "https://www.dealnews.com/Insta360-X4-Air-Starter-Bundle-8-K-360-Camera-for-330-free-shipping/22415433.html?iref=rss",
       "source_url": "https://www.dealnews.com/Insta360-X4-Air-Starter-Bundle-8-K-360-Camera-for-330-free-shipping/22415433.html?iref=rss",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "fe66b1e846c5d1416f9c9cf9",
-      "types": [
-        "new"
-      ],
-      "title": "2,000W Vertical Axis Wind Turbine Generator for $160 + free shipping",
-      "retailer": "AliExpress",
-      "previous_price_cents": null,
-      "current_price_cents": 16000,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.dealnews.com/2-000-W-Vertical-Axis-Wind-Turbine-Generator-for-160-free-shipping/22414649.html?iref=rss",
-      "source_url": "https://www.dealnews.com/2-000-W-Vertical-Axis-Wind-Turbine-Generator-for-160-free-shipping/22414649.html?iref=rss",
       "retailer_url": null,
       "link_type": "source"
     }

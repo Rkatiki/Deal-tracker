@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-20T17:21:23.145738+00:00",
+  "retrieved_at": "2026-11-21T00:19:46.448904+00:00",
   "source": {
     "id": "cnet",
     "name": "CNET Deals",
@@ -10,37 +10,11 @@
   "baseline": false,
   "events": [
     {
-      "id": "a475b1dc4139aa5ce908230a",
-      "types": [
-        "removed"
-      ],
-      "title": "Snap’s Specs AR Glasses Are Coming, and You Can Preorder Them Today",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.cnet.com/deals/snap-specs-ar-glasses-preorder/",
-      "source_url": "https://www.cnet.com/deals/snap-specs-ar-glasses-preorder/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "df8a4bc691edc78e0fc0fa34",
+      "id": "0ea1c1d445dcf9d1012a23f6",
       "types": [
         "new"
       ],
-      "title": "Black Friday Deal Hits Nintendo Switch 2. Save on the Console Today",
+      "title": "Get an Apple Watch and AirPods on Verizon When You Buy an iPhone 18 Pro This Black Friday",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -56,43 +30,43 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.cnet.com/deals/nintendo-switch-2-black-friday-deal/",
-      "source_url": "https://www.cnet.com/deals/nintendo-switch-2-black-friday-deal/",
+      "url": "https://www.cnet.com/deals/verizon-iphone-18-pro-black-friday-deal/",
+      "source_url": "https://www.cnet.com/deals/verizon-iphone-18-pro-black-friday-deal/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "f52f3a7133396e7827172b1c",
+      "id": "4a5df9441d1ec64cf5ebd673",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "Save Up to 47% Off Arlo Smart Home Security Cameras and Doorbells With These Black Friday Deals",
+      "title": "Apple TV’s Black Friday Deal Is Here: Score 6 Months for Over 50% Off",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
       "rank": {
-        "category": "other",
+        "category": "tv",
         "variant": null,
         "status": "price_unavailable",
         "score": 0,
-        "max_usd": null,
+        "max_usd": 500,
         "preferred_usd": null,
         "within_budget": null,
         "comparisons": {},
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.cnet.com/deals/arlo-cameras-and-doorbells-black-friday-deals/",
-      "source_url": "https://www.cnet.com/deals/arlo-cameras-and-doorbells-black-friday-deals/",
+      "url": "https://www.cnet.com/deals/apple-tv-black-friday-deal/",
+      "source_url": "https://www.cnet.com/deals/apple-tv-black-friday-deal/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "fa6c4f60ea6da8734eb3ae87",
+      "id": "83695b188b8aa98ae56c502e",
       "types": [
         "removed"
       ],
-      "title": "Amazon Deals of the Day: Get Ready for GTA 6 With a New Controller That’s Almost 30% Off Right Before Black Friday",
+      "title": "Amazon Deals of the Day: Don’t Wait Until Black Friday to Score $100 Off the A17 iPad Mini",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -108,8 +82,8 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.cnet.com/deals/amazon-deals-of-the-day-2026-11-16/",
-      "source_url": "https://www.cnet.com/deals/amazon-deals-of-the-day-2026-11-16/",
+      "url": "https://www.cnet.com/deals/amazon-deals-of-the-day-2026-11-17/",
+      "source_url": "https://www.cnet.com/deals/amazon-deals-of-the-day-2026-11-17/",
       "retailer_url": null,
       "link_type": "source"
     }

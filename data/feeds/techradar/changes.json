@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-20T17:21:23.145738+00:00",
+  "retrieved_at": "2026-11-21T00:19:46.448904+00:00",
   "source": {
     "id": "techradar",
     "name": "TechRadar",
@@ -11,9 +11,35 @@
   "baseline": false,
   "events": [
     {
-      "id": "0379dc8ecbbdb0fe9156b3be",
+      "id": "033699da854c9b583ca8fbce",
       "types": [
         "new"
+      ],
+      "title": "This Dell 14 Plus laptop deal is our recommended pick for professionals and students",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.techradar.com/pro/this-dell-14-plus-laptop-deal-is-our-recommended-pick-for-professionals-and-students",
+      "source_url": "https://www.techradar.com/pro/this-dell-14-plus-laptop-deal-is-our-recommended-pick-for-professionals-and-students",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "0379dc8ecbbdb0fe9156b3be",
+      "types": [
+        "removed"
       ],
       "title": "The best Mac accessories for Black Friday to kit out your new MacBook",
       "retailer": null,
@@ -37,35 +63,9 @@
       "link_type": "source"
     },
     {
-      "id": "0686dfbf61d9ae4afe16f981",
-      "types": [
-        "new"
-      ],
-      "title": "I'd grab this 34-inch Acer Nitro curved ultrawide at $249.99, an easy way into ultrawide gaming",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.techradar.com/pro/id-grab-this-34-inch-acer-nitro-curved-ultrawide-at-usd249-99-an-easy-way-into-ultrawide-gaming",
-      "source_url": "https://www.techradar.com/pro/id-grab-this-34-inch-acer-nitro-curved-ultrawide-at-usd249-99-an-easy-way-into-ultrawide-gaming",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
       "id": "08b5e5e6c65b76a196fcbea7",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "3 things to know before you buy an Apple Watch on Black Friday",
       "retailer": null,
@@ -89,11 +89,11 @@
       "link_type": "source"
     },
     {
-      "id": "098fb24729bd2263abe89fae",
+      "id": "0d25089d6105e487f70df7df",
       "types": [
         "new"
       ],
-      "title": "ExpressVPN undercuts its own Black Friday deal with its low cost VPN plan now cheaper and better value than NordVPN, with secure AI, email aliasing, ad, tracker and malware blocking all for $2.79",
+      "title": "This 2kWh EcoFlow Delta 3 Max power station is $345 off at Amazon, and it can run most of your home essentials",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -109,43 +109,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.techradar.com/vpn/vpn-services/expressvpn-undercuts-its-own-black-friday-deal-with-its-low-cost-vpn-plan-now-cheaper-and-better-value-than-nordvpn-with-secure-ai-email-aliasing-ad-tracker-and-malware-blocking-all-for-usd2-79",
-      "source_url": "https://www.techradar.com/vpn/vpn-services/expressvpn-undercuts-its-own-black-friday-deal-with-its-low-cost-vpn-plan-now-cheaper-and-better-value-than-nordvpn-with-secure-ai-email-aliasing-ad-tracker-and-malware-blocking-all-for-usd2-79",
+      "url": "https://www.techradar.com/pro/this-2kwh-ecoflow-delta-3-max-power-station-is-usd345-off-at-amazon-and-it-can-run-most-of-your-home-essentials",
+      "source_url": "https://www.techradar.com/pro/this-2kwh-ecoflow-delta-3-max-power-station-is-usd345-off-at-amazon-and-it-can-run-most-of-your-home-essentials",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "24f97c09f3cdc5f774f0afbd",
-      "types": [
-        "removed"
-      ],
-      "title": "Ugreen's NASync DXP4800GT four-bay NAS gets 28% off for Black Friday",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.techradar.com/pro/the-best-value-4-bay-nas-with-10gbe-networking-weve-seen-yet-the-ugreen-nasync-dxp4800gt-earned-our-five-star-rating-and-its-over-usd200-off-for-black-friday",
-      "source_url": "https://www.techradar.com/pro/the-best-value-4-bay-nas-with-10gbe-networking-weve-seen-yet-the-ugreen-nasync-dxp4800gt-earned-our-five-star-rating-and-its-over-usd200-off-for-black-friday",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "34706145d89b1d871e8d1488",
+      "id": "1a209d7f2140dc43c4378ff2",
       "types": [
         "new"
       ],
-      "title": "CyberGhost's latest deal drops price to $1.99 per month — but it's not the $2 VPN I'd pick up this Black Friday",
+      "title": "This 16-inch HP OmniBook X Flip with an OLED touchscreen and Intel's latest Core Ultra 7 is $430 off at Best Buy",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -161,43 +135,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.techradar.com/vpn/vpn-services/cyberghosts-latest-deal-drops-price-to-usd1-99-per-month-but-its-not-the-usd2-vpn-id-pick-up-this-black-friday",
-      "source_url": "https://www.techradar.com/vpn/vpn-services/cyberghosts-latest-deal-drops-price-to-usd1-99-per-month-but-its-not-the-usd2-vpn-id-pick-up-this-black-friday",
+      "url": "https://www.techradar.com/pro/this-16-inch-hp-omnibook-x-flip-with-an-oled-touchscreen-and-intels-latest-core-ultra-7-is-usd430-off-at-best-buy",
+      "source_url": "https://www.techradar.com/pro/this-16-inch-hp-omnibook-x-flip-with-an-oled-touchscreen-and-intels-latest-core-ultra-7-is-usd430-off-at-best-buy",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "4a4933baef5f7387a948fc6b",
-      "types": [
-        "removed"
-      ],
-      "title": "Boulies EP600 ergonomic office chair deal drops for Black Friday — and it's one of the best mid-range picks we've ever tested",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.techradar.com/pro/boulies-ep600-ergonomic-office-chair-deal-drops-for-black-friday-and-its-one-of-the-best-mid-range-picks-weve-ever-tested",
-      "source_url": "https://www.techradar.com/pro/boulies-ep600-ergonomic-office-chair-deal-drops-for-black-friday-and-its-one-of-the-best-mid-range-picks-weve-ever-tested",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "5620ffb6aefa2f6985754337",
+      "id": "2e4ad3d6236f66f4807032ce",
       "types": [
         "new"
       ],
-      "title": "We said “I can't recommend this Mac enough” about the Mac mini M4, and it's $150 off at Best Buy",
+      "title": "GMKtec K8 Plus mini PC is one of our favorite systems to test — and it's now $730 at Amazon",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -213,17 +161,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.techradar.com/pro/we-said-i-cant-recommend-this-mac-enough-about-the-mac-mini-m4-and-its-usd150-off-at-best-buy",
-      "source_url": "https://www.techradar.com/pro/we-said-i-cant-recommend-this-mac-enough-about-the-mac-mini-m4-and-its-usd150-off-at-best-buy",
+      "url": "https://www.techradar.com/pro/gmktec-k8-plus-mini-pc-is-one-of-our-favorite-systems-to-test-and-its-now-usd730-at-amazon",
+      "source_url": "https://www.techradar.com/pro/gmktec-k8-plus-mini-pc-is-one-of-our-favorite-systems-to-test-and-its-now-usd730-at-amazon",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "6e315363baac8a1d2ea0aa08",
+      "id": "2f0e5471872b67518622b3b9",
       "types": [
         "new"
       ],
-      "title": "We said “at this price it’s hard to be critical” about the KYY K3 portable monitor, and it just dropped to $55.99",
+      "title": "This Dell Slim Desktop with a 20-core Intel Core Ultra 7 is $520 off at Best Buy, and it's cheaper than buying from Dell",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -239,17 +187,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.techradar.com/pro/we-said-at-this-price-its-hard-to-be-critical-about-the-kyy-k3-portable-monitor-and-it-just-dropped-to-usd55-99",
-      "source_url": "https://www.techradar.com/pro/we-said-at-this-price-its-hard-to-be-critical-about-the-kyy-k3-portable-monitor-and-it-just-dropped-to-usd55-99",
+      "url": "https://www.techradar.com/pro/this-dell-slim-desktop-with-a-20-core-intel-core-ultra-7-is-usd520-off-at-best-buy-and-its-cheaper-than-buying-from-dell",
+      "source_url": "https://www.techradar.com/pro/this-dell-slim-desktop-with-a-20-core-intel-core-ultra-7-is-usd520-off-at-best-buy-and-its-cheaper-than-buying-from-dell",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "6f07fbeee18b7ceb0e6c78fc",
+      "id": "36ee121fa58ffc536f5e6103",
       "types": [
         "new"
       ],
-      "title": "Tom's Guide called the eero Pro 7 “a bargain mesh kit that punches above its weight class”, and the three-pack is $200 off",
+      "title": "“The best power station upgrade you shouldn't ignore” is on sale at Amazon",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -265,17 +213,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.techradar.com/pro/toms-guide-called-the-eero-pro-7-a-bargain-mesh-kit-that-punches-above-its-weight-class-and-the-three-pack-is-usd200-off",
-      "source_url": "https://www.techradar.com/pro/toms-guide-called-the-eero-pro-7-a-bargain-mesh-kit-that-punches-above-its-weight-class-and-the-three-pack-is-usd200-off",
+      "url": "https://www.techradar.com/pro/the-best-power-station-upgrade-you-shouldnt-ignore-is-on-sale-at-amazon",
+      "source_url": "https://www.techradar.com/pro/the-best-power-station-upgrade-you-shouldnt-ignore-is-on-sale-at-amazon",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "6fcb488c5175d0584dda9cc7",
+      "id": "3fe1644266cfc1141f5fbb4a",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "Seagate’s shuckable 20TB Expansion desktop hard drive drops to $500 ahead of Black Friday",
+      "title": "This rugged 2TB SanDisk Extreme portable SSD with 2,000MB/s speeds is $230 off at Best Buy",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -291,15 +239,41 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.techradar.com/pro/seagates-shuckable-20tb-expansion-desktop-hard-drive-drops-to-usd500-ahead-of-black-friday",
-      "source_url": "https://www.techradar.com/pro/seagates-shuckable-20tb-expansion-desktop-hard-drive-drops-to-usd500-ahead-of-black-friday",
+      "url": "https://www.techradar.com/pro/this-rugged-2tb-sandisk-extreme-portable-ssd-with-2-000mb-s-speeds-is-usd230-off-at-best-buy",
+      "source_url": "https://www.techradar.com/pro/this-rugged-2tb-sandisk-extreme-portable-ssd-with-2-000mb-s-speeds-is-usd230-off-at-best-buy",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "6036e77dbbc88bd88174bd3f",
+      "types": [
+        "new"
+      ],
+      "title": "This Dell 27-inch 4K monitor with USB-C charging is $249.99, and it's the home office upgrade I'd make",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.techradar.com/pro/this-dell-27-inch-4k-monitor-with-usb-c-charging-is-usd249-99-and-its-the-home-office-upgrade-id-make",
+      "source_url": "https://www.techradar.com/pro/this-dell-27-inch-4k-monitor-with-usb-c-charging-is-usd249-99-and-its-the-home-office-upgrade-id-make",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "710eabf942e85739bba3c46e",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "The best Black Friday deals 2026 — LG OLED TVs, AirPods, Galaxy S26 Ultra, Sony headphones, Garmin smartwatches, and more",
       "retailer": null,
@@ -323,9 +297,35 @@
       "link_type": "source"
     },
     {
-      "id": "7f478143fc5dd289bb2b518d",
+      "id": "729c55d996a831b44e083186",
       "types": [
         "new"
+      ],
+      "title": "I'd buy this 14-inch HP OmniBook 3 with an OLED screen for $499.99, a rare price for a Snapdragon laptop this nice",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.techradar.com/pro/id-buy-this-14-inch-hp-omnibook-3-with-an-oled-screen-for-usd499-99-a-rare-price-for-a-snapdragon-laptop-this-nice",
+      "source_url": "https://www.techradar.com/pro/id-buy-this-14-inch-hp-omnibook-3-with-an-oled-screen-for-usd499-99-a-rare-price-for-a-snapdragon-laptop-this-nice",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "7f478143fc5dd289bb2b518d",
+      "types": [
+        "removed"
       ],
       "title": "I've been testing phones all year, and these are some of the best deals for the holidays",
       "retailer": null,
@@ -349,37 +349,11 @@
       "link_type": "source"
     },
     {
-      "id": "93b0da94f6364a50dd7b6a9f",
-      "types": [
-        "removed"
-      ],
-      "title": "Black Friday TV deals 2026 — $1,350 off LG C6 OLED, big savings on Sony, Samsung, TCL and more",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "tv",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": 500,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.techradar.com/televisions/black-friday-tv-deals-2026-smart-tvs-from-usd69-usd1-350-off-lg-c6-oled-big-savings-on-sony-samsung-tcl-mini-led-and-more",
-      "source_url": "https://www.techradar.com/televisions/black-friday-tv-deals-2026-smart-tvs-from-usd69-usd1-350-off-lg-c6-oled-big-savings-on-sony-samsung-tcl-mini-led-and-more",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "9955b2d7bf3ca90e2782d3dd",
+      "id": "803a3811f1c021a5be4c86e4",
       "types": [
         "new"
       ],
-      "title": "Apple AirPods Black Friday sales: early deals on AirPods Pro 3, AirPods Max 2, AirPods 5",
+      "title": "Samsung's 9100 Pro 2TB SSD is 'the best there is' based on our tests — now it's at the lowest price I've seen this year for Black Friday",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -395,95 +369,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.techradar.com/audio/earbuds-airpods/apple-airpods-black-friday-sales-2026-november-20",
-      "source_url": "https://www.techradar.com/audio/earbuds-airpods/apple-airpods-black-friday-sales-2026-november-20",
+      "url": "https://www.techradar.com/pro/samsungs-9100-pro-2tb-ssd-is-the-best-there-is-based-on-our-tests-now-its-at-the-lowest-price-ive-seen-this-year-for-black-friday",
+      "source_url": "https://www.techradar.com/pro/samsungs-9100-pro-2tb-ssd-is-the-best-there-is-based-on-our-tests-now-its-at-the-lowest-price-ive-seen-this-year-for-black-friday",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "a51a26f27bdd9d7692faac95",
-      "types": [
-        "removed"
-      ],
-      "title": "The AMD Ryzen 7 5800X3D CPU comes with a free 850W PSU thanks to Newegg’s Black Friday sale",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.techradar.com/pro/the-amd-ryzen-7-5800x3d-cpu-comes-with-a-free-850w-psu-thanks-to-neweggs-black-friday-sale",
-      "source_url": "https://www.techradar.com/pro/the-amd-ryzen-7-5800x3d-cpu-comes-with-a-free-850w-psu-thanks-to-neweggs-black-friday-sale",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "a5618aa18e9f2da0ae4e36be",
-      "types": [
-        "removed"
-      ],
-      "title": "The best Paramount+ Black Friday streaming deal is back",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.techradar.com/seasonal-sales/wondering-if-there-will-be-a-paramount-black-friday-streaming-deal-its-lowest-price-is-back-and-better-than-ever",
-      "source_url": "https://www.techradar.com/seasonal-sales/wondering-if-there-will-be-a-paramount-black-friday-streaming-deal-its-lowest-price-is-back-and-better-than-ever",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "ad992f921dad7d14b228e316",
-      "types": [
-        "removed"
-      ],
-      "title": "Geekom A9 Max mini PC deal: Black Friday sale drops our favorite Mac mini alternative to $1269",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.techradar.com/pro/geekom-a9-max-mini-pc-deal-black-friday-sale-drops-our-favorite-mac-mini-alternative-to-usd1269",
-      "source_url": "https://www.techradar.com/pro/geekom-a9-max-mini-pc-deal-black-friday-sale-drops-our-favorite-mac-mini-alternative-to-usd1269",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "aeeba02e5a2c49b06cbfe565",
+      "id": "8b512a77e2186a57f1dfe292",
       "types": [
         "new"
       ],
-      "title": "Private Internet Access has dropped an improved Black Friday deal — $1.89 per month for a torrenting VPN with unlimited simultaneous connections",
+      "title": "I'd upgrade to this 27-inch Samsung QD-OLED gaming monitor now that it's $319.99 at Best Buy",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -499,17 +395,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.techradar.com/vpn/vpn-services/private-internet-access-has-dropped-an-improved-black-friday-deal-usd1-89-per-month-for-a-torrenting-vpn-with-unlimited-simultaneous-connections",
-      "source_url": "https://www.techradar.com/vpn/vpn-services/private-internet-access-has-dropped-an-improved-black-friday-deal-usd1-89-per-month-for-a-torrenting-vpn-with-unlimited-simultaneous-connections",
+      "url": "https://www.techradar.com/pro/id-upgrade-to-this-27-inch-samsung-qd-oled-gaming-monitor-now-that-its-usd319-99-at-best-buy",
+      "source_url": "https://www.techradar.com/pro/id-upgrade-to-this-27-inch-samsung-qd-oled-gaming-monitor-now-that-its-usd319-99-at-best-buy",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "b34f2068e8413dbbaf2ebc30",
+      "id": "96d255c3540dfd7389fc3a69",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "FlexiSpot's C7 ergonomic office chair gets a $130 discount in the Black Friday sale",
+      "title": "The best early Black Friday headphones deals: Sony, AirPods and more",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -525,15 +421,67 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.techradar.com/pro/flexispots-c7-ergonomic-office-chair-gets-a-usd130-discount-in-the-black-friday-sale",
-      "source_url": "https://www.techradar.com/pro/flexispots-c7-ergonomic-office-chair-gets-a-usd130-discount-in-the-black-friday-sale",
+      "url": "https://www.techradar.com/audio/wireless-headphones/the-best-early-black-friday-headphone-deals-2026-new-price-cuts-on-noise-canceling-cans-from-apple-bose-sony-and-more",
+      "source_url": "https://www.techradar.com/audio/wireless-headphones/the-best-early-black-friday-headphone-deals-2026-new-price-cuts-on-noise-canceling-cans-from-apple-bose-sony-and-more",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "a678110a2f07feef0d9e2dd2",
+      "types": [
+        "new"
+      ],
+      "title": "Autodesk Fusion's four-for-three deal saves businesses 25% this Black Friday",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.techradar.com/pro/autodesk-fusions-25-percent-off-black-friday-subscription-deal-gives-businesses-four-licences-for-the-price-of-three",
+      "source_url": "https://www.techradar.com/pro/autodesk-fusions-25-percent-off-black-friday-subscription-deal-gives-businesses-four-licences-for-the-price-of-three",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "a9a8e94a01e0b23038847d11",
+      "types": [
+        "new"
+      ],
+      "title": "We called Samsung's 9100 Pro “the best there is” for pros, and the 2TB model is $280 off at Best Buy",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.techradar.com/pro/we-called-samsungs-9100-pro-the-best-there-is-for-pros-and-the-2tb-model-is-usd280-off-at-best-buy",
+      "source_url": "https://www.techradar.com/pro/we-called-samsungs-9100-pro-the-best-there-is-for-pros-and-the-2tb-model-is-usd280-off-at-best-buy",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "b7b009ecd4c026549f0098e1",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Save 78% on NordVPN this Black Friday and stream the Nations Championship, Six Nations & Rugby World Cup from anywhere",
       "retailer": null,
@@ -557,11 +505,11 @@
       "link_type": "source"
     },
     {
-      "id": "c928d8755707a9fb6cfe37b3",
+      "id": "cc560b09942398eacd90700a",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "Sansui's 32-inch 240Hz curved gaming monitor is just $169.99 at Amazon",
+      "title": "The best early Black Friday earbuds: Sony, Bose, AirPods and more",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -577,15 +525,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.techradar.com/pro/sansuis-32-inch-curved-creative-monitor-packs-a-240hz-refresh-rate-and-freesync-support-for-just-usd259-99",
-      "source_url": "https://www.techradar.com/pro/sansuis-32-inch-curved-creative-monitor-packs-a-240hz-refresh-rate-and-freesync-support-for-just-usd259-99",
+      "url": "https://www.techradar.com/audio/wireless-headphones/the-best-early-black-friday-earbuds-deals-2026-top-deals-on-sony-nothing-bose-noise-cancelling-buds-open-earbuds-and-more",
+      "source_url": "https://www.techradar.com/audio/wireless-headphones/the-best-early-black-friday-earbuds-deals-2026-top-deals-on-sony-nothing-bose-noise-cancelling-buds-open-earbuds-and-more",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "ceb8e930fcf8b01351b30b7f",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "The 4-star Geekom IT13 Max mini PC gets a Black Friday price cut — and it proved perfect for the office",
       "retailer": null,
@@ -611,7 +559,7 @@
     {
       "id": "cf909628095f517addb5f79d",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Black Friday streaming deals live: Apple TV, Paramount+, Crunchyroll, and more have up to 75% off",
       "retailer": null,
@@ -635,11 +583,11 @@
       "link_type": "source"
     },
     {
-      "id": "dc70ecced8ca0c7fabf37d74",
+      "id": "d8bfa7d3ac567bdc5e52bd39",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "NordPass Premium is 55% off this Black Friday with our money-off code",
+      "title": "I'd pick this LG 240Hz glossy OLED gaming monitor at $349.99, a price that undercuts most 27-inch OLEDs",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -655,15 +603,41 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.techradar.com/pro/nordpass-premium-is-52-percent-off-for-black-friday-pay-just-usd40-16-with-our-exclusive-code-for-two-years-of-password-protection-plus-four-extra-months-for-free",
-      "source_url": "https://www.techradar.com/pro/nordpass-premium-is-52-percent-off-for-black-friday-pay-just-usd40-16-with-our-exclusive-code-for-two-years-of-password-protection-plus-four-extra-months-for-free",
+      "url": "https://www.techradar.com/pro/id-pick-this-lg-240hz-glossy-oled-gaming-monitor-at-usd349-99-a-price-that-undercuts-most-27-inch-oleds",
+      "source_url": "https://www.techradar.com/pro/id-pick-this-lg-240hz-glossy-oled-gaming-monitor-at-usd349-99-a-price-that-undercuts-most-27-inch-oleds",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "ddb0a5e44afd5e1df02d5ecb",
+      "types": [
+        "new"
+      ],
+      "title": "Tom's Guide said the base Lenovo Yoga Mini “handled everything I threw at it and more”, and this Mac mini rival is $460 off at Best Buy",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.techradar.com/pro/toms-guide-said-the-base-lenovo-yoga-mini-handled-everything-i-threw-at-it-and-more-and-this-mac-mini-rival-is-usd460-off-at-best-buy",
+      "source_url": "https://www.techradar.com/pro/toms-guide-said-the-base-lenovo-yoga-mini-handled-everything-i-threw-at-it-and-more-and-this-mac-mini-rival-is-usd460-off-at-best-buy",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "e8816aa643a460623adadf1c",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "50+ best Black Friday deals 2026 in the UK — GTA 6, Dyson vacuums, Lego, LG OLED TVs, Switch 2, Shokz OpenRun, Sony headphones, and more",
       "retailer": null,
@@ -687,11 +661,11 @@
       "link_type": "source"
     },
     {
-      "id": "edc242c4c478755a07f1220e",
+      "id": "e9d10713d5eb8264a739017e",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "Lenovo's business-friendly ThinkPad T14 Gen 7 is $600 off in the Black Friday laptop sale",
+      "title": "This Anker SOLIX C1000 Gen 2 power station recharges in 49 minutes, and it's $330 off at Amazon",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -707,15 +681,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.techradar.com/pro/lenovos-business-friendly-thinkpad-t14-gen-7-is-usd600-off-in-the-black-friday-laptop-sale",
-      "source_url": "https://www.techradar.com/pro/lenovos-business-friendly-thinkpad-t14-gen-7-is-usd600-off-in-the-black-friday-laptop-sale",
+      "url": "https://www.techradar.com/pro/this-anker-solix-c1000-gen-2-power-station-recharges-in-49-minutes-and-its-usd330-off-at-amazon",
+      "source_url": "https://www.techradar.com/pro/this-anker-solix-c1000-gen-2-power-station-recharges-in-49-minutes-and-its-usd330-off-at-amazon",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "ee543bdb9423877dff1be2dc",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Walmart's record-low Samsung Galaxy S26 Ultra deal looks great, but I'd avoid it for one key reason",
       "retailer": null,
@@ -741,7 +715,7 @@
     {
       "id": "ef0c82ff363d946ec86db9a9",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Walmart’s $130 3:2 monitor packs 18.5% more pixels than standard 4K",
       "retailer": null,
@@ -765,11 +739,11 @@
       "link_type": "source"
     },
     {
-      "id": "f85652d020443e11d993e324",
+      "id": "fb12a4c7afe91d3f3530f2a6",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "All the best Black Friday deals at Amazon UK — 35 top offers on Switch 2, Kindles, Lego, Sony, Philips, Ninja, and more",
+      "title": "This 49-inch Samsung Odyssey OLED G9 is $750 off at Best Buy, and it's the glare-free model I'd want",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -785,34 +759,8 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.techradar.com/live/news/amazon-uk-black-friday-deals-2026-november-19",
-      "source_url": "https://www.techradar.com/live/news/amazon-uk-black-friday-deals-2026-november-19",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "fc7c4ce41800e78329d76ecb",
-      "types": [
-        "removed"
-      ],
-      "title": "Hackers steal over 1 million credit card details across 20 countries — attackers hit old Windows bug to infect over 700 point-of-sale terminals",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.techradar.com/pro/security/hackers-steal-over-1-million-credit-card-details-across-20-countries-attackers-hit-old-windows-bug-to-infect-over-700-point-of-sale-terminals",
-      "source_url": "https://www.techradar.com/pro/security/hackers-steal-over-1-million-credit-card-details-across-20-countries-attackers-hit-old-windows-bug-to-infect-over-700-point-of-sale-terminals",
+      "url": "https://www.techradar.com/pro/this-49-inch-samsung-odyssey-oled-g9-is-usd750-off-at-best-buy-and-its-the-glare-free-model-id-want",
+      "source_url": "https://www.techradar.com/pro/this-49-inch-samsung-odyssey-oled-g9-is-usd750-off-at-best-buy-and-its-the-glare-free-model-id-want",
       "retailer_url": null,
       "link_type": "source"
     }

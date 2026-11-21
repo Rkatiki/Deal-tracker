@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "checked_at": "2026-11-20T17:21:23.145738+00:00",
+  "checked_at": "2026-11-21T00:19:46.448904+00:00",
   "sources": [
     {
       "id": "dealnews",
@@ -8,9 +8,9 @@
       "url": "https://www.dealnews.com/?rss=1&sort=time",
       "snapshot": "dealnews/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-20T17:21:23.145738+00:00",
+      "last_success_at": "2026-11-21T00:19:46.448904+00:00",
       "offer_count": 48,
-      "candidate_count": 1
+      "candidate_count": 0
     },
     {
       "id": "slickdeals",
@@ -18,7 +18,7 @@
       "url": "https://slickdeals.net/newsearch.php?mode=frontpage&searcharea=deals&searchin=first&rss=1",
       "snapshot": "slickdeals/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-20T17:21:23.145738+00:00",
+      "last_success_at": "2026-11-21T00:19:46.448904+00:00",
       "offer_count": 25,
       "candidate_count": 0
     },
@@ -27,9 +27,8 @@
       "name": "Ben's Bargains",
       "url": "https://bensbargains.com/rss/",
       "snapshot": "bens-bargains/latest.json",
-      "status": "failed",
-      "error": "HTTP 403 (curl exit 22)",
-      "last_success_at": "2026-11-20T07:49:24.955736+00:00",
+      "status": "ok",
+      "last_success_at": "2026-11-21T00:19:46.448904+00:00",
       "offer_count": 20,
       "candidate_count": 0
     },
@@ -39,7 +38,7 @@
       "url": "https://forums.woot.com/c/deal-chatter/daily-deal/10.rss",
       "snapshot": "woot-daily/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-20T17:21:23.145738+00:00",
+      "last_success_at": "2026-11-21T00:19:46.448904+00:00",
       "offer_count": 21,
       "candidate_count": 0
     },
@@ -49,7 +48,7 @@
       "url": "https://9to5toys.com/feed/",
       "snapshot": "9to5toys/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-20T17:21:23.145738+00:00",
+      "last_success_at": "2026-11-21T00:19:46.448904+00:00",
       "offer_count": 50,
       "candidate_count": 0
     },
@@ -59,7 +58,7 @@
       "url": "https://9to5mac.com/guides/deals/feed/",
       "snapshot": "9to5mac/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-20T17:21:23.145738+00:00",
+      "last_success_at": "2026-11-21T00:19:46.448904+00:00",
       "offer_count": 26,
       "candidate_count": 0
     },
@@ -69,7 +68,7 @@
       "url": "https://www.androidauthority.com/deals/feed/",
       "snapshot": "android-authority/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-20T17:21:23.145738+00:00",
+      "last_success_at": "2026-11-21T00:19:46.448904+00:00",
       "offer_count": 80,
       "candidate_count": 0
     },
@@ -79,7 +78,7 @@
       "url": "https://feeds.macrumors.com/MacRumors-Deals",
       "snapshot": "macrumors/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-20T17:21:23.145738+00:00",
+      "last_success_at": "2026-11-21T00:19:46.448904+00:00",
       "offer_count": 20,
       "candidate_count": 0
     },
@@ -89,8 +88,8 @@
       "url": "https://www.cnet.com/rss/deals/",
       "snapshot": "cnet/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-20T17:21:23.145738+00:00",
-      "offer_count": 14,
+      "last_success_at": "2026-11-21T00:19:46.448904+00:00",
+      "offer_count": 15,
       "candidate_count": 0
     },
     {
@@ -99,8 +98,8 @@
       "url": "https://www.wired.com/feed/tag/deals/latest/rss",
       "snapshot": "wired/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-20T17:21:23.145738+00:00",
-      "offer_count": 42,
+      "last_success_at": "2026-11-21T00:19:46.448904+00:00",
+      "offer_count": 41,
       "candidate_count": 0
     },
     {
@@ -109,8 +108,8 @@
       "url": "https://www.tomsguide.com/feeds.xml",
       "snapshot": "toms-guide/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-20T17:21:23.145738+00:00",
-      "offer_count": 24,
+      "last_success_at": "2026-11-21T00:19:46.448904+00:00",
+      "offer_count": 19,
       "candidate_count": 0
     },
     {
@@ -119,8 +118,8 @@
       "url": "https://www.techradar.com/feeds.xml",
       "snapshot": "techradar/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-20T17:21:23.145738+00:00",
-      "offer_count": 18,
+      "last_success_at": "2026-11-21T00:19:46.448904+00:00",
+      "offer_count": 27,
       "candidate_count": 0
     },
     {
@@ -129,8 +128,8 @@
       "url": "https://www.tomshardware.com/feeds.xml",
       "snapshot": "toms-hardware/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-20T17:21:23.145738+00:00",
-      "offer_count": 13,
+      "last_success_at": "2026-11-21T00:19:46.448904+00:00",
+      "offer_count": 12,
       "candidate_count": 0
     },
     {
@@ -139,7 +138,7 @@
       "url": "https://www.windowscentral.com/feeds.xml",
       "snapshot": "windows-central/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-20T17:21:23.145738+00:00",
+      "last_success_at": "2026-11-21T00:19:46.448904+00:00",
       "offer_count": 12,
       "candidate_count": 0
     },
@@ -149,8 +148,8 @@
       "url": "https://www.pcworld.com/feed",
       "snapshot": "pcworld/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-20T17:21:23.145738+00:00",
-      "offer_count": 11,
+      "last_success_at": "2026-11-21T00:19:46.448904+00:00",
+      "offer_count": 13,
       "candidate_count": 0
     },
     {
@@ -158,7 +157,8 @@
       "name": "Clark Deals",
       "url": "https://clarkdeals.com/feed/",
       "snapshot": "clark-deals/latest.json",
-      "status": "ok",
+      "status": "failed",
+      "error": "HTTP 202 (curl exit 0)",
       "last_success_at": "2026-11-20T17:21:23.145738+00:00",
       "offer_count": 40,
       "candidate_count": 0
@@ -169,8 +169,8 @@
       "url": "https://hip2save.com/feed/",
       "snapshot": "hip2save/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-20T17:21:23.145738+00:00",
-      "offer_count": 82,
+      "last_success_at": "2026-11-21T00:19:46.448904+00:00",
+      "offer_count": 81,
       "candidate_count": 0
     },
     {
@@ -179,8 +179,8 @@
       "url": "https://www.dansdeals.com/feed/",
       "snapshot": "dans-deals/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-20T17:21:23.145738+00:00",
-      "offer_count": 72,
+      "last_success_at": "2026-11-21T00:19:46.448904+00:00",
+      "offer_count": 71,
       "candidate_count": 0
     },
     {
@@ -189,8 +189,8 @@
       "url": "https://www.southernsavers.com/feed/",
       "snapshot": "southern-savers/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-20T17:21:23.145738+00:00",
-      "offer_count": 22,
+      "last_success_at": "2026-11-21T00:19:46.448904+00:00",
+      "offer_count": 17,
       "candidate_count": 0
     },
     {
@@ -199,8 +199,8 @@
       "url": "https://passionatepennypincher.com/feed/",
       "snapshot": "passionate-penny-pincher/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-20T17:21:23.145738+00:00",
-      "offer_count": 46,
+      "last_success_at": "2026-11-21T00:19:46.448904+00:00",
+      "offer_count": 48,
       "candidate_count": 0
     },
     {
@@ -209,7 +209,7 @@
       "url": "https://www.freestufffinder.com/feed/",
       "snapshot": "free-stuff-finder/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-20T17:21:23.145738+00:00",
+      "last_success_at": "2026-11-21T00:19:46.448904+00:00",
       "offer_count": 100,
       "candidate_count": 0
     },
@@ -219,7 +219,7 @@
       "url": "https://thefreebieguy.com/feed/",
       "snapshot": "freebie-guy/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-20T17:21:23.145738+00:00",
+      "last_success_at": "2026-11-21T00:19:46.448904+00:00",
       "offer_count": 40,
       "candidate_count": 0
     },
@@ -228,7 +228,8 @@
       "name": "Living Rich With Coupons",
       "url": "https://www.livingrichwithcoupons.com/feed",
       "snapshot": "living-rich-with-coupons/latest.json",
-      "status": "ok",
+      "status": "failed",
+      "error": "XML declarations with a document type are unsupported",
       "last_success_at": "2026-11-20T17:21:23.145738+00:00",
       "offer_count": 40,
       "candidate_count": 0
@@ -239,8 +240,8 @@
       "url": "https://isthereanydeal.com/feeds/US/USD/deals.rss",
       "snapshot": "isthereanydeal/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-20T17:21:23.145738+00:00",
-      "offer_count": 149,
+      "last_success_at": "2026-11-21T00:19:46.448904+00:00",
+      "offer_count": 148,
       "candidate_count": 0
     },
     {
@@ -249,7 +250,7 @@
       "url": "https://www.cheapshark.com/api/1.0/deals?storeID=1&upperPrice=15&pageSize=30",
       "snapshot": "cheapshark-steam/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-20T17:21:23.145738+00:00",
+      "last_success_at": "2026-11-21T00:19:46.448904+00:00",
       "offer_count": 30,
       "candidate_count": 0
     },
@@ -259,36 +260,36 @@
       "url": "https://github.com/thuongtin/awesome-bfcm-2026",
       "snapshot": "github-bfcm-2026/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-20T17:21:23.145738+00:00",
-      "offer_count": 1546,
-      "candidate_count": 3
+      "last_success_at": "2026-11-21T00:19:46.448904+00:00",
+      "offer_count": 1612,
+      "candidate_count": 4
     }
   ],
   "candidates": [
     {
-      "id": "1207c301e125de334621f8f1",
-      "title": "Lefant M210 OMNI Robot Vacuum and Mop for $160 + free shipping",
-      "url": "https://www.dealnews.com/products/Lefant/Lefant-M210-Omni-Robot-Vacuum-and-Mop/541142.html?iref=rss",
-      "source_url": "https://www.dealnews.com/products/Lefant/Lefant-M210-Omni-Robot-Vacuum-and-Mop/541142.html?iref=rss",
+      "id": "19f797d87d2b9254f20dde97",
+      "title": "SoundBar for Mac, $6.99 lifetime, Black Friday 2026",
+      "url": "https://soundbarmac.com/",
+      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
       "retailer_url": null,
-      "link_type": "source",
-      "retailer": "Amazon",
-      "price_cents": 15999,
+      "link_type": "offer_link",
+      "retailer": null,
+      "price_cents": 699,
       "headline_price_cents": null,
       "price_source": "publisher_structured_data",
       "currency": "USD",
-      "source_id": "dealnews",
-      "publisher": "DealNews",
-      "published_at": "2026-11-20T16:33:00+00:00",
-      "expires_at": "2027-01-01T05:00:00+00:00",
-      "publication_category": null,
+      "source_id": "github-bfcm-2026",
+      "publisher": "Awesome BFCM 2026 on GitHub",
+      "published_at": null,
+      "expires_at": null,
+      "publication_category": "Software & SaaS",
       "rank": {
-        "category": "robot_vacuum_mop",
+        "category": "soundbar",
         "variant": null,
         "status": "candidate",
-        "score": 38.43,
-        "max_usd": 350,
-        "preferred_usd": 250,
+        "score": 34.3,
+        "max_usd": 100,
+        "preferred_usd": null,
         "within_budget": true,
         "comparisons": {},
         "savings_vs_comparison_cents": null,
@@ -463,48 +464,6 @@
         "variant": null,
         "status": "candidate",
         "score": 34.86,
-        "max_usd": 500,
-        "preferred_usd": null,
-        "within_budget": true,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
-      "id": "34d680f3d2960ae960adb896",
-      "title": "Hisense 55-inch QD5 Hi-QLED 4K Roku TV for $180",
-      "url": "https://clarkdeals.com/tv/hisense-55-inch-qd5-hi-qled-4k-roku-tv/",
-      "source_url": "https://clarkdeals.com/tv/hisense-55-inch-qd5-hi-qled-4k-roku-tv/",
-      "retailer_url": null,
-      "link_type": "source",
-      "retailer": null,
-      "price_cents": null,
-      "headline_price_cents": 18000,
-      "price_source": null,
-      "currency": null,
-      "source_id": "clark-deals",
-      "publisher": "Clark Deals",
-      "published_at": "2026-11-20T17:15:02+00:00",
-      "expires_at": null,
-      "publication_category": "TVs",
-      "rank": {
-        "category": "tv",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": 500,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "headline_rank": {
-        "category": "tv",
-        "variant": null,
-        "status": "candidate",
-        "score": 31.4,
         "max_usd": 500,
         "preferred_usd": null,
         "within_budget": true,

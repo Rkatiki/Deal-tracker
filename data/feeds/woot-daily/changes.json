@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-20T17:21:23.145738+00:00",
+  "retrieved_at": "2026-11-21T00:19:46.448904+00:00",
   "source": {
     "id": "woot-daily",
     "name": "Woot Daily Deals",
@@ -9,5 +9,58 @@
     "retailer": "Woot"
   },
   "baseline": false,
-  "events": []
+  "events": [
+    {
+      "id": "3190f95a57687ca32a918286",
+      "types": [
+        "new"
+      ],
+      "title": "6Pk Mens Fleece Joggers w-Zip Pockets",
+      "retailer": "Woot",
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.woot.com/offers/6pk-mens-fleece-joggers-w-zip-pockets-11",
+      "source_url": "https://forums.woot.com/t/6pk-mens-fleece-joggers-w-zip-pockets/2698003",
+      "retailer_url": "https://www.woot.com/offers/6pk-mens-fleece-joggers-w-zip-pockets-11",
+      "link_type": "retailer"
+    },
+    {
+      "id": "4b38d068190a24085e2b1412",
+      "types": [
+        "removed"
+      ],
+      "title": "(3-Pack) Mighty Patch Acne Pimple Patches, 72 Ct",
+      "retailer": "Woot",
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.woot.com/offers/3-pack-mighty-patch-acne-pimple-patches-72-ct",
+      "source_url": "https://forums.woot.com/t/3-pack-mighty-patch-acne-pimple-patches-72-ct/2661588",
+      "retailer_url": "https://www.woot.com/offers/3-pack-mighty-patch-acne-pimple-patches-72-ct",
+      "link_type": "retailer"
+    }
+  ]
 }

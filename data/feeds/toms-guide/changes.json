@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-20T17:21:23.145738+00:00",
+  "retrieved_at": "2026-11-21T00:19:46.448904+00:00",
   "source": {
     "id": "toms-guide",
     "name": "Tom's Guide",
@@ -11,11 +11,11 @@
   "baseline": false,
   "events": [
     {
-      "id": "047b6adfc66152f2ab585f03",
+      "id": "2a74490260321080c296b539",
       "types": [
         "removed"
       ],
-      "title": "T-Mobile's Black Friday phone deals are here — $1,200 off iPhone Duo, plus huge discounts on Galaxy S26 Ultra, Pixel 11 Pro and more",
+      "title": "Google just gave its $99 AI Ultra plan a free upgrade your whole household can use",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -31,17 +31,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.tomsguide.com/phones/network-carriers/t-mobiles-black-friday-phone-deals-are-here-usd1-200-off-iphone-duo-plus-huge-discounts-on-galaxy-s26-ultra-pixel-11-pro-and-more",
-      "source_url": "https://www.tomsguide.com/phones/network-carriers/t-mobiles-black-friday-phone-deals-are-here-usd1-200-off-iphone-duo-plus-huge-discounts-on-galaxy-s26-ultra-pixel-11-pro-and-more",
+      "url": "https://www.tomsguide.com/ai/google-just-gave-its-usd99-ai-ultra-plan-a-free-upgrade-your-whole-household-can-use",
+      "source_url": "https://www.tomsguide.com/ai/google-just-gave-its-usd99-ai-ultra-plan-a-free-upgrade-your-whole-household-can-use",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "104af50f0a86c5f981f01873",
+      "id": "42813c0904c35025ebe6ec7e",
       "types": [
         "removed"
       ],
-      "title": "13 best Birkenstock Black Friday deals from $49 — save up to 65% on my favorite cozy clogs and sandals",
+      "title": "Best Black Friday clothing and footwear deals — Skechers, Timberland, Patagonia and more from just $9",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -57,17 +57,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.tomsguide.com/sales-events/13-best-birkenstock-black-friday-deals-from-usd49-save-up-to-65-percent-on-my-favorite-cozy-clogs-and-sandals",
-      "source_url": "https://www.tomsguide.com/sales-events/13-best-birkenstock-black-friday-deals-from-usd49-save-up-to-65-percent-on-my-favorite-cozy-clogs-and-sandals",
+      "url": "https://www.tomsguide.com/sales-events/best-black-friday-clothing-and-footwear-deals-skechers-timberland-patagonia-and-more-from-just-usd9",
+      "source_url": "https://www.tomsguide.com/sales-events/best-black-friday-clothing-and-footwear-deals-skechers-timberland-patagonia-and-more-from-just-usd9",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "1332267c802bae289a1404d2",
+      "id": "58aadded01b3b81b30de57f1",
       "types": [
         "removed"
       ],
-      "title": "The Hatch Sleep Clock I tested and loved is $62 off in Amazon's Black Friday sale — why I recommend it if you have insomnia or fatigue",
+      "title": "Target Black Friday deals are live with up to 50% off Stanley, holiday decor from $10 and more",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -83,459 +83,69 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.tomsguide.com/wellness/sleep-tech/the-hatch-sleep-clock-i-tested-and-loved-is-usd62-off-in-amazons-black-friday-sale-why-i-recommend-it-if-you-have-insomnia-or-fatigue",
-      "source_url": "https://www.tomsguide.com/wellness/sleep-tech/the-hatch-sleep-clock-i-tested-and-loved-is-usd62-off-in-amazons-black-friday-sale-why-i-recommend-it-if-you-have-insomnia-or-fatigue",
+      "url": "https://www.tomsguide.com/sales-events/target-black-friday-deals-are-live-with-up-to-50-percent-off-november-2026",
+      "source_url": "https://www.tomsguide.com/sales-events/target-black-friday-deals-are-live-with-up-to-50-percent-off-november-2026",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "148032cdc1e2b16b8472c99d",
+      "id": "6f728abfdd3c3a6f920df4f7",
+      "types": [
+        "removed"
+      ],
+      "title": "I’m sharing my favorite iPhone Black Friday deals — free iPhone 18 Pro Max, iPhone Duo $1,200 off and more",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.tomsguide.com/phones/iphones/im-sharing-my-favorite-iphone-black-friday-deals-free-iphone-18-pro-max-iphone-duo-usd1-200-off-and-more",
+      "source_url": "https://www.tomsguide.com/phones/iphones/im-sharing-my-favorite-iphone-black-friday-deals-free-iphone-18-pro-max-iphone-duo-usd1-200-off-and-more",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "8d320b5b1aed35b36d6ec1da",
+      "types": [
+        "removed"
+      ],
+      "title": "Black Friday refrigerator deals are live: Save up to 47% off my top picks from Samsung, LG, Whirlpool and more",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.tomsguide.com/home/home-appliances/the-black-friday-refrigerator-sales",
+      "source_url": "https://www.tomsguide.com/home/home-appliances/the-black-friday-refrigerator-sales",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "a07e5dbf64e3887c061a0d78",
       "types": [
         "new"
       ],
-      "title": "These 6 huge value mattress deals come with up to $898 of free luxury sleep gifts — where to find them in the Black Friday sales",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.tomsguide.com/mattresses/these-6-huge-value-mattress-deals-come-with-up-to-usd898-of-free-luxury-sleep-gifts-where-to-find-them-in-the-black-friday-sales",
-      "source_url": "https://www.tomsguide.com/mattresses/these-6-huge-value-mattress-deals-come-with-up-to-usd898-of-free-luxury-sleep-gifts-where-to-find-them-in-the-black-friday-sales",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "371a747e18d56c80bcd9eaf2",
-      "types": [
-        "removed"
-      ],
-      "title": "I handpicked the best early Nike Black Friday deals from $18: Pegasus 42, Pullover Fleece Hoodie and more",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.tomsguide.com/wellness/fitness/early-black-friday-deals-have-kicked-off-and-nike-just-entered-the-chat-with-these-epic-deals-starting-from-usd18",
-      "source_url": "https://www.tomsguide.com/wellness/fitness/early-black-friday-deals-have-kicked-off-and-nike-just-entered-the-chat-with-these-epic-deals-starting-from-usd18",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "39f419fe9acc219c48ebcc45",
-      "types": [
-        "new"
-      ],
-      "title": "Blackstone griddles are sizzling ahead of Black Friday: Save up to $100 at Amazon and Lowe's",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.tomsguide.com/home/outdoors/blackstone-griddle-black-friday-deals-november-20-2026",
-      "source_url": "https://www.tomsguide.com/home/outdoors/blackstone-griddle-black-friday-deals-november-20-2026",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "46ebc02f8207be0068ec37f0",
-      "types": [
-        "removed"
-      ],
-      "title": "Dyson early Black Friday sale: Save up to $150 on the Airwrap, Supersonic and more",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.tomsguide.com/wellness/dyson-early-black-friday-sale-save-up-to-usd150-on-the-airwrap-supersonic-and-more",
-      "source_url": "https://www.tomsguide.com/wellness/dyson-early-black-friday-sale-save-up-to-usd150-on-the-airwrap-supersonic-and-more",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "52b78c444e84cb57141c961a",
-      "types": [
-        "removed"
-      ],
-      "title": "ExpressVPN's Black Friday is live, with plans starting at just $2.79 per month",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.tomsguide.com/computing/vpns/expressvpns-black-friday-is-live-with-plans-starting-at-just-usd2-79-per-month",
-      "source_url": "https://www.tomsguide.com/computing/vpns/expressvpns-black-friday-is-live-with-plans-starting-at-just-usd2-79-per-month",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "55ef1457eada6c50e801f96a",
-      "types": [
-        "new"
-      ],
-      "title": "7 Black Friday mesh router deals to kill Wi-Fi dead zones for good — save big on Netgear, Eero, TP-Link and more",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.tomsguide.com/computing/routers/black-friday-mesh-router-deals-2026",
-      "source_url": "https://www.tomsguide.com/computing/routers/black-friday-mesh-router-deals-2026",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "5af603676e12a5059c7acbfd",
-      "types": [
-        "removed"
-      ],
-      "title": "The Home Depot Black Friday sale has landed: Save up to 40% on big-ticket home appliances from fridges, washing machines to floor care",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.tomsguide.com/home/the-home-depot-black-friday-sale-has-landed-save-up-to-40-percent-on-big-ticket-home-appliances-from-fridges-washing-machines-to-floor-care",
-      "source_url": "https://www.tomsguide.com/home/the-home-depot-black-friday-sale-has-landed-save-up-to-40-percent-on-big-ticket-home-appliances-from-fridges-washing-machines-to-floor-care",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "5f05268b961ae283ead38d03",
-      "types": [
-        "new"
-      ],
-      "title": "The under-pillow Bluetooth speaker that saved my sleep is down to $42.50 at Amazon — why I rate it for side sleepers who have trouble falling asleep",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.tomsguide.com/wellness/sleep-tech/the-under-pillow-bluetooth-speaker-that-saved-my-sleep-is-down-to-usd42-50",
-      "source_url": "https://www.tomsguide.com/wellness/sleep-tech/the-under-pillow-bluetooth-speaker-that-saved-my-sleep-is-down-to-usd42-50",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "644d767da67f014548927d57",
-      "types": [
-        "new"
-      ],
-      "title": "I found the best Black Friday Dyson deals on Amazon — save up to 55% on V9, V15 Detect and PencilWash",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.tomsguide.com/home/dyson-black-friday-deals-november-20-2006",
-      "source_url": "https://www.tomsguide.com/home/dyson-black-friday-deals-november-20-2006",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "6dd3cd6a85779b2c618b3921",
-      "types": [
-        "new"
-      ],
-      "title": "Get NordVPN's best price since last Black Friday – 2 years for just $80",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.tomsguide.com/computing/vpns/get-nordvpns-best-price-since-last-black-friday-2-years-for-just-usd80",
-      "source_url": "https://www.tomsguide.com/computing/vpns/get-nordvpns-best-price-since-last-black-friday-2-years-for-just-usd80",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "7af0d7840f17a9f4b8aae7c9",
-      "types": [
-        "removed"
-      ],
-      "title": "I’ve tested every current MacBook — these are the Black Friday MacBook deals I’d buy with my own money",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.tomsguide.com/computing/macbooks/early-black-friday-macbook-deals",
-      "source_url": "https://www.tomsguide.com/computing/macbooks/early-black-friday-macbook-deals",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "821754000bc9b07e0dbcfb38",
-      "types": [
-        "removed"
-      ],
-      "title": "I'm tracking the best Apple Black Friday deals LIVE: MacBook Pro, AirPods, iPhones, iPads and more",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.tomsguide.com/live/news/apple-black-friday-deals-thursday-11-19-2026",
-      "source_url": "https://www.tomsguide.com/live/news/apple-black-friday-deals-thursday-11-19-2026",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "8fa69d27040b07db242064a3",
-      "types": [
-        "removed"
-      ],
-      "title": "Black Friday Nintendo Switch deals LIVE: Today’s biggest deals on console bundles, games and accessories",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.tomsguide.com/live/news/black-friday-nintendo-switch-deals-thursday-november-19-2026",
-      "source_url": "https://www.tomsguide.com/live/news/black-friday-nintendo-switch-deals-thursday-november-19-2026",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "98b63334fcd56780d6265208",
-      "types": [
-        "new"
-      ],
-      "title": "I test headphones for a living and these are the best AirPods Black Friday deals — including AirPods Max 2 for $130 off",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.tomsguide.com/audio/airpods/i-test-headphones-for-a-living-and-these-are-the-best-airpods-black-friday-deals-including-airpods-max-2-for-usd130-off",
-      "source_url": "https://www.tomsguide.com/audio/airpods/i-test-headphones-for-a-living-and-these-are-the-best-airpods-black-friday-deals-including-airpods-max-2-for-usd130-off",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "9a4c8e032c982dc3aba1adb3",
-      "types": [
-        "removed"
-      ],
-      "title": "I’m vetting the best Black Friday air fryer deals — save up to 50% on Ninja, Chefman and more",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "air_fryer",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": 75,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.tomsguide.com/home/air-fryers/black-friday-deals-november-11-2006",
-      "source_url": "https://www.tomsguide.com/home/air-fryers/black-friday-deals-november-11-2006",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "a45f810d8f079f69b01e0c7c",
-      "types": [
-        "removed"
-      ],
-      "title": "I’ve found the only UK Black Friday laptop deals that aren’t a scam — MacBooks, Chromebooks and more vetted by a guy literally named England",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.tomsguide.com/computing/laptops/uk-black-friday-laptop-deals-november-19-2026",
-      "source_url": "https://www.tomsguide.com/computing/laptops/uk-black-friday-laptop-deals-november-19-2026",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "b1f4441f607eaaf4c81923da",
-      "types": [
-        "removed"
-      ],
-      "title": "Anthropic IPO Live — everything you need to know about the $1.5 trillion AI giant",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.tomsguide.com/new/live/anthropic-ipo-live",
-      "source_url": "https://www.tomsguide.com/new/live/anthropic-ipo-live",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "b542f5e5ff60fb6fb6f1b2e6",
-      "types": [
-        "new"
-      ],
-      "title": "Apple TV is 50% off in one of the best Black Friday streaming deals yet — watch ‘Slow Horses,’ ‘Shrinking,’ ‘Severance’ and more quality originals for $6.99",
+      "title": "I found 31 Amazon Black Friday deals under $25 actually worth buying — Fire TV, Apple, Carhartt, Stanley, Ring and more",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -551,17 +161,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.tomsguide.com/entertainment/apple-tv/apple-tv-is-50-percent-off-in-one-of-the-best-black-friday-streaming-deals-yet-watch-slow-horses-shrinking-severance-and-more-quality-originals-for-usd6-99",
-      "source_url": "https://www.tomsguide.com/entertainment/apple-tv/apple-tv-is-50-percent-off-in-one-of-the-best-black-friday-streaming-deals-yet-watch-slow-horses-shrinking-severance-and-more-quality-originals-for-usd6-99",
+      "url": "https://www.tomsguide.com/sales-events/31-best-early-black-friday-deals-under-usd25-on-amazon-shop-apple-earpods-fire-tv-stick-4k-stanley-quencher-h20-and-more",
+      "source_url": "https://www.tomsguide.com/sales-events/31-best-early-black-friday-deals-under-usd25-on-amazon-shop-apple-earpods-fire-tv-stick-4k-stanley-quencher-h20-and-more",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "b76e347bfd08f5b10aa429d8",
+      "id": "b54313b9fb0e4af3fe399b5f",
       "types": [
         "removed"
       ],
-      "title": "Paramount+ just crashed to $2.99 for Black Friday — stream the NFL, ‘Marshals,’ ‘Dutton Ranch’ and more for a steal",
+      "title": "Amazon has slashed prices on some of Carhartt's most loved pieces for Black Friday — I've found the best deals with up to 57% off",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -577,294 +187,8 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.tomsguide.com/entertainment/paramount-plus/paramount-just-crashed-to-usd2-99-for-black-friday-stream-the-nfl-marshals-dutton-ranch-and-more-for-a-steal",
-      "source_url": "https://www.tomsguide.com/entertainment/paramount-plus/paramount-just-crashed-to-usd2-99-for-black-friday-stream-the-nfl-marshals-dutton-ranch-and-more-for-a-steal",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "c63c165353dc05b452ddc67f",
-      "types": [
-        "removed"
-      ],
-      "title": "Walmart Black Friday deals vs Best Buy Black Friday deals: I put these retailers head-to-head to see who was the best early Black Friday discounts",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.tomsguide.com/sales-events/walmart-black-friday-deals-vs-best-buy-black-friday-deals-i-put-these-retailers-head-to-head-to-see-who-was-the-best-early-black-friday-discounts",
-      "source_url": "https://www.tomsguide.com/sales-events/walmart-black-friday-deals-vs-best-buy-black-friday-deals-i-put-these-retailers-head-to-head-to-see-who-was-the-best-early-black-friday-discounts",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "cbee88b43cbd8e1113c63153",
-      "types": [
-        "removed"
-      ],
-      "title": "Amazon Black Friday officially LIVE: I’m vetting the best deals on Kindle, PS5, Bose, iPads and more",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.tomsguide.com/live/news/best-amazon-black-friday-deals-live-thursday-november-19-2026",
-      "source_url": "https://www.tomsguide.com/live/news/best-amazon-black-friday-deals-live-thursday-november-19-2026",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "cd4b08770bf61478d8e4b5e4",
-      "types": [
-        "new"
-      ],
-      "title": "Amazon’s Black Friday sale just made improving your TV sound so much cheaper — one of my top-rated soundbars is just $74, and Amazon’s entire line is discounted",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "soundbar",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": 100,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.tomsguide.com/audio/soundbars/amazon-fire-tv-soundbars-black-friday-deals",
-      "source_url": "https://www.tomsguide.com/audio/soundbars/amazon-fire-tv-soundbars-black-friday-deals",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "cf98bcd25a0231da76508cf0",
-      "types": [
-        "new"
-      ],
-      "title": "Best Black Friday running shoe deals — up to 55% off Nike, Asics, Hoka, Skechers and more",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.tomsguide.com/wellness/running/black-friday-running-shoe-deals-november-20-2026",
-      "source_url": "https://www.tomsguide.com/wellness/running/black-friday-running-shoe-deals-november-20-2026",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "cf9deafaa38d7798b67b7f9a",
-      "types": [
-        "new"
-      ],
-      "title": "7 Black Friday phone accessories I'd actually buy: PopSockets, MagSafe chargers and more from $8",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.tomsguide.com/phones/7-black-friday-phone-accessories-id-actually-buy-popsockets-magsafe-chargers-and-more-from-usd8",
-      "source_url": "https://www.tomsguide.com/phones/7-black-friday-phone-accessories-id-actually-buy-popsockets-magsafe-chargers-and-more-from-usd8",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "d3ca25f5ed8a8537d00de103",
-      "types": [
-        "removed"
-      ],
-      "title": "lululemon Black Friday: Run, don't walk! These best-selling styles are up to 60% off and are selling out fast",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.tomsguide.com/wellness/fitness/lululemon-black-friday",
-      "source_url": "https://www.tomsguide.com/wellness/fitness/lululemon-black-friday",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "d71392a86c2c7f3fcc905e7c",
-      "types": [
-        "removed"
-      ],
-      "title": "I’ve just spotted these Nespresso early Black Friday deals to kickstart your morning — save up to 40% today",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.tomsguide.com/home/ive-just-spotted-these-nespresso-early-black-friday-deals-to-kickstart-your-morning-save-up-to-40-percent-today",
-      "source_url": "https://www.tomsguide.com/home/ive-just-spotted-these-nespresso-early-black-friday-deals-to-kickstart-your-morning-save-up-to-40-percent-today",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "d7b7998edebc21ca57e2bb75",
-      "types": [
-        "new"
-      ],
-      "title": "Apple Black Friday sale LIVE: these are the best deals I’ve found on MacBooks, iPads, AirPods, Apple Watches, and more",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.tomsguide.com/live/news/apple-black-friday-deals-friday-11-20-2026",
-      "source_url": "https://www.tomsguide.com/live/news/apple-black-friday-deals-friday-11-20-2026",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "dcaa0ff28a573af75ef72ee5",
-      "types": [
-        "new"
-      ],
-      "title": "11 best Kindle Black Friday deals: Save up to 48% on the Colorsoft, Paperwhite, Scribe and more",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.tomsguide.com/computing/e-readers/11-best-kindle-black-friday-deals-save-up-to-48-percent-on-the-colorsoft-paperwhite-scribe-and-more",
-      "source_url": "https://www.tomsguide.com/computing/e-readers/11-best-kindle-black-friday-deals-save-up-to-48-percent-on-the-colorsoft-paperwhite-scribe-and-more",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "e55fbd8d87f250ddd1d5c859",
-      "types": [
-        "new"
-      ],
-      "title": "I’m tracking Black Friday Nintendo Switch deals LIVE: console bundles, games and must-have accessories",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.tomsguide.com/live/news/black-friday-nintendo-switch-deals-friday-november-20-2026",
-      "source_url": "https://www.tomsguide.com/live/news/black-friday-nintendo-switch-deals-friday-november-20-2026",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "ea21cf0a7815573846234eb4",
-      "types": [
-        "new"
-      ],
-      "title": "I found the 45+ best Amazon Black Friday deals LIVE — Kindle, MacBook, Bose, iPads and more",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.tomsguide.com/live/news/amazon-black-friday-deals-live-friday-11-20-2026",
-      "source_url": "https://www.tomsguide.com/live/news/amazon-black-friday-deals-live-friday-11-20-2026",
+      "url": "https://www.tomsguide.com/sales-events/carhartt-black-friday-deals-amazon-thursday-19-november-2026",
+      "source_url": "https://www.tomsguide.com/sales-events/carhartt-black-friday-deals-amazon-thursday-19-november-2026",
       "retailer_url": null,
       "link_type": "source"
     }

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-20T17:21:23.145738+00:00",
+  "retrieved_at": "2026-11-21T00:19:46.448904+00:00",
   "source": {
     "id": "macrumors",
     "name": "MacRumors Deals",
@@ -10,11 +10,11 @@
   "baseline": false,
   "events": [
     {
-      "id": "37c5c1aaa8fb57c07159009c",
+      "id": "177ba6494bc6d57f0e9b88ff",
       "types": [
         "new"
       ],
-      "title": "First Look at iPhone Air 2 and iPhone 18 Revealed By Dummy Models",
+      "title": "Save on Headphones This Black Friday With Major Deals on Beats, Sony, Soundcore, and More",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -30,17 +30,43 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.macrumors.com/2026/11/20/iphone-air-2-and-iphone-18-dummy-models/",
-      "source_url": "https://www.macrumors.com/2026/11/20/iphone-air-2-and-iphone-18-dummy-models/",
+      "url": "https://www.macrumors.com/2026/11/20/headphones-black-friday/",
+      "source_url": "https://www.macrumors.com/2026/11/20/headphones-black-friday/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "5abf82b1e2e0ff7384321638",
+      "id": "6ae773fcf9eb8460266ae1b9",
+      "types": [
+        "removed"
+      ],
+      "title": "Beats 360 Black Friday Deal Arrives With Massive $100 Discount on Amazon",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.macrumors.com/2026/11/19/beats-360-black-friday-deal/",
+      "source_url": "https://www.macrumors.com/2026/11/19/beats-360-black-friday-deal/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "75381f4b456385ba9de6f315",
       "types": [
         "new"
       ],
-      "title": "Microsoft to Retire 'To Do' Apps Next Year",
+      "title": "MacRumors Giveaway: Win a 512GB OLED iPad Mini and a Year of Astropad Workbench",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -56,69 +82,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.macrumors.com/2026/11/20/microsoft-to-retire-to-do-apps/",
-      "source_url": "https://www.macrumors.com/2026/11/20/microsoft-to-retire-to-do-apps/",
+      "url": "https://www.macrumors.com/2026/11/20/macrumors-giveaway-astropad-workbench/",
+      "source_url": "https://www.macrumors.com/2026/11/20/macrumors-giveaway-astropad-workbench/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "768eea35b1d393b80ad8c9dd",
-      "types": [
-        "removed"
-      ],
-      "title": "Apple Faces 'Planned Obsolescence' Trial Over iPhone Repairs",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.macrumors.com/2026/11/19/apple-faces-planned-obsolescence-trial/",
-      "source_url": "https://www.macrumors.com/2026/11/19/apple-faces-planned-obsolescence-trial/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "7da6adb2042b734751922613",
-      "types": [
-        "removed"
-      ],
-      "title": "Future Macs Could Get Brighter, Longer-Lasting OLED Displays in 2030",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.macrumors.com/2026/11/19/future-macs-could-get-brighter-oled-displays/",
-      "source_url": "https://www.macrumors.com/2026/11/19/future-macs-could-get-brighter-oled-displays/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "8e27b4c299fd92fed88e31bb",
+      "id": "81f21f3c11063ee32cdc52c4",
       "types": [
         "new"
       ],
-      "title": "Anker's Black Friday Steals: The Lowest Prices Yet on MagSafe Favorites",
+      "title": "Siri Recap Hands-On: Private, But Not Very Useful",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -134,43 +108,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.macrumors.com/2026/11/20/ankers-black-friday-steals/",
-      "source_url": "https://www.macrumors.com/2026/11/20/ankers-black-friday-steals/",
+      "url": "https://www.macrumors.com/2026/11/20/siri-recap-hands-on/",
+      "source_url": "https://www.macrumors.com/2026/11/20/siri-recap-hands-on/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "913782841f7098485ea039bf",
-      "types": [
-        "removed"
-      ],
-      "title": "Instagram Now Lets You Save Songs to Apple Music",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.macrumors.com/2026/11/18/apple-music-instagram-playlist/",
-      "source_url": "https://www.macrumors.com/2026/11/18/apple-music-instagram-playlist/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "943cac3a93421b4459ed0682",
+      "id": "838d82c4e74ce8f606f43d58",
       "types": [
         "new"
       ],
-      "title": "Apple Black Friday Deals Available Now: AirPods, Apple Watches, MacBooks, and More",
+      "title": "The MacRumors Show: What's Next for iPhone Duo?",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -186,17 +134,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.macrumors.com/2026/11/20/apple-black-friday-deals-available-now-2026/",
-      "source_url": "https://www.macrumors.com/2026/11/20/apple-black-friday-deals-available-now-2026/",
+      "url": "https://www.macrumors.com/2026/11/20/the-macrumors-show-next-for-iphone-duo/",
+      "source_url": "https://www.macrumors.com/2026/11/20/the-macrumors-show-next-for-iphone-duo/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "97b4c8d018290739161c9b54",
+      "id": "8a7aca1946986f0fa869886d",
       "types": [
         "removed"
       ],
-      "title": "Apple Music Radio Now Reaches Over 50 Million Monthly Listeners",
+      "title": "Amazon Takes $200 Off Every Apple Studio Display for Black Friday",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -212,43 +160,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.macrumors.com/2026/11/19/apple-music-radio-50-million-listeners/",
-      "source_url": "https://www.macrumors.com/2026/11/19/apple-music-radio-50-million-listeners/",
+      "url": "https://www.macrumors.com/2026/11/19/200-off-apple-studio-display/",
+      "source_url": "https://www.macrumors.com/2026/11/19/200-off-apple-studio-display/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "9ef2bbb7d906f0d5413addc2",
-      "types": [
-        "new"
-      ],
-      "title": "WhatsApp Raises Group Chat Limit to 1,500 Members",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.macrumors.com/2026/11/20/whatsapp-raises-group-chat-limit-to-1500-members/",
-      "source_url": "https://www.macrumors.com/2026/11/20/whatsapp-raises-group-chat-limit-to-1500-members/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "d05b0d327a293609bf1d65d7",
+      "id": "a75ccbd6b20e878ceb5f80e8",
       "types": [
         "removed"
       ],
-      "title": "Apple May Cancel OLED iMac",
+      "title": "Tomorrow Marks the End of a 28-Year Era at Apple",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -264,8 +186,34 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.macrumors.com/2026/11/19/apple-may-cancel-oled-imac/",
-      "source_url": "https://www.macrumors.com/2026/11/19/apple-may-cancel-oled-imac/",
+      "url": "https://www.macrumors.com/2026/11/19/tomorrow-marks-end-of-28-year-era-at-apple/",
+      "source_url": "https://www.macrumors.com/2026/11/19/tomorrow-marks-end-of-28-year-era-at-apple/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "bfc421960b753080d8d0e669",
+      "types": [
+        "removed"
+      ],
+      "title": "UK Loses Secrecy Fight Over Apple 'Backdoor' Order",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.macrumors.com/2026/11/19/uk-loses-secrecy-fight-over-apple-backdoor-order/",
+      "source_url": "https://www.macrumors.com/2026/11/19/uk-loses-secrecy-fight-over-apple-backdoor-order/",
       "retailer_url": null,
       "link_type": "source"
     }
