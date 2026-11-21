@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-21T16:24:39.437813+00:00",
+  "retrieved_at": "2026-11-21T21:55:22.137429+00:00",
   "source": {
     "id": "pcworld",
     "name": "PCWorld",
@@ -11,37 +11,11 @@
   "baseline": false,
   "events": [
     {
-      "id": "6c051a899678b748dd45e8b8",
-      "types": [
-        "new"
-      ],
-      "title": "This professional Windows video editor is half off for life at $25",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.pcworld.com/article/3291200/this-professional-windows-video-editor-is-half-off-for-life-at-25.html",
-      "source_url": "https://www.pcworld.com/article/3291200/this-professional-windows-video-editor-is-half-off-for-life-at-25.html",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "6ee5175fab381498fa8db226",
+      "id": "b8a0f80d13ab508e0079e8e3",
       "types": [
         "removed"
       ],
-      "title": "Samsung’s 2TB T9 portable SSD is $140 off, its best price since April",
+      "title": "Block ads for life on every phone and laptop in the house for $14.97",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -57,138 +31,8 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.pcworld.com/article/3291204/samsungs-2tb-t9-portable-ssd-is-140-off-its-best-price-since-april.html",
-      "source_url": "https://www.pcworld.com/article/3291204/samsungs-2tb-t9-portable-ssd-is-140-off-its-best-price-since-april.html",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "752a16bfebdef22d84cbf5d9",
-      "types": [
-        "new"
-      ],
-      "title": "Black Friday is a dangerous time to be a Lego geek",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.pcworld.com/article/3290925/the-best-lego-sets-you-can-buy-this-black-friday.html",
-      "source_url": "https://www.pcworld.com/article/3290925/the-best-lego-sets-you-can-buy-this-black-friday.html",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "9324e7d2f8528f45117a6466",
-      "types": [
-        "removed"
-      ],
-      "title": "Black Friday drops Microsoft Office Professional 2021 to $22.97, no subscription required",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.pcworld.com/article/3289855/black-friday-drops-microsoft-office-professional-2021-to-22-97-no-subscription-required.html",
-      "source_url": "https://www.pcworld.com/article/3289855/black-friday-drops-microsoft-office-professional-2021-to-22-97-no-subscription-required.html",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "a03cce47fa7528a5e06c10f1",
-      "types": [
-        "removed"
-      ],
-      "title": "Early Black Friday steals: 10 tech deals under $25, at or near all-time lows",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.pcworld.com/article/3278024/best-amazon-black-friday-tech-deals-under-25.html",
-      "source_url": "https://www.pcworld.com/article/3278024/best-amazon-black-friday-tech-deals-under-25.html",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "b0fa3e015a8ea8acf096b94b",
-      "types": [
-        "new"
-      ],
-      "title": "Skip Microsoft 365: This 5-year 2TB cloud plan edits Office files for $59.99",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.pcworld.com/article/3291170/skip-microsoft-365-this-5-year-2tb-cloud-plan-edits-office-files-for-59-99.html",
-      "source_url": "https://www.pcworld.com/article/3291170/skip-microsoft-365-this-5-year-2tb-cloud-plan-edits-office-files-for-59-99.html",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "f647c736ca10a213f226b5ff",
-      "types": [
-        "removed"
-      ],
-      "title": "Best Black Friday mini PC deals: What to expect and early sales",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.pcworld.com/article/2971789/best-early-black-friday-mini-pc-deals-2026.html",
-      "source_url": "https://www.pcworld.com/article/2971789/best-early-black-friday-mini-pc-deals-2026.html",
+      "url": "https://www.pcworld.com/article/3288755/block-ads-for-life-on-every-phone-and-laptop-in-the-house-for-14-97.html",
+      "source_url": "https://www.pcworld.com/article/3288755/block-ads-for-life-on-every-phone-and-laptop-in-the-house-for-14-97.html",
       "retailer_url": null,
       "link_type": "source"
     }

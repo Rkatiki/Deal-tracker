@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-21T16:24:39.437813+00:00",
+  "retrieved_at": "2026-11-21T21:55:22.137429+00:00",
   "source": {
     "id": "windows-central",
     "name": "Windows Central",
@@ -9,32 +9,5 @@
     "deal_headlines_only": true
   },
   "baseline": false,
-  "events": [
-    {
-      "id": "e452dbafdf93557f5098c67a",
-      "types": [
-        "new"
-      ],
-      "title": "8 ASUS gaming deals I’d actually buy this Black Friday",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.windowscentral.com/accessories/i-found-some-of-the-best-asus-gaming-gear-up-to-50-percent-off-for-black-friday-from-keyboards-to-xbox-ally-docks",
-      "source_url": "https://www.windowscentral.com/accessories/i-found-some-of-the-best-asus-gaming-gear-up-to-50-percent-off-for-black-friday-from-keyboards-to-xbox-ally-docks",
-      "retailer_url": null,
-      "link_type": "source"
-    }
-  ]
+  "events": []
 }

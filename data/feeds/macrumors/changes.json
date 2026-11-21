@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-21T16:24:39.437813+00:00",
+  "retrieved_at": "2026-11-21T21:55:22.137429+00:00",
   "source": {
     "id": "macrumors",
     "name": "MacRumors Deals",
@@ -10,11 +10,11 @@
   "baseline": false,
   "events": [
     {
-      "id": "020b5662a99a539d029f59f6",
+      "id": "49e4f56622b141b8f409e4d0",
       "types": [
         "new"
       ],
-      "title": "Top Stories: iPhone Duo Face Unlock, HomeView Tidbits, and More",
+      "title": "Amazon Takes $120 Off 46mm GPS Apple Watch Series 12 With New Record Low Price [Update: Gone]",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -30,17 +30,43 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.macrumors.com/2026/11/21/top-stories-iphone-duo-face-unlock/",
-      "source_url": "https://www.macrumors.com/2026/11/21/top-stories-iphone-duo-face-unlock/",
+      "url": "https://www.macrumors.com/2026/11/21/amazon-120-off-46mm-gps-apple-watch-series-12/",
+      "source_url": "https://www.macrumors.com/2026/11/21/amazon-120-off-46mm-gps-apple-watch-series-12/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "6c226404e4b32f89a0ac41b4",
+      "id": "578d09238f5ef545dafa8e46",
+      "types": [
+        "removed"
+      ],
+      "title": "Apple Announces 2026 Black Friday Event, Here's What You Can Get",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.macrumors.com/2026/11/19/apple-announces-2026-black-friday-event/",
+      "source_url": "https://www.macrumors.com/2026/11/19/apple-announces-2026-black-friday-event/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "5e3a8e502d9612be7e8187c5",
       "types": [
         "new"
       ],
-      "title": "Apple Black Friday Deals Available Now: AirPods, Apple Watches, MacBooks, and More",
+      "title": "Siri AI Settlement: Here's How Much Apple Will Pay You",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -56,17 +82,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.macrumors.com/2026/11/21/apple-black-friday-deals-available-now-2026/",
-      "source_url": "https://www.macrumors.com/2026/11/21/apple-black-friday-deals-available-now-2026/",
+      "url": "https://www.macrumors.com/2026/11/21/apple-siri-ai-settlement-payment-amount/",
+      "source_url": "https://www.macrumors.com/2026/11/21/apple-siri-ai-settlement-payment-amount/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "943cac3a93421b4459ed0682",
+      "id": "63a69d24493eefcd24a70fcb",
       "types": [
         "removed"
       ],
-      "title": "Apple Black Friday Deals Available Now: AirPods, Apple Watches, MacBooks, and More",
+      "title": "iPhone Duo vs. Samsung Galaxy Z Fold8: Which is Better?",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -82,34 +108,112 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.macrumors.com/2026/11/20/apple-black-friday-deals-available-now-2026/",
-      "source_url": "https://www.macrumors.com/2026/11/20/apple-black-friday-deals-available-now-2026/",
+      "url": "https://www.macrumors.com/2026/11/19/iphone-duo-vs-samsung-galaxy-z-fold8/",
+      "source_url": "https://www.macrumors.com/2026/11/19/iphone-duo-vs-samsung-galaxy-z-fold8/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "e7916ee6a79fd274b312ee8c",
+      "id": "9083d0a8be8ea2778ac00952",
       "types": [
         "removed"
       ],
-      "title": "Apple TV to Stream Female 'F1 Academy' Races in U.S. Starting in 2027",
+      "title": "Sonos Black Friday Sale Takes Up to 25% Off Speakers, Soundbars, and More",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
       "rank": {
-        "category": "tv",
+        "category": "soundbar",
         "variant": null,
         "status": "price_unavailable",
         "score": 0,
-        "max_usd": 500,
+        "max_usd": 100,
         "preferred_usd": null,
         "within_budget": null,
         "comparisons": {},
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.macrumors.com/2026/11/19/apple-tv-f1-academy/",
-      "source_url": "https://www.macrumors.com/2026/11/19/apple-tv-f1-academy/",
+      "url": "https://www.macrumors.com/2026/11/19/sonos-black-friday-sale-3/",
+      "source_url": "https://www.macrumors.com/2026/11/19/sonos-black-friday-sale-3/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "ba3369165ba7c4168f5bcfcc",
+      "types": [
+        "new"
+      ],
+      "title": "Apple Store in UK Permanently Closing Today",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.macrumors.com/2026/11/21/apple-store-in-uk-permanently-closing-today/",
+      "source_url": "https://www.macrumors.com/2026/11/21/apple-store-in-uk-permanently-closing-today/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "bec3e4a1a98321e857bd639f",
+      "types": [
+        "removed"
+      ],
+      "title": "Apple Executive in Charge of iPhone's Camera App Reportedly Retires",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.macrumors.com/2026/11/19/iphone-camera-app-vp-retires/",
+      "source_url": "https://www.macrumors.com/2026/11/19/iphone-camera-app-vp-retires/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "d78b40886b3dc93330c0ef97",
+      "types": [
+        "new"
+      ],
+      "title": "RIP, Apple Support Community",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.macrumors.com/2026/11/21/rip-apple-support-community/",
+      "source_url": "https://www.macrumors.com/2026/11/21/rip-apple-support-community/",
       "retailer_url": null,
       "link_type": "source"
     }
