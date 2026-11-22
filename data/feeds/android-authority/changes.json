@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-22T18:04:22.273716+00:00",
+  "retrieved_at": "2026-11-22T23:53:28.537384+00:00",
   "source": {
     "id": "android-authority",
     "name": "Android Authority Deals",
@@ -8,110 +8,5 @@
     "kind": "rss"
   },
   "baseline": false,
-  "events": [
-    {
-      "id": "05ea4d396f3aa0354b64a9fd",
-      "types": [
-        "removed"
-      ],
-      "title": "Galaxy Tab A11 Plus Kids Edition hits a record low",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.androidauthority.com/samsung-galaxy-tab-a11-plus-kids-edition-deal-3735756/",
-      "source_url": "https://www.androidauthority.com/samsung-galaxy-tab-a11-plus-kids-edition-deal-3735756/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "8512eaab4329edff685929fc",
-      "types": [
-        "removed"
-      ],
-      "title": "Save $120 on the Skullcandy Crusher ANC 2 noise canceling headphones",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.androidauthority.com/skullcandy-crusher-anc-2-deal-amazon-3735757/",
-      "source_url": "https://www.androidauthority.com/skullcandy-crusher-anc-2-deal-amazon-3735757/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "bdde9ff1a86482ba23f1a0e2",
-      "types": [
-        "new"
-      ],
-      "title": "TCL TAB A1 Plus NXTPAPER hits a record low for Black Friday",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.androidauthority.com/tcl-tab-a1-plus-nxtpaper-black-friday-deal-3737817/",
-      "source_url": "https://www.androidauthority.com/tcl-tab-a1-plus-nxtpaper-black-friday-deal-3737817/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "fbb3fb2f74e31d2837da24d9",
-      "types": [
-        "new"
-      ],
-      "title": "Samsung’s 2026 HW-Q800H soundbar and subwoofer are $400 off",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "soundbar",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": 100,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.androidauthority.com/samsung-hw-q800h-soundbar-deal-3737816/",
-      "source_url": "https://www.androidauthority.com/samsung-hw-q800h-soundbar-deal-3737816/",
-      "retailer_url": null,
-      "link_type": "source"
-    }
-  ]
+  "events": []
 }

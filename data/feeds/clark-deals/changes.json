@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-22T18:04:22.273716+00:00",
+  "retrieved_at": "2026-11-22T23:53:28.537384+00:00",
   "source": {
     "id": "clark-deals",
     "name": "Clark Deals",
@@ -10,115 +10,11 @@
   "baseline": false,
   "events": [
     {
-      "id": "0a859471d27219bb5bf6d255",
-      "types": [
-        "removed"
-      ],
-      "title": "Campbell’s condensed cream of mushroom soup 12-pack for less than $9",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://clarkdeals.com/grocery/campbells-condensed-cream-of-mushroom-soup-12-pack/",
-      "source_url": "https://clarkdeals.com/grocery/campbells-condensed-cream-of-mushroom-soup-12-pack/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "183bb3cc8f01ec6a9e33c73b",
-      "types": [
-        "removed"
-      ],
-      "title": "Gooloo A3 jump starter and air compressor for $40",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://clarkdeals.com/cars/repair/gooloo-a3-jump-starter-and-air-compressor/",
-      "source_url": "https://clarkdeals.com/cars/repair/gooloo-a3-jump-starter-and-air-compressor/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "1edc0dd65c40643230f4dae5",
-      "types": [
-        "removed"
-      ],
-      "title": "Ring Battery Doorbell 2K and Ring Indoor Cam bundle for $50",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://clarkdeals.com/electronics/ring-battery-doorbell-2k-and-ring-indoor-cam-bundle/",
-      "source_url": "https://clarkdeals.com/electronics/ring-battery-doorbell-2k-and-ring-indoor-cam-bundle/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "253e0cba9096a0c59a82d81a",
-      "types": [
-        "removed"
-      ],
-      "title": "Buy 1, get 2 FREE Biltmore towels",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://clarkdeals.com/home-kitchen/buy-1-get-2-free-biltmore-towels/",
-      "source_url": "https://clarkdeals.com/home-kitchen/buy-1-get-2-free-biltmore-towels/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "403876fd7228993012391992",
+      "id": "2e00c751038718cba75bc3fe",
       "types": [
         "new"
       ],
-      "title": "Get up to 5.00% APY with these banking deals",
+      "title": "Shark Cordless Pet stick vacuum for $160",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -134,294 +30,34 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://clarkdeals.com/deals/banking/",
-      "source_url": "https://clarkdeals.com/deals/banking/",
+      "url": "https://clarkdeals.com/vacuums/shark-cordless-pet-stick-vacuum/",
+      "source_url": "https://clarkdeals.com/vacuums/shark-cordless-pet-stick-vacuum/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "4ffa72ae7c0a8651e01cb343",
-      "types": [
-        "new"
-      ],
-      "title": "75-count of Oral-B Glide Complete floss picks for less than $3",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://clarkdeals.com/health-beauty/75-cout-of-oral-b-glide-complete-floss-picks/",
-      "source_url": "https://clarkdeals.com/health-beauty/75-cout-of-oral-b-glide-complete-floss-picks/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "60701ad119801b15c2820b24",
-      "types": [
-        "new"
-      ],
-      "title": "Save up to 46% on a 10-night Japan cruise + FREE guests",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://clarkdeals.com/travel/cruise/japan-cruise-princess/",
-      "source_url": "https://clarkdeals.com/travel/cruise/japan-cruise-princess/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "7db0cb6bab4aab20eb31e245",
-      "types": [
-        "new"
-      ],
-      "title": "7-night Spain escape with flights & hotels from $1,399",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://clarkdeals.com/travel/spain-escape-with-flights-hotels/",
-      "source_url": "https://clarkdeals.com/travel/spain-escape-with-flights-hotels/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "8346266b97958a70eb14841c",
-      "types": [
-        "new"
-      ],
-      "title": "Medicube Zero Exosome Shot 2000 facial serum for $11",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://clarkdeals.com/health-beauty/medicube-zero-exosome-shot-2000-facial-serum/",
-      "source_url": "https://clarkdeals.com/health-beauty/medicube-zero-exosome-shot-2000-facial-serum/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "8fbf11aff138ce77e9936254",
-      "types": [
-        "new"
-      ],
-      "title": "9-night Athens, Mykonos & Santorini vacation with flights from $1,579",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://clarkdeals.com/travel/athens-santorini-vacation-with-flights/",
-      "source_url": "https://clarkdeals.com/travel/athens-santorini-vacation-with-flights/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "be1a40bbc1fde5cf62a85dde",
-      "types": [
-        "new"
-      ],
-      "title": "Get a $15 Target gift card with $100 iTunes gift card",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://clarkdeals.com/gifts/itunes-gift-card-target/",
-      "source_url": "https://clarkdeals.com/gifts/itunes-gift-card-target/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "d990d2a6ad0cd626cdfe1d69",
+      "id": "34d680f3d2960ae960adb896",
       "types": [
         "removed"
       ],
-      "title": "Today only: Take up to 60% off door locks, smart home and security",
+      "title": "Hisense 55-inch QD5 Hi-QLED 4K Roku TV for $180",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
       "rank": {
-        "category": "other",
+        "category": "tv",
         "variant": null,
         "status": "price_unavailable",
         "score": 0,
-        "max_usd": null,
+        "max_usd": 500,
         "preferred_usd": null,
         "within_budget": null,
         "comparisons": {},
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://clarkdeals.com/home-kitchen/ceiling-fans-and-lighting/",
-      "source_url": "https://clarkdeals.com/home-kitchen/ceiling-fans-and-lighting/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "daca8a1e302db35742241cd2",
-      "types": [
-        "new"
-      ],
-      "title": "Zenni Optical: Save up to 30% during the Black Friday sale",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://clarkdeals.com/coupons/zenni-optical-promo-code/",
-      "source_url": "https://clarkdeals.com/coupons/zenni-optical-promo-code/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "e2bc923ba361fa4678b65f9b",
-      "types": [
-        "removed"
-      ],
-      "title": "Thrustmaster T.Flight Hotas 4 joystick for PC and PlayStation 5 for $60",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://clarkdeals.com/gaming/thrustmaster-t-flight-hotas-4-joystick-for-pc-and-playstation-5/",
-      "source_url": "https://clarkdeals.com/gaming/thrustmaster-t-flight-hotas-4-joystick-for-pc-and-playstation-5/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "e5cd728ae4fef9ff352f35e3",
-      "types": [
-        "removed"
-      ],
-      "title": "Get a FREE baguette with purchase at Panera on November 25",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://clarkdeals.com/food-drink/get-a-free-baguette-with-purchase-at-panera-on-november-25/",
-      "source_url": "https://clarkdeals.com/food-drink/get-a-free-baguette-with-purchase-at-panera-on-november-25/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "fd39ff962d972f18b97571eb",
-      "types": [
-        "removed"
-      ],
-      "title": "Blissy pillowcase for $40",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://clarkdeals.com/home-kitchen/blissy-pillowcase/",
-      "source_url": "https://clarkdeals.com/home-kitchen/blissy-pillowcase/",
+      "url": "https://clarkdeals.com/tv/hisense-55-inch-qd5-hi-qled-4k-roku-tv/",
+      "source_url": "https://clarkdeals.com/tv/hisense-55-inch-qd5-hi-qled-4k-roku-tv/",
       "retailer_url": null,
       "link_type": "source"
     }

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-22T18:04:22.273716+00:00",
+  "retrieved_at": "2026-11-22T23:53:28.537384+00:00",
   "source": {
     "id": "freebie-guy",
     "name": "The Freebie Guy",
@@ -10,11 +10,89 @@
   "baseline": false,
   "events": [
     {
-      "id": "02ceeafe34e4c89dfd036fc2",
+      "id": "04dc6e0d1c71304bf9aaff47",
+      "types": [
+        "new"
+      ],
+      "title": "Bird Feeder w/ Camera Only $29.xx on Amazon (Reg. $99)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://thefreebieguy.com/soliom-bird-feeder/",
+      "source_url": "https://thefreebieguy.com/soliom-bird-feeder/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "0a1a65f21bc93a4fc56e8b34",
+      "types": [
+        "new"
+      ],
+      "title": "Walmart’s Black Friday Deals Start Tonight!",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://thefreebieguy.com/walmart-black-friday/",
+      "source_url": "https://thefreebieguy.com/walmart-black-friday/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "0b60339066006528bdbeca14",
+      "types": [
+        "new"
+      ],
+      "title": "TWO Bags of Laffy Taffy Banana Mini Bars JUST $1.xx on Amazon (Reg. $5)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://thefreebieguy.com/laffy-taffy-mini-bar-bag-banana/",
+      "source_url": "https://thefreebieguy.com/laffy-taffy-mini-bar-bag-banana/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "0e5f3f448581e4b9c6799133",
       "types": [
         "removed"
       ],
-      "title": "Red Robin Deals | Free Meal for Veterans & More!",
+      "title": "40% Off Carhartt Hoodies at Lowe’s",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -30,17 +108,69 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://thefreebieguy.com/red-robin-deals/",
-      "source_url": "https://thefreebieguy.com/red-robin-deals/",
+      "url": "https://thefreebieguy.com/carhartt-hoodie/",
+      "source_url": "https://thefreebieguy.com/carhartt-hoodie/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "065a93a223b618b7137ec720",
+      "id": "1466a09c7da5e392932ad993",
+      "types": [
+        "new"
+      ],
+      "title": "Warming Coffee Mug w/ Warmer Coaster & Lid Only $19.xx on Macy’s (Reg. $58)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://thefreebieguy.com/tzumi-warming-coffee-mug/",
+      "source_url": "https://thefreebieguy.com/tzumi-warming-coffee-mug/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "158328d3236e322abac95677",
+      "types": [
+        "new"
+      ],
+      "title": "CVS Photo: 65% off Same Day Panels + MORE Deals!",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://thefreebieguy.com/cvs-photo-deals-coupons/",
+      "source_url": "https://thefreebieguy.com/cvs-photo-deals-coupons/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "18021fe9f7f3ff64615986dd",
       "types": [
         "removed"
       ],
-      "title": "Free Movie Ticket to See “Hershey” in Fandango Theaters From Nov 24-26!",
+      "title": "Sour Jacks Sour Gummy Wedges Variety Pack 75 Count Only $8.xx on Amazon (Reg $16)",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -56,17 +186,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://thefreebieguy.com/hershey-fandango/",
-      "source_url": "https://thefreebieguy.com/hershey-fandango/",
+      "url": "https://thefreebieguy.com/sour-jacks-sour-gummy-wedges-variety-pack/",
+      "source_url": "https://thefreebieguy.com/sour-jacks-sour-gummy-wedges-variety-pack/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "0e280e10b4d88722f023da81",
+      "id": "2e40a0b7d14d89bc187480d2",
       "types": [
         "removed"
       ],
-      "title": "Best Walmart Cash Offers Available Now | Hot New Deals on Snacks, Home Essentials & MORE!",
+      "title": "UGG Early Cyber Sale │ Women’s Classic Micro Boots Now $97",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -82,43 +212,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://thefreebieguy.com/best-walmart-cash-offers/",
-      "source_url": "https://thefreebieguy.com/best-walmart-cash-offers/",
+      "url": "https://thefreebieguy.com/ugg-black-friday/",
+      "source_url": "https://thefreebieguy.com/ugg-black-friday/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "1174eeeda11b3db7325d887f",
-      "types": [
-        "new"
-      ],
-      "title": "60% OFF All Photo Cards, Photo Calendars & MORE at Walgreens!",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://thefreebieguy.com/walgreens-free-photo-deals-coupons/",
-      "source_url": "https://thefreebieguy.com/walgreens-free-photo-deals-coupons/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "2737e59f5b915d85bdadd3df",
+      "id": "34ba3c023a7cc6caf89b1a19",
       "types": [
         "removed"
       ],
-      "title": "L.O.L. Surprise Inflatable River Race Water Slide with Blower Only $139.xx on Amazon (Reg $550)",
+      "title": "Soundcore by Anker Noice Cancelling Headphones Only $37.xx on Amazon (Reg. $140)",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -134,17 +238,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://thefreebieguy.com/l-o-l-surprise-inflatable-river-race-water-slide/",
-      "source_url": "https://thefreebieguy.com/l-o-l-surprise-inflatable-river-race-water-slide/",
+      "url": "https://thefreebieguy.com/soundcore-by-anker-q20i-hybrid-active-noise-cancelling-headphones/",
+      "source_url": "https://thefreebieguy.com/soundcore-by-anker-q20i-hybrid-active-noise-cancelling-headphones/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "2b2c97dd29e45669fed15946",
+      "id": "3f6b5ca1b9bd5a81212bc32f",
       "types": [
         "new"
       ],
-      "title": "Crock-Pot 7-qt. Countdown Cook & Carry Slow Cooker Only $39.xx on Kohl’s (Reg $100)",
+      "title": "Taba Squishy Making Kit Only $23.xx on Amazon!",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -160,17 +264,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://thefreebieguy.com/crock-pot-7-qt-countdown-cook-carry-slow-cooker/",
-      "source_url": "https://thefreebieguy.com/crock-pot-7-qt-countdown-cook-carry-slow-cooker/",
+      "url": "https://thefreebieguy.com/dan-darci-taba-squishy-making-kit/",
+      "source_url": "https://thefreebieguy.com/dan-darci-taba-squishy-making-kit/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "30e155dcbfac4557fa723150",
+      "id": "509b52236cbd978bd2cd5a09",
       "types": [
         "new"
       ],
-      "title": "20% Off Gift Cards on Target | Apple, H&M, Fandango & More!",
+      "title": "Ooey Gooey Squishies as low as $4.xx at Walmart! (Reg. $11)",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -186,17 +290,95 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://thefreebieguy.com/target-gift-card-offer/",
-      "source_url": "https://thefreebieguy.com/target-gift-card-offer/",
+      "url": "https://thefreebieguy.com/ooey-gooey-le-goo-bakery-squishies/",
+      "source_url": "https://thefreebieguy.com/ooey-gooey-le-goo-bakery-squishies/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "355f1f75563b7623989cd9c6",
+      "id": "563be815f132bf992b39a418",
+      "types": [
+        "new"
+      ],
+      "title": "Febreze Air Mist Sprays Only $1.xx at Target!",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://thefreebieguy.com/febreze-air-mist-sprays/",
+      "source_url": "https://thefreebieguy.com/febreze-air-mist-sprays/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "7ea66bb155158dd734bbec76",
+      "types": [
+        "new"
+      ],
+      "title": "50% Off Top Toys at Kohl’s + Get $15 Kohl’s Cash w/ $50 Spend",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://thefreebieguy.com/kohls-toys/",
+      "source_url": "https://thefreebieguy.com/kohls-toys/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "868d18355f0115be5d0c7cc8",
+      "types": [
+        "new"
+      ],
+      "title": "Shark FlexStyle Air Multi-Styler & Drying System Only $199 Shipped (Reg. $400)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://thefreebieguy.com/shark-flexstyle-system/",
+      "source_url": "https://thefreebieguy.com/shark-flexstyle-system/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "897ee79f2160e84e75c85894",
       "types": [
         "removed"
       ],
-      "title": "Extra 50% Off Adidas Sale on eBay | Prices From $7.xx Shipped!",
+      "title": "Turtle Beach Nintendo Switch Controllers Just $39.xx on Amazon (Reg $60)",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -212,17 +394,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://thefreebieguy.com/ebay-adidas-sales-and-deals/",
-      "source_url": "https://thefreebieguy.com/ebay-adidas-sales-and-deals/",
+      "url": "https://thefreebieguy.com/turtle-beach-nintendo-switch-controllers/",
+      "source_url": "https://thefreebieguy.com/turtle-beach-nintendo-switch-controllers/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "3f390634e6ed15117b8f1684",
+      "id": "8f13d32991254053b7d1e877",
       "types": [
         "removed"
       ],
-      "title": "Amazon Echo Pop Kids Newest Model Only $19.xx on Amazon (Reg $50)",
+      "title": "Who Knew Storage Could Be This Cute? Pink Lowe’s Finds From $1.98",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -238,17 +420,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://thefreebieguy.com/amazon-echo-pop-kids-newest-model/",
-      "source_url": "https://thefreebieguy.com/amazon-echo-pop-kids-newest-model/",
+      "url": "https://thefreebieguy.com/lowes-pink-finds/",
+      "source_url": "https://thefreebieguy.com/lowes-pink-finds/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "426fec682c39ddc62902f526",
+      "id": "a3e123e186c3931e781fb2a9",
       "types": [
         "new"
       ],
-      "title": "Hanes Men’s Matching Hoodies & Sweatpants Just $9 Each at Walmart (Reg. $28)",
+      "title": "PUMA Men’s Low Cut Socks 8-Pack JUST $7.xx on Amazon (Reg. $20)",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -264,17 +446,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://thefreebieguy.com/hanes-walmart/",
-      "source_url": "https://thefreebieguy.com/hanes-walmart/",
+      "url": "https://thefreebieguy.com/puma-mens-low-cut-socks/",
+      "source_url": "https://thefreebieguy.com/puma-mens-low-cut-socks/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "470680c769128baaccfc36a0",
+      "id": "a5a04fbd58d3bc11f2142281",
       "types": [
         "new"
       ],
-      "title": "Target Black Friday 2026 Sale is Live + $1000 Target Gift Card Giveaway!",
+      "title": "Dawn Powerwash Spray w/ 3 Refills Just $10.xx Each on Amazon (Reg $18)",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -290,17 +472,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://thefreebieguy.com/target-black-friday/",
-      "source_url": "https://thefreebieguy.com/target-black-friday/",
+      "url": "https://thefreebieguy.com/dawn-powerwash-bundle/",
+      "source_url": "https://thefreebieguy.com/dawn-powerwash-bundle/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "4cbf5293dff9f32255677598",
+      "id": "aa24ab008542959716b2f405",
       "types": [
         "removed"
       ],
-      "title": "PSIER Bone Conduction Headphones Only $39.xx on Amazon (Reg $160)!",
+      "title": "ULTA Black Friday Weekly Deals | 50% off ULTA Samplers, BOGO Mascaras + Free Robe or Throw w/ $75 Purchase",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -316,43 +498,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://thefreebieguy.com/psier-bone-conduction-swimming-headphones/",
-      "source_url": "https://thefreebieguy.com/psier-bone-conduction-swimming-headphones/",
+      "url": "https://thefreebieguy.com/ulta-black-friday/",
+      "source_url": "https://thefreebieguy.com/ulta-black-friday/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "4d5f532a19cd8645a5af7170",
-      "types": [
-        "new"
-      ],
-      "title": "Kohl’s Black Friday Sale is Live + Score $15 Kohl’s Cash When You Spend $50!",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://thefreebieguy.com/kohls-black-friday/",
-      "source_url": "https://thefreebieguy.com/kohls-black-friday/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "4daadbcb6fdcd2b7be6cfb60",
+      "id": "bd696541c24c0851ab138292",
       "types": [
         "removed"
       ],
-      "title": "Vertvie Womens Wireless Jelly Bras Only $8.xx on Amazon (Reg. $29)",
+      "title": "Soundcore V20i by Anker Open-Ear Headphones Only $24.xx on Amazon (Reg. $50)",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -368,17 +524,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://thefreebieguy.com/vertvie-womens-wireless-jelly-bra/",
-      "source_url": "https://thefreebieguy.com/vertvie-womens-wireless-jelly-bra/",
+      "url": "https://thefreebieguy.com/soundcore-v20i-by-anker-open-ear-headphones/",
+      "source_url": "https://thefreebieguy.com/soundcore-v20i-by-anker-open-ear-headphones/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "4f0476e9716734df89ed69d3",
+      "id": "c734bff2e85037ac1ebb15fd",
       "types": [
         "removed"
       ],
-      "title": "Scott ComfortPlus Toilet Paper 48-Count Only $15.xx on Amazon (Reg. $22)",
+      "title": "Soundcore by Anker Noise Cancelling Earbuds Only $23.xx on Amazon (Reg. $50)",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -394,665 +550,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://thefreebieguy.com/scott-comfortplus-toilet-paper/",
-      "source_url": "https://thefreebieguy.com/scott-comfortplus-toilet-paper/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "519259939406d4a539035b64",
-      "types": [
-        "new"
-      ],
-      "title": "Amazon Essentials Petroleum Jelly Only $1.xx (Reg. $4)",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://thefreebieguy.com/amazon-basics-petroleum-jelly/",
-      "source_url": "https://thefreebieguy.com/amazon-basics-petroleum-jelly/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "5239f407ee0385b9f9af491a",
-      "types": [
-        "removed"
-      ],
-      "title": "Elegant Comfort 10-Piece Bed-in-a-Bag Comforter Set Only $28.xx at Walmart (Reg. $60)",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://thefreebieguy.com/elegant-comfort-10-piece-bed-in-a-bag/",
-      "source_url": "https://thefreebieguy.com/elegant-comfort-10-piece-bed-in-a-bag/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "543619d0ae68367296bd3048",
-      "types": [
-        "new"
-      ],
-      "title": "All for $111 Shipped! Gucci Guilty Love Edition Perfume + 9-Piece Gift + Beauty Bag + Gucci 4-Piece Gift",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://thefreebieguy.com/gucci-perfume-ulta-beauty-bundle/",
-      "source_url": "https://thefreebieguy.com/gucci-perfume-ulta-beauty-bundle/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "652e660d79e42b7ed8de3269",
-      "types": [
-        "removed"
-      ],
-      "title": "Bath & Body Works Hand Soaps Just $2.95 This Weekend + $1 Pocketbacs!",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://thefreebieguy.com/bath-and-body-works-sales/",
-      "source_url": "https://thefreebieguy.com/bath-and-body-works-sales/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "66578a77ad10d5427baa914d",
-      "types": [
-        "new"
-      ],
-      "title": "Under Armour Black Friday Sale is LIVE! 40% Off Under Armour Outlet + Extra 10% Off + Free Shipping",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://thefreebieguy.com/under-armour-black-friday/",
-      "source_url": "https://thefreebieguy.com/under-armour-black-friday/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "6794993da72981e64ee5794a",
-      "types": [
-        "new"
-      ],
-      "title": "Viral Medicube Jelly Cream with Collagen Only $8.xx on Amazon | Over 40K Sold Last Month!",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://thefreebieguy.com/medicube-jelly-cream/",
-      "source_url": "https://thefreebieguy.com/medicube-jelly-cream/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "69d033d3fd69adcc80b280df",
-      "types": [
-        "new"
-      ],
-      "title": "Heavy-Duty 27-Gallon Totes Just $6.98 at Lowe’s | Over 100K Sold!",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://thefreebieguy.com/lowes-heavy-duty-27-gallon-tote/",
-      "source_url": "https://thefreebieguy.com/lowes-heavy-duty-27-gallon-tote/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "79deddcfffca0ef9a1574567",
-      "types": [
-        "new"
-      ],
-      "title": "Jack Link’s Beef Jerky 20-Pack Bags Only $14.xx on Amazon (Reg. $21)",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://thefreebieguy.com/jack-links-beef-jerky/",
-      "source_url": "https://thefreebieguy.com/jack-links-beef-jerky/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "900e1965ac31bc43eaf24132",
-      "types": [
-        "new"
-      ],
-      "title": "Dick’s Sporting Goods Black Friday Sale is Live | Up to 80% Off Shoes, Clothing & More!",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://thefreebieguy.com/dicks-sporting-goods-black-friday/",
-      "source_url": "https://thefreebieguy.com/dicks-sporting-goods-black-friday/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "9c2b3f18589a3a74b9bd7243",
-      "types": [
-        "removed"
-      ],
-      "title": "THREE Free Tickets to ‘November 1963’ in Fandango Theaters!",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://thefreebieguy.com/november1963-fandango/",
-      "source_url": "https://thefreebieguy.com/november1963-fandango/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "9ffac7c73e6d93f6d423592c",
-      "types": [
-        "new"
-      ],
-      "title": "$16 Worth of Household Essentials Just $6.xx After Target Offers!",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://thefreebieguy.com/target-hot-circle-offers/",
-      "source_url": "https://thefreebieguy.com/target-hot-circle-offers/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "a540b6553ef2f1605c2a646b",
-      "types": [
-        "new"
-      ],
-      "title": "Outdoor Rocker Camp Chairs From Only $47 on Amazon!",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://thefreebieguy.com/gci-outdoor-camping-chair/",
-      "source_url": "https://thefreebieguy.com/gci-outdoor-camping-chair/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "a63a8fa75cefa6762c179388",
-      "types": [
-        "new"
-      ],
-      "title": "Amazon Smart Plug Only $14.xx (Reg. $25) | Perfect for Holiday Lights!",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://thefreebieguy.com/amazon-smart-plug/",
-      "source_url": "https://thefreebieguy.com/amazon-smart-plug/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "ac1528b2755a969abcd42710",
-      "types": [
-        "removed"
-      ],
-      "title": "Crocs Doorbuster Deals Up To 60% OFF + Extra 25% Off – Clogs From $13.xx!",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://thefreebieguy.com/crocs-sale/",
-      "source_url": "https://thefreebieguy.com/crocs-sale/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "b5c13c84487a234e0b6ecde8",
-      "types": [
-        "new"
-      ],
-      "title": "Cuddl Duds Plush Sherpa Throw from $15.xx at Kohl’s (Reg. $40)",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://thefreebieguy.com/kohls-cuddl-duds-plush-to-sherpa-throw/",
-      "source_url": "https://thefreebieguy.com/kohls-cuddl-duds-plush-to-sherpa-throw/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "b5fdba364c61978e37c49b6a",
-      "types": [
-        "removed"
-      ],
-      "title": "Thanksgiving Feast For 10 Just $2.50 Per Person at Walmart | Includes Turkey, Sides & More!",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://thefreebieguy.com/walmart-thanksgiving/",
-      "source_url": "https://thefreebieguy.com/walmart-thanksgiving/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "ba4bf69ce0b4a97cce48c3d7",
-      "types": [
-        "removed"
-      ],
-      "title": "Macy’s Black Friday Fragrance Steals! 50% off Top Designer Brands!",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://thefreebieguy.com/macys-fragrance-sale/",
-      "source_url": "https://thefreebieguy.com/macys-fragrance-sale/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "ba4e3d2f7446644b73966dcb",
-      "types": [
-        "new"
-      ],
-      "title": "TWO Chamberlain myQ Video Doorbell + $10 Amazon Credit Only $37.xx on Amazon",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://thefreebieguy.com/chamberlain-myq-video-doorbell/",
-      "source_url": "https://thefreebieguy.com/chamberlain-myq-video-doorbell/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "bc64baf4d55f7138095c9428",
-      "types": [
-        "removed"
-      ],
-      "title": "Arby’s Specials & Coupons | BOGO Free Sandwich through November 22",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://thefreebieguy.com/arbys-specials-coupons/",
-      "source_url": "https://thefreebieguy.com/arbys-specials-coupons/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "c0a6968b5f87e886dc39cf9d",
-      "types": [
-        "new"
-      ],
-      "title": "GO! ULTA Fragrance Sampler Kits from $17 ($52+ Value)!",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://thefreebieguy.com/ulta-beauty-finds/",
-      "source_url": "https://thefreebieguy.com/ulta-beauty-finds/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "c1b5f6ed9385240b0b7edf36",
-      "types": [
-        "new"
-      ],
-      "title": "Macy’s Black Friday Deal | Women’s Boots for $19.99 (Reg up to $90)",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://thefreebieguy.com/macys-boots/",
-      "source_url": "https://thefreebieguy.com/macys-boots/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "c4275cdd68259cca2d3bcb31",
-      "types": [
-        "new"
-      ],
-      "title": "X-Sense Indoor Wi-Fi Thermometer Hygrometer Only $32.xx on Amazon (Reg $50)",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://thefreebieguy.com/x-sense-indoor-wi-fi-thermometer-hygrometer/",
-      "source_url": "https://thefreebieguy.com/x-sense-indoor-wi-fi-thermometer-hygrometer/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "c8e7348f812217ead247c808",
-      "types": [
-        "removed"
-      ],
-      "title": "Adidas Black Friday Sale 2026 is LIVE – Up to 60% off Sitewide",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://thefreebieguy.com/adidas-black-friday/",
-      "source_url": "https://thefreebieguy.com/adidas-black-friday/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "cb6aacf6ad6c6eb2ec48056c",
-      "types": [
-        "new"
-      ],
-      "title": "All for $109! Viktor & Rolf Flowerbomb Tiger Lily Perfume + Mini Perfume + 9-Piece Gift Set + Robe or Throw",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://thefreebieguy.com/viktor-rolf-ulta-beauty-gift/",
-      "source_url": "https://thefreebieguy.com/viktor-rolf-ulta-beauty-gift/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "ceb6aef64d79161d05e619bc",
-      "types": [
-        "new"
-      ],
-      "title": "Hot Vans Sale! Extra 40% Off with Prices Starting at Just $8.98 for The Whole Family!",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://thefreebieguy.com/vans-sale/",
-      "source_url": "https://thefreebieguy.com/vans-sale/",
+      "url": "https://thefreebieguy.com/soundcore-anker-space-earbuds/",
+      "source_url": "https://thefreebieguy.com/soundcore-anker-space-earbuds/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "d06a5147283d478f0541c5d2",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Nulas 13-PC Kitchen Knife Set Only $6.xx on Amazon (Reg. $20)",
       "retailer": null,
@@ -1076,11 +582,11 @@
       "link_type": "source"
     },
     {
-      "id": "d16020435b018d5cfc521f99",
+      "id": "d38c45f56fa92f8cbc9b0789",
       "types": [
         "removed"
       ],
-      "title": "Olive Garden Deals & Offers | Never Ending Pasta Ends November 22 + Never Ending Soup, Salad, & Breadsticks!",
+      "title": "Where to Find Free & Cheap Thanksgiving Turkeys in 2026",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -1096,17 +602,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://thefreebieguy.com/olive-garden-deals/",
-      "source_url": "https://thefreebieguy.com/olive-garden-deals/",
+      "url": "https://thefreebieguy.com/free-cheap-thanksgiving-turkey/",
+      "source_url": "https://thefreebieguy.com/free-cheap-thanksgiving-turkey/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "dec48ff1afc55e2ec50f4cdf",
+      "id": "eaa9ab3545952b197fa75d23",
       "types": [
         "removed"
       ],
-      "title": "GO! Viral SlimyGloop Gelli Gels on Amazon from $4.xx–Will Sell Out!",
+      "title": "Victoria’s Secret Panties 5-Packs From $21",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -1122,242 +628,8 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://thefreebieguy.com/squishmallows-slimygoop-gelli-gels/",
-      "source_url": "https://thefreebieguy.com/squishmallows-slimygoop-gelli-gels/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "e05b6849709ed04c9d641daf",
-      "types": [
-        "removed"
-      ],
-      "title": "Top Weekend Freebies & Deals – Target Free LEGO-Themed Gift Tag & More!",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://thefreebieguy.com/top-weekend-freebies-deals/",
-      "source_url": "https://thefreebieguy.com/top-weekend-freebies-deals/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "e3ed583b38cd79c95df34079",
-      "types": [
-        "removed"
-      ],
-      "title": "Macy’s 25 Days of Beauty Advent Calendars From $45 Shipped ($300+ Value)!",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://thefreebieguy.com/macys-beauty-advent-calendar/",
-      "source_url": "https://thefreebieguy.com/macys-beauty-advent-calendar/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "e41b63ca92e33b4e46adc32d",
-      "types": [
-        "new"
-      ],
-      "title": "Under Armour Hats as low as $5.xx (Reg. $20+)!",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://thefreebieguy.com/under-armour-hats/",
-      "source_url": "https://thefreebieguy.com/under-armour-hats/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "e58610914c71076b0bf02f03",
-      "types": [
-        "removed"
-      ],
-      "title": "Kleenex Ultra Soft Facial Tissues 8-Pack Just $11.xx on Amazon (Reg $20) – 1,440 TOTAL TISSUES!",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://thefreebieguy.com/kleenex-amazon/",
-      "source_url": "https://thefreebieguy.com/kleenex-amazon/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "e885f214e6aa5e48c685ed20",
-      "types": [
-        "new"
-      ],
-      "title": "Macy’s Black Friday Sale is Live! $18 Comforters, 70% Off Toys + More!",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://thefreebieguy.com/macys-black-friday/",
-      "source_url": "https://thefreebieguy.com/macys-black-friday/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "e939ff8d32a80f1dcfb524f3",
-      "types": [
-        "removed"
-      ],
-      "title": "Professional Ionic Hair Dryer with 3 Attachments Only $19.xx on Amazon (Reg. $40)!",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://thefreebieguy.com/slopehill-ionic-hair-dryer/",
-      "source_url": "https://thefreebieguy.com/slopehill-ionic-hair-dryer/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "ef06d2afef25e6ac63f96b87",
-      "types": [
-        "removed"
-      ],
-      "title": "Price Drop! Step2 My First Christmas Tree Only $45.xx at Kohl’s (Reg. $70)",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://thefreebieguy.com/step2-my-first-christmas-tree/",
-      "source_url": "https://thefreebieguy.com/step2-my-first-christmas-tree/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "f67b4fe470f8643d11fc531d",
-      "types": [
-        "removed"
-      ],
-      "title": "Extra 25% Off Nike Dunk Shoes – Prices from $29.xx!",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://thefreebieguy.com/nike-dunk-sale/",
-      "source_url": "https://thefreebieguy.com/nike-dunk-sale/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "febd261494c6fea75627f459",
-      "types": [
-        "removed"
-      ],
-      "title": "Crazy Low Prices on the Pink New Balance 9060’s!",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://thefreebieguy.com/new-balance-9060/",
-      "source_url": "https://thefreebieguy.com/new-balance-9060/",
+      "url": "https://thefreebieguy.com/victorias-secret-panties-deal/",
+      "source_url": "https://thefreebieguy.com/victorias-secret-panties-deal/",
       "retailer_url": null,
       "link_type": "source"
     }

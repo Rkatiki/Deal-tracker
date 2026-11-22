@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-22T18:04:22.273716+00:00",
+  "retrieved_at": "2026-11-22T23:53:28.537384+00:00",
   "source": {
     "id": "macrumors",
     "name": "MacRumors Deals",
@@ -10,63 +10,11 @@
   "baseline": false,
   "events": [
     {
-      "id": "06b733fc9d4a09e010864cfd",
-      "types": [
-        "removed"
-      ],
-      "title": "Google's Gemini Can Now Control Apps on Your Mac",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.macrumors.com/2026/11/19/google-gemini-mac-app-control/",
-      "source_url": "https://www.macrumors.com/2026/11/19/google-gemini-mac-app-control/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "171d87728c6f55eca324acf0",
-      "types": [
-        "removed"
-      ],
-      "title": "Apple is Building an AI Agent That Can Use Apps and Code",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.macrumors.com/2026/11/19/apple-ai-agent-development/",
-      "source_url": "https://www.macrumors.com/2026/11/19/apple-ai-agent-development/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "5aab907f110a748d34e9adbd",
+      "id": "19ba11b415e6e2192453ecf2",
       "types": [
         "new"
       ],
-      "title": "AirPods Pro 3 Drop to $169.99 in Amazon Black Friday Sale",
+      "title": "iPhone Duo Could Get More Lock Screen Widgets, Leak Suggests",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -82,17 +30,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.macrumors.com/2026/11/22/airpods-pro-3-169/",
-      "source_url": "https://www.macrumors.com/2026/11/22/airpods-pro-3-169/",
+      "url": "https://www.macrumors.com/2026/11/22/iphone-duo-could-get-more-lock-screen-widgets/",
+      "source_url": "https://www.macrumors.com/2026/11/22/iphone-duo-could-get-more-lock-screen-widgets/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "734e79cc6f5b2632fb2e8070",
+      "id": "1c2a07bcd74a452b49145ac5",
       "types": [
         "new"
       ],
-      "title": "Apple Watch SE 3 Lineup Sees Record Low Prices Starting at Just $179",
+      "title": "Gurman: Siri Layoffs Spared Newer AI Systems, But Problems Persist",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -108,69 +56,43 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.macrumors.com/2026/11/22/apple-watch-se-3-179/",
-      "source_url": "https://www.macrumors.com/2026/11/22/apple-watch-se-3-179/",
+      "url": "https://www.macrumors.com/2026/11/22/siri-layoffs-spared-newer-ai-systems/",
+      "source_url": "https://www.macrumors.com/2026/11/22/siri-layoffs-spared-newer-ai-systems/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "75eb33b750880a1f0f784b4f",
+      "id": "79d51cb5ee5297d4c8969a5f",
       "types": [
         "removed"
       ],
-      "title": "AirPods Black Friday Deals Hit Pro 3 at $179 and Max 2 at $429",
+      "title": "Black Friday Deal: Apple TV Streaming Service for $6.99/Month",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
       "rank": {
-        "category": "other",
+        "category": "tv",
         "variant": null,
         "status": "price_unavailable",
         "score": 0,
-        "max_usd": null,
+        "max_usd": 500,
         "preferred_usd": null,
         "within_budget": null,
         "comparisons": {},
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.macrumors.com/2026/11/19/airpods-black-friday-deals/",
-      "source_url": "https://www.macrumors.com/2026/11/19/airpods-black-friday-deals/",
+      "url": "https://www.macrumors.com/2026/11/19/apple-tv-black-friday-streaming-deal/",
+      "source_url": "https://www.macrumors.com/2026/11/19/apple-tv-black-friday-streaming-deal/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "9b50ac62189ad81bd8d1fc5b",
-      "types": [
-        "new"
-      ],
-      "title": "Apple Reportedly Plans to Release These Products in February or March",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.macrumors.com/2026/11/22/new-apple-products-february-or-march/",
-      "source_url": "https://www.macrumors.com/2026/11/22/new-apple-products-february-or-march/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "b5a32e30b819b44003bf852b",
+      "id": "8b212d91fe5dffbb15daaa94",
       "types": [
         "removed"
       ],
-      "title": "Second iOS 27.3 and macOS Golden Gate 27.3 Public Betas Now Available",
+      "title": "MacBook Pro Black Friday Deals Are Here: Get Up to $250 Off M6 and PROLED XDR",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -186,34 +108,8 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.macrumors.com/2026/11/19/ios-27-3-public-beta-2/",
-      "source_url": "https://www.macrumors.com/2026/11/19/ios-27-3-public-beta-2/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "bef52ca41d61035ac456a933",
-      "types": [
-        "new"
-      ],
-      "title": "M6 MacBook Pro Drops to $1,799 in New Black Friday Sale ($200 Off)",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.macrumors.com/2026/11/22/m6-macbook-pro-200-discount/",
-      "source_url": "https://www.macrumors.com/2026/11/22/m6-macbook-pro-200-discount/",
+      "url": "https://www.macrumors.com/2026/11/19/macbook-pro-black-friday-deals-3/",
+      "source_url": "https://www.macrumors.com/2026/11/19/macbook-pro-black-friday-deals-3/",
       "retailer_url": null,
       "link_type": "source"
     }

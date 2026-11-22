@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "checked_at": "2026-11-22T18:04:22.273716+00:00",
+  "checked_at": "2026-11-22T23:53:28.537384+00:00",
   "sources": [
     {
       "id": "dealnews",
@@ -8,9 +8,9 @@
       "url": "https://www.dealnews.com/?rss=1&sort=time",
       "snapshot": "dealnews/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-22T18:04:22.273716+00:00",
-      "offer_count": 43,
-      "candidate_count": 1
+      "last_success_at": "2026-11-22T23:53:28.537384+00:00",
+      "offer_count": 44,
+      "candidate_count": 2
     },
     {
       "id": "slickdeals",
@@ -18,7 +18,7 @@
       "url": "https://slickdeals.net/newsearch.php?mode=frontpage&searcharea=deals&searchin=first&rss=1",
       "snapshot": "slickdeals/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-22T18:04:22.273716+00:00",
+      "last_success_at": "2026-11-22T23:53:28.537384+00:00",
       "offer_count": 25,
       "candidate_count": 0
     },
@@ -39,7 +39,7 @@
       "url": "https://forums.woot.com/c/deal-chatter/daily-deal/10.rss",
       "snapshot": "woot-daily/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-22T18:04:22.273716+00:00",
+      "last_success_at": "2026-11-22T23:53:28.537384+00:00",
       "offer_count": 25,
       "candidate_count": 0
     },
@@ -49,7 +49,7 @@
       "url": "https://9to5toys.com/feed/",
       "snapshot": "9to5toys/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-22T18:04:22.273716+00:00",
+      "last_success_at": "2026-11-22T23:53:28.537384+00:00",
       "offer_count": 50,
       "candidate_count": 0
     },
@@ -59,7 +59,7 @@
       "url": "https://9to5mac.com/guides/deals/feed/",
       "snapshot": "9to5mac/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-22T18:04:22.273716+00:00",
+      "last_success_at": "2026-11-22T23:53:28.537384+00:00",
       "offer_count": 27,
       "candidate_count": 0
     },
@@ -69,7 +69,7 @@
       "url": "https://www.androidauthority.com/deals/feed/",
       "snapshot": "android-authority/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-22T18:04:22.273716+00:00",
+      "last_success_at": "2026-11-22T23:53:28.537384+00:00",
       "offer_count": 80,
       "candidate_count": 0
     },
@@ -79,7 +79,7 @@
       "url": "https://feeds.macrumors.com/MacRumors-Deals",
       "snapshot": "macrumors/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-22T18:04:22.273716+00:00",
+      "last_success_at": "2026-11-22T23:53:28.537384+00:00",
       "offer_count": 20,
       "candidate_count": 0
     },
@@ -89,7 +89,7 @@
       "url": "https://www.cnet.com/rss/deals/",
       "snapshot": "cnet/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-22T18:04:22.273716+00:00",
+      "last_success_at": "2026-11-22T23:53:28.537384+00:00",
       "offer_count": 15,
       "candidate_count": 0
     },
@@ -99,7 +99,7 @@
       "url": "https://www.wired.com/feed/tag/deals/latest/rss",
       "snapshot": "wired/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-22T18:04:22.273716+00:00",
+      "last_success_at": "2026-11-22T23:53:28.537384+00:00",
       "offer_count": 40,
       "candidate_count": 0
     },
@@ -109,7 +109,7 @@
       "url": "https://www.tomsguide.com/feeds.xml",
       "snapshot": "toms-guide/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-22T18:04:22.273716+00:00",
+      "last_success_at": "2026-11-22T23:53:28.537384+00:00",
       "offer_count": 29,
       "candidate_count": 0
     },
@@ -119,7 +119,7 @@
       "url": "https://www.techradar.com/feeds.xml",
       "snapshot": "techradar/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-22T18:04:22.273716+00:00",
+      "last_success_at": "2026-11-22T23:53:28.537384+00:00",
       "offer_count": 12,
       "candidate_count": 0
     },
@@ -129,8 +129,8 @@
       "url": "https://www.tomshardware.com/feeds.xml",
       "snapshot": "toms-hardware/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-22T18:04:22.273716+00:00",
-      "offer_count": 21,
+      "last_success_at": "2026-11-22T23:53:28.537384+00:00",
+      "offer_count": 23,
       "candidate_count": 0
     },
     {
@@ -139,7 +139,7 @@
       "url": "https://www.windowscentral.com/feeds.xml",
       "snapshot": "windows-central/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-22T18:04:22.273716+00:00",
+      "last_success_at": "2026-11-22T23:53:28.537384+00:00",
       "offer_count": 13,
       "candidate_count": 0
     },
@@ -149,7 +149,7 @@
       "url": "https://www.pcworld.com/feed",
       "snapshot": "pcworld/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-22T18:04:22.273716+00:00",
+      "last_success_at": "2026-11-22T23:53:28.537384+00:00",
       "offer_count": 13,
       "candidate_count": 0
     },
@@ -159,7 +159,7 @@
       "url": "https://clarkdeals.com/feed/",
       "snapshot": "clark-deals/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-22T18:04:22.273716+00:00",
+      "last_success_at": "2026-11-22T23:53:28.537384+00:00",
       "offer_count": 40,
       "candidate_count": 0
     },
@@ -169,8 +169,8 @@
       "url": "https://hip2save.com/feed/",
       "snapshot": "hip2save/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-22T18:04:22.273716+00:00",
-      "offer_count": 81,
+      "last_success_at": "2026-11-22T23:53:28.537384+00:00",
+      "offer_count": 82,
       "candidate_count": 0
     },
     {
@@ -179,7 +179,7 @@
       "url": "https://www.dansdeals.com/feed/",
       "snapshot": "dans-deals/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-22T18:04:22.273716+00:00",
+      "last_success_at": "2026-11-22T23:53:28.537384+00:00",
       "offer_count": 75,
       "candidate_count": 0
     },
@@ -189,8 +189,8 @@
       "url": "https://www.southernsavers.com/feed/",
       "snapshot": "southern-savers/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-22T18:04:22.273716+00:00",
-      "offer_count": 17,
+      "last_success_at": "2026-11-22T23:53:28.537384+00:00",
+      "offer_count": 16,
       "candidate_count": 0
     },
     {
@@ -199,7 +199,7 @@
       "url": "https://passionatepennypincher.com/feed/",
       "snapshot": "passionate-penny-pincher/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-22T18:04:22.273716+00:00",
+      "last_success_at": "2026-11-22T23:53:28.537384+00:00",
       "offer_count": 45,
       "candidate_count": 0
     },
@@ -209,7 +209,7 @@
       "url": "https://www.freestufffinder.com/feed/",
       "snapshot": "free-stuff-finder/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-22T18:04:22.273716+00:00",
+      "last_success_at": "2026-11-22T23:53:28.537384+00:00",
       "offer_count": 100,
       "candidate_count": 0
     },
@@ -219,7 +219,7 @@
       "url": "https://thefreebieguy.com/feed/",
       "snapshot": "freebie-guy/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-22T18:04:22.273716+00:00",
+      "last_success_at": "2026-11-22T23:53:28.537384+00:00",
       "offer_count": 40,
       "candidate_count": 0
     },
@@ -229,7 +229,7 @@
       "url": "https://www.livingrichwithcoupons.com/feed",
       "snapshot": "living-rich-with-coupons/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-22T18:04:22.273716+00:00",
+      "last_success_at": "2026-11-22T23:53:28.537384+00:00",
       "offer_count": 41,
       "candidate_count": 0
     },
@@ -239,8 +239,8 @@
       "url": "https://isthereanydeal.com/feeds/US/USD/deals.rss",
       "snapshot": "isthereanydeal/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-22T18:04:22.273716+00:00",
-      "offer_count": 150,
+      "last_success_at": "2026-11-22T23:53:28.537384+00:00",
+      "offer_count": 149,
       "candidate_count": 0
     },
     {
@@ -249,7 +249,7 @@
       "url": "https://www.cheapshark.com/api/1.0/deals?storeID=1&upperPrice=15&pageSize=30",
       "snapshot": "cheapshark-steam/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-22T18:04:22.273716+00:00",
+      "last_success_at": "2026-11-22T23:53:28.537384+00:00",
       "offer_count": 30,
       "candidate_count": 0
     },
@@ -259,42 +259,12 @@
       "url": "https://github.com/thuongtin/awesome-bfcm-2026",
       "snapshot": "github-bfcm-2026/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-22T18:04:22.273716+00:00",
-      "offer_count": 1768,
+      "last_success_at": "2026-11-22T23:53:28.537384+00:00",
+      "offer_count": 1810,
       "candidate_count": 4
     }
   ],
   "candidates": [
-    {
-      "id": "1207c301e125de334621f8f1",
-      "title": "Lefant M210 OMNI Robot Vacuum and Mop for $160 + free shipping",
-      "url": "https://www.dealnews.com/products/Lefant/Lefant-M210-Omni-Robot-Vacuum-and-Mop/541142.html?iref=rss",
-      "source_url": "https://www.dealnews.com/products/Lefant/Lefant-M210-Omni-Robot-Vacuum-and-Mop/541142.html?iref=rss",
-      "retailer_url": null,
-      "link_type": "source",
-      "retailer": "Amazon",
-      "price_cents": 15999,
-      "headline_price_cents": null,
-      "price_source": "publisher_structured_data",
-      "currency": "USD",
-      "source_id": "dealnews",
-      "publisher": "DealNews",
-      "published_at": "2026-11-22T16:51:44+00:00",
-      "expires_at": "2027-01-01T05:00:00+00:00",
-      "publication_category": null,
-      "rank": {
-        "category": "robot_vacuum_mop",
-        "variant": null,
-        "status": "candidate",
-        "score": 38.43,
-        "max_usd": 350,
-        "preferred_usd": 250,
-        "within_budget": true,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
     {
       "id": "19f797d87d2b9254f20dde97",
       "title": "SoundBar for Mac, $6.99 lifetime, Black Friday 2026",
@@ -347,6 +317,36 @@
         "variant": null,
         "status": "candidate",
         "score": 32.44,
+        "max_usd": 500,
+        "preferred_usd": null,
+        "within_budget": true,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
+      "id": "f5395bb07002aa86d3606ab3",
+      "title": "Hisense 55QD5SR 55\" 4K UHD QLED Smart Roku TV for $180 + free shipping",
+      "url": "https://www.dealnews.com/products/Hisense/Hisense-55-QD5-SR-55-4-K-UHD-QLED-Smart-Roku-TV/541164.html?iref=rss",
+      "source_url": "https://www.dealnews.com/products/Hisense/Hisense-55-QD5-SR-55-4-K-UHD-QLED-Smart-Roku-TV/541164.html?iref=rss",
+      "retailer_url": null,
+      "link_type": "source",
+      "retailer": "Best Buy",
+      "price_cents": 18000,
+      "headline_price_cents": null,
+      "price_source": "publisher_structured_data",
+      "currency": "USD",
+      "source_id": "dealnews",
+      "publisher": "DealNews",
+      "published_at": "2026-11-22T23:02:11+00:00",
+      "expires_at": "2027-02-20T23:02:11+00:00",
+      "publication_category": "TVs",
+      "rank": {
+        "category": "tv",
+        "variant": null,
+        "status": "candidate",
+        "score": 31.4,
         "max_usd": 500,
         "preferred_usd": null,
         "within_budget": true,
@@ -414,6 +414,36 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       }
+    },
+    {
+      "id": "5efb71bd5ed81cd62047300c",
+      "title": "Hisense M7 Series 75M7SR 75\" 4K Smart Roku TV for $500 + free shipping",
+      "url": "https://www.dealnews.com/products/Hisense/Hisense-M7-Series-75-M7-SR-75-4-K-Smart-Roku-TV/562574.html?iref=rss",
+      "source_url": "https://www.dealnews.com/products/Hisense/Hisense-M7-Series-75-M7-SR-75-4-K-Smart-Roku-TV/562574.html?iref=rss",
+      "retailer_url": null,
+      "link_type": "source",
+      "retailer": "Best Buy",
+      "price_cents": 50000,
+      "headline_price_cents": null,
+      "price_source": "publisher_structured_data",
+      "currency": "USD",
+      "source_id": "dealnews",
+      "publisher": "DealNews",
+      "published_at": "2026-11-22T23:36:56+00:00",
+      "expires_at": "2027-02-20T23:36:56+00:00",
+      "publication_category": "TVs",
+      "rank": {
+        "category": "tv",
+        "variant": null,
+        "status": "candidate",
+        "score": 25.0,
+        "max_usd": 500,
+        "preferred_usd": null,
+        "within_budget": true,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
     }
   ],
   "headline_leads": [
@@ -460,48 +490,6 @@
       }
     },
     {
-      "id": "79d51cb5ee5297d4c8969a5f",
-      "title": "Black Friday Deal: Apple TV Streaming Service for $6.99/Month",
-      "url": "https://www.macrumors.com/2026/11/19/apple-tv-black-friday-streaming-deal/",
-      "source_url": "https://www.macrumors.com/2026/11/19/apple-tv-black-friday-streaming-deal/",
-      "retailer_url": null,
-      "link_type": "source",
-      "retailer": null,
-      "price_cents": null,
-      "headline_price_cents": 699,
-      "price_source": null,
-      "currency": null,
-      "source_id": "macrumors",
-      "publisher": "MacRumors Deals",
-      "published_at": "2026-11-19T23:12:05+00:00",
-      "expires_at": null,
-      "publication_category": "Apple TV",
-      "rank": {
-        "category": "tv",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": 500,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "headline_rank": {
-        "category": "tv",
-        "variant": null,
-        "status": "candidate",
-        "score": 34.86,
-        "max_usd": 500,
-        "preferred_usd": null,
-        "within_budget": true,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
       "id": "d02e3eb3c90b19ca13c3defc",
       "title": "Insignia 32″ class smart Fire TV with Alexa voice remote for $70",
       "url": "https://clarkdeals.com/tv/insignia-32-inch-class-f20-series-smart-hd-720p-fire-tv-with-alexa-voice-remote/",
@@ -535,90 +523,6 @@
         "variant": null,
         "status": "candidate",
         "score": 33.6,
-        "max_usd": 500,
-        "preferred_usd": null,
-        "within_budget": true,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
-      "id": "2f62ff02478e2db6cb418006",
-      "title": "55\" Hisense QD5 Hi-QLED 4K UHD Smart Roku TV (2026) $180 + Free S&H",
-      "url": "https://slickdeals.net/f/20338590-55-hisense-qd5-hi-qled-4k-uhd-smart-roku-tv-2026-180-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "source_url": "https://slickdeals.net/f/20338590-55-hisense-qd5-hi-qled-4k-uhd-smart-roku-tv-2026-180-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "retailer_url": null,
-      "link_type": "source",
-      "retailer": null,
-      "price_cents": null,
-      "headline_price_cents": 18000,
-      "price_source": null,
-      "currency": null,
-      "source_id": "slickdeals",
-      "publisher": "Slickdeals Frontpage",
-      "published_at": "2026-11-22T17:49:38+00:00",
-      "expires_at": null,
-      "publication_category": "Frontpage Deals",
-      "rank": {
-        "category": "tv",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": 500,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "headline_rank": {
-        "category": "tv",
-        "variant": null,
-        "status": "candidate",
-        "score": 31.4,
-        "max_usd": 500,
-        "preferred_usd": null,
-        "within_budget": true,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
-      "id": "34d680f3d2960ae960adb896",
-      "title": "Hisense 55-inch QD5 Hi-QLED 4K Roku TV for $180",
-      "url": "https://clarkdeals.com/tv/hisense-55-inch-qd5-hi-qled-4k-roku-tv/",
-      "source_url": "https://clarkdeals.com/tv/hisense-55-inch-qd5-hi-qled-4k-roku-tv/",
-      "retailer_url": null,
-      "link_type": "source",
-      "retailer": null,
-      "price_cents": null,
-      "headline_price_cents": 18000,
-      "price_source": null,
-      "currency": null,
-      "source_id": "clark-deals",
-      "publisher": "Clark Deals",
-      "published_at": "2026-11-20T17:15:02+00:00",
-      "expires_at": null,
-      "publication_category": "TVs",
-      "rank": {
-        "category": "tv",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": 500,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "headline_rank": {
-        "category": "tv",
-        "variant": null,
-        "status": "candidate",
-        "score": 31.4,
         "max_usd": 500,
         "preferred_usd": null,
         "within_budget": true,
@@ -831,6 +735,48 @@
         "score": 27.0,
         "max_usd": 100,
         "preferred_usd": null,
+        "within_budget": true,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
+      "id": "d62fc787e9c35bfea8003a33",
+      "title": "DREAME D30 Ultra CE Robot Vacuum & Mop $350 + Free S&H",
+      "url": "https://slickdeals.net/f/20336979-349-99-dreame-d30-ultra-ce-robot-vacuum-and-mop-25-000pa-powerful-suction-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source_url": "https://slickdeals.net/f/20336979-349-99-dreame-d30-ultra-ce-robot-vacuum-and-mop-25-000pa-powerful-suction-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "retailer_url": null,
+      "link_type": "source",
+      "retailer": null,
+      "price_cents": null,
+      "headline_price_cents": 35000,
+      "price_source": null,
+      "currency": null,
+      "source_id": "slickdeals",
+      "publisher": "Slickdeals Frontpage",
+      "published_at": "2026-11-22T23:44:57+00:00",
+      "expires_at": null,
+      "publication_category": "Frontpage Deals",
+      "rank": {
+        "category": "robot_vacuum_mop",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": 350,
+        "preferred_usd": 250,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "headline_rank": {
+        "category": "robot_vacuum_mop",
+        "variant": null,
+        "status": "candidate",
+        "score": 25.0,
+        "max_usd": 350,
+        "preferred_usd": 250,
         "within_budget": true,
         "comparisons": {},
         "savings_vs_comparison_cents": null,

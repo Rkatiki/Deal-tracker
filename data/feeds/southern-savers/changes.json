@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-22T18:04:22.273716+00:00",
+  "retrieved_at": "2026-11-22T23:53:28.537384+00:00",
   "source": {
     "id": "southern-savers",
     "name": "Southern Savers",
@@ -11,11 +11,37 @@
   "baseline": false,
   "events": [
     {
-      "id": "1e5a18c03ba7453ab05338ad",
+      "id": "106f541aab17666b95905bb6",
+      "types": [
+        "new"
+      ],
+      "title": "SEPHORA Advent Calendar Now $60 at Kohl’s ($190 Value)!",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.southernsavers.com/sephora-advent-calendar-now-60-at-kohls-190-value/",
+      "source_url": "https://www.southernsavers.com/sephora-advent-calendar-now-60-at-kohls-190-value/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "1d5db2adec82d4b72899ec3f",
       "types": [
         "removed"
       ],
-      "title": "*HOT* Old Navy Kids & Baby Winter Clothes as Low as $2.79",
+      "title": "Amazon Black Friday | Stocking Stuffers For All!",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -31,69 +57,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.southernsavers.com/hot-old-navy-kids-baby-winter-clothes-as-low-as-2-79/",
-      "source_url": "https://www.southernsavers.com/hot-old-navy-kids-baby-winter-clothes-as-low-as-2-79/",
+      "url": "https://www.southernsavers.com/amazon-black-friday-stocking-stuffers-for-all/",
+      "source_url": "https://www.southernsavers.com/amazon-black-friday-stocking-stuffers-for-all/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "2a61d38ebb69d4bab458ff1c",
-      "types": [
-        "new"
-      ],
-      "title": "Smart Bird Feeder with Solar Powered Camera Just $24.50 w/ Amazon Code",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.southernsavers.com/smart-bird-feeder-with-solar-powered-camera-just-24-50-w-amazon-code/",
-      "source_url": "https://www.southernsavers.com/smart-bird-feeder-with-solar-powered-camera-just-24-50-w-amazon-code/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "449ac271385fbb002e10914f",
-      "types": [
-        "new"
-      ],
-      "title": "Save on Radio Flyer Trikes & Scooters at Amazon, Perfect Gifts for Toddlers!",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.southernsavers.com/save-on-radio-flyer-trikes-scooters-at-amazon-perfect-gifts-for-toddlers/",
-      "source_url": "https://www.southernsavers.com/save-on-radio-flyer-trikes-scooters-at-amazon-perfect-gifts-for-toddlers/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "45991c961919bfc16573550e",
+      "id": "26f92f71f0c9767a297c6937",
       "types": [
         "removed"
       ],
-      "title": "Pick Up Stonefire Naan for as Low as $1.24",
+      "title": "4 Keebler Pie Crusts FREE + $2.32 Moneymaker at Publix!",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -109,17 +83,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.southernsavers.com/1-49-stonefire-artisan-thin-pizza-crust/",
-      "source_url": "https://www.southernsavers.com/1-49-stonefire-artisan-thin-pizza-crust/",
+      "url": "https://www.southernsavers.com/keebler-pie-crust-publix-unadvertised-sale-with-stacking-deals/",
+      "source_url": "https://www.southernsavers.com/keebler-pie-crust-publix-unadvertised-sale-with-stacking-deals/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "8587def8ea5c0d8660aeefe1",
+      "id": "27ae4778029893b23334c400",
       "types": [
         "new"
       ],
-      "title": "Top 10 Most Popular Amazon Deals: Shark FlexStyle, Apple Watch & More!",
+      "title": "$1.32 Pringles at Publix",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -135,17 +109,95 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.southernsavers.com/top-10-most-popular-amazon-deals-shark-flexstyle-apple-watch-more/",
-      "source_url": "https://www.southernsavers.com/top-10-most-popular-amazon-deals-shark-flexstyle-apple-watch-more/",
+      "url": "https://www.southernsavers.com/get-pringles-chips-for-1-29-kroger-mega-deal/",
+      "source_url": "https://www.southernsavers.com/get-pringles-chips-for-1-29-kroger-mega-deal/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "a2e2af2b934eb4172ea1a0c5",
+      "id": "46cd3178722cb6be5967767b",
+      "types": [
+        "new"
+      ],
+      "title": "Wet Brush 4-Piece Detangler Hair Brush Set Just $19.99",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.southernsavers.com/wet-brush-4-piece-detangler-hair-brush-set-just-19-99-2/",
+      "source_url": "https://www.southernsavers.com/wet-brush-4-piece-detangler-hair-brush-set-just-19-99-2/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "52bb93821746a22afef84959",
+      "types": [
+        "new"
+      ],
+      "title": "Top 10 Publix Deals: 64¢ Campbell’s Soup + More",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.southernsavers.com/top-10-publix-deals-free-crackers-more/",
+      "source_url": "https://www.southernsavers.com/top-10-publix-deals-free-crackers-more/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "a2f78c770fb9436c5fd29bbe",
+      "types": [
+        "new"
+      ],
+      "title": "We’re Giving Away Four $100 Amazon Gift Cards (It Takes 10 Seconds to Enter!)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.southernsavers.com/were-giving-away-four-100-amazon-gift-cards-it-takes-10-seconds-to-enter/",
+      "source_url": "https://www.southernsavers.com/were-giving-away-four-100-amazon-gift-cards-it-takes-10-seconds-to-enter/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "af1fe8b7de43d3e6ea38f9c6",
       "types": [
         "removed"
       ],
-      "title": "*Lowest Price* Oura Ring | Just $259 After $40 Sam’s Cash Back",
+      "title": "New Campbell’s Condensed Sauce as Low as $1 Each",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -161,121 +213,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.southernsavers.com/lowest-price-oura-ring-just-259-after-40-sams-cash-back/",
-      "source_url": "https://www.southernsavers.com/lowest-price-oura-ring-just-259-after-40-sams-cash-back/",
+      "url": "https://www.southernsavers.com/campbells-condensed-cream-soup-39%c2%a2-at-kroger/",
+      "source_url": "https://www.southernsavers.com/campbells-condensed-cream-soup-39%c2%a2-at-kroger/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "c04541a8c5570a8e6ec0e8a2",
-      "types": [
-        "new"
-      ],
-      "title": "Get a 1-Year BJ’s Membership for $10 (Reg. $60) + 20¢ Off Gas!",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.southernsavers.com/get-a-1-year-bjs-membership-for-10-reg-60-20%c2%a2-off-gas/",
-      "source_url": "https://www.southernsavers.com/get-a-1-year-bjs-membership-for-10-reg-60-20%c2%a2-off-gas/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "c4b0bbb8a88d11aca0cce89f",
-      "types": [
-        "new"
-      ],
-      "title": "SheaMoisture Haircare as Low as $2.50 (reg. $10+)",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.southernsavers.com/8-50-nexxus-haircare-at-walgreens/",
-      "source_url": "https://www.southernsavers.com/8-50-nexxus-haircare-at-walgreens/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "cf4e5fdb5e97042af68a1e32",
-      "types": [
-        "new"
-      ],
-      "title": "Nexxus Haircare Just $8.50 at Walgreens (reg. $18)",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.southernsavers.com/pantene-deals-at-cvs-walgreens-get-haircare-for-1-32/",
-      "source_url": "https://www.southernsavers.com/pantene-deals-at-cvs-walgreens-get-haircare-for-1-32/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "d41c3faca2c716a634283a2f",
-      "types": [
-        "new"
-      ],
-      "title": "Get a Winter 2026 Walmart Beauty Box For Just $8.98 ($27 value)!",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.southernsavers.com/get-a-winter-2026-walmart-beauty-box-for-just-8-98-27-value-2/",
-      "source_url": "https://www.southernsavers.com/get-a-winter-2026-walmart-beauty-box-for-just-8-98-27-value-2/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "eb11e23da524fa5d45f0a177",
+      "id": "b872649268eb0fa9d9c3d013",
       "types": [
         "removed"
       ],
-      "title": "Radio Flyer Interactive Riding Horse $129 (reg. $189) at Walmart",
+      "title": "Let Me “Influence” You to Join AARP ($9 per year for five years!)",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -291,8 +239,60 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.southernsavers.com/radio-flyer-interactive-riding-horse-129-reg-189-at-walmart/",
-      "source_url": "https://www.southernsavers.com/radio-flyer-interactive-riding-horse-129-reg-189-at-walmart/",
+      "url": "https://www.southernsavers.com/let-me-influence-you-to-join-aarp-15-membership-for-first-year/",
+      "source_url": "https://www.southernsavers.com/let-me-influence-you-to-join-aarp-15-membership-for-first-year/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "c122670f9d7cae58bb1efc02",
+      "types": [
+        "removed"
+      ],
+      "title": "Amazon Black Friday | Sports & Outdoors Deals",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.southernsavers.com/amazon-black-friday-sports-outdoors-deals/",
+      "source_url": "https://www.southernsavers.com/amazon-black-friday-sports-outdoors-deals/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "e70c3f74ff91e6a2d8877087",
+      "types": [
+        "removed"
+      ],
+      "title": "JCPenney Black Friday | $2.99 Towels, $9.99 Bras & Much More",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.southernsavers.com/jcpenney-black-friday-2-99-towels-9-99-bras-much-more/",
+      "source_url": "https://www.southernsavers.com/jcpenney-black-friday-2-99-towels-9-99-bras-much-more/",
       "retailer_url": null,
       "link_type": "source"
     }
