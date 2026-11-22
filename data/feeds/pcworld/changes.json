@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-21T21:55:22.137429+00:00",
+  "retrieved_at": "2026-11-22T02:41:08.365711+00:00",
   "source": {
     "id": "pcworld",
     "name": "PCWorld",
@@ -9,32 +9,5 @@
     "deal_headlines_only": true
   },
   "baseline": false,
-  "events": [
-    {
-      "id": "b8a0f80d13ab508e0079e8e3",
-      "types": [
-        "removed"
-      ],
-      "title": "Block ads for life on every phone and laptop in the house for $14.97",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.pcworld.com/article/3288755/block-ads-for-life-on-every-phone-and-laptop-in-the-house-for-14-97.html",
-      "source_url": "https://www.pcworld.com/article/3288755/block-ads-for-life-on-every-phone-and-laptop-in-the-house-for-14-97.html",
-      "retailer_url": null,
-      "link_type": "source"
-    }
-  ]
+  "events": []
 }

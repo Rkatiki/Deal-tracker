@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-21T21:55:22.137429+00:00",
+  "retrieved_at": "2026-11-22T02:41:08.365711+00:00",
   "source": {
     "id": "woot-daily",
     "name": "Woot Daily Deals",
@@ -9,5 +9,58 @@
     "retailer": "Woot"
   },
   "baseline": false,
-  "events": []
+  "events": [
+    {
+      "id": "5af3eb1f3419447a94aac408",
+      "types": [
+        "removed"
+      ],
+      "title": "EPOS EXPAND Vision 1M Video Conferencing Camera",
+      "retailer": "Woot",
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.woot.com/offers/epos-expand-vision-1m-video-conferencing-camera-2",
+      "source_url": "https://forums.woot.com/t/epos-expand-vision-1m-video-conferencing-camera/2663031",
+      "retailer_url": "https://www.woot.com/offers/epos-expand-vision-1m-video-conferencing-camera-2",
+      "link_type": "retailer"
+    },
+    {
+      "id": "68e4e6a66cfd8258692c37a3",
+      "types": [
+        "new"
+      ],
+      "title": "TOWPONICS Norfolk Pine Garland with Lights",
+      "retailer": "Woot",
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.woot.com/offers/towponics-norfolk-pine-garland-with-lights-1",
+      "source_url": "https://forums.woot.com/t/towponics-norfolk-pine-garland-with-lights/2701267",
+      "retailer_url": "https://www.woot.com/offers/towponics-norfolk-pine-garland-with-lights-1",
+      "link_type": "retailer"
+    }
+  ]
 }

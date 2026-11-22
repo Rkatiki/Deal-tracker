@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-21T21:55:22.137429+00:00",
+  "retrieved_at": "2026-11-22T02:41:08.365711+00:00",
   "source": {
     "id": "9to5toys",
     "name": "9to5Toys",
@@ -8,58 +8,5 @@
     "kind": "rss"
   },
   "baseline": false,
-  "events": [
-    {
-      "id": "cace95ede0db11d896e9cb1b",
-      "types": [
-        "removed"
-      ],
-      "title": "Logitech’s G PRO X2 SUPERSTRIKE wireless gaming mouse hits one of its lowest prices for Black Friday Week sale",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://9to5toys.com/2026/11/20/logitech-g-pro-x2-superstrike-wireless-gaming-mouse-one-of-its-lowest-prices/",
-      "source_url": "https://9to5toys.com/2026/11/20/logitech-g-pro-x2-superstrike-wireless-gaming-mouse-one-of-its-lowest-prices/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "db2de1d0218233d926007fa9",
-      "types": [
-        "new"
-      ],
-      "title": "All Apple Watch Series 12 models hit Black Friday all-time lows at $70 off",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://link.amazon/B00Za7gii",
-      "source_url": "https://9to5toys.com/2026/11/21/apple-watch-series-12-black-friday-best-price/",
-      "retailer_url": "https://link.amazon/B00Za7gii",
-      "link_type": "retailer_redirect"
-    }
-  ]
+  "events": []
 }
