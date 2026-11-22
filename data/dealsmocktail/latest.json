@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-22T17:49:52+00:00",
+  "retrieved_at": "2026-11-22T23:37:19+00:00",
   "website": "https://dealsmocktail.com/us",
   "tabs": [
     {
@@ -114,17 +114,8 @@
       "source_url": "https://dealsmocktail.com/us/deal/roborock-q7-l5-robot-vacuum-mop-8000pa-suction-lidar-navigation_1782334809057",
       "retailer_url": "https://link.amazon/B08XJgC8j",
       "link_type": "retailer_redirect",
-      "sheet_url": "https://dealsmocktail.com/us/deals",
+      "sheet_url": "https://dealsmocktail.com/us/deals?category=home-kitchen",
       "sources": [
-        {
-          "gid": "dealsmocktail:latest",
-          "tab": "Latest",
-          "price_text": "113.25",
-          "category": "Home Improvement",
-          "posted_at": "2026-11-21T14:54:17.960-05:00",
-          "expires_at": "2026-11-30T23:59:59.999-05:00",
-          "advertised_price": "249.99"
-        },
         {
           "gid": "dealsmocktail:home-kitchen",
           "tab": "Home and Kitchen",
@@ -188,44 +179,6 @@
       }
     },
     {
-      "id": "1b0006008053f80fa1358b3a",
-      "title": "Samsung - 65” Class U8000H Series Crystal UHD 4K Smart Tizen TV (2026)",
-      "retailer": "Best Buy",
-      "price_cents": 29999,
-      "currency": "USD",
-      "coupon": null,
-      "notes": null,
-      "url": "https://go.magik.ly/ml/4wqug/",
-      "source_url": "https://dealsmocktail.com/us/deal/samsung-65-class-u8000h-series-crystal-uhd-4k-smart-tizen-tv-2026_1795112972863",
-      "retailer_url": "https://go.magik.ly/ml/4wqug/",
-      "link_type": "retailer_redirect",
-      "sheet_url": "https://dealsmocktail.com/us/deals?category=electronics",
-      "sources": [
-        {
-          "gid": "dealsmocktail:electronics",
-          "tab": "Electronics",
-          "price_text": "299.99",
-          "category": "Smart TVs & Home Entertainment",
-          "posted_at": "2026-11-19T13:30:04.195-05:00",
-          "expires_at": "2026-11-30T23:59:59.999-05:00",
-          "advertised_price": "399.99"
-        }
-      ],
-      "price_conflict": false,
-      "rank": {
-        "category": "tv",
-        "variant": null,
-        "status": "candidate",
-        "score": 29.0,
-        "max_usd": 500,
-        "preferred_usd": null,
-        "within_budget": true,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
       "id": "5890272498010a90e6aa6d8f",
       "title": "Samsung B-Series Soundbar HW B400F 2.0 ch Soundbar with Built in Subwoofer (2025 Model) One Remote Control, Surround Sound Expansion, Voice Enhance Mode",
       "retailer": "Amazon",
@@ -237,17 +190,8 @@
       "source_url": "https://dealsmocktail.com/us/deal/samsung-b-series-soundbar-hw-b400f-20-ch-soundbar-with-built-in-subwoofer-2025-model-one-remote-cont_1795293289400",
       "retailer_url": "https://www.amazon.com/dp/B0DY1Z934F?tag=mmdealsusa-20&linkCode=ogi&th=1&psc=1",
       "link_type": "retailer",
-      "sheet_url": "https://dealsmocktail.com/us/deals",
+      "sheet_url": "https://dealsmocktail.com/us/deals?category=electronics",
       "sources": [
-        {
-          "gid": "dealsmocktail:latest",
-          "tab": "Latest",
-          "price_text": "69.99",
-          "category": "Audio & Headphones",
-          "posted_at": "2026-11-21T15:36:30.049-05:00",
-          "expires_at": "2026-11-30T23:59:59.999-05:00",
-          "advertised_price": "139.99"
-        },
         {
           "gid": "dealsmocktail:electronics",
           "tab": "Electronics",
@@ -265,6 +209,53 @@
         "status": "candidate",
         "score": 28.0,
         "max_usd": 100,
+        "preferred_usd": null,
+        "within_budget": true,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
+      "id": "f3bda26218af080dac99a13f",
+      "title": "Hisense - 75\" Class QD5 Hi-QLED Series 4K UHD Smart Roku TV (2026)",
+      "retailer": "Best Buy",
+      "price_cents": 37999,
+      "currency": "USD",
+      "coupon": null,
+      "notes": null,
+      "url": "https://go.magik.ly/ml/4xrsq/",
+      "source_url": "https://dealsmocktail.com/us/deal/hisense-75-class-qd5-hi-qled-series-4k-uhd-smart-roku-tv-2026_1795373965523",
+      "retailer_url": "https://go.magik.ly/ml/4xrsq/",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://dealsmocktail.com/us/deals",
+      "sources": [
+        {
+          "gid": "dealsmocktail:latest",
+          "tab": "Latest",
+          "price_text": "379.99",
+          "category": "Smart TVs & Home Entertainment",
+          "posted_at": "2026-11-22T14:00:17.065-05:00",
+          "expires_at": "2026-11-30T23:59:59.999-05:00",
+          "advertised_price": "699.99"
+        },
+        {
+          "gid": "dealsmocktail:electronics",
+          "tab": "Electronics",
+          "price_text": "379.99",
+          "category": "Smart TVs & Home Entertainment",
+          "posted_at": "2026-11-22T14:00:17.065-05:00",
+          "expires_at": "2026-11-30T23:59:59.999-05:00",
+          "advertised_price": "699.99"
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "tv",
+        "variant": null,
+        "status": "candidate",
+        "score": 27.4,
+        "max_usd": 500,
         "preferred_usd": null,
         "within_budget": true,
         "comparisons": {},
@@ -303,6 +294,53 @@
         "status": "candidate",
         "score": 27.0,
         "max_usd": 500,
+        "preferred_usd": null,
+        "within_budget": true,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
+      "id": "aeb03511eed29400e5b9a080",
+      "title": "Hamilton Beach 14-in-1 Dual Level French Door Air Fryer Oven",
+      "retailer": "kohls",
+      "price_cents": 5999,
+      "currency": "USD",
+      "coupon": null,
+      "notes": null,
+      "url": "https://mavely.app.link/h8Oqw46xh8b",
+      "source_url": "https://dealsmocktail.com/us/deal/hamilton-beach-14-in-1-dual-level-french-door-air-fryer-oven_1795376706295",
+      "retailer_url": "https://mavely.app.link/h8Oqw46xh8b",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://dealsmocktail.com/us/deals",
+      "sources": [
+        {
+          "gid": "dealsmocktail:latest",
+          "tab": "Latest",
+          "price_text": "59.99",
+          "category": "Kitchen & Dining",
+          "posted_at": "2026-11-22T14:47:21.091-05:00",
+          "expires_at": "2026-11-30T23:59:59.999-05:00",
+          "advertised_price": "149.99"
+        },
+        {
+          "gid": "dealsmocktail:home-kitchen",
+          "tab": "Home and Kitchen",
+          "price_text": "59.99",
+          "category": "Kitchen & Dining",
+          "posted_at": "2026-11-22T14:47:21.091-05:00",
+          "expires_at": "2026-11-30T23:59:59.999-05:00",
+          "advertised_price": "149.99"
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "air_fryer",
+        "variant": null,
+        "status": "watch",
+        "score": 22.0,
+        "max_usd": 75,
         "preferred_usd": null,
         "within_budget": true,
         "comparisons": {},
@@ -370,44 +408,6 @@
           "posted_at": "2026-11-20T11:48:55.853-05:00",
           "expires_at": "2026-11-30T23:59:59.999-05:00",
           "advertised_price": "22.99"
-        }
-      ],
-      "price_conflict": false,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
-      "id": "e927344cd077a91ff9dbc5dd",
-      "title": "THE FACE SHOP Rice Water Bright Foaming Cleanser, Face Wash, 10.1 fl. oz. | Gentle Cleansing Foam, with Rice Water, Deep Pore Cleansing, Hydrating, Vegan",
-      "retailer": "Amazon",
-      "price_cents": 1169,
-      "currency": "USD",
-      "coupon": null,
-      "notes": null,
-      "url": "https://www.amazon.com/dp/B07DS69MHD?tag=mmdealsusa-20&linkCode=ogi&th=1&psc=1",
-      "source_url": "https://dealsmocktail.com/us/deal/the-face-shop-rice-water-bright-foaming-cleanser-face-wash-101-fl-oz-gentle-cleansing-foam-with-rice_1795286590763",
-      "retailer_url": "https://www.amazon.com/dp/B07DS69MHD?tag=mmdealsusa-20&linkCode=ogi&th=1&psc=1",
-      "link_type": "retailer",
-      "sheet_url": "https://dealsmocktail.com/us/deals",
-      "sources": [
-        {
-          "gid": "dealsmocktail:latest",
-          "tab": "Latest",
-          "price_text": "11.69",
-          "category": "Skin Care",
-          "posted_at": "2026-11-21T13:45:35.843-05:00",
-          "expires_at": "2026-11-30T23:59:59.999-05:00",
-          "advertised_price": 17
         }
       ],
       "price_conflict": false,
@@ -501,6 +501,44 @@
       }
     },
     {
+      "id": "a578189f7cb56e95e4692fa3",
+      "title": "LANEIGE Lip Glowy Balm – Berry Hydrating Lip Treatment",
+      "retailer": "Amazon",
+      "price_cents": 1354,
+      "currency": "USD",
+      "coupon": null,
+      "notes": null,
+      "url": "https://link.amazon/B01lYwAUY",
+      "source_url": "https://dealsmocktail.com/us/deal/laneige-lip-glowy-balm-berry-hydrating-lip-treatment_1782254356714",
+      "retailer_url": "https://link.amazon/B01lYwAUY",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://dealsmocktail.com/us/deals",
+      "sources": [
+        {
+          "gid": "dealsmocktail:latest",
+          "tab": "Latest",
+          "price_text": "13.54",
+          "category": "Skin Care",
+          "posted_at": "2026-11-22T16:58:22.414-05:00",
+          "expires_at": "2026-11-30T23:59:59.999-05:00",
+          "advertised_price": 19
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
       "id": "1ce5e215260c39a876ff073c",
       "title": "C&C California Soft Microfiber Comforter, Twin/Full/Queen/King",
       "retailer": "Macy's",
@@ -531,6 +569,53 @@
           "posted_at": "2026-11-22T09:29:25.598-05:00",
           "expires_at": "2026-11-29T09:24:53.872-05:00",
           "advertised_price": 130
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
+      "id": "4104bdcbb8058891c1376138",
+      "title": "Stanley The Quencher® H2.0 Flowstate™ Tumbler | 40 OZ",
+      "retailer": "STANLEY",
+      "price_cents": 2025,
+      "currency": "USD",
+      "coupon": null,
+      "notes": null,
+      "url": "https://mavely.app.link/sbXr3VYBh8b",
+      "source_url": "https://dealsmocktail.com/us/deal/stanley-the-quencher-h20-flowstate-tumbler-40-oz_1795379947569",
+      "retailer_url": "https://mavely.app.link/sbXr3VYBh8b",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://dealsmocktail.com/us/deals",
+      "sources": [
+        {
+          "gid": "dealsmocktail:latest",
+          "tab": "Latest",
+          "price_text": "20.25",
+          "category": "Kitchen & Dining",
+          "posted_at": "2026-11-22T15:39:54.864-05:00",
+          "expires_at": "2026-11-30T23:59:59.999-05:00",
+          "advertised_price": 45
+        },
+        {
+          "gid": "dealsmocktail:home-kitchen",
+          "tab": "Home and Kitchen",
+          "price_text": "20.25",
+          "category": "Kitchen & Dining",
+          "posted_at": "2026-11-22T15:39:54.864-05:00",
+          "expires_at": "2026-11-30T23:59:59.999-05:00",
+          "advertised_price": 45
         }
       ],
       "price_conflict": false,
@@ -1118,44 +1203,6 @@
       }
     },
     {
-      "id": "9482d3a3e5708b82d2a1ef36",
-      "title": "Deep Fryer with 3 Baskets (5 L / 1700 W)",
-      "retailer": "Walmart",
-      "price_cents": 5995,
-      "currency": "USD",
-      "coupon": null,
-      "notes": null,
-      "url": "https://go.magik.ly/ml/4whsq/",
-      "source_url": "https://dealsmocktail.com/us/deal/deep-fryer-with-3-baskets-5-l-1700-w_1795075201976",
-      "retailer_url": "https://go.magik.ly/ml/4whsq/",
-      "link_type": "retailer_redirect",
-      "sheet_url": "https://dealsmocktail.com/us/deals?category=home-kitchen",
-      "sources": [
-        {
-          "gid": "dealsmocktail:home-kitchen",
-          "tab": "Home and Kitchen",
-          "price_text": "59.95",
-          "category": "Kitchen & Dining",
-          "posted_at": "2026-11-19T03:00:26.763-05:00",
-          "expires_at": "2026-11-30T23:59:59.999-05:00",
-          "advertised_price": 112
-        }
-      ],
-      "price_conflict": false,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
       "id": "ab1188043060167166e56d29",
       "title": "Instant Pot Duo Plus 9-in-1 Multicooker, 6 Quarts",
       "retailer": "Amazon",
@@ -1224,82 +1271,6 @@
           "posted_at": "2026-11-21T04:06:33.263-05:00",
           "expires_at": "2026-12-04T23:59:59.999-05:00",
           "advertised_price": "106.99"
-        }
-      ],
-      "price_conflict": false,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
-      "id": "64fddf9795e854b191e2b65b",
-      "title": "lululemon Scuba Backpack 32L Paracord",
-      "retailer": "lululemon",
-      "price_cents": 6400,
-      "currency": "USD",
-      "coupon": null,
-      "notes": null,
-      "url": "https://mavely.app.link/d9hKcXRMf8b",
-      "source_url": "https://dealsmocktail.com/us/deal/lululemon-scuba-backpack-32l-paracord_1795284986139",
-      "retailer_url": "https://mavely.app.link/d9hKcXRMf8b",
-      "link_type": "retailer_redirect",
-      "sheet_url": "https://dealsmocktail.com/us/deals",
-      "sources": [
-        {
-          "gid": "dealsmocktail:latest",
-          "tab": "Latest",
-          "price_text": "64",
-          "category": "Luggage and Bags",
-          "posted_at": "2026-11-21T13:23:57.703-05:00",
-          "expires_at": "2026-11-30T23:59:59.999-05:00",
-          "advertised_price": 128
-        }
-      ],
-      "price_conflict": false,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
-      "id": "c3021d9970d4d24ddb8acb89",
-      "title": "nutribullet Pro+ Personal Blender, Pulse, 1200W, Matte Black, N12-1001MK | 1200W Blender with Pulse button, 32 oz & 24 oz To-Go Cups with travel lids. Dishwasher Safe.",
-      "retailer": "Amazon",
-      "price_cents": 6749,
-      "currency": "USD",
-      "coupon": null,
-      "notes": null,
-      "url": "https://link.amazon/B01nPpb6D",
-      "source_url": "https://dealsmocktail.com/us/deal/nutribullet-pro-personal-blender-pulse-1200w-matte-black-n12-1001mk-1200w-blender-with-pulse-button_1795092497216",
-      "retailer_url": "https://link.amazon/B01nPpb6D",
-      "link_type": "retailer_redirect",
-      "sheet_url": "https://dealsmocktail.com/us/deals?category=home-kitchen",
-      "sources": [
-        {
-          "gid": "dealsmocktail:home-kitchen",
-          "tab": "Home and Kitchen",
-          "price_text": "67.49",
-          "category": "Kitchen & Dining",
-          "posted_at": "2026-11-19T07:48:17.245-05:00",
-          "expires_at": "2026-11-30T23:59:59.999-05:00",
-          "advertised_price": "134.99"
         }
       ],
       "price_conflict": false,
@@ -1592,6 +1563,53 @@
       }
     },
     {
+      "id": "7159a61ecd84bce5bd1c003f",
+      "title": "Instant Pot Pro 10-in-1 Multi-Cooker (6 Quart)",
+      "retailer": "Amazon",
+      "price_cents": 9999,
+      "currency": "USD",
+      "coupon": null,
+      "notes": null,
+      "url": "https://link.amazon/B08c2fQYB",
+      "source_url": "https://dealsmocktail.com/us/deal/instant-pot-pro-10-in-1-multi-cooker-6-quart_1781370366418",
+      "retailer_url": "https://link.amazon/B08c2fQYB",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://dealsmocktail.com/us/deals",
+      "sources": [
+        {
+          "gid": "dealsmocktail:latest",
+          "tab": "Latest",
+          "price_text": "99.99",
+          "category": "Kitchen & Dining",
+          "posted_at": "2026-11-22T14:19:31.647-05:00",
+          "expires_at": "2026-11-30T23:59:59.999-05:00",
+          "advertised_price": "169.99"
+        },
+        {
+          "gid": "dealsmocktail:home-kitchen",
+          "tab": "Home and Kitchen",
+          "price_text": "99.99",
+          "category": "Kitchen & Dining",
+          "posted_at": "2026-11-22T14:19:31.647-05:00",
+          "expires_at": "2026-11-30T23:59:59.999-05:00",
+          "advertised_price": "169.99"
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
       "id": "d932319c70675c97544aa97c",
       "title": "8-Inch Gel Memory Foam Mattress (Twin Size)",
       "retailer": "Walmart",
@@ -1762,44 +1780,6 @@
       }
     },
     {
-      "id": "448ac89655be88eb82a4d615",
-      "title": "Snowyermine Nugget Ice Maker Countertop",
-      "retailer": "Walmart",
-      "price_cents": 12595,
-      "currency": "USD",
-      "coupon": null,
-      "notes": null,
-      "url": "https://go.magik.ly/ml/4wht8/",
-      "source_url": "https://dealsmocktail.com/us/deal/snowyermine-nugget-ice-maker-countertop_1795075494889",
-      "retailer_url": "https://go.magik.ly/ml/4wht8/",
-      "link_type": "retailer_redirect",
-      "sheet_url": "https://dealsmocktail.com/us/deals?category=home-kitchen",
-      "sources": [
-        {
-          "gid": "dealsmocktail:home-kitchen",
-          "tab": "Home and Kitchen",
-          "price_text": "125.95",
-          "category": "Home Improvement",
-          "posted_at": "2026-11-19T03:05:44.738-05:00",
-          "expires_at": "2026-11-30T23:59:59.999-05:00",
-          "advertised_price": "699.99"
-        }
-      ],
-      "price_conflict": false,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
       "id": "df74b938a6699341dc88c6a9",
       "title": "Liene M100 4x6'' Photo Printer, Phone Printer 100 Sheets & 3 Cartridges, Full-Color Photo, Portable Instant Photo Printer for iPhone Android, Thermal Dye Sublimation, Wi-Fi Picture Printer 100 Papers",
       "retailer": "Amazon",
@@ -1876,27 +1856,36 @@
       }
     },
     {
-      "id": "5507e656280090e34ac5d2a7",
-      "title": "Samsung Galaxy Watch 7 40mm Bluetooth AI Smartwatch w/Energy Score, Wellness Tips, Heart Rate Tracking, Sleep Monitor, Fitness Tracker, 2024, Green [US Version, 1Yr Manufacturer Warranty]",
+      "id": "82bf7bd40912c3f0158f02c3",
+      "title": "dreame G10 Pro Wet Dry Vacuum Mop, Vacuum and Mop All in One for Hard Floor | Auto Self-Cleaning, 16K Pa Powerful Suction, Up to 35 Mins Runtime, Edge Cleaning, Self-Propelled Vacuum Mop Combo",
       "retailer": "Amazon",
-      "price_cents": 14900,
+      "price_cents": 13999,
       "currency": "USD",
       "coupon": null,
       "notes": null,
-      "url": "https://www.amazon.com/dp/B0D1YQKDML?tag=mmdealsusa-20&linkCode=ogi&th=1&psc=1",
-      "source_url": "https://dealsmocktail.com/us/deal/samsung-galaxy-watch-7-40mm-bluetooth-ai-smartwatch-wenergy-score-wellness-tips-heart-rate-tracking_1795289512833",
-      "retailer_url": "https://www.amazon.com/dp/B0D1YQKDML?tag=mmdealsusa-20&linkCode=ogi&th=1&psc=1",
+      "url": "https://www.amazon.com/dp/B0DS2389H1?tag=mmdealsusa-20&linkCode=ogi&th=1&psc=1",
+      "source_url": "https://dealsmocktail.com/us/deal/dreame-g10-pro-wet-dry-vacuum-mop-vacuum-and-mop-all-in-one-for-hard-floor-auto-self-cleaning-16k-pa_1795377494824",
+      "retailer_url": "https://www.amazon.com/dp/B0DS2389H1?tag=mmdealsusa-20&linkCode=ogi&th=1&psc=1",
       "link_type": "retailer",
       "sheet_url": "https://dealsmocktail.com/us/deals",
       "sources": [
         {
           "gid": "dealsmocktail:latest",
           "tab": "Latest",
-          "price_text": "149",
-          "category": "Watches",
-          "posted_at": "2026-11-21T14:34:10.805-05:00",
+          "price_text": "139.99",
+          "category": "Home Improvement",
+          "posted_at": "2026-11-22T14:59:49.805-05:00",
           "expires_at": "2026-11-30T23:59:59.999-05:00",
-          "advertised_price": "249.99"
+          "advertised_price": "259.99"
+        },
+        {
+          "gid": "dealsmocktail:home-kitchen",
+          "tab": "Home and Kitchen",
+          "price_text": "139.99",
+          "category": "Home Improvement",
+          "posted_at": "2026-11-22T14:59:49.805-05:00",
+          "expires_at": "2026-11-30T23:59:59.999-05:00",
+          "advertised_price": "259.99"
         }
       ],
       "price_conflict": false,
@@ -1925,17 +1914,8 @@
       "source_url": "https://dealsmocktail.com/us/deal/gopro-lit-hero-lightweight-compact-waterproof-action-camera-with-built-in-light-4k60-ultra-hd-video_1795294021969",
       "retailer_url": "https://www.amazon.com/dp/B0FP5R9BDZ?tag=mmdealsusa-20&linkCode=ogi&th=1&psc=1",
       "link_type": "retailer",
-      "sheet_url": "https://dealsmocktail.com/us/deals",
+      "sheet_url": "https://dealsmocktail.com/us/deals?category=electronics",
       "sources": [
-        {
-          "gid": "dealsmocktail:latest",
-          "tab": "Latest",
-          "price_text": "169.99",
-          "category": "Cameras",
-          "posted_at": "2026-11-21T15:48:03.060-05:00",
-          "expires_at": "2026-11-30T23:59:59.999-05:00",
-          "advertised_price": "269.99"
-        },
         {
           "gid": "dealsmocktail:electronics",
           "tab": "Electronics",
@@ -1972,17 +1952,8 @@
       "source_url": "https://dealsmocktail.com/us/deal/marshall-acton-iii-bluetooth-speaker-stereo-sound-bass-treble-controls-aux-input_1783255170037",
       "retailer_url": "https://link.amazon/B0bA1tKpd",
       "link_type": "retailer_redirect",
-      "sheet_url": "https://dealsmocktail.com/us/deals",
+      "sheet_url": "https://dealsmocktail.com/us/deals?category=electronics",
       "sources": [
-        {
-          "gid": "dealsmocktail:latest",
-          "tab": "Latest",
-          "price_text": "169.99",
-          "category": "Audio & Headphones",
-          "posted_at": "2026-11-21T15:26:13.718-05:00",
-          "expires_at": "2026-11-30T23:59:59.999-05:00",
-          "advertised_price": "299.99"
-        },
         {
           "gid": "dealsmocktail:electronics",
           "tab": "Electronics",
@@ -2114,44 +2085,6 @@
           "posted_at": "2026-11-22T08:48:41.758-05:00",
           "expires_at": "2026-11-30T23:59:59.999-05:00",
           "advertised_price": 249
-        }
-      ],
-      "price_conflict": false,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
-      "id": "c0e27a6d47041b078f6cd76f",
-      "title": "Acer - Nitro Gaming 31.5\" Curved WQHD 180Hz 1ms FreeSync Premium Gaming Monitor",
-      "retailer": "Best Buy",
-      "price_cents": 17999,
-      "currency": "USD",
-      "coupon": null,
-      "notes": null,
-      "url": "https://go.magik.ly/ml/4wqvx/",
-      "source_url": "https://dealsmocktail.com/us/deal/acer-nitro-gaming-315-curved-wqhd-180hz-1ms-freesync-premium-gaming-monitor_1795113819974",
-      "retailer_url": "https://go.magik.ly/ml/4wqvx/",
-      "link_type": "retailer_redirect",
-      "sheet_url": "https://dealsmocktail.com/us/deals?category=electronics",
-      "sources": [
-        {
-          "gid": "dealsmocktail:electronics",
-          "tab": "Electronics",
-          "price_text": "179.99",
-          "category": "Computer & Accessories",
-          "posted_at": "2026-11-19T13:44:13.107-05:00",
-          "expires_at": "2026-11-30T23:59:59.999-05:00",
-          "advertised_price": "459.99"
         }
       ],
       "price_conflict": false,
@@ -2569,17 +2502,8 @@
       "source_url": "https://dealsmocktail.com/us/deal/samsung-galaxy-tab-s10-fe-128gb-wifi-android-tablet-us-version-gray-large-display-long-battery-life_1795294804594",
       "retailer_url": "https://www.amazon.com/dp/B0DVZWKCDV?tag=mmdealsusa-20&linkCode=ogi&th=1&psc=1",
       "link_type": "retailer",
-      "sheet_url": "https://dealsmocktail.com/us/deals",
+      "sheet_url": "https://dealsmocktail.com/us/deals?category=electronics",
       "sources": [
-        {
-          "gid": "dealsmocktail:latest",
-          "tab": "Latest",
-          "price_text": "349.99",
-          "category": "Mobiles, Tablets & Accessories",
-          "posted_at": "2026-11-21T16:02:08.267-05:00",
-          "expires_at": "2026-11-30T23:59:59.999-05:00",
-          "advertised_price": "549.99"
-        },
         {
           "gid": "dealsmocktail:electronics",
           "tab": "Electronics",
@@ -2719,27 +2643,36 @@
       }
     },
     {
-      "id": "3cc3dd866490185ead06f40a",
-      "title": "DJI Osmo Pocket 3 Creator Combo 4K Vlog Camera",
-      "retailer": "Amazon",
-      "price_cents": 46600,
+      "id": "2a0499d1041391d53afd1531",
+      "title": "HP - OmniBook 3 - 16\" 2K Touchscreen Laptop - Intel Core 5 320 (2026) - 8GB Memory - 512GB SSD",
+      "retailer": "Best Buy",
+      "price_cents": 49999,
       "currency": "USD",
       "coupon": null,
       "notes": null,
-      "url": "https://link.amazon/B036OE6Ao",
-      "source_url": "https://dealsmocktail.com/us/deal/dji-osmo-pocket-3-creator-combo-4k-vlog-camera_1781125649909",
-      "retailer_url": "https://link.amazon/B036OE6Ao",
+      "url": "https://go.magik.ly/ml/4xqh2/",
+      "source_url": "https://dealsmocktail.com/us/deal/hp-omnibook-3-16-2k-touchscreen-laptop-intel-core-5-320-2026-8gb-memory-512gb-ssd_1795372463593",
+      "retailer_url": "https://go.magik.ly/ml/4xqh2/",
       "link_type": "retailer_redirect",
-      "sheet_url": "https://dealsmocktail.com/us/deals?category=electronics",
+      "sheet_url": "https://dealsmocktail.com/us/deals",
       "sources": [
+        {
+          "gid": "dealsmocktail:latest",
+          "tab": "Latest",
+          "price_text": "499.99",
+          "category": "Laptops & Accessories",
+          "posted_at": "2026-11-22T13:35:57.412-05:00",
+          "expires_at": "2026-11-30T23:59:59.999-05:00",
+          "advertised_price": "879.99"
+        },
         {
           "gid": "dealsmocktail:electronics",
           "tab": "Electronics",
-          "price_text": "466",
-          "category": "Cameras",
-          "posted_at": "2026-11-19T13:18:28.741-05:00",
+          "price_text": "499.99",
+          "category": "Laptops & Accessories",
+          "posted_at": "2026-11-22T13:35:57.412-05:00",
           "expires_at": "2026-11-30T23:59:59.999-05:00",
-          "advertised_price": 629
+          "advertised_price": "879.99"
         }
       ],
       "price_conflict": false,
@@ -2778,44 +2711,6 @@
           "posted_at": "2026-11-21T09:11:25.029-05:00",
           "expires_at": "2026-11-30T23:59:59.999-05:00",
           "advertised_price": 779
-        }
-      ],
-      "price_conflict": false,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
-      "id": "d84f1df5c2e6e781bbaf8b63",
-      "title": "Breville BES878BSS Barista Pro Espresso Machine, Brushed Stainless Steel | Pull barista-quality espresso shots, lattes and cappuccinos at home with this manual coffee maker with built-in grinder",
-      "retailer": "Amazon",
-      "price_cents": 56495,
-      "currency": "USD",
-      "coupon": null,
-      "notes": null,
-      "url": "https://www.amazon.com/dp/B08133HX34?tag=mmdealsusa.agent-20&linkCode=ogi&th=1&psc=1",
-      "source_url": "https://dealsmocktail.com/us/deal/breville-bes878bss-barista-pro-espresso-machine-brushed-stainless-steel-pull-barista-quality-espress_1795085632979",
-      "retailer_url": "https://www.amazon.com/dp/B08133HX34?tag=mmdealsusa.agent-20&linkCode=ogi&th=1&psc=1",
-      "link_type": "retailer",
-      "sheet_url": "https://dealsmocktail.com/us/deals?category=home-kitchen",
-      "sources": [
-        {
-          "gid": "dealsmocktail:home-kitchen",
-          "tab": "Home and Kitchen",
-          "price_text": "564.95",
-          "category": "Kitchen & Dining",
-          "posted_at": "2026-11-19T05:53:53.004-05:00",
-          "expires_at": "2026-11-30T23:59:59.999-05:00",
-          "advertised_price": "849.95"
         }
       ],
       "price_conflict": false,
@@ -2968,6 +2863,53 @@
           "posted_at": "2026-11-20T13:17:17.756-05:00",
           "expires_at": "2026-11-30T23:59:59.999-05:00",
           "advertised_price": "1299.99"
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
+      "id": "be49319c16145c4d9dc12e68",
+      "title": "AT&T iPhone 18 Pro 256GB + $300 Walmart eGC",
+      "retailer": "Walmart",
+      "price_cents": 119900,
+      "currency": "USD",
+      "coupon": null,
+      "notes": null,
+      "url": "https://go.magik.ly/ml/4xoec/",
+      "source_url": "https://dealsmocktail.com/us/deal/att-iphone-18-pro-256gb-300-walmart-egc_1795370162864",
+      "retailer_url": "https://go.magik.ly/ml/4xoec/",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://dealsmocktail.com/us/deals",
+      "sources": [
+        {
+          "gid": "dealsmocktail:latest",
+          "tab": "Latest",
+          "price_text": "1199",
+          "category": "Mobiles, Tablets & Accessories",
+          "posted_at": "2026-11-22T13:02:00.256-05:00",
+          "expires_at": "2026-11-30T23:59:59.999-05:00",
+          "advertised_price": 1249
+        },
+        {
+          "gid": "dealsmocktail:electronics",
+          "tab": "Electronics",
+          "price_text": "1199",
+          "category": "Mobiles, Tablets & Accessories",
+          "posted_at": "2026-11-22T13:02:00.256-05:00",
+          "expires_at": "2026-11-30T23:59:59.999-05:00",
+          "advertised_price": 1249
         }
       ],
       "price_conflict": false,
