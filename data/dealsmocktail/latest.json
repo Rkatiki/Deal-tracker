@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-22T02:14:32+00:00",
+  "retrieved_at": "2026-11-22T09:50:00+00:00",
   "website": "https://dealsmocktail.com/us",
   "tabs": [
     {
@@ -181,44 +181,6 @@
         "score": 37.29,
         "max_usd": 350,
         "preferred_usd": 250,
-        "within_budget": true,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
-      "id": "9d26a6f7ea810b22000cc90d",
-      "title": "TCL - 65\" S4CF Series 4K UHD HDR Smart TV with Fire TV (2026)",
-      "retailer": "Best Buy",
-      "price_cents": 22999,
-      "currency": "USD",
-      "coupon": null,
-      "notes": null,
-      "url": "https://go.magik.ly/ml/4wq60/",
-      "source_url": "https://dealsmocktail.com/us/deal/tcl-65-s4cf-series-4k-uhd-hdr-smart-tv-with-fire-tv-2026_1795110311793",
-      "retailer_url": "https://go.magik.ly/ml/4wq60/",
-      "link_type": "retailer_redirect",
-      "sheet_url": "https://dealsmocktail.com/us/deals?category=electronics",
-      "sources": [
-        {
-          "gid": "dealsmocktail:electronics",
-          "tab": "Electronics",
-          "price_text": "229.99",
-          "category": "Smart TVs & Home Entertainment",
-          "posted_at": "2026-11-19T12:45:37.992-05:00",
-          "expires_at": "2026-11-30T23:59:59.999-05:00",
-          "advertised_price": "469.99"
-        }
-      ],
-      "price_conflict": false,
-      "rank": {
-        "category": "tv",
-        "variant": null,
-        "status": "candidate",
-        "score": 30.4,
-        "max_usd": 500,
-        "preferred_usd": null,
         "within_budget": true,
         "comparisons": {},
         "savings_vs_comparison_cents": null,
@@ -1044,17 +1006,8 @@
       "source_url": "https://dealsmocktail.com/us/deal/jbl-tune-245nc-true-wireless-earbuds_1793969804059",
       "retailer_url": "https://go.magik.ly/ml/4x53n/",
       "link_type": "retailer_redirect",
-      "sheet_url": "https://dealsmocktail.com/us/deals",
+      "sheet_url": "https://dealsmocktail.com/us/deals?category=electronics",
       "sources": [
-        {
-          "gid": "dealsmocktail:latest",
-          "tab": "Latest",
-          "price_text": "39.95",
-          "category": "Audio & Headphones",
-          "posted_at": "2026-11-21T08:40:10.786-05:00",
-          "expires_at": "2026-11-30T23:59:59.999-05:00",
-          "advertised_price": "109.95"
-        },
         {
           "gid": "dealsmocktail:electronics",
           "tab": "Electronics",
@@ -1063,6 +1016,44 @@
           "posted_at": "2026-11-21T08:40:10.786-05:00",
           "expires_at": "2026-11-30T23:59:59.999-05:00",
           "advertised_price": "109.95"
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
+      "id": "b29c53273619f61341ee1d61",
+      "title": "LEGO Animal Crossing Nook’s Cranny & Rosie's House 77050 | Building Toys for Girls & Boys, Ages 7+, 535 Pieces, Gift for Christmas w/ 2 Animal Crossing Figures, Pretend Play Set",
+      "retailer": "Amazon",
+      "price_cents": 5199,
+      "currency": "USD",
+      "coupon": null,
+      "notes": null,
+      "url": "https://www.amazon.com/dp/B0CGY1LZ78?tag=mmdealsusa.agent-20&linkCode=ogi&th=1&psc=1",
+      "source_url": "https://dealsmocktail.com/us/deal/lego-animal-crossing-nooks-cranny-rosies-house-77050-building-toys-for-girls-boys-ages-7-535-pieces_1795334728984",
+      "retailer_url": "https://www.amazon.com/dp/B0CGY1LZ78?tag=mmdealsusa.agent-20&linkCode=ogi&th=1&psc=1",
+      "link_type": "retailer",
+      "sheet_url": "https://dealsmocktail.com/us/deals",
+      "sources": [
+        {
+          "gid": "dealsmocktail:latest",
+          "tab": "Latest",
+          "price_text": "51.99",
+          "category": "Kids Toys",
+          "posted_at": "2026-11-22T03:05:29.007-05:00",
+          "expires_at": "2026-12-01T02:59:59.000-05:00",
+          "advertised_price": "74.99"
         }
       ],
       "price_conflict": false,
@@ -1253,6 +1244,44 @@
           "posted_at": "2026-11-21T18:24:08.561-05:00",
           "expires_at": "2026-11-28T18:18:55.848-05:00",
           "advertised_price": 150
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
+      "id": "1713b24b8c525baa9f7e6fd3",
+      "title": "Beats Solo 4 On-Ear Headphones, 50 Hours Battery Life - Metallic Pink | Rich, Bass-Forward Sound Quality, Spatial Audio, USB-C Fast Fuel Charging, Compatible with Apple & Android Devices",
+      "retailer": "Amazon",
+      "price_cents": 7999,
+      "currency": "USD",
+      "coupon": null,
+      "notes": null,
+      "url": "https://www.amazon.com/dp/B0FHLPS8ZF?tag=mmdealsusa.agent-20&linkCode=ogi&th=1&psc=1",
+      "source_url": "https://dealsmocktail.com/us/deal/beats-solo-4-on-ear-headphones-50-hours-battery-life-metallic-pink-rich-bass-forward-sound-quality-s_1795334786251",
+      "retailer_url": "https://www.amazon.com/dp/B0FHLPS8ZF?tag=mmdealsusa.agent-20&linkCode=ogi&th=1&psc=1",
+      "link_type": "retailer",
+      "sheet_url": "https://dealsmocktail.com/us/deals?category=electronics",
+      "sources": [
+        {
+          "gid": "dealsmocktail:electronics",
+          "tab": "Electronics",
+          "price_text": "79.99",
+          "category": "Audio & Headphones",
+          "posted_at": "2026-11-22T03:06:26.300-05:00",
+          "expires_at": "2026-12-22T03:06:26.262-05:00",
+          "advertised_price": "199.95"
         }
       ],
       "price_conflict": false,
@@ -1859,6 +1888,44 @@
           "posted_at": "2026-11-21T09:01:28.277-05:00",
           "expires_at": "2026-11-30T23:59:59.999-05:00",
           "advertised_price": 299
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
+      "id": "af1832e39fea14136c924c3e",
+      "title": "Beats Powerbeats Pro 2 Earbuds, HR Monitor, 45H Battery - Jet Black | Active Noise Cancelling, IPX4 Sweat & Water Resistant, Secure-Fit Earhooks, Works with Apple & Android Devices",
+      "retailer": "Amazon",
+      "price_cents": 17995,
+      "currency": "USD",
+      "coupon": null,
+      "notes": null,
+      "url": "https://www.amazon.com/dp/B0DT2344N3?tag=mmdealsusa.agent-20&linkCode=ogi&th=1&psc=1",
+      "source_url": "https://dealsmocktail.com/us/deal/beats-powerbeats-pro-2-earbuds-hr-monitor-45h-battery-jet-black-active-noise-cancelling-ipx4-sweat-w_1795334757129",
+      "retailer_url": "https://www.amazon.com/dp/B0DT2344N3?tag=mmdealsusa.agent-20&linkCode=ogi&th=1&psc=1",
+      "link_type": "retailer",
+      "sheet_url": "https://dealsmocktail.com/us/deals?category=electronics",
+      "sources": [
+        {
+          "gid": "dealsmocktail:electronics",
+          "tab": "Electronics",
+          "price_text": "179.95",
+          "category": "Audio & Headphones",
+          "posted_at": "2026-11-22T03:05:57.152-05:00",
+          "expires_at": "2026-12-01T02:59:59.000-05:00",
+          "advertised_price": "249.99"
         }
       ],
       "price_conflict": false,
@@ -2874,44 +2941,6 @@
           "posted_at": "2026-11-20T13:30:02.741-05:00",
           "expires_at": "2026-11-30T23:59:59.999-05:00",
           "advertised_price": 719
-        }
-      ],
-      "price_conflict": false,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
-      "id": "693f9ea652b1fc57436457c4",
-      "title": "Lenovo - Yoga 7i 2-in-1 - Copilot+ PC - 16\" 2K Touchscreen Laptop - Intel Core Ultra 5 Processor 2024 - 16GB Memory - 512GB SSD",
-      "retailer": "Lenovo",
-      "price_cents": 64999,
-      "currency": "USD",
-      "coupon": null,
-      "notes": null,
-      "url": "https://go.magik.ly/ml/4wqcy/",
-      "source_url": "https://dealsmocktail.com/us/deal/lenovo-yoga-7i-2-in-1-copilot-pc-16-2k-touchscreen-laptop-intel-core-ultra-5-processor-2024-16gb-mem_1795111132814",
-      "retailer_url": "https://go.magik.ly/ml/4wqcy/",
-      "link_type": "retailer_redirect",
-      "sheet_url": "https://dealsmocktail.com/us/deals?category=electronics",
-      "sources": [
-        {
-          "gid": "dealsmocktail:electronics",
-          "tab": "Electronics",
-          "price_text": "649.99",
-          "category": "Laptops & Accessories",
-          "posted_at": "2026-11-19T12:59:25.737-05:00",
-          "expires_at": "2026-11-30T23:59:59.999-05:00",
-          "advertised_price": "999.99"
         }
       ],
       "price_conflict": false,
