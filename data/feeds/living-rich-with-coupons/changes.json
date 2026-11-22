@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-22T02:41:08.365711+00:00",
+  "retrieved_at": "2026-11-22T10:22:55.016759+00:00",
   "source": {
     "id": "living-rich-with-coupons",
     "name": "Living Rich With Coupons",
@@ -9,5 +9,58 @@
     "deal_headlines_only": true
   },
   "baseline": false,
-  "events": []
+  "events": [
+    {
+      "id": "81f2ab90ee992d0a5db413ec",
+      "types": [
+        "removed"
+      ],
+      "title": "10 FREE Hot Tamales Tropical Heat Candy Theater Boxes + $7.80 MoneyMaker at Walmart (reg. $1.48 each) | Just Use Your Phone {Fetch}",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.livingrichwithcoupons.com/2026/11/10-free-hot-tamales-tropical-heat-candy-theater-boxes-9-moneymaker-at-walmart-reg-1-48-each-just-use-your-phone-fetch.html",
+      "source_url": "https://www.livingrichwithcoupons.com/2026/11/10-free-hot-tamales-tropical-heat-candy-theater-boxes-9-moneymaker-at-walmart-reg-1-48-each-just-use-your-phone-fetch.html",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "b67eff1a9a0cde0e19be5699",
+      "types": [
+        "new"
+      ],
+      "title": "Rare Discount! Nintendo Switch 2 + Mario Cart Bundle just $499.XX on Amazon",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.livingrichwithcoupons.com/2026/11/rare-discount-nintendo-switch-2-mario-cart-bundle-just-499-xx-on-amazon.html",
+      "source_url": "https://www.livingrichwithcoupons.com/2026/11/rare-discount-nintendo-switch-2-mario-cart-bundle-just-499-xx-on-amazon.html",
+      "retailer_url": null,
+      "link_type": "source"
+    }
+  ]
 }

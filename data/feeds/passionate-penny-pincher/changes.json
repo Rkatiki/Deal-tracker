@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-22T02:41:08.365711+00:00",
+  "retrieved_at": "2026-11-22T10:22:55.016759+00:00",
   "source": {
     "id": "passionate-penny-pincher",
     "name": "Passionate Penny Pincher",
@@ -11,11 +11,11 @@
   "baseline": false,
   "events": [
     {
-      "id": "41df40d09d511d2029f4aef4",
+      "id": "4156e52b38d583bab1a6e583",
       "types": [
-        "new"
+        "removed"
       ],
-      "title": "Yoto Mini Player UNDER $60 (Reg $80)",
+      "title": "Fujifilm Instax Mini Camera Bundle ONLY $79! (Reg $106)",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -31,17 +31,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://passionatepennypincher.com/yoto-player-deal/",
-      "source_url": "https://passionatepennypincher.com/yoto-player-deal/",
+      "url": "https://passionatepennypincher.com/fujifilm-instax-mini-bundle/",
+      "source_url": "https://passionatepennypincher.com/fujifilm-instax-mini-bundle/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "be06329e505d7228898df193",
+      "id": "7152a60f2abc00748e636f59",
       "types": [
         "removed"
       ],
-      "title": "Razor Scooters from $18 (Reg $59) + RipRider JUST $48 (Reg $130)",
+      "title": "Kohl’s Black Friday Deals Go LIVE at Midnight!",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -57,8 +57,60 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://passionatepennypincher.com/razor-scooter-sale/",
-      "source_url": "https://passionatepennypincher.com/razor-scooter-sale/",
+      "url": "https://passionatepennypincher.com/best-kohls-black-friday-deals/",
+      "source_url": "https://passionatepennypincher.com/best-kohls-black-friday-deals/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "81a601156ab6c96ff48674a1",
+      "types": [
+        "new"
+      ],
+      "title": "Barefoot Dreams Socks ONLY $7.50",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://passionatepennypincher.com/barefoot-dreams-sock-sale/",
+      "source_url": "https://passionatepennypincher.com/barefoot-dreams-sock-sale/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "b1975a01312b6a3557b13237",
+      "types": [
+        "new"
+      ],
+      "title": "Kohl’s Black Friday Deals are LIVE!",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://passionatepennypincher.com/best-kohls-black-friday-deals/",
+      "source_url": "https://passionatepennypincher.com/best-kohls-black-friday-deals/",
       "retailer_url": null,
       "link_type": "source"
     }

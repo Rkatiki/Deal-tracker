@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-21T21:55:22.137429+00:00",
+  "retrieved_at": "2026-11-22T10:22:55.016759+00:00",
   "source": {
     "id": "clark-deals",
     "name": "Clark Deals",
@@ -8,58 +8,5 @@
     "kind": "rss"
   },
   "baseline": false,
-  "events": [
-    {
-      "id": "d990d2a6ad0cd626cdfe1d69",
-      "types": [
-        "new"
-      ],
-      "title": "Today only: Take up to 60% off door locks, smart home and security",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://clarkdeals.com/home-kitchen/ceiling-fans-and-lighting/",
-      "source_url": "https://clarkdeals.com/home-kitchen/ceiling-fans-and-lighting/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "e14eea4fb9f7fba75ed40409",
-      "types": [
-        "removed"
-      ],
-      "title": "LIFX Color A19 Wi-Fi smart LED bulb for $10",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://clarkdeals.com/home-kitchen/lifx-color-a19-wi-fi-smart-led-bulb/",
-      "source_url": "https://clarkdeals.com/home-kitchen/lifx-color-a19-wi-fi-smart-led-bulb/",
-      "retailer_url": null,
-      "link_type": "source"
-    }
-  ]
+  "events": []
 }
