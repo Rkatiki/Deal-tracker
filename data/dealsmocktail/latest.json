@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-21T21:39:49+00:00",
+  "retrieved_at": "2026-11-22T02:14:32+00:00",
   "website": "https://dealsmocktail.com/us",
   "tabs": [
     {
@@ -119,6 +119,15 @@
         {
           "gid": "dealsmocktail:latest",
           "tab": "Latest",
+          "price_text": "113.25",
+          "category": "Home Improvement",
+          "posted_at": "2026-11-21T14:54:17.960-05:00",
+          "expires_at": "2026-11-30T23:59:59.999-05:00",
+          "advertised_price": "249.99"
+        },
+        {
+          "gid": "dealsmocktail:home-kitchen",
+          "tab": "Home and Kitchen",
           "price_text": "113.25",
           "category": "Home Improvement",
           "posted_at": "2026-11-21T14:54:17.960-05:00",
@@ -530,44 +539,6 @@
       }
     },
     {
-      "id": "e788343d0e0ce95ff94e6f3d",
-      "title": "Adidas Women's Runfalcon 5 Running Shoes",
-      "retailer": "Adidas",
-      "price_cents": 2040,
-      "currency": "USD",
-      "coupon": null,
-      "notes": null,
-      "url": "https://mavely.app.link/j8vgTFXff8b",
-      "source_url": "https://dealsmocktail.com/us/deal/adidas-womens-runfalcon-5-running-shoes_1795257351677",
-      "retailer_url": "https://mavely.app.link/j8vgTFXff8b",
-      "link_type": "retailer_redirect",
-      "sheet_url": "https://dealsmocktail.com/us/deals",
-      "sources": [
-        {
-          "gid": "dealsmocktail:latest",
-          "tab": "Latest",
-          "price_text": "20.4",
-          "category": "Footwear",
-          "posted_at": "2026-11-21T05:36:32.362-05:00",
-          "expires_at": "2026-11-28T05:31:13.884-05:00",
-          "advertised_price": 60
-        }
-      ],
-      "price_conflict": false,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
       "id": "08c694ac53802c17aeebb7e5",
       "title": "BEDELITE Faux Fur Throw for Couch, Bubble Blanket, 50\" x 60\", Tie-Dye Khaki | 870GSM Soft Cozy Plush Blanket for Sofa & Bed Living Room Decor, Warm Fuzzy Faux Rabbit Fur for Women Gift, All Season Use",
       "retailer": "Amazon",
@@ -872,65 +843,27 @@
       }
     },
     {
-      "id": "75e1475f652401009580ff58",
-      "title": "Nike Revolution 8 Men's Road Running Shoes",
-      "retailer": "Nike",
-      "price_cents": 3373,
+      "id": "9d237fbfc778d5cb7a6031bb",
+      "title": "Calvin Klein Monologo Fleece Sweatshirt",
+      "retailer": "Calvin Klein",
+      "price_cents": 3400,
       "currency": "USD",
       "coupon": null,
       "notes": null,
-      "url": "https://go.magik.ly/ml/4x42p/",
-      "source_url": "https://dealsmocktail.com/us/deal/nike-revolution-8-mens-road-running-shoes_1795258648778",
-      "retailer_url": "https://go.magik.ly/ml/4x42p/",
+      "url": "https://go.magik.ly/ml/4x73x/",
+      "source_url": "https://dealsmocktail.com/us/deal/calvin-klein-monologo-fleece-sweatshirt_1795298780024",
+      "retailer_url": "https://go.magik.ly/ml/4x73x/",
       "link_type": "retailer_redirect",
       "sheet_url": "https://dealsmocktail.com/us/deals",
       "sources": [
         {
           "gid": "dealsmocktail:latest",
           "tab": "Latest",
-          "price_text": "33.73",
-          "category": "Footwear",
-          "posted_at": "2026-11-21T05:58:14.344-05:00",
+          "price_text": "34",
+          "category": "Men’s Clothing",
+          "posted_at": "2026-11-21T17:07:12.483-05:00",
           "expires_at": "2026-11-30T23:59:59.999-05:00",
-          "advertised_price": 70
-        }
-      ],
-      "price_conflict": false,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
-      "id": "f3cd992cbbdb2a22c16c9823",
-      "title": "Nike Revolution 7 Men's Road Running Shoes",
-      "retailer": "Nike",
-      "price_cents": 3373,
-      "currency": "USD",
-      "coupon": null,
-      "notes": null,
-      "url": "https://go.magik.ly/ml/4x40t/",
-      "source_url": "https://dealsmocktail.com/us/deal/nike-revolution-7-mens-road-running-shoes_1795258231950",
-      "retailer_url": "https://go.magik.ly/ml/4x40t/",
-      "link_type": "retailer_redirect",
-      "sheet_url": "https://dealsmocktail.com/us/deals",
-      "sources": [
-        {
-          "gid": "dealsmocktail:latest",
-          "tab": "Latest",
-          "price_text": "33.73",
-          "category": "Footwear",
-          "posted_at": "2026-11-21T05:51:09.060-05:00",
-          "expires_at": "2026-11-30T23:59:59.999-05:00",
-          "advertised_price": 70
+          "advertised_price": 85
         }
       ],
       "price_conflict": false,
@@ -969,6 +902,82 @@
           "posted_at": "2026-11-20T16:14:42.574-05:00",
           "expires_at": "2026-11-27T16:11:35.003-05:00",
           "advertised_price": "69.99"
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
+      "id": "e03e600e512c0775632b4302",
+      "title": "Calvin Klein Monogram Relaxed Hoodie",
+      "retailer": "Calvin Klein",
+      "price_cents": 3560,
+      "currency": "USD",
+      "coupon": null,
+      "notes": null,
+      "url": "https://go.magik.ly/ml/4x74m/",
+      "source_url": "https://dealsmocktail.com/us/deal/calvin-klein-monogram-relaxed-hoodie_1795299679608",
+      "retailer_url": "https://go.magik.ly/ml/4x74m/",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://dealsmocktail.com/us/deals",
+      "sources": [
+        {
+          "gid": "dealsmocktail:latest",
+          "tab": "Latest",
+          "price_text": "35.6",
+          "category": "Men’s Clothing",
+          "posted_at": "2026-11-21T17:21:53.277-05:00",
+          "expires_at": "2026-11-30T23:59:59.999-05:00",
+          "advertised_price": 89
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
+      "id": "29ccc68290ad6fc895b9a42c",
+      "title": "Calvin Klein Monologo Fleece Hoodie",
+      "retailer": "Calvin Klein",
+      "price_cents": 3800,
+      "currency": "USD",
+      "coupon": null,
+      "notes": null,
+      "url": "https://go.magik.ly/ml/4x758/",
+      "source_url": "https://dealsmocktail.com/us/deal/calvin-klein-monologo-fleece-hoodie_1795300595005",
+      "retailer_url": "https://go.magik.ly/ml/4x758/",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://dealsmocktail.com/us/deals",
+      "sources": [
+        {
+          "gid": "dealsmocktail:latest",
+          "tab": "Latest",
+          "price_text": "38",
+          "category": "Men’s Clothing",
+          "posted_at": "2026-11-21T17:37:09.035-05:00",
+          "expires_at": "2026-11-30T23:59:59.999-05:00",
+          "advertised_price": 95
         }
       ],
       "price_conflict": false,
@@ -1071,120 +1080,6 @@
       }
     },
     {
-      "id": "696d3e1e74f6c1d387aa800a",
-      "title": "Nike Air Max Alpha Trainer 6 Men's Workout Shoes",
-      "retailer": "Nike",
-      "price_cents": 5023,
-      "currency": "USD",
-      "coupon": null,
-      "notes": null,
-      "url": "https://go.magik.ly/ml/4x42y/",
-      "source_url": "https://dealsmocktail.com/us/deal/nike-air-max-alpha-trainer-6-mens-workout-shoes_1792435865080",
-      "retailer_url": "https://go.magik.ly/ml/4x42y/",
-      "link_type": "retailer_redirect",
-      "sheet_url": "https://dealsmocktail.com/us/deals",
-      "sources": [
-        {
-          "gid": "dealsmocktail:latest",
-          "tab": "Latest",
-          "price_text": "50.23",
-          "category": "Footwear",
-          "posted_at": "2026-11-21T06:05:58.802-05:00",
-          "expires_at": "2026-11-30T23:59:59.999-05:00",
-          "advertised_price": 100
-        }
-      ],
-      "price_conflict": false,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
-      "id": "db3ad6596d6bb9bb80ce7653",
-      "title": "Nike Free RN NN Men's Road Running Shoes",
-      "retailer": "Nike",
-      "price_cents": 5098,
-      "currency": "USD",
-      "coupon": null,
-      "notes": null,
-      "url": "https://go.magik.ly/ml/4x444/",
-      "source_url": "https://dealsmocktail.com/us/deal/nike-free-rn-nn-mens-road-running-shoes_1795259963231",
-      "retailer_url": "https://go.magik.ly/ml/4x444/",
-      "link_type": "retailer_redirect",
-      "sheet_url": "https://dealsmocktail.com/us/deals",
-      "sources": [
-        {
-          "gid": "dealsmocktail:latest",
-          "tab": "Latest",
-          "price_text": "50.98",
-          "category": "Footwear",
-          "posted_at": "2026-11-21T06:20:02.994-05:00",
-          "expires_at": "2026-11-30T23:59:59.999-05:00",
-          "advertised_price": 110
-        }
-      ],
-      "price_conflict": false,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
-      "id": "6b3ebcfe2d96516ef1b56636",
-      "title": "Nike Journey Run Men's Road Running Shoes",
-      "retailer": "Nike",
-      "price_cents": 5698,
-      "currency": "USD",
-      "coupon": null,
-      "notes": null,
-      "url": "https://go.magik.ly/ml/4x48d/",
-      "source_url": "https://dealsmocktail.com/us/deal/nike-journey-run-mens-road-running-shoes_1795261542757",
-      "retailer_url": "https://go.magik.ly/ml/4x48d/",
-      "link_type": "retailer_redirect",
-      "sheet_url": "https://dealsmocktail.com/us/deals",
-      "sources": [
-        {
-          "gid": "dealsmocktail:latest",
-          "tab": "Latest",
-          "price_text": "56.98",
-          "category": "Footwear",
-          "posted_at": "2026-11-21T06:46:34.655-05:00",
-          "expires_at": "2026-11-30T23:59:59.999-05:00",
-          "advertised_price": 95
-        }
-      ],
-      "price_conflict": false,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
       "id": "9482d3a3e5708b82d2a1ef36",
       "title": "Deep Fryer with 3 Baskets (5 L / 1700 W)",
       "retailer": "Walmart",
@@ -1244,44 +1139,6 @@
           "posted_at": "2026-11-21T04:06:33.263-05:00",
           "expires_at": "2026-12-04T23:59:59.999-05:00",
           "advertised_price": "106.99"
-        }
-      ],
-      "price_conflict": false,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
-      "id": "81633375ebf34e80d22fcd11",
-      "title": "Nike Ava X Men's Shoes",
-      "retailer": "Nike",
-      "price_cents": 6148,
-      "currency": "USD",
-      "coupon": null,
-      "notes": null,
-      "url": "https://go.magik.ly/ml/4x4b4/",
-      "source_url": "https://dealsmocktail.com/us/deal/nike-ava-x-mens-shoes_1795264625960",
-      "retailer_url": "https://go.magik.ly/ml/4x4b4/",
-      "link_type": "retailer_redirect",
-      "sheet_url": "https://dealsmocktail.com/us/deals",
-      "sources": [
-        {
-          "gid": "dealsmocktail:latest",
-          "tab": "Latest",
-          "price_text": "61.48",
-          "category": "Footwear",
-          "posted_at": "2026-11-21T07:37:46.338-05:00",
-          "expires_at": "2026-11-30T23:59:59.999-05:00",
-          "advertised_price": 125
         }
       ],
       "price_conflict": false,
@@ -1375,27 +1232,103 @@
       }
     },
     {
-      "id": "8becdef94297fdae6c541729",
-      "title": "Nike Air Jordan 1 Mid Men's Shoes",
-      "retailer": "Nike",
-      "price_cents": 7498,
+      "id": "3998e585f3f3c979a36bc26f",
+      "title": "Calvin Klein Jump-Hour Bracelet Watch",
+      "retailer": "Calvin Klein",
+      "price_cents": 7200,
       "currency": "USD",
       "coupon": null,
       "notes": null,
-      "url": "https://go.magik.ly/ml/4x4bz/",
-      "source_url": "https://dealsmocktail.com/us/deal/nike-air-jordan-1-mid-mens-shoes_1795265397314",
-      "retailer_url": "https://go.magik.ly/ml/4x4bz/",
+      "url": "https://go.magik.ly/ml/4x771/",
+      "source_url": "https://dealsmocktail.com/us/deal/calvin-klein-jump-hour-bracelet-watch_1795303402285",
+      "retailer_url": "https://go.magik.ly/ml/4x771/",
       "link_type": "retailer_redirect",
       "sheet_url": "https://dealsmocktail.com/us/deals",
       "sources": [
         {
           "gid": "dealsmocktail:latest",
           "tab": "Latest",
-          "price_text": "74.98",
-          "category": "Footwear",
-          "posted_at": "2026-11-21T07:52:32.978-05:00",
+          "price_text": "72",
+          "category": "Watches",
+          "posted_at": "2026-11-21T18:24:08.561-05:00",
+          "expires_at": "2026-11-28T18:18:55.848-05:00",
+          "advertised_price": 150
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
+      "id": "14d153b51eeafaa135b6bdff",
+      "title": "Calvin Klein Brushed Dial Bangle Watch",
+      "retailer": "Calvin Klein",
+      "price_cents": 8160,
+      "currency": "USD",
+      "coupon": null,
+      "notes": null,
+      "url": "https://go.magik.ly/ml/4x76h/",
+      "source_url": "https://dealsmocktail.com/us/deal/calvin-klein-brushed-dial-bangle-watch_1795302449809",
+      "retailer_url": "https://go.magik.ly/ml/4x76h/",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://dealsmocktail.com/us/deals",
+      "sources": [
+        {
+          "gid": "dealsmocktail:latest",
+          "tab": "Latest",
+          "price_text": "81.6",
+          "category": "Watches",
+          "posted_at": "2026-11-21T18:07:57.327-05:00",
           "expires_at": "2026-11-30T23:59:59.999-05:00",
-          "advertised_price": 130
+          "advertised_price": 170
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
+      "id": "a5fa462471dea53df0ab0005",
+      "title": "Calvin Klein Link Bracelet Watch",
+      "retailer": "Calvin Klein",
+      "price_cents": 8640,
+      "currency": "USD",
+      "coupon": null,
+      "notes": null,
+      "url": "https://go.magik.ly/ml/4x75v/",
+      "source_url": "https://dealsmocktail.com/us/deal/calvin-klein-link-bracelet-watch_1795301780908",
+      "retailer_url": "https://go.magik.ly/ml/4x75v/",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://dealsmocktail.com/us/deals",
+      "sources": [
+        {
+          "gid": "dealsmocktail:latest",
+          "tab": "Latest",
+          "price_text": "86.4",
+          "category": "Watches",
+          "posted_at": "2026-11-21T17:57:14.757-05:00",
+          "expires_at": "2026-11-28T17:54:24.835-05:00",
+          "advertised_price": 180
         }
       ],
       "price_conflict": false,
@@ -1726,44 +1659,6 @@
       }
     },
     {
-      "id": "4f66444c5454d8f3bf49edff",
-      "title": "Nike ACG Ultrafly Trail Trail Racing Shoes",
-      "retailer": "Nike",
-      "price_cents": 14023,
-      "currency": "USD",
-      "coupon": null,
-      "notes": null,
-      "url": "https://go.magik.ly/ml/4x4q9/",
-      "source_url": "https://dealsmocktail.com/us/deal/nike-acg-ultrafly-trail-trail-racing-shoes_1795266742836",
-      "retailer_url": "https://go.magik.ly/ml/4x4q9/",
-      "link_type": "retailer_redirect",
-      "sheet_url": "https://dealsmocktail.com/us/deals",
-      "sources": [
-        {
-          "gid": "dealsmocktail:latest",
-          "tab": "Latest",
-          "price_text": "140.23",
-          "category": "Footwear",
-          "posted_at": "2026-11-21T08:13:13.178-05:00",
-          "expires_at": "2026-11-30T23:59:59.999-05:00",
-          "advertised_price": 260
-        }
-      ],
-      "price_conflict": false,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
       "id": "5507e656280090e34ac5d2a7",
       "title": "Samsung Galaxy Watch 7 40mm Bluetooth AI Smartwatch w/Energy Score, Wellness Tips, Heart Rate Tracking, Sleep Monitor, Fitness Tracker, 2024, Green [US Version, 1Yr Manufacturer Warranty]",
       "retailer": "Amazon",
@@ -1879,6 +1774,44 @@
           "posted_at": "2026-11-21T15:26:13.718-05:00",
           "expires_at": "2026-11-30T23:59:59.999-05:00",
           "advertised_price": "299.99"
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
+      "id": "e1490c16c507c930e2ed5aea",
+      "title": "Coach Station Tote Bag In Signature Canvas",
+      "retailer": "Coach",
+      "price_cents": 17125,
+      "currency": "USD",
+      "coupon": null,
+      "notes": null,
+      "url": "https://go.magik.ly/ml/4x7cd/",
+      "source_url": "https://dealsmocktail.com/us/deal/coach-station-tote-bag-in-signature-canvas_1795305483463",
+      "retailer_url": "https://go.magik.ly/ml/4x7cd/",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://dealsmocktail.com/us/deals",
+      "sources": [
+        {
+          "gid": "dealsmocktail:latest",
+          "tab": "Latest",
+          "price_text": "171.25",
+          "category": "Luggage and Bags",
+          "posted_at": "2026-11-21T18:58:58.174-05:00",
+          "expires_at": "2026-11-30T23:59:59.999-05:00",
+          "advertised_price": 295
         }
       ],
       "price_conflict": false,
@@ -2019,6 +1952,44 @@
       }
     },
     {
+      "id": "0526c91fa3418c3a9763e528",
+      "title": "Coach Maggie Tote Bag In Signature Leather",
+      "retailer": "Coach",
+      "price_cents": 19425,
+      "currency": "USD",
+      "coupon": null,
+      "notes": null,
+      "url": "https://go.magik.ly/ml/4x77k/",
+      "source_url": "https://dealsmocktail.com/us/deal/coach-maggie-tote-bag-in-signature-leather_1795304431532",
+      "retailer_url": "https://go.magik.ly/ml/4x77k/",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://dealsmocktail.com/us/deals",
+      "sources": [
+        {
+          "gid": "dealsmocktail:latest",
+          "tab": "Latest",
+          "price_text": "194.25",
+          "category": "Luxury Stores",
+          "posted_at": "2026-11-21T18:41:10.311-05:00",
+          "expires_at": "2026-11-30T23:59:59.999-05:00",
+          "advertised_price": 425
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
       "id": "f265145688b520c3c4bf3e24",
       "title": "WHOOP 5.0/MG Fitness Tracker + 12-Month Membership- Peak",
       "retailer": "Amazon",
@@ -2098,44 +2069,6 @@
         "max_usd": null,
         "preferred_usd": null,
         "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
-      "id": "bbc00ef1827ccd1fd7700de4",
-      "title": "Ninja Prestige Smart XL Air Fryer & Countertop Oven + Pro Cook - Stainless Steel",
-      "retailer": "Best Buy",
-      "price_cents": 24999,
-      "currency": "USD",
-      "coupon": null,
-      "notes": null,
-      "url": "https://go.magik.ly/ml/4wbin/",
-      "source_url": "https://dealsmocktail.com/us/deal/ninja-prestige-smart-xl-air-fryer-countertop-oven-pro-cook-stainless-steel_1794996736971",
-      "retailer_url": "https://go.magik.ly/ml/4wbin/",
-      "link_type": "retailer_redirect",
-      "sheet_url": "https://dealsmocktail.com/us/deals?category=home-kitchen",
-      "sources": [
-        {
-          "gid": "dealsmocktail:home-kitchen",
-          "tab": "Home and Kitchen",
-          "price_text": "249.99",
-          "category": "Kitchen & Dining",
-          "posted_at": "2026-11-18T05:12:39.655-05:00",
-          "expires_at": "2026-11-30T23:59:59.999-05:00",
-          "advertised_price": "429.99"
-        }
-      ],
-      "price_conflict": false,
-      "rank": {
-        "category": "air_fryer",
-        "variant": null,
-        "status": "over_budget",
-        "score": 0,
-        "max_usd": 75,
-        "preferred_usd": null,
-        "within_budget": false,
         "comparisons": {},
         "savings_vs_comparison_cents": null,
         "evidence": {}
@@ -2353,6 +2286,44 @@
           "posted_at": "2026-11-19T18:35:49.628-05:00",
           "expires_at": "2026-11-30T23:59:59.999-05:00",
           "advertised_price": 599
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
+      "id": "f323a37e550216bbd358d04a",
+      "title": "WHOOP 5.0/MG Fitness & Health Tracker with 12-Month Membership- Life",
+      "retailer": "Amazon",
+      "price_cents": 29900,
+      "currency": "USD",
+      "coupon": null,
+      "notes": null,
+      "url": "https://amzn.to/4uVVzHY",
+      "source_url": "https://dealsmocktail.com/us/deal/whoop-50mg-fitness-health-tracker-with-12-month-membership-life_1782212537676",
+      "retailer_url": "https://amzn.to/4uVVzHY",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://dealsmocktail.com/us/deals",
+      "sources": [
+        {
+          "gid": "dealsmocktail:latest",
+          "tab": "Latest",
+          "price_text": "299",
+          "category": "Fitness & Equipment",
+          "posted_at": "2026-11-21T16:40:30.194-05:00",
+          "expires_at": "2026-11-30T23:59:59.999-05:00",
+          "advertised_price": 359
         }
       ],
       "price_conflict": false,
