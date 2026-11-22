@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-22T10:22:55.016759+00:00",
+  "retrieved_at": "2026-11-22T18:04:22.273716+00:00",
   "source": {
     "id": "slickdeals",
     "name": "Slickdeals Frontpage",
@@ -10,9 +10,61 @@
   "baseline": false,
   "events": [
     {
-      "id": "0e1ee4b125fb346a8dcd7e14",
+      "id": "068e0282eba976fd52b197de",
       "types": [
         "new"
+      ],
+      "title": "Hasbro Gaming Yahtzee Dice Game w/ Collapsible Cup & Storage Case $5",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://slickdeals.net/f/20368899-hasbro-gaming-yahtzee-dice-game-with-collapsible-cup-storage-case-5-00-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source_url": "https://slickdeals.net/f/20368899-hasbro-gaming-yahtzee-dice-game-with-collapsible-cup-storage-case-5-00-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "0bb78d1d990dafe83f8066c1",
+      "types": [
+        "new"
+      ],
+      "title": "Prime: GREEN Revodok 6-in-1 100W PD USB-C HDMI + Gigabit Ethernet Adapter Hub $18 + Free S&H",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://slickdeals.net/f/20347425-prime-ugreen-revodok-6-in-1-usb-c-hub-w-4k-hdmi-gigabit-ethernet-100w-pd-charging-17-99-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source_url": "https://slickdeals.net/f/20347425-prime-ugreen-revodok-6-in-1-usb-c-hub-w-4k-hdmi-gigabit-ethernet-100w-pd-charging-17-99-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "0e1ee4b125fb346a8dcd7e14",
+      "types": [
+        "removed"
       ],
       "title": "256GB Nintendo Switch 2 Console w/ Mario Kart World Bundle $500 + Free S&H",
       "retailer": null,
@@ -36,11 +88,11 @@
       "link_type": "source"
     },
     {
-      "id": "18f2fcdb25c724a27b092902",
+      "id": "0fb629c047a30b0fb2242c51",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "5-Pk Hanes Men's Cool DRI 7\" Athletic Shorts (Various) $22.80",
+      "title": "Classic Boards Games: Sorry!, Trouble, Connect 4, Yahtzee & More $5 each + Free Pickup",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -56,43 +108,43 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://slickdeals.net/f/20360160-5-pack-hanes-men-s-cool-dri-7-athletic-shorts-22-79-4-56-each-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "source_url": "https://slickdeals.net/f/20360160-5-pack-hanes-men-s-cool-dri-7-athletic-shorts-22-79-4-56-each-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "url": "https://slickdeals.net/f/20360916-live-11-22-target-5-childrens-games-sorry-trouble-chutes-ladders-connect-4-yahtzee-lets-go-fishin?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source_url": "https://slickdeals.net/f/20360916-live-11-22-target-5-childrens-games-sorry-trouble-chutes-ladders-connect-4-yahtzee-lets-go-fishin?utm_source=rss&utm_content=fp&utm_medium=RSS2",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "2256339ac92f5e7c0679a4e2",
+      "id": "1ba9a925e83013250819fb81",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "Shokz OpenFit Air Sports Headphones (Black or White) $59.95 + Free S&H",
+      "title": "Roborock Qrevo Edge 3 Pro Robot Vacuum & Mop w/ Intelligent Dock $900 + Free S&H",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
       "rank": {
-        "category": "other",
+        "category": "robot_vacuum_mop",
         "variant": null,
         "status": "price_unavailable",
         "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
+        "max_usd": 350,
+        "preferred_usd": 250,
         "within_budget": null,
         "comparisons": {},
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://slickdeals.net/f/20361201-shokz-openfit-air-sports-headphones-black-or-white-59-95-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "source_url": "https://slickdeals.net/f/20361201-shokz-openfit-air-sports-headphones-black-or-white-59-95-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "url": "https://slickdeals.net/f/20348889-roborock-2026-new-qrevo-edge-3-pro-robot-vacuum-and-mop-899-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source_url": "https://slickdeals.net/f/20348889-roborock-2026-new-qrevo-edge-3-pro-robot-vacuum-and-mop-899-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "271f5b303b0f1238500087ca",
+      "id": "267eec4ab0317538abb2d139",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "Prime Members: 3-Sided Govee Smart Plug Outlet Extender w/ RGB Night Light $28.50 + Free S&H",
+      "title": "2-Year Bitdefender Family Pack 2027 Software (15 Devices / Digital Download) $33 & More",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -108,15 +160,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://slickdeals.net/f/20281422-3-sided-govee-smart-plug-outlet-extender-w-rgb-night-light-28-49-free-shipping-w-prime?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "source_url": "https://slickdeals.net/f/20281422-3-sided-govee-smart-plug-outlet-extender-w-rgb-night-light-28-49-free-shipping-w-prime?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "url": "https://slickdeals.net/f/20348700-2-years-bitdefender-total-security-2027-software-5-devices-digital-dowload-25-more?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source_url": "https://slickdeals.net/f/20348700-2-years-bitdefender-total-security-2027-software-5-devices-digital-dowload-25-more?utm_source=rss&utm_content=fp&utm_medium=RSS2",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "2b1a2567ddd32d64f41be3c7",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "FINAL FANTASY TACTICS: The Ivalice Chronicles (PS5) $22.80",
       "retailer": null,
@@ -140,35 +192,9 @@
       "link_type": "source"
     },
     {
-      "id": "2b397bd8a12dbd5921571bff",
-      "types": [
-        "removed"
-      ],
-      "title": "The Lord of the Rings Motion Picture Trilogy: Extended Editions (Blu-ray) $32",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://slickdeals.net/f/20357634-the-lord-of-the-rings-motion-picture-trilogy-extended-edition-bd-remaster-31-99-bestbuy-com?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "source_url": "https://slickdeals.net/f/20357634-the-lord-of-the-rings-motion-picture-trilogy-extended-edition-bd-remaster-31-99-bestbuy-com?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
       "id": "2b3c9c86eced4e2567b4457b",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Apple Watch SE 3 GPS Smartwatch (2 Colors): 44mm $209, 40mm $179 & More + Free S&H",
       "retailer": null,
@@ -192,9 +218,87 @@
       "link_type": "source"
     },
     {
-      "id": "339e34511199e9e1134ea7e7",
+      "id": "2bb1a1bb55377dc17b2bc0e0",
       "types": [
         "new"
+      ],
+      "title": "Anker Nano Charger Neo up to 65W USB-C Charger Block w/ Foldable Plug (various) $16 + Free S&H",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://slickdeals.net/f/20367723-15-99-anker-nano-charger-neo-dynamic-45w-65w-blue-white-burgundy-at-walmart-com-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source_url": "https://slickdeals.net/f/20367723-15-99-anker-nano-charger-neo-dynamic-45w-65w-blue-white-burgundy-at-walmart-com-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "2cbc308719aa6a79510ef7e6",
+      "types": [
+        "new"
+      ],
+      "title": "3.3-oz Men's Azzaro Wanted By Night Eau de Parfum $50 + Free S&H",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://slickdeals.net/f/20346195-50-or-47-50-3-3-oz-men-s-azzaro-wanted-by-night-eau-de-parfum-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source_url": "https://slickdeals.net/f/20346195-50-or-47-50-3-3-oz-men-s-azzaro-wanted-by-night-eau-de-parfum-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "2f62ff02478e2db6cb418006",
+      "types": [
+        "new"
+      ],
+      "title": "55\" Hisense QD5 Hi-QLED 4K UHD Smart Roku TV (2026) $180 + Free S&H",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "tv",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": 500,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://slickdeals.net/f/20338590-55-hisense-qd5-hi-qled-4k-uhd-smart-roku-tv-2026-180-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source_url": "https://slickdeals.net/f/20338590-55-hisense-qd5-hi-qled-4k-uhd-smart-roku-tv-2026-180-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "339e34511199e9e1134ea7e7",
+      "types": [
+        "removed"
       ],
       "title": "Bluey's Happy Snaps: Activity Book Edition (Switch 2 Game-Key Card) $40 + Free S&H",
       "retailer": null,
@@ -218,9 +322,61 @@
       "link_type": "source"
     },
     {
-      "id": "4faa958d80b4b6d0255f5fd8",
+      "id": "381f6deb3781e346661ed248",
       "types": [
         "new"
+      ],
+      "title": "adidas Men's Core adidas Performance Primegreen Polo Shirt (Collegiate Royal) $17.50 + Free S&H",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://slickdeals.net/f/20356158-adidas-men-core-adidas-performance-primegreen-polo-shirt-collegiate-royal-17-5?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source_url": "https://slickdeals.net/f/20356158-adidas-men-core-adidas-performance-primegreen-polo-shirt-collegiate-royal-17-5?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "4c94beb479b0647eba83c00f",
+      "types": [
+        "new"
+      ],
+      "title": "Cricket Wireless: 256GB Apple iPhone 17e (Locked) + 3-Mo. Supreme Unlimited Plan $280 w/ Port-In + Free S&H",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://slickdeals.net/f/20360067-cricket-wireless-iphone-17e-new-280-with-3-month-plan?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source_url": "https://slickdeals.net/f/20360067-cricket-wireless-iphone-17e-new-280-with-3-month-plan?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "4faa958d80b4b6d0255f5fd8",
+      "types": [
+        "removed"
       ],
       "title": "3-Pk DEWALT 20V MAX 5 Ah Lithium Ion Batteries $109.65 + Free S&H",
       "retailer": null,
@@ -244,11 +400,11 @@
       "link_type": "source"
     },
     {
-      "id": "4fb04b23d969bebd5152543d",
+      "id": "53c5aa0c8a7b85122c69c647",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "LG Partner (Select Areas): 77\" C6H OLED evo 4K TV + 27\" G5 FHD 200Hz Monitor $1620 + Free Delivery",
+      "title": "16-Oz YETI Rambler Travel Bottle (3 Colors) $19.20",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -264,17 +420,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://slickdeals.net/f/20360583-lg-partner-77-c6h-oled-evo-4k-tv-27-ultragear-g5-ips-fhd-200hz-1ms-monitor-1619-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "source_url": "https://slickdeals.net/f/20360583-lg-partner-77-c6h-oled-evo-4k-tv-27-ultragear-g5-ips-fhd-200hz-1ms-monitor-1619-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "url": "https://slickdeals.net/f/20340600-16-oz-yeti-rambler-travel-bottle-royal-blue-purple-red-19-20-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source_url": "https://slickdeals.net/f/20340600-16-oz-yeti-rambler-travel-bottle-royal-blue-purple-red-19-20-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "560a1327ca7576af9fdc1e06",
+      "id": "56fd9dbeaf06db8e933a217f",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "DeWALT 20V MAX Corded / Cordless Air Inflator (Tool Only) $99 + Free S&H on $150+",
+      "title": "9.2-Ch Onkyo TX-NR7100 AV Receiver $600 + Free S&H",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -290,15 +446,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://slickdeals.net/f/20360169-dewalt-20v-max-cordless-inflator-tool-only-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "source_url": "https://slickdeals.net/f/20360169-dewalt-20v-max-cordless-inflator-tool-only-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "url": "https://slickdeals.net/f/20305887-onkyo-tx-nr7100-9-2-channel-av-receiver-600-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source_url": "https://slickdeals.net/f/20305887-onkyo-tx-nr7100-9-2-channel-av-receiver-600-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "5947dd6aa68307794909f7e2",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "DashPass Members: Grand Theft Auto VI (Xbox Series X/S Digital) from $68",
       "retailer": null,
@@ -324,7 +480,7 @@
     {
       "id": "59f5d82be1b6c49843e2daae",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "256GB Nintendo Switch 2 Console w/ Mario Kart World Bundle $500 + Free S&H",
       "retailer": null,
@@ -348,11 +504,11 @@
       "link_type": "source"
     },
     {
-      "id": "67398f4aac23753a31d7f541",
+      "id": "5d02aedf0a886f8a4ed8f216",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "46mm Tissot Seastar Professional 2000 Men's Swiss Automatic Watch $673.75 + Free S&H",
+      "title": "10-Pk 1-kg Polymaker 1.75mm PETG 3D Printer Filament $73.30 w/ S&S + Free S&H",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -368,15 +524,41 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://slickdeals.net/f/20342223-673-75-46mm-tissot-seastar-professional-2000-men-s-swiss-automatic-watch-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "source_url": "https://slickdeals.net/f/20342223-673-75-46mm-tissot-seastar-professional-2000-men-s-swiss-automatic-watch-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "url": "https://slickdeals.net/f/20348082-10-pk-1-kg-polymaker-1-75mm-petg-3d-printer-filament-73-30-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source_url": "https://slickdeals.net/f/20348082-10-pk-1-kg-polymaker-1-75mm-petg-3d-printer-filament-73-30-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "5df901c0fd7552ce1007c2ef",
+      "types": [
+        "new"
+      ],
+      "title": "5-Pk Hanes Men's Cool DRI Performance T-Shirts (Assorted Colors) $21.60",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://slickdeals.net/f/20346486-21-59-hanes-men-s-cool-dri-performance-short-sleeve-t-shirts-5-pack?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source_url": "https://slickdeals.net/f/20346486-21-59-hanes-men-s-cool-dri-performance-short-sleeve-t-shirts-5-pack?utm_source=rss&utm_content=fp&utm_medium=RSS2",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "678d0bb97ece7f3b37c295de",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Apple AirPods Pro 3 Wireless Earbuds w/ Charging Case (White) $170 + Free S&H",
       "retailer": null,
@@ -400,35 +582,9 @@
       "link_type": "source"
     },
     {
-      "id": "69971b3137447ccaff848ad1",
-      "types": [
-        "removed"
-      ],
-      "title": "Amazon Basics 12V Portable Tire Inflator Air Pump Compressor $10.40 + Free S&H w/ Prime",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://slickdeals.net/f/20365470-10-39-amazon-basics-portable-tire-inflator-air-pump-compressor-12v-at-woot?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "source_url": "https://slickdeals.net/f/20365470-10-39-amazon-basics-portable-tire-inflator-air-pump-compressor-12v-at-woot?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
       "id": "69c2b6d3b1f662eeae0bb746",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Apple AirPods Pro 3 Wireless Earbuds $170 + Free S&H",
       "retailer": null,
@@ -454,7 +610,7 @@
     {
       "id": "6d6f4851391d6210173038db",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "007 First Light: Deluxe Edition (Xbox Series X|S / PC / Xbox Cloud Gaming) $40",
       "retailer": null,
@@ -478,61 +634,9 @@
       "link_type": "source"
     },
     {
-      "id": "6e490ad835c72a6cc578bc95",
-      "types": [
-        "removed"
-      ],
-      "title": "Wyze 1080p WiFi Indoor Window Security Camera w/ Color Night Vision $20",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://slickdeals.net/f/20331651-wyze-1080p-wifi-indoor-window-security-camera-w-color-night-vision-21-98-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "source_url": "https://slickdeals.net/f/20331651-wyze-1080p-wifi-indoor-window-security-camera-w-color-night-vision-21-98-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "718fe6a4a507f7d6c7708a82",
-      "types": [
-        "removed"
-      ],
-      "title": "Papillio by Birkenstock Women's Arizona Chunky Birko-Flor Platform Sandals (Blue) $38.65 + Free S&H on $49+",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://slickdeals.net/f/20357355-birkenstock-papillio-women-s-arizona-platform-sandals-blue-38-67-free-shipping-on-49?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "source_url": "https://slickdeals.net/f/20357355-birkenstock-papillio-women-s-arizona-platform-sandals-blue-38-67-free-shipping-on-49?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
       "id": "7422dc44eb429c88feb2f009",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "PC Digital Downloads: The Lord of the Rings: War in the North - Legacy Edition $8.70 & More",
       "retailer": null,
@@ -556,37 +660,37 @@
       "link_type": "source"
     },
     {
-      "id": "7581591b28a9b906eb8b97de",
+      "id": "80cce8f7dae789296e54c528",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "16-Oz Amazon Grocery Canned Traditional Refried Beans $0.65 or less w/ S&S",
+      "title": "98\" Hisense QD5 Series Hi-QLED 4K UHD Smart Fire TV (2026 Model) $800 + Free S&H",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
       "rank": {
-        "category": "other",
+        "category": "tv",
         "variant": null,
         "status": "price_unavailable",
         "score": 0,
-        "max_usd": null,
+        "max_usd": 500,
         "preferred_usd": null,
         "within_budget": null,
         "comparisons": {},
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://slickdeals.net/f/20354730-sns-0-66-or-0-59-16-oz-amazon-grocery-canned-traditional-refried-beans-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "source_url": "https://slickdeals.net/f/20354730-sns-0-66-or-0-59-16-oz-amazon-grocery-canned-traditional-refried-beans-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "url": "https://slickdeals.net/f/20338530-98-hisense-qd5-series-hi-qled-4k-uhd-smart-fire-tv-2026-model-800-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source_url": "https://slickdeals.net/f/20338530-98-hisense-qd5-series-hi-qled-4k-uhd-smart-fire-tv-2026-model-800-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "784d0e750d238d47b8e7033d",
+      "id": "8bf6b53ff36639fd694945a5",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "2-Pk Ridgid 18V 8.0Ah EX Max Output Lithium-Ion Tabless Battery $179 + Free S&H",
+      "title": "Clive Barker's Hellraiser: Revival (PS5 or Xbox X) $30",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -602,93 +706,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://slickdeals.net/f/20359788-ridgid-8-0-ah-max-output-lithium-ion-battery-2-pack-179?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "source_url": "https://slickdeals.net/f/20359788-ridgid-8-0-ah-max-output-lithium-ion-battery-2-pack-179?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "7a0cfb4cc76d8577470ed458",
-      "types": [
-        "removed"
-      ],
-      "title": "32-Oz Amazon Fresh 35% Less Sodium Chicken Broth $0.95 or less w/ S&S & More",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://slickdeals.net/f/20348523-amazon-grocery-32oz-chicken-broth-reduced-sodium-86c-w-15-ss?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "source_url": "https://slickdeals.net/f/20348523-amazon-grocery-32oz-chicken-broth-reduced-sodium-86c-w-15-ss?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "7f85deff5ffb3638730bf8d8",
-      "types": [
-        "removed"
-      ],
-      "title": "Skytech King 95 Desktop: Ryzen 7 9700X, RTX 5070, 16GB RAM, 1TB SSD $1750 + Free S&H",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://slickdeals.net/f/20340609-skytech-gaming-king-95-gaming-pc-ryzen-7-9700x-rtx-5070-16gb-ddr5-1tb-ssd-1749-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "source_url": "https://slickdeals.net/f/20340609-skytech-gaming-king-95-gaming-pc-ryzen-7-9700x-rtx-5070-16gb-ddr5-1tb-ssd-1749-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "8c7a9166e6313275517bb9e9",
-      "types": [
-        "removed"
-      ],
-      "title": "Amazon Echo Dot Max (2025, newest model) $50 + Free S&H",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://slickdeals.net/f/20362494-49-99-amazon-echo-dot-max-newest-model-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "source_url": "https://slickdeals.net/f/20362494-49-99-amazon-echo-dot-max-newest-model-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "url": "https://slickdeals.net/f/20342211-29-99-clive-barker-s-hellraiser-revival-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source_url": "https://slickdeals.net/f/20342211-29-99-clive-barker-s-hellraiser-revival-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "8ceac80daf2fa51609f1a3e7",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Moto Tag 2 Bluetooth Tracking Device w/ Ultra-Wideband & Google Find Hub Tracker $19",
       "retailer": null,
@@ -712,11 +738,11 @@
       "link_type": "source"
     },
     {
-      "id": "90be7748aa7dc4438f33dbb6",
+      "id": "8e47b71f9d3114c7a632a773",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "Resident Evil Requiem ( Nintendo Switch 2) $40 + Free S&H",
+      "title": "Nightmare on Elm Street: 7-Film Collection (Blu-ray) $12.50",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -732,15 +758,41 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://slickdeals.net/f/20338734-resident-evil-requiem-nintendo-switch-2-39-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "source_url": "https://slickdeals.net/f/20338734-resident-evil-requiem-nintendo-switch-2-39-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "url": "https://slickdeals.net/f/20369439-nightmare-on-elm-street-collection-1-7-blu-ray-12-49?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source_url": "https://slickdeals.net/f/20369439-nightmare-on-elm-street-collection-1-7-blu-ray-12-49?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "90c3e3fe28b50c031e8c39bc",
+      "types": [
+        "new"
+      ],
+      "title": "DJI Osmo Action 4 Camera Standard Combo $179 + Free S&H",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://slickdeals.net/f/20339634-dji-osmo-action-4-standard-combo-waterproof-action-camera-vlogging-camera-w-1-1-3-sensor-4k-120fps-video-179?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source_url": "https://slickdeals.net/f/20339634-dji-osmo-action-4-standard-combo-waterproof-action-camera-vlogging-camera-w-1-1-3-sensor-4k-120fps-video-179?utm_source=rss&utm_content=fp&utm_medium=RSS2",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "927fceff2faab1794937289c",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Costco Members: ASUS Vivobook Laptop: 16\" FHD+ OLED, Core 9 270H, 24GB, 1TB $900 + $15 S/H",
       "retailer": null,
@@ -766,7 +818,7 @@
     {
       "id": "94650a22c5b0a614be1093c7",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "49\" Samsung Odyssey G93SC DQHD QD-OLED 240Hz Ultrawide Curved Monitor $855 + Free S&H",
       "retailer": null,
@@ -790,35 +842,9 @@
       "link_type": "source"
     },
     {
-      "id": "9470e721b6ac77f532c8bbac",
-      "types": [
-        "removed"
-      ],
-      "title": "Jomgand K25 3750A 12V Portable Jump Starter for 9.0L Gas & 7.0L Diesel $27.45 + Free S&H",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://slickdeals.net/f/20364489-jomgand-k25-3750a-12v-portable-car-jump-starter-27-50-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "source_url": "https://slickdeals.net/f/20364489-jomgand-k25-3750a-12v-portable-car-jump-starter-27-50-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
       "id": "9cc12ac41df9b7589494e246",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "EGO POWER+ Portable Inverter 400W Power Inverter Generator $129 + Free S&H",
       "retailer": null,
@@ -842,9 +868,35 @@
       "link_type": "source"
     },
     {
-      "id": "a55e449ea0561697f949d00d",
+      "id": "9f62722902596cebfb7cc8b4",
       "types": [
         "new"
+      ],
+      "title": "8.5-Oz Astroglide Water-Based Personal Lubricant $9.70 w/ S&S",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://slickdeals.net/f/20360298-8-5-oz-astroglide-water-based-personal-lubricant-9-70-w-s-s?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source_url": "https://slickdeals.net/f/20360298-8-5-oz-astroglide-water-based-personal-lubricant-9-70-w-s-s?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "a55e449ea0561697f949d00d",
+      "types": [
+        "removed"
       ],
       "title": "2-Pk Govee 1000LM RGBWW A19 9W E26 Smart LED Light Bulbs $16",
       "retailer": null,
@@ -870,7 +922,7 @@
     {
       "id": "a881348eaba561925fbc61df",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Assassin's Creed Black Flag Resynced (PS5 & Xbox Series X) $45 + Free S&H",
       "retailer": null,
@@ -896,7 +948,7 @@
     {
       "id": "a91cb293985b79084bb12c57",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Travelon Pi Gogo Insulated Water Bottle Tote Crossbody Bag (Navy) $6.90",
       "retailer": null,
@@ -920,9 +972,35 @@
       "link_type": "source"
     },
     {
-      "id": "b1b0c00f363577886d00a473",
+      "id": "ad1d3fae6d94cc9c2c15adb6",
       "types": [
         "new"
+      ],
+      "title": "Donkey Kong Bananza (Switch 2) $50 + Free S&H",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://slickdeals.net/f/20368251-49-99-donkey-kong-bananza-nintendo-switch-2-at-target?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source_url": "https://slickdeals.net/f/20368251-49-99-donkey-kong-bananza-nintendo-switch-2-at-target?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "b1b0c00f363577886d00a473",
+      "types": [
+        "removed"
       ],
       "title": "KIDMI Women’s Suede Indoor/Outdoor Platform Slippers (Various) from $21.85 + Free S&H",
       "retailer": null,
@@ -946,35 +1024,9 @@
       "link_type": "source"
     },
     {
-      "id": "b6464754cc9e0aa9b78f0dc2",
-      "types": [
-        "removed"
-      ],
-      "title": "14-Oz Contigo SnapSeal Insulated Stainless Steel Water Bottle (Denim Champagne) $12.30",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://slickdeals.net/f/20362887-12-31-contigo-14oz-snapseal-insulated-stainless-steel-coffee-tumbler-denim-blue-champagne?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "source_url": "https://slickdeals.net/f/20362887-12-31-contigo-14oz-snapseal-insulated-stainless-steel-coffee-tumbler-denim-blue-champagne?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
       "id": "b71ff93434042f77eae4c61a",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "16-Ct Energizer Max Alkaline Batteries (AA or AAA) + Earn $5 Back on $20+ Offer $11 or Less + Free Pickup",
       "retailer": null,
@@ -998,11 +1050,11 @@
       "link_type": "source"
     },
     {
-      "id": "b74b2a7088feabfa7cafe38d",
+      "id": "b9ee89b9554128217fa31e85",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "Seller Refurb: 42.5mm Citizen Men's Zenshin Chrono Eco-Drive Super Titanium Watch $221 + Free S&H",
+      "title": "Costco Members: Extra Savings on Select Apparel $15 Off when you Buy 3+ + Free S&H",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -1018,17 +1070,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://slickdeals.net/f/20360133-seller-refurb-42-5mm-citizen-men-s-zenshin-chrono-eco-drive-super-titanium-watch-221-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "source_url": "https://slickdeals.net/f/20360133-seller-refurb-42-5mm-citizen-men-s-zenshin-chrono-eco-drive-super-titanium-watch-221-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "url": "https://slickdeals.net/f/20354217-costco-members-extra-savings-on-select-apparel-15-off-when-you-buy-3-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source_url": "https://slickdeals.net/f/20354217-costco-members-extra-savings-on-select-apparel-15-off-when-you-buy-3-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "bc1967001e3aa75646d33d2a",
+      "id": "c3911233d14c2fc429e1e717",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "RYOBI ONE+ HP 18V Brushless 1/2\" Impact (Tool Only) + 11-Pc Impact Sockets $139 + Free S&H",
+      "title": "Casio MDV-106 44mm Diver-Inspired Sports Analog Watch w/ Black Resin Band (Gold) $57 + Free S&H",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -1044,15 +1096,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://slickdeals.net/f/20352789-one-hp-18v-brushless-cordless-1-2-in-impact-wrench-tool-only-with-1-2-in-metric-deep-impact-socket-set-11-pc-139?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "source_url": "https://slickdeals.net/f/20352789-one-hp-18v-brushless-cordless-1-2-in-impact-wrench-tool-only-with-1-2-in-metric-deep-impact-socket-set-11-pc-139?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "url": "https://slickdeals.net/f/20366997-casio-mdv-106-44mm-diver-inspired-sports-analog-watch-w-black-resin-band-gold-57-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source_url": "https://slickdeals.net/f/20366997-casio-mdv-106-44mm-diver-inspired-sports-analog-watch-w-black-resin-band-gold-57-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "c581d7d519c5f73b92196097",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "128GB Meta Quest S3 Virtual Reality Headset + $50 Target GC $297.50 + Free S&H",
       "retailer": null,
@@ -1076,61 +1128,9 @@
       "link_type": "source"
     },
     {
-      "id": "c85f447c62983b9122201535",
-      "types": [
-        "removed"
-      ],
-      "title": "63\" Govee RGBIC Smart Lantern Floor Lamp w/ Halo Gradient $100 + Free S&H",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://slickdeals.net/f/20228796-63-govee-rgbic-smart-lantern-floor-lamp-w-halo-gradient-100-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "source_url": "https://slickdeals.net/f/20228796-63-govee-rgbic-smart-lantern-floor-lamp-w-halo-gradient-100-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "c94122ae0c590af86923e699",
-      "types": [
-        "removed"
-      ],
-      "title": "Men's Brooks Ghost Max 3 Running Shoes (various colors/sizes) from $89.95 + Free S&H",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://slickdeals.net/f/20354559-92-95-men-s-brooks-ghost-max-3-running-shoes-various-colors-sizes-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "source_url": "https://slickdeals.net/f/20354559-92-95-men-s-brooks-ghost-max-3-running-shoes-various-colors-sizes-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
       "id": "cdf407d6f74f4b1e787c721e",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "$50 Google Play Gift Card + $5 Bonus Target eGift Card $50",
       "retailer": null,
@@ -1156,7 +1156,7 @@
     {
       "id": "cfdda43750e451ef16a24a7a",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "$100 Apple Gift Card + $15 Target Promotional eGift Card (Email Delivery) $100",
       "retailer": null,
@@ -1180,35 +1180,9 @@
       "link_type": "source"
     },
     {
-      "id": "d764cc295d25eea89957f158",
-      "types": [
-        "removed"
-      ],
-      "title": "Clive Barker's Hellraiser: Revival (PS5 or Xbox X) $30 + Free S&H",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://slickdeals.net/f/20360190-clive-barker-s-hellraiser-revival-ps5-xsx-29-99-best-buy?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "source_url": "https://slickdeals.net/f/20360190-clive-barker-s-hellraiser-revival-ps5-xsx-29-99-best-buy?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
       "id": "df69aedd2d047abb0cf6e066",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Donkey Kong Bananza (Switch 2) $50 + Free S&H",
       "retailer": null,
@@ -1232,11 +1206,11 @@
       "link_type": "source"
     },
     {
-      "id": "e66a477a2e266b3d6590d1f6",
+      "id": "e053029135935ef3ce9642e6",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "23-Oz Finish Jet-Dry Dishwasher Rinse Aid 2 for $12.50 w/ S&S",
+      "title": "DeWALT 20V XR Brushless Cordless 1/4\" Quiet Hydraulic Impact Driver (Tool-Only) $129 & More + Free S&H on $150+",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -1252,17 +1226,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://slickdeals.net/f/20362629-sns-ac-12-48-or-10-46-2-23-oz-finish-jet-dry-dishwasher-rinse-aid-6-24-each-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "source_url": "https://slickdeals.net/f/20362629-sns-ac-12-48-or-10-46-2-23-oz-finish-jet-dry-dishwasher-rinse-aid-6-24-each-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "url": "https://slickdeals.net/f/20358795-dewalt-20v-xr-brushless-cordless-1-4-quiet-hydraulic-impact-driver-tool-only-129-more-free-s-h-on-150?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source_url": "https://slickdeals.net/f/20358795-dewalt-20v-xr-brushless-cordless-1-4-quiet-hydraulic-impact-driver-tool-only-129-more-free-s-h-on-150?utm_source=rss&utm_content=fp&utm_medium=RSS2",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "e9e542f62ded06de6770b48e",
+      "id": "ef6bbfdcd26d8b3cba3e8c58",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "Miracle-GRO 4'8\" x 4'8\" x 6'5\" Outdoor Mini Walk-in Greenhouse Plant Tent (Clear) $47.45 + Free S&H",
+      "title": "2-Pk 65W Baseus 3-Port USB-C Foldable Wall Charger Blocks $27 + Free S&H",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -1278,15 +1252,41 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://slickdeals.net/f/20362374-miracle-gro-walk-in-greenhouse-4-8-square-47-47-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "source_url": "https://slickdeals.net/f/20362374-miracle-gro-walk-in-greenhouse-4-8-square-47-47-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "url": "https://slickdeals.net/f/20329521-prime-members-2-pk-baseus-3-port-up-to-65w-usb-c-foldable-wall-charger-blocks-27-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source_url": "https://slickdeals.net/f/20329521-prime-members-2-pk-baseus-3-port-up-to-65w-usb-c-foldable-wall-charger-blocks-27-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "f034792420adb420b1810c82",
+      "types": [
+        "new"
+      ],
+      "title": "801-Pc Lego Technic Koenigsegg Jesko Absolut Grey Hyper Car Sport Car Set $25 + Free Pickup",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://slickdeals.net/f/20369247-801-pc-lego-technic-koenigsegg-jesko-absolut-grey-hyper-car-sport-car-set-25-free-pickup?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source_url": "https://slickdeals.net/f/20369247-801-pc-lego-technic-koenigsegg-jesko-absolut-grey-hyper-car-sport-car-set-25-free-pickup?utm_source=rss&utm_content=fp&utm_medium=RSS2",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "f1b052291126fb94aba087a7",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Peggle Deluxe + Peggle Nights (PC Digital Download) $1.50 & More",
       "retailer": null,

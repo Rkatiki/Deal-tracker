@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-22T10:22:55.016759+00:00",
+  "retrieved_at": "2026-11-22T18:04:22.273716+00:00",
   "source": {
     "id": "cheapshark-steam",
     "name": "CheapShark Steam Deals",
@@ -9,5 +9,58 @@
     "retailer": "Steam"
   },
   "baseline": false,
-  "events": []
+  "events": [
+    {
+      "id": "8144ef00be7778f863af7278",
+      "types": [
+        "new"
+      ],
+      "title": "Green Hell",
+      "retailer": "Steam",
+      "previous_price_cents": null,
+      "current_price_cents": 279,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://store.steampowered.com/app/815370/",
+      "source_url": "https://www.cheapshark.com/redirect?dealID=iUVXeEDqxCFmRDPjCo1c%2BPX3LgmEOhKzlf5f8GcNcAM%3D",
+      "retailer_url": "https://store.steampowered.com/app/815370/",
+      "link_type": "retailer"
+    },
+    {
+      "id": "f38c05fbeacea3647614149e",
+      "types": [
+        "removed"
+      ],
+      "title": "The Escapists 2",
+      "retailer": "Steam",
+      "previous_price_cents": 199,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://store.steampowered.com/app/641990/",
+      "source_url": "https://www.cheapshark.com/redirect?dealID=C3DmpaY6jx0DZVz3lpyu5d39OyOvHlJVfkCK8%2FWqiAw%3D",
+      "retailer_url": "https://store.steampowered.com/app/641990/",
+      "link_type": "retailer"
+    }
+  ]
 }
