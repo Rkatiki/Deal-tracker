@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-23T08:18:58.136180+00:00",
+  "retrieved_at": "2026-11-23T20:37:26.427449+00:00",
   "source": {
     "id": "windows-central",
     "name": "Windows Central",
@@ -9,6 +9,36 @@
     "deal_headlines_only": true
   },
   "deals": [
+    {
+      "id": "0d88afb55cf6ee464b1c0a4b",
+      "title": "I tried Razer's $350 magnesium controller, then asked its design boss why it exists",
+      "url": "https://www.windowscentral.com/hardware/razer/the-razer-raiju-v3-pro-signature-edition-interview",
+      "source_url": "https://www.windowscentral.com/hardware/razer/the-razer-raiju-v3-pro-signature-edition-interview",
+      "retailer_url": null,
+      "link_type": "source",
+      "retailer": null,
+      "price_cents": null,
+      "headline_price_cents": 35000,
+      "price_source": null,
+      "currency": null,
+      "source_id": "windows-central",
+      "publisher": "Windows Central",
+      "published_at": "2026-11-23T20:12:17+00:00",
+      "expires_at": null,
+      "publication_category": "Razer",
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
     {
       "id": "0ebfb178f4351650c9719b9f",
       "title": "The best Xbox and PC Razer Controllers we've used are now up to 42% off for Black Friday",
@@ -70,36 +100,6 @@
       }
     },
     {
-      "id": "2bec44d6eb12c108b5dd632b",
-      "title": "Samsung's Galaxy Book6 laptop pairs Intel's latest CPUs with a $350 discount",
-      "url": "https://www.windowscentral.com/hardware/laptops/samsung-galaxy-book-6-black-friday-level-discounts",
-      "source_url": "https://www.windowscentral.com/hardware/laptops/samsung-galaxy-book-6-black-friday-level-discounts",
-      "retailer_url": null,
-      "link_type": "source",
-      "retailer": null,
-      "price_cents": null,
-      "headline_price_cents": 35000,
-      "price_source": null,
-      "currency": null,
-      "source_id": "windows-central",
-      "publisher": "Windows Central",
-      "published_at": "2026-11-17T12:00:00+00:00",
-      "expires_at": null,
-      "publication_category": "Laptops",
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
       "id": "35f3ee1a869ce51ca497cee4",
       "title": "Some of SteelSeries' best gaming tech is already up to 48% off for Black Friday",
       "url": "https://www.windowscentral.com/accessories/steelseries-early-black-friday-2026",
@@ -130,38 +130,8 @@
       }
     },
     {
-      "id": "48acc7a7a3961028195d749e",
-      "title": "This $699 Surface Laptop makes 8GB RAM much easier to recommend",
-      "url": "https://www.windowscentral.com/hardware/surface/i-used-to-tell-people-to-avoid-8gb-windows-laptops-at-usd699-this-surface-laptop-has-me-reconsidering",
-      "source_url": "https://www.windowscentral.com/hardware/surface/i-used-to-tell-people-to-avoid-8gb-windows-laptops-at-usd699-this-surface-laptop-has-me-reconsidering",
-      "retailer_url": null,
-      "link_type": "source",
-      "retailer": null,
-      "price_cents": null,
-      "headline_price_cents": 69900,
-      "price_source": null,
-      "currency": null,
-      "source_id": "windows-central",
-      "publisher": "Windows Central",
-      "published_at": "2026-11-17T15:00:48+00:00",
-      "expires_at": null,
-      "publication_category": "Surface",
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
       "id": "5bc114da25180e3e9ef835e7",
-      "title": "Grand Theft Auto 6 is already on sale exclusively in the UK for up to 25% off",
+      "title": "Grand Theft Auto 6 is already on sale exclusively in the UK for up to 26% off [UPDATE]",
       "url": "https://www.windowscentral.com/gaming/grand-theft-auto-6s-standard-and-ultimate-editions-on-xbox-are-already-having-discounts-up-to-25-percent-off-exclusively-in-the-uk",
       "source_url": "https://www.windowscentral.com/gaming/grand-theft-auto-6s-standard-and-ultimate-editions-on-xbox-are-already-having-discounts-up-to-25-percent-off-exclusively-in-the-uk",
       "retailer_url": null,
@@ -266,36 +236,6 @@
       "published_at": "2026-11-19T13:00:00+00:00",
       "expires_at": null,
       "publication_category": "Laptops",
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
-      "id": "abcb06aafcfe9a75860b3f72",
-      "title": "XBOX is discounting big titles such as Forza Horizon 6 and Gears of War: E-Day for Black Friday",
-      "url": "https://www.windowscentral.com/gaming/xbox/the-xbox-black-friday-sale-starts-this-week-with-some-big-discounts-on-massive-titles-already-teased",
-      "source_url": "https://www.windowscentral.com/gaming/xbox/the-xbox-black-friday-sale-starts-this-week-with-some-big-discounts-on-massive-titles-already-teased",
-      "retailer_url": null,
-      "link_type": "source",
-      "retailer": null,
-      "price_cents": null,
-      "headline_price_cents": null,
-      "price_source": null,
-      "currency": null,
-      "source_id": "windows-central",
-      "publisher": "Windows Central",
-      "published_at": "2026-11-17T17:53:30+00:00",
-      "expires_at": null,
-      "publication_category": "Xbox",
       "rank": {
         "category": "other",
         "variant": null,

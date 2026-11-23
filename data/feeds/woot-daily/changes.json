@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-23T08:18:58.136180+00:00",
+  "retrieved_at": "2026-11-23T20:37:26.427449+00:00",
   "source": {
     "id": "woot-daily",
     "name": "Woot Daily Deals",
@@ -9,5 +9,110 @@
     "retailer": "Woot"
   },
   "baseline": false,
-  "events": []
+  "events": [
+    {
+      "id": "554fb768ce69a468c9ac6fa4",
+      "types": [
+        "new"
+      ],
+      "title": "Mr. Coffee All-in-One Pods Coffee Maker",
+      "retailer": "Woot",
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.woot.com/offers/mr-coffee-all-in-one-pods-coffee-maker-2",
+      "source_url": "https://forums.woot.com/t/mr-coffee-all-in-one-pods-coffee-maker/2707871",
+      "retailer_url": "https://www.woot.com/offers/mr-coffee-all-in-one-pods-coffee-maker-2",
+      "link_type": "retailer"
+    },
+    {
+      "id": "970ba266513dea7d57012c33",
+      "types": [
+        "removed"
+      ],
+      "title": "Peru Global Icon Collector Series Mug",
+      "retailer": "Woot",
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.woot.com/offers/peru-global-icon-collector-series-mug-1",
+      "source_url": "https://forums.woot.com/t/peru-global-icon-collector-series-mug/2703706",
+      "retailer_url": "https://www.woot.com/offers/peru-global-icon-collector-series-mug-1",
+      "link_type": "retailer"
+    },
+    {
+      "id": "d26feeff35625ecc823f378c",
+      "types": [
+        "removed"
+      ],
+      "title": "Starbucks Pour Over Set",
+      "retailer": "Woot",
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.woot.com/offers/starbucks-pour-over-set-9",
+      "source_url": "https://forums.woot.com/t/starbucks-pour-over-set/2703710",
+      "retailer_url": "https://www.woot.com/offers/starbucks-pour-over-set-9",
+      "link_type": "retailer"
+    },
+    {
+      "id": "f5f4fc8d0c8d755292003917",
+      "types": [
+        "new"
+      ],
+      "title": "Mr. Coffee Express Cold Brew Coffee Maker",
+      "retailer": "Woot",
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.woot.com/offers/mr-coffee-express-cold-brew-coffee-maker-17",
+      "source_url": "https://forums.woot.com/t/mr-coffee-express-cold-brew-coffee-maker/2707870",
+      "retailer_url": "https://www.woot.com/offers/mr-coffee-express-cold-brew-coffee-maker-17",
+      "link_type": "retailer"
+    }
+  ]
 }

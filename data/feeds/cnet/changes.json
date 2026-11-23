@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-23T08:18:58.136180+00:00",
+  "retrieved_at": "2026-11-23T20:37:26.427449+00:00",
   "source": {
     "id": "cnet",
     "name": "CNET Deals",
@@ -8,5 +8,136 @@
     "kind": "rss"
   },
   "baseline": false,
-  "events": []
+  "events": [
+    {
+      "id": "66082f57ae5dd1e8a80c4765",
+      "types": [
+        "removed"
+      ],
+      "title": "Save 74% on a Bluehost Shared Hosting Plan, and Stack Savings With This Tiered Black Friday Sale",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.cnet.com/deals/bluehost-shared-hosting-black-friday-deal/",
+      "source_url": "https://www.cnet.com/deals/bluehost-shared-hosting-black-friday-deal/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "a810048a9d43ddeda167568f",
+      "types": [
+        "removed"
+      ],
+      "title": "Don’t Miss This Jaw-Dropping Paramount Plus Premium Black Friday Deal That Knocks 50% Off the Price",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.cnet.com/deals/paramount-plus-premium-black-friday-deal/",
+      "source_url": "https://www.cnet.com/deals/paramount-plus-premium-black-friday-deal/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "ae3d8fd3aa553f7d6cb0a149",
+      "types": [
+        "new"
+      ],
+      "title": "Your Next Air Fryer Should Be Glass. A Cuisinart Model We Love Is 40% Off for Black Friday",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "air_fryer",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": 75,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.cnet.com/deals/your-next-air-fryer-should-be-glass-a-cuisinart-model-we-love-is-40-off-for-black-friday/",
+      "source_url": "https://www.cnet.com/deals/your-next-air-fryer-should-be-glass-a-cuisinart-model-we-love-is-40-off-for-black-friday/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "c3d00e411ca8cc156be6cf3b",
+      "types": [
+        "new"
+      ],
+      "title": "Save $42 Off a Plaud Note Pro AI Notetaker During Black Friday Sales",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.cnet.com/deals/plaud-note-pro-ai-note-taker-during-black-friday-deal/",
+      "source_url": "https://www.cnet.com/deals/plaud-note-pro-ai-note-taker-during-black-friday-deal/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "c8189b7c400bb1f401814b15",
+      "types": [
+        "new"
+      ],
+      "title": "Save 50% Off HBO Max With Amazon’s Black Friday Deal",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.cnet.com/deals/hbo-max-amazon-black-friday-deal/",
+      "source_url": "https://www.cnet.com/deals/hbo-max-amazon-black-friday-deal/",
+      "retailer_url": null,
+      "link_type": "source"
+    }
+  ]
 }

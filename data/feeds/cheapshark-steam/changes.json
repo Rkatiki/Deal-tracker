@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-23T08:18:58.136180+00:00",
+  "retrieved_at": "2026-11-23T20:37:26.427449+00:00",
   "source": {
     "id": "cheapshark-steam",
     "name": "CheapShark Steam Deals",
@@ -11,11 +11,11 @@
   "baseline": false,
   "events": [
     {
-      "id": "9471a0300348c08407c131ff",
+      "id": "111ba2fc60cd47839dfaa744",
       "types": [
         "new"
       ],
-      "title": "Dead in Vinland",
+      "title": "Lysfanga: The Time Shift Warrior",
       "retailer": "Steam",
       "previous_price_cents": null,
       "current_price_cents": 199,
@@ -31,17 +31,95 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://store.steampowered.com/app/573120/",
-      "source_url": "https://www.cheapshark.com/redirect?dealID=43fuA0VMLk1WHVAmQAhfwpX1dbe5e%2FHuLwVh2SYSHV0%3D",
-      "retailer_url": "https://store.steampowered.com/app/573120/",
+      "url": "https://store.steampowered.com/app/2161620/",
+      "source_url": "https://www.cheapshark.com/redirect?dealID=ugD%2F%2BL7MnFUhZWGVO%2Br5UPnFeCPDGLlQrQDkY4gfN7U%3D",
+      "retailer_url": "https://store.steampowered.com/app/2161620/",
       "link_type": "retailer"
     },
     {
-      "id": "b1a9c049d16fb1fa469f6ad4",
+      "id": "155e3126bbf6412f4e6fb2be",
+      "types": [
+        "removed"
+      ],
+      "title": "Metro Exodus",
+      "retailer": "Steam",
+      "previous_price_cents": 299,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://store.steampowered.com/app/412020/",
+      "source_url": "https://www.cheapshark.com/redirect?dealID=l7KtB1naNb4PDbjpECJuOfLqnBxx9O%2BMEJjGGZd7u84%3D",
+      "retailer_url": "https://store.steampowered.com/app/412020/",
+      "link_type": "retailer"
+    },
+    {
+      "id": "19fe3dd167347525df584d88",
       "types": [
         "new"
       ],
-      "title": "Everything",
+      "title": "Impulsion",
+      "retailer": "Steam",
+      "previous_price_cents": null,
+      "current_price_cents": 129,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://store.steampowered.com/app/811270/",
+      "source_url": "https://www.cheapshark.com/redirect?dealID=wVSMfNngwSH659CMc6aDUC2A7Bw2rhCjzTXFpggFaLs%3D",
+      "retailer_url": "https://store.steampowered.com/app/811270/",
+      "link_type": "retailer"
+    },
+    {
+      "id": "21ed1740fac03639260091bf",
+      "types": [
+        "removed"
+      ],
+      "title": "Eldest Souls",
+      "retailer": "Steam",
+      "previous_price_cents": 199,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://store.steampowered.com/app/1108590/",
+      "source_url": "https://www.cheapshark.com/redirect?dealID=DbFKl3FLjU5LLbPaXRzpMSf0%2BTxgLibtu%2BEfGvz5pU8%3D",
+      "retailer_url": "https://store.steampowered.com/app/1108590/",
+      "link_type": "retailer"
+    },
+    {
+      "id": "3844499ccbf10d45603ffa39",
+      "types": [
+        "new"
+      ],
+      "title": "Anarcute",
       "retailer": "Steam",
       "previous_price_cents": null,
       "current_price_cents": 149,
@@ -57,19 +135,19 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://store.steampowered.com/app/582270/",
-      "source_url": "https://www.cheapshark.com/redirect?dealID=kRObGZLn4nmp1yy4uTd69iobtPC4nWuqjsxPKS3MPqI%3D",
-      "retailer_url": "https://store.steampowered.com/app/582270/",
+      "url": "https://store.steampowered.com/app/390720/",
+      "source_url": "https://www.cheapshark.com/redirect?dealID=C6jS0cMOJaii7ZlifRiOshgANjEMhPqCHATiC3PzfnI%3D",
+      "retailer_url": "https://store.steampowered.com/app/390720/",
       "link_type": "retailer"
     },
     {
-      "id": "ba79fbd03e3ce33b6d61633d",
+      "id": "517ae5e163a2019c3256b0df",
       "types": [
         "removed"
       ],
-      "title": "Joe Dever's Lone Wolf HD Remastered",
+      "title": "Homeworld Remastered Collection",
       "retailer": "Steam",
-      "previous_price_cents": 149,
+      "previous_price_cents": 524,
       "current_price_cents": null,
       "rank": {
         "category": "other",
@@ -83,19 +161,45 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://store.steampowered.com/app/279440/",
-      "source_url": "https://www.cheapshark.com/redirect?dealID=B%2BP8xo9yxMT0PpDOf0gW0ZFl5%2F5V8yd9ViW0kloPGQ8%3D",
-      "retailer_url": "https://store.steampowered.com/app/279440/",
+      "url": "https://store.steampowered.com/app/244160/",
+      "source_url": "https://www.cheapshark.com/redirect?dealID=Ersqftfht15yRvVi%2BQtYqzHcXHuORprGmyDT0uvo5zc%3D",
+      "retailer_url": "https://store.steampowered.com/app/244160/",
       "link_type": "retailer"
     },
     {
-      "id": "c886f7eae01be91f967c5b17",
+      "id": "5343f417ae0a0b31aa897829",
+      "types": [
+        "new"
+      ],
+      "title": "Splasher",
+      "retailer": "Steam",
+      "previous_price_cents": null,
+      "current_price_cents": 149,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://store.steampowered.com/app/446840/",
+      "source_url": "https://www.cheapshark.com/redirect?dealID=aN8Pts0iKYHPB5E4ylPqEAydB4jWBv1q1uEQ%2FlScpDY%3D",
+      "retailer_url": "https://store.steampowered.com/app/446840/",
+      "link_type": "retailer"
+    },
+    {
+      "id": "78edd60cc0d1edf48ddcb7b7",
       "types": [
         "removed"
       ],
-      "title": "FINAL FANTASY VII REBIRTH",
+      "title": "Homeworld: Deserts of Kharak",
       "retailer": "Steam",
-      "previous_price_cents": 749,
+      "previous_price_cents": 499,
       "current_price_cents": null,
       "rank": {
         "category": "other",
@@ -109,9 +213,165 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://store.steampowered.com/app/2909400/",
-      "source_url": "https://www.cheapshark.com/redirect?dealID=gJ60np9%2FzPD6n03wLQcUNEplVIDm%2B1%2B4ndLniZZ8PqQ%3D",
-      "retailer_url": "https://store.steampowered.com/app/2909400/",
+      "url": "https://store.steampowered.com/app/281610/",
+      "source_url": "https://www.cheapshark.com/redirect?dealID=enB7vcM3WeqX7sWJYM4CPAkkpfQx7nLQJflmDLTuKks%3D",
+      "retailer_url": "https://store.steampowered.com/app/281610/",
+      "link_type": "retailer"
+    },
+    {
+      "id": "8af305c9a525af55b13d02c5",
+      "types": [
+        "new"
+      ],
+      "title": "TEMPEST 4000",
+      "retailer": "Steam",
+      "previous_price_cents": null,
+      "current_price_cents": 199,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://store.steampowered.com/app/688140/",
+      "source_url": "https://www.cheapshark.com/redirect?dealID=VjXMVAbGKa48sHrluzbh9Wsvym7PbTr%2BlIs84D%2FgM6U%3D",
+      "retailer_url": "https://store.steampowered.com/app/688140/",
+      "link_type": "retailer"
+    },
+    {
+      "id": "a0fa871dc41c469a4d00a8c6",
+      "types": [
+        "removed"
+      ],
+      "title": "Valfaris: Mecha Therion",
+      "retailer": "Steam",
+      "previous_price_cents": 299,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://store.steampowered.com/app/1647920/",
+      "source_url": "https://www.cheapshark.com/redirect?dealID=4pmSzmsFlFsr5N8rRmgqfVVxbePmnsp2mM6TQ%2BsiuTk%3D",
+      "retailer_url": "https://store.steampowered.com/app/1647920/",
+      "link_type": "retailer"
+    },
+    {
+      "id": "c3ac7a0257d8f8aa51958efe",
+      "types": [
+        "new"
+      ],
+      "title": "The Next Penelope",
+      "retailer": "Steam",
+      "previous_price_cents": null,
+      "current_price_cents": 129,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://store.steampowered.com/app/332250/",
+      "source_url": "https://www.cheapshark.com/redirect?dealID=1w0Q%2BGPAAgMe8QP8lFX5TGO8kH%2FQ%2BF5Qmb5K0MYoE%2FU%3D",
+      "retailer_url": "https://store.steampowered.com/app/332250/",
+      "link_type": "retailer"
+    },
+    {
+      "id": "cddc40d4153f6db7223ad2d6",
+      "types": [
+        "removed"
+      ],
+      "title": "Borderlands 2",
+      "retailer": "Steam",
+      "previous_price_cents": 599,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://store.steampowered.com/app/49520/",
+      "source_url": "https://www.cheapshark.com/redirect?dealID=y9vH5Xf2O3lmQzX8IprLnYJ8PT7C2MafD4gPIMz7y%2Fs%3D",
+      "retailer_url": "https://store.steampowered.com/app/49520/",
+      "link_type": "retailer"
+    },
+    {
+      "id": "dce16438fd52a383dafbee7f",
+      "types": [
+        "new"
+      ],
+      "title": "Freedom Force",
+      "retailer": "Steam",
+      "previous_price_cents": null,
+      "current_price_cents": 124,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://store.steampowered.com/app/8880/",
+      "source_url": "https://www.cheapshark.com/redirect?dealID=c7ZYDTkHAjZH%2B6vNyszpeuGaTLKtBW4A7vXY7VT%2Faag%3D",
+      "retailer_url": "https://store.steampowered.com/app/8880/",
+      "link_type": "retailer"
+    },
+    {
+      "id": "ec4c7d63e2fa99f19e253bf5",
+      "types": [
+        "removed"
+      ],
+      "title": "Feudal Alloy",
+      "retailer": "Steam",
+      "previous_price_cents": 169,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://store.steampowered.com/app/699670/",
+      "source_url": "https://www.cheapshark.com/redirect?dealID=Y%2Bvzm%2FzwLDr3I5AXt68ymlzCd7dzfm3dFiqEjbPwflo%3D",
+      "retailer_url": "https://store.steampowered.com/app/699670/",
       "link_type": "retailer"
     }
   ]

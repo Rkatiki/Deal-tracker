@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-23T08:18:58.136180+00:00",
+  "retrieved_at": "2026-11-23T20:37:26.427449+00:00",
   "source": {
     "id": "wired",
     "name": "WIRED Deals",
@@ -8,5 +8,58 @@
     "kind": "rss"
   },
   "baseline": false,
-  "events": []
+  "events": [
+    {
+      "id": "d64c4feea82a4acc76006522",
+      "types": [
+        "new"
+      ],
+      "title": "Early Black Friday iPad Deals Already Worth Shopping (2026)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.wired.com/story/best-black-friday-ipad-deals-2026/",
+      "source_url": "https://www.wired.com/story/best-black-friday-ipad-deals-2026/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "dad63a616dd79712b773088a",
+      "types": [
+        "removed"
+      ],
+      "title": "Get 25 Percent Off My Favorite Renter-Friendly Storage Lockers",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.wired.com/story/mustard-made-sale-october-2026/",
+      "source_url": "https://www.wired.com/story/mustard-made-sale-october-2026/",
+      "retailer_url": null,
+      "link_type": "source"
+    }
+  ]
 }
