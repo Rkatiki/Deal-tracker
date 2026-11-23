@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-22T23:53:28.537384+00:00",
+  "retrieved_at": "2026-11-23T08:18:58.136180+00:00",
   "source": {
     "id": "clark-deals",
     "name": "Clark Deals",
@@ -10,11 +10,11 @@
   "baseline": false,
   "events": [
     {
-      "id": "2e00c751038718cba75bc3fe",
+      "id": "02816d5a7d98a4d3620c30d5",
       "types": [
         "new"
       ],
-      "title": "Shark Cordless Pet stick vacuum for $160",
+      "title": "The Learning Journey jumbo alphabet floor puzzle for less than $7",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -30,34 +30,606 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://clarkdeals.com/vacuums/shark-cordless-pet-stick-vacuum/",
-      "source_url": "https://clarkdeals.com/vacuums/shark-cordless-pet-stick-vacuum/",
+      "url": "https://clarkdeals.com/toys/learning-journey-jumbo-alphabet-floor-puzzle/",
+      "source_url": "https://clarkdeals.com/toys/learning-journey-jumbo-alphabet-floor-puzzle/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "34d680f3d2960ae960adb896",
+      "id": "03fde7dce813f7cfeb5700ba",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "Hisense 55-inch QD5 Hi-QLED 4K Roku TV for $180",
+      "title": "Cuisinart 4-quart air fryer with glass basket for $84",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
       "rank": {
-        "category": "tv",
+        "category": "air_fryer",
         "variant": null,
         "status": "price_unavailable",
         "score": 0,
-        "max_usd": 500,
+        "max_usd": 75,
         "preferred_usd": null,
         "within_budget": null,
         "comparisons": {},
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://clarkdeals.com/tv/hisense-55-inch-qd5-hi-qled-4k-roku-tv/",
-      "source_url": "https://clarkdeals.com/tv/hisense-55-inch-qd5-hi-qled-4k-roku-tv/",
+      "url": "https://clarkdeals.com/home-kitchen/cuisinart-4-quart-air-fryer-glass-basket/",
+      "source_url": "https://clarkdeals.com/home-kitchen/cuisinart-4-quart-air-fryer-glass-basket/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "266a9af288f3f8bc6c968351",
+      "types": [
+        "removed"
+      ],
+      "title": "Moen Engage 6-spray handheld showerhead for $34",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://clarkdeals.com/home-kitchen/moen-engage-6-spray-handheld-showerhead/",
+      "source_url": "https://clarkdeals.com/home-kitchen/moen-engage-6-spray-handheld-showerhead/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "27ca7e3ab86b8192485cf184",
+      "types": [
+        "removed"
+      ],
+      "title": "Spikeball Spikepong indoor tabletop strategy mini ball game for $21",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://clarkdeals.com/sporting-goods/spikeball-spikepong-indoor-tabletop-strategy-mini-ball-game/",
+      "source_url": "https://clarkdeals.com/sporting-goods/spikeball-spikepong-indoor-tabletop-strategy-mini-ball-game/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "3414f51af0d7967d0224564a",
+      "types": [
+        "removed"
+      ],
+      "title": "Shokz OpenRun Pro 2 open-ear bone conduction headphones for $125",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://clarkdeals.com/electronics/headphones/shokz-openrun-pro-2-open-ear-bone-conduction-headphones/",
+      "source_url": "https://clarkdeals.com/electronics/headphones/shokz-openrun-pro-2-open-ear-bone-conduction-headphones/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "3b9e01e9764d6dbcd065e29d",
+      "types": [
+        "removed"
+      ],
+      "title": "Starts today! JCPenney Black Friday: Here are the best deals",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://clarkdeals.com/black-friday/jcpenney-black-friday-best-deals/",
+      "source_url": "https://clarkdeals.com/black-friday/jcpenney-black-friday-best-deals/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "3c76c03874c03978120c370a",
+      "types": [
+        "new"
+      ],
+      "title": "Milwaukee SAE and metric combination wrench sets for $119",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://clarkdeals.com/tools-diy/milwaukee-sae-metric-combination-wrench-sets/",
+      "source_url": "https://clarkdeals.com/tools-diy/milwaukee-sae-metric-combination-wrench-sets/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "42a07019076443acb51ea8b2",
+      "types": [
+        "removed"
+      ],
+      "title": "Medicube red succinic acid peeling pads for $13",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://clarkdeals.com/health-beauty/medicube-red-succinic-acid-peeling-pads/",
+      "source_url": "https://clarkdeals.com/health-beauty/medicube-red-succinic-acid-peeling-pads/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "4e3ea34b08a2e786bf8e0557",
+      "types": [
+        "new"
+      ],
+      "title": "Dockers men’s Easy Khaki stretch chino pants from $18",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://clarkdeals.com/clothing/dockers-mens-easy-khaki-stretch-chino-pants/",
+      "source_url": "https://clarkdeals.com/clothing/dockers-mens-easy-khaki-stretch-chino-pants/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "60d121cc9c35d7b2c1feb01b",
+      "types": [
+        "new"
+      ],
+      "title": "Makita 18V LXT battery starter pack with free oscillating multi-tool for $199",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://clarkdeals.com/tools-diy/makita-18v-lxt-battery-starter-pack-free-oscillating-multi-tool/",
+      "source_url": "https://clarkdeals.com/tools-diy/makita-18v-lxt-battery-starter-pack-free-oscillating-multi-tool/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "6aa9ced80caee0b4de4814ad",
+      "types": [
+        "new"
+      ],
+      "title": "Columbia women’s Karis Gale full-length parka for $60",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://clarkdeals.com/clothing/columbia-womens-karis-gale-full-length-parka/",
+      "source_url": "https://clarkdeals.com/clothing/columbia-womens-karis-gale-full-length-parka/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "749efd7d521250b6984b21b5",
+      "types": [
+        "removed"
+      ],
+      "title": "Beats Studio Buds + for $90",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://clarkdeals.com/electronics/headphones/beats-studio-buds-plus/",
+      "source_url": "https://clarkdeals.com/electronics/headphones/beats-studio-buds-plus/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "80100afba75e16b9313b6b4b",
+      "types": [
+        "new"
+      ],
+      "title": "Hasbro Yahtzee dice game with collapsible cup for $5",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://clarkdeals.com/toys/hasbro-yahtzee-dice-game-collapsible-cup/",
+      "source_url": "https://clarkdeals.com/toys/hasbro-yahtzee-dice-game-collapsible-cup/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "8b1c6d4a0d194b7e3f5c75dd",
+      "types": [
+        "removed"
+      ],
+      "title": "Care Bears 18-in. Sleepamallows jumbo plush stuffed animal for $15",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://clarkdeals.com/toys/care-bears-18-in-sleepamallows-jumbo-plush-stuffed-animal/",
+      "source_url": "https://clarkdeals.com/toys/care-bears-18-in-sleepamallows-jumbo-plush-stuffed-animal/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "937f46a9e90226e58346033f",
+      "types": [
+        "removed"
+      ],
+      "title": "Liene M100 4×6-in. photo printer with 3 cartridges and paper for $136",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://clarkdeals.com/electronics/liene-m100-4x6-in-photo-printer-with-3-cartridges-and-paper/",
+      "source_url": "https://clarkdeals.com/electronics/liene-m100-4x6-in-photo-printer-with-3-cartridges-and-paper/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "a20842114f3e916f9e9a60b6",
+      "types": [
+        "removed"
+      ],
+      "title": "Philips Sonicare 4100 plaque control rechargeable electric toothbrush for $28",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://clarkdeals.com/health-beauty/philips-sonicare-4100-plaque-control-rechargeable-electric-toothbrush/",
+      "source_url": "https://clarkdeals.com/health-beauty/philips-sonicare-4100-plaque-control-rechargeable-electric-toothbrush/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "ac09189dd1b1ca88c21f995f",
+      "types": [
+        "new"
+      ],
+      "title": "Ball regular-mouth pint Mason jars 8-pack for $13",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://clarkdeals.com/home-kitchen/ball-regular-mouth-pint-mason-jars-8-pack/",
+      "source_url": "https://clarkdeals.com/home-kitchen/ball-regular-mouth-pint-mason-jars-8-pack/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "bcd7445465ab0705ab305a89",
+      "types": [
+        "new"
+      ],
+      "title": "Lego Technic Koenigsegg Jesko Absolut hypercar set for $25",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://clarkdeals.com/toys/lego-technic-koenigsegg-jesko-absolut-hypercar-set/",
+      "source_url": "https://clarkdeals.com/toys/lego-technic-koenigsegg-jesko-absolut-hypercar-set/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "cde89adf4b38ee8ab780b668",
+      "types": [
+        "new"
+      ],
+      "title": "Bath & Body Works hand soaps for $3",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://clarkdeals.com/health-beauty/bath-body-works-hand-soaps/",
+      "source_url": "https://clarkdeals.com/health-beauty/bath-body-works-hand-soaps/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "d283d1462a40ec7ea3cd7fd8",
+      "types": [
+        "new"
+      ],
+      "title": "Champion men’s performance boxer briefs 7-pack for $16",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://clarkdeals.com/clothing/champion-mens-performance-boxer-briefs-7-pack/",
+      "source_url": "https://clarkdeals.com/clothing/champion-mens-performance-boxer-briefs-7-pack/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "d4dccd6b924024a14560c561",
+      "types": [
+        "removed"
+      ],
+      "title": "Vornado Velocity 5R indoor heater for $49",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://clarkdeals.com/home-kitchen/vornado-velocity-5r-indoor-heater/",
+      "source_url": "https://clarkdeals.com/home-kitchen/vornado-velocity-5r-indoor-heater/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "e46189117dcdea9224ae893c",
+      "types": [
+        "new"
+      ],
+      "title": "Hanes men’s Beefy heavyweight fleece pullover hoodie for $9",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://clarkdeals.com/clothing/hanes-mens-beefy-heavyweight-fleece-pullover-hoodie/",
+      "source_url": "https://clarkdeals.com/clothing/hanes-mens-beefy-heavyweight-fleece-pullover-hoodie/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "e7af8ea6672ed021e1319d05",
+      "types": [
+        "removed"
+      ],
+      "title": "Amazon Kindle Colorsoft for $170",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://clarkdeals.com/electronics/amazon-kindle-colorsoft/",
+      "source_url": "https://clarkdeals.com/electronics/amazon-kindle-colorsoft/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "eb39dfc313fc3e466662aabf",
+      "types": [
+        "removed"
+      ],
+      "title": "Medicube Booster Pro X2 7-in-1 glow beauty device for $149",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://clarkdeals.com/health-beauty/medicube-booster-pro-x2-7-in-1-glow-beauty-device/",
+      "source_url": "https://clarkdeals.com/health-beauty/medicube-booster-pro-x2-7-in-1-glow-beauty-device/",
       "retailer_url": null,
       "link_type": "source"
     }

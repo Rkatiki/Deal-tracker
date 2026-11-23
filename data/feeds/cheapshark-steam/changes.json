@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-22T23:53:28.537384+00:00",
+  "retrieved_at": "2026-11-23T08:18:58.136180+00:00",
   "source": {
     "id": "cheapshark-steam",
     "name": "CheapShark Steam Deals",
@@ -11,14 +11,14 @@
   "baseline": false,
   "events": [
     {
-      "id": "14fc8d20b9d4455750aafe12",
+      "id": "9471a0300348c08407c131ff",
       "types": [
         "new"
       ],
-      "title": "Darkest Dungeon",
+      "title": "Dead in Vinland",
       "retailer": "Steam",
       "previous_price_cents": null,
-      "current_price_cents": 374,
+      "current_price_cents": 199,
       "rank": {
         "category": "other",
         "variant": null,
@@ -31,17 +31,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://store.steampowered.com/app/262060/",
-      "source_url": "https://www.cheapshark.com/redirect?dealID=nzRknHTNmwxeXPuUVD4fpOnwQUs6FawipebfDeyQwYE%3D",
-      "retailer_url": "https://store.steampowered.com/app/262060/",
+      "url": "https://store.steampowered.com/app/573120/",
+      "source_url": "https://www.cheapshark.com/redirect?dealID=43fuA0VMLk1WHVAmQAhfwpX1dbe5e%2FHuLwVh2SYSHV0%3D",
+      "retailer_url": "https://store.steampowered.com/app/573120/",
       "link_type": "retailer"
     },
     {
-      "id": "791f40aceffb0ecb1cd26489",
+      "id": "b1a9c049d16fb1fa469f6ad4",
       "types": [
         "new"
       ],
-      "title": "Hacknet",
+      "title": "Everything",
       "retailer": "Steam",
       "previous_price_cents": null,
       "current_price_cents": 149,
@@ -57,19 +57,19 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://store.steampowered.com/app/365450/",
-      "source_url": "https://www.cheapshark.com/redirect?dealID=cNO6jjogPpy0yrfcHQNbnlNSmM12wiiCpMmk%2FoAtuAs%3D",
-      "retailer_url": "https://store.steampowered.com/app/365450/",
+      "url": "https://store.steampowered.com/app/582270/",
+      "source_url": "https://www.cheapshark.com/redirect?dealID=kRObGZLn4nmp1yy4uTd69iobtPC4nWuqjsxPKS3MPqI%3D",
+      "retailer_url": "https://store.steampowered.com/app/582270/",
       "link_type": "retailer"
     },
     {
-      "id": "baf684deead9a28bd4fa4193",
+      "id": "ba79fbd03e3ce33b6d61633d",
       "types": [
         "removed"
       ],
-      "title": "Dungeon Siege",
+      "title": "Joe Dever's Lone Wolf HD Remastered",
       "retailer": "Steam",
-      "previous_price_cents": 97,
+      "previous_price_cents": 149,
       "current_price_cents": null,
       "rank": {
         "category": "other",
@@ -83,19 +83,19 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://store.steampowered.com/app/39190/",
-      "source_url": "https://www.cheapshark.com/redirect?dealID=Hli8KbDatTjYjj%2BjpnfUuVKjxPwQPmblW1llCXyMMmU%3D",
-      "retailer_url": "https://store.steampowered.com/app/39190/",
+      "url": "https://store.steampowered.com/app/279440/",
+      "source_url": "https://www.cheapshark.com/redirect?dealID=B%2BP8xo9yxMT0PpDOf0gW0ZFl5%2F5V8yd9ViW0kloPGQ8%3D",
+      "retailer_url": "https://store.steampowered.com/app/279440/",
       "link_type": "retailer"
     },
     {
-      "id": "fe5326fbedef84c57208351c",
+      "id": "c886f7eae01be91f967c5b17",
       "types": [
         "removed"
       ],
-      "title": "Endzone - A World Apart",
+      "title": "FINAL FANTASY VII REBIRTH",
       "retailer": "Steam",
-      "previous_price_cents": 199,
+      "previous_price_cents": 749,
       "current_price_cents": null,
       "rank": {
         "category": "other",
@@ -109,9 +109,9 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://store.steampowered.com/app/933820/",
-      "source_url": "https://www.cheapshark.com/redirect?dealID=7oziLMfwaApTb38QpUtOmwKKcOVbDy7ei2vsNYg5%2Fpc%3D",
-      "retailer_url": "https://store.steampowered.com/app/933820/",
+      "url": "https://store.steampowered.com/app/2909400/",
+      "source_url": "https://www.cheapshark.com/redirect?dealID=gJ60np9%2FzPD6n03wLQcUNEplVIDm%2B1%2B4ndLniZZ8PqQ%3D",
+      "retailer_url": "https://store.steampowered.com/app/2909400/",
       "link_type": "retailer"
     }
   ]

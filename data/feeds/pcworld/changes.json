@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-22T23:53:28.537384+00:00",
+  "retrieved_at": "2026-11-23T08:18:58.136180+00:00",
   "source": {
     "id": "pcworld",
     "name": "PCWorld",
@@ -9,5 +9,32 @@
     "deal_headlines_only": true
   },
   "baseline": false,
-  "events": []
+  "events": [
+    {
+      "id": "3dba027c02e246370dd643f2",
+      "types": [
+        "new"
+      ],
+      "title": "Early Black Friday drops this Adobe Acrobat replacement to $30",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.pcworld.com/article/3291535/early-black-friday-drops-this-adobe-acrobat-replacement-to-30.html",
+      "source_url": "https://www.pcworld.com/article/3291535/early-black-friday-drops-this-adobe-acrobat-replacement-to-30.html",
+      "retailer_url": null,
+      "link_type": "source"
+    }
+  ]
 }

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-22T23:53:28.537384+00:00",
+  "retrieved_at": "2026-11-23T08:18:58.136180+00:00",
   "source": {
     "id": "techradar",
     "name": "TechRadar",
@@ -9,36 +9,6 @@
     "deal_headlines_only": true
   },
   "deals": [
-    {
-      "id": "0fd87541db2312dd34fb67f4",
-      "title": "I've covered Black Friday for years — here are the 40+ early deals worth your cash today, including TVs, laptops, headphones, appliances, and more",
-      "url": "https://www.techradar.com/seasonal-sales/ive-covered-black-friday-for-years-here-are-the-40-early-deals-worth-your-cash-today-including-tvs-laptops-headphones-appliances-and-more",
-      "source_url": "https://www.techradar.com/seasonal-sales/ive-covered-black-friday-for-years-here-are-the-40-early-deals-worth-your-cash-today-including-tvs-laptops-headphones-appliances-and-more",
-      "retailer_url": null,
-      "link_type": "source",
-      "retailer": null,
-      "price_cents": null,
-      "headline_price_cents": null,
-      "price_source": null,
-      "currency": null,
-      "source_id": "techradar",
-      "publisher": "TechRadar",
-      "published_at": "2026-11-21T17:00:00+00:00",
-      "expires_at": null,
-      "publication_category": "Seasonal Sales",
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
     {
       "id": "4467dbb0a46c21d3d7e8f96d",
       "title": "Bag an early Black Friday smart glasses deal",
@@ -152,6 +122,36 @@
         "status": "price_unavailable",
         "score": 0,
         "max_usd": 500,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
+      "id": "7bf920ac023d8d652f0e1894",
+      "title": "Amazon's Black Friday sale is live for Australia: I'm hunting the top deals on Day 7 — these are my picks for the 70+ best discounts",
+      "url": "https://www.techradar.com/seasonal-sales/live/amazon-australia-black-friday-sales-2026-live-1",
+      "source_url": "https://www.techradar.com/seasonal-sales/live/amazon-australia-black-friday-sales-2026-live-1",
+      "retailer_url": null,
+      "link_type": "source",
+      "retailer": null,
+      "price_cents": null,
+      "headline_price_cents": null,
+      "price_source": null,
+      "currency": null,
+      "source_id": "techradar",
+      "publisher": "TechRadar",
+      "published_at": "2026-11-23T04:56:16+00:00",
+      "expires_at": null,
+      "publication_category": "Seasonal Sales",
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
         "preferred_usd": null,
         "within_budget": null,
         "comparisons": {},

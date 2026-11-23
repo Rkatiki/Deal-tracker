@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-22T23:53:28.537384+00:00",
+  "retrieved_at": "2026-11-23T08:18:58.136180+00:00",
   "source": {
     "id": "living-rich-with-coupons",
     "name": "Living Rich With Coupons",
@@ -9,5 +9,58 @@
     "deal_headlines_only": true
   },
   "baseline": false,
-  "events": []
+  "events": [
+    {
+      "id": "3d78f32296c7557312212389",
+      "types": [
+        "new"
+      ],
+      "title": "HOT! Holiday Photo Cards Deal | 70 Cards for $26.99 {$0.38/card)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.livingrichwithcoupons.com/2026/11/hot-holiday-photo-cards-deal-70-cards-for-26-99-0-38-card.html",
+      "source_url": "https://www.livingrichwithcoupons.com/2026/11/hot-holiday-photo-cards-deal-70-cards-for-26-99-0-38-card.html",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "8ddb444d1918e94c319edb97",
+      "types": [
+        "removed"
+      ],
+      "title": "Amazon Black Friday | 56% Off Welch’s Fruit Snacks Fusions 50 Ct | Under $9",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.livingrichwithcoupons.com/2026/11/amazon-black-friday-56-off-welchs-fruit-snacks-fusions-50-ct-under-9.html",
+      "source_url": "https://www.livingrichwithcoupons.com/2026/11/amazon-black-friday-56-off-welchs-fruit-snacks-fusions-50-ct-under-9.html",
+      "retailer_url": null,
+      "link_type": "source"
+    }
+  ]
 }

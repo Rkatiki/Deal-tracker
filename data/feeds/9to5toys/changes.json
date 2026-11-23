@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-22T23:53:28.537384+00:00",
+  "retrieved_at": "2026-11-23T08:18:58.136180+00:00",
   "source": {
     "id": "9to5toys",
     "name": "9to5Toys",
@@ -10,11 +10,167 @@
   "baseline": false,
   "events": [
     {
-      "id": "0b589479a9c52c8b0ce831c8",
+      "id": "09e9a9bcb7d8183d1c802e90",
+      "types": [
+        "new"
+      ],
+      "title": "Whoa! Apple’s AirPods Pro 3 just hit a wild $149 all-time low for Black Friday (100 off!)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://9to5toys.com/2026/11/22/apple-airpods-pro-3-all-time-low-black-friday/",
+      "source_url": "https://9to5toys.com/2026/11/22/apple-airpods-pro-3-all-time-low-black-friday/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "190182a700772138e15c1a53",
+      "types": [
+        "new"
+      ],
+      "title": "Apple’s iPhone Duo-ready Apple Pencil (USB-C) hits Black Friday low at just $49 (Nearly 40% off)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://9to5toys.com/2026/11/22/apple-iphone-duo-apple-pencil-usb-c-black-friday-deal/",
+      "source_url": "https://9to5toys.com/2026/11/22/apple-iphone-duo-apple-pencil-usb-c-black-friday-deal/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "3a8320a93fc392628204550b",
       "types": [
         "removed"
       ],
-      "title": "Friday’s Apple TV deals up to 75% off: John Wick Ballerina, Alien collection, ’90s Disney classics, much more",
+      "title": "Elebase’s magnetic USB-C cable and adapter kit falls to $12.50",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://9to5toys.com/2026/11/20/elebase-usb-c-cable-and-adapter-kit/",
+      "source_url": "https://9to5toys.com/2026/11/20/elebase-usb-c-cable-and-adapter-kit/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "62bedae0efee3fb781365b5d",
+      "types": [
+        "removed"
+      ],
+      "title": "Hide unsightly cables in plain sight with Delamu’s braided sleeve for just $6.50",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://9to5toys.com/2026/11/20/delamu-10-foot-braided-cable-sleeve/",
+      "source_url": "https://9to5toys.com/2026/11/20/delamu-10-foot-braided-cable-sleeve/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "6959fdc1275d7d5856c79236",
+      "types": [
+        "new"
+      ],
+      "title": "Amazon 2026 Black Friday Week – Day 5: AirPods Pro 3 $100 off, Series 12 $100 off, much more",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://9to5toys.com/2026/11/23/amazon-2026-black-friday-new-deals/",
+      "source_url": "https://9to5toys.com/2026/11/23/amazon-2026-black-friday-new-deals/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "dd1d03f6433567768b101a41",
+      "types": [
+        "new"
+      ],
+      "title": "Apple Watch Series 12 just hit Black Friday all-time low at $100 off (All-time low)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://9to5toys.com/2026/11/22/apple-watch-series-12-black-friday-all-time-low/",
+      "source_url": "https://9to5toys.com/2026/11/22/apple-watch-series-12-black-friday-all-time-low/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "ed254f075d417b79b321930a",
+      "types": [
+        "removed"
+      ],
+      "title": "Official Black Friday Apple deals now live: MacBook $250 off, Apple TV 4K, AirPods $120 off, Series 12, more [Updated]",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -30,17 +186,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://9to5toys.com/2026/11/20/apple-tv-deals-minions-monsters/",
-      "source_url": "https://9to5toys.com/2026/11/20/apple-tv-deals-minions-monsters/",
+      "url": "https://9to5toys.com/2026/11/20/official-black-friday-apple-deals-now-live/",
+      "source_url": "https://9to5toys.com/2026/11/20/official-black-friday-apple-deals-now-live/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "e7e84f04b1a464b74b200f6f",
+      "id": "fc50dd4b0a6b0d62908d3295",
       "types": [
         "removed"
       ],
-      "title": "Anker’s expanded SOLIX Black Friday Sale drops S5000 power station back to exclusive $2,375 low ($1,225 off), more from $470",
+      "title": "Lectric Black Friday Sale offers up to $822 bundle and price cut savings on e-bikes starting from $899",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -56,60 +212,8 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://link.amazon/B0c3B07wF",
-      "source_url": "https://9to5toys.com/2026/11/20/anker-expanded-solix-black-friday-sale-5kwh-s5000-power-station/",
-      "retailer_url": "https://link.amazon/B0c3B07wF",
-      "link_type": "retailer_redirect"
-    },
-    {
-      "id": "ecb25bb3019ef428adccbd76",
-      "types": [
-        "new"
-      ],
-      "title": "Ring video doorbells and cameras are great holiday gifts, now up to 60% off",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://9to5toys.com/2026/11/22/ring-video-doorbells-cameras-great-holiday-gifts/",
-      "source_url": "https://9to5toys.com/2026/11/22/ring-video-doorbells-cameras-great-holiday-gifts/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "f8b0881a1917a308535c28c4",
-      "types": [
-        "new"
-      ],
-      "title": "Sennheiser headphones: A perfect gift for folks who really know audio (Up to $120 off)",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://9to5toys.com/2026/11/22/sennheiser-headphones-perfect-gift-audiophile/",
-      "source_url": "https://9to5toys.com/2026/11/22/sennheiser-headphones-perfect-gift-audiophile/",
+      "url": "https://9to5toys.com/2026/11/20/lectric-black-friday-sale-e-bikes-from-899/",
+      "source_url": "https://9to5toys.com/2026/11/20/lectric-black-friday-sale-e-bikes-from-899/",
       "retailer_url": null,
       "link_type": "source"
     }

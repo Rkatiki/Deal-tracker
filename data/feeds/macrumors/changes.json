@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-22T23:53:28.537384+00:00",
+  "retrieved_at": "2026-11-23T08:18:58.136180+00:00",
   "source": {
     "id": "macrumors",
     "name": "MacRumors Deals",
@@ -8,110 +8,5 @@
     "kind": "rss"
   },
   "baseline": false,
-  "events": [
-    {
-      "id": "19ba11b415e6e2192453ecf2",
-      "types": [
-        "new"
-      ],
-      "title": "iPhone Duo Could Get More Lock Screen Widgets, Leak Suggests",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.macrumors.com/2026/11/22/iphone-duo-could-get-more-lock-screen-widgets/",
-      "source_url": "https://www.macrumors.com/2026/11/22/iphone-duo-could-get-more-lock-screen-widgets/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "1c2a07bcd74a452b49145ac5",
-      "types": [
-        "new"
-      ],
-      "title": "Gurman: Siri Layoffs Spared Newer AI Systems, But Problems Persist",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.macrumors.com/2026/11/22/siri-layoffs-spared-newer-ai-systems/",
-      "source_url": "https://www.macrumors.com/2026/11/22/siri-layoffs-spared-newer-ai-systems/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "79d51cb5ee5297d4c8969a5f",
-      "types": [
-        "removed"
-      ],
-      "title": "Black Friday Deal: Apple TV Streaming Service for $6.99/Month",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "tv",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": 500,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.macrumors.com/2026/11/19/apple-tv-black-friday-streaming-deal/",
-      "source_url": "https://www.macrumors.com/2026/11/19/apple-tv-black-friday-streaming-deal/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "8b212d91fe5dffbb15daaa94",
-      "types": [
-        "removed"
-      ],
-      "title": "MacBook Pro Black Friday Deals Are Here: Get Up to $250 Off M6 and PROLED XDR",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.macrumors.com/2026/11/19/macbook-pro-black-friday-deals-3/",
-      "source_url": "https://www.macrumors.com/2026/11/19/macbook-pro-black-friday-deals-3/",
-      "retailer_url": null,
-      "link_type": "source"
-    }
-  ]
+  "events": []
 }

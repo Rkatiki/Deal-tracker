@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-22T23:53:28.537384+00:00",
+  "retrieved_at": "2026-11-23T08:18:58.136180+00:00",
   "source": {
     "id": "free-stuff-finder",
     "name": "Free Stuff Finder",
@@ -10,11 +10,11 @@
   "baseline": false,
   "events": [
     {
-      "id": "0b44ae581990df97a6e587bd",
+      "id": "08e92038b72acd3081e6af8c",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "Campbell’s Chunky Soup $1.48 Shipped at Amazon",
+      "title": "Shop Target’s Black Friday Deals NOW (Save on Clothing, Shoes & More)",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -30,17 +30,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.freestufffinder.com/campbells-chunky-soup-1-48-shipped-at-amazon/",
-      "source_url": "https://www.freestufffinder.com/campbells-chunky-soup-1-48-shipped-at-amazon/",
+      "url": "https://www.freestufffinder.com/target-black-friday/",
+      "source_url": "https://www.freestufffinder.com/target-black-friday/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "1d0254752e4891bce35eabaf",
+      "id": "0b77d0c1499c9df5800c880e",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "Solar Powered Generator $649 Shipped at Amazon",
+      "title": "Bath & Body Works Hand Soaps $2.95",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -56,15 +56,119 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.freestufffinder.com/solar-powered-generator-649-shipped-at-amazon/",
-      "source_url": "https://www.freestufffinder.com/solar-powered-generator-649-shipped-at-amazon/",
+      "url": "https://www.freestufffinder.com/bath-body-works-hand-soaps/",
+      "source_url": "https://www.freestufffinder.com/bath-body-works-hand-soaps/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "18910f7c9892bde0d65a95ff",
+      "types": [
+        "removed"
+      ],
+      "title": "Carter’s Teddy Fleece Hoodie $13 (Reg $34)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/carters-teddy-fleece-hoodie-13-reg-34/",
+      "source_url": "https://www.freestufffinder.com/carters-teddy-fleece-hoodie-13-reg-34/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "1a693b5e6c1df5a7f0826adc",
+      "types": [
+        "new"
+      ],
+      "title": "Cole Haan Boots $139 Shipped (Reg $350)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/cole-haan-boots-139-shipped-reg-350/",
+      "source_url": "https://www.freestufffinder.com/cole-haan-boots-139-shipped-reg-350/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "1cc34edd432b370a0b2ba2e3",
+      "types": [
+        "removed"
+      ],
+      "title": "FREE Cube Buddies Event at Lakeshore Learning (Today Only)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/free-lakeshore-learning-kids-events/",
+      "source_url": "https://www.freestufffinder.com/free-lakeshore-learning-kids-events/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "28130070cca9f560732e465d",
+      "types": [
+        "new"
+      ],
+      "title": "Women’s Leggings with Pockets $5.91 Shipped at Amazon",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/women-leggings-with-pockets-4-at-amazon/",
+      "source_url": "https://www.freestufffinder.com/women-leggings-with-pockets-4-at-amazon/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "288feb7c9507882ecc72c493",
       "types": [
-        "removed"
+        "new"
       ],
       "title": "Custom 16×12 Canvas Print 2-Pack for $8.79",
       "retailer": null,
@@ -88,9 +192,35 @@
       "link_type": "source"
     },
     {
-      "id": "2c89ddab74a3c6d7b5f42965",
+      "id": "29b31629b1aa30c331d5ebf5",
       "types": [
         "removed"
+      ],
+      "title": "LEGO Oversized Santa Figure $26 Shipped",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/lego-oversized-santa-figure-26/",
+      "source_url": "https://www.freestufffinder.com/lego-oversized-santa-figure-26/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "2c89ddab74a3c6d7b5f42965",
+      "types": [
+        "new"
       ],
       "title": "FREE Burger & Fries for Military & Veterans at Red Robin",
       "retailer": null,
@@ -114,9 +244,113 @@
       "link_type": "source"
     },
     {
-      "id": "53a372eb4cbe98d1ac936d5b",
+      "id": "32b23f7411a2f9c8562e2681",
       "types": [
         "new"
+      ],
+      "title": "20% Off Gift Cards at Amazon (Aeropostale, Crumbl & More)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/gift-cards-amazon/",
+      "source_url": "https://www.freestufffinder.com/gift-cards-amazon/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "37063a2361eb15f7797a968d",
+      "types": [
+        "new"
+      ],
+      "title": "Possible FREE Turkey Today from Instacart!",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/possible-free-turkey-on-november-18th/",
+      "source_url": "https://www.freestufffinder.com/possible-free-turkey-on-november-18th/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "48c5cdbef951b2db12911a89",
+      "types": [
+        "removed"
+      ],
+      "title": "Scotch-Brite Toilet Scrubber Starter Kit $6 Shipped at Amazon",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/scotch-brite-toilet-scrubber-starter-kit-6-shipped-at-amazon/",
+      "source_url": "https://www.freestufffinder.com/scotch-brite-toilet-scrubber-starter-kit-6-shipped-at-amazon/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "4adc0d0fc19d85e00e2d789d",
+      "types": [
+        "new"
+      ],
+      "title": "Nestlé Carnation Evaporated Milk $1.42 Shipped at Amazon",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/nestle-carnation-evaporated-milk-82-shipped-at-amazon/",
+      "source_url": "https://www.freestufffinder.com/nestle-carnation-evaporated-milk-82-shipped-at-amazon/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "53a372eb4cbe98d1ac936d5b",
+      "types": [
+        "removed"
       ],
       "title": "32 Degrees Vest $12.99 (Jackets $19.99)",
       "retailer": null,
@@ -140,11 +374,11 @@
       "link_type": "source"
     },
     {
-      "id": "5538c133555bb5dab14294e8",
+      "id": "54d697831d6a1ce98c41dea2",
       "types": [
         "removed"
       ],
-      "title": "Food & Beverage Inspired Blankets from $19 at Walmart",
+      "title": "FREE LEGO-Themed Gift Tag at Target (Today Only)",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -160,15 +394,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.freestufffinder.com/food-beverage-inspired-blankets-from-19-at-walmart/",
-      "source_url": "https://www.freestufffinder.com/food-beverage-inspired-blankets-from-19-at-walmart/",
+      "url": "https://www.freestufffinder.com/target-store-event/",
+      "source_url": "https://www.freestufffinder.com/target-store-event/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "5554fd01d75e1b7e197a6a17",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Revlon Hair Dryer Brush $24 at CVS",
       "retailer": null,
@@ -192,11 +426,11 @@
       "link_type": "source"
     },
     {
-      "id": "6cb4a72fdff1fb4707188412",
+      "id": "5ad4cd2588bfc71c25dc5e94",
       "types": [
         "removed"
       ],
-      "title": "Amazon Grocery Canned Corn 4-Pack for $2.24 Shipped",
+      "title": "Aquaphor Lip Repair Ointment 2-Pack $4.98 Shipped at Amazon",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -212,15 +446,197 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.freestufffinder.com/amazon-grocery-canned-corn-4-pack-for-2-24-shipped/",
-      "source_url": "https://www.freestufffinder.com/amazon-grocery-canned-corn-4-pack-for-2-24-shipped/",
+      "url": "https://www.freestufffinder.com/aquaphor-lip-repair-ointment-2-pack-4-98-shipped-at-amazon/",
+      "source_url": "https://www.freestufffinder.com/aquaphor-lip-repair-ointment-2-pack-4-98-shipped-at-amazon/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "5b455c4cb492a036634705e0",
+      "types": [
+        "removed"
+      ],
+      "title": "Don’t Be Left Out! Sign up for VIP Updates",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/email-vip-updates/",
+      "source_url": "https://www.freestufffinder.com/email-vip-updates/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "5c24861d2bed2c212e9ceb6d",
+      "types": [
+        "removed"
+      ],
+      "title": "Today’s Big Deals for Amazon Black Friday (Echo Spot, Alexa Photo Frame & More)!",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/amazon-todays-big-deals/",
+      "source_url": "https://www.freestufffinder.com/amazon-todays-big-deals/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "6522acbbecf853d680a07401",
+      "types": [
+        "new"
+      ],
+      "title": "FREE 6 Boneless Wings with Purchase at Applebee’s!",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/applebees-coupons/",
+      "source_url": "https://www.freestufffinder.com/applebees-coupons/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "6ba4b623d9f2ea8d98e58498",
+      "types": [
+        "new"
+      ],
+      "title": "Old Navy Early Black Friday Deals – Up to 50% Off + Extra 30% Off (Last Day!)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/old-navy-black-friday-sale/",
+      "source_url": "https://www.freestufffinder.com/old-navy-black-friday-sale/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "6d24f908dc51dc2b18b7b472",
+      "types": [
+        "new"
+      ],
+      "title": "FREE Krispy Kreme Thanksgiving Doughnut With Any Purchase!",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/krispy-kreme-coupons/",
+      "source_url": "https://www.freestufffinder.com/krispy-kreme-coupons/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "6d2d5e0ad93cdaeb7d85cc7c",
+      "types": [
+        "new"
+      ],
+      "title": "Rose Farmers Bouquet Voucher $7.99 (Get $35 to Spend Towards Roses)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/rose-farmers-bouquet-17-99/",
+      "source_url": "https://www.freestufffinder.com/rose-farmers-bouquet-17-99/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "7480cef1d51d2a7bccb0e663",
+      "types": [
+        "new"
+      ],
+      "title": "Walmart Thanksgiving Meal Basket – Feed 10 People for $25!",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/walmart-thanksgiving-dinner/",
+      "source_url": "https://www.freestufffinder.com/walmart-thanksgiving-dinner/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "74bc12d60ffa7fb2397dfe04",
       "types": [
-        "removed"
+        "new"
       ],
       "title": "Red Light Therapy Pad $12.99 at Amazon",
       "retailer": null,
@@ -244,9 +660,113 @@
       "link_type": "source"
     },
     {
-      "id": "7d0559f7304e0bac05efb90a",
+      "id": "756f5969d3b31f0cfcbe173f",
       "types": [
         "new"
+      ],
+      "title": "Target Weekly Ad Deals This Week (Valid 11/22 – 11/29)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/target-weekly-ad-deals-this-week/",
+      "source_url": "https://www.freestufffinder.com/target-weekly-ad-deals-this-week/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "7b06c27263bdbb48850e854a",
+      "types": [
+        "removed"
+      ],
+      "title": "Clinique 4-Piece Lipstick Set $20 (Reg $40)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/clinique-4-piece-lipstick-set-40-shipped-free-6-piece-gift/",
+      "source_url": "https://www.freestufffinder.com/clinique-4-piece-lipstick-set-40-shipped-free-6-piece-gift/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "7b5d984b57af640cf28eb6b4",
+      "types": [
+        "new"
+      ],
+      "title": "Kohl’s Black Friday is Live!",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/kohls-black-friday/",
+      "source_url": "https://www.freestufffinder.com/kohls-black-friday/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "7c4a547bae6e47e503a132bb",
+      "types": [
+        "removed"
+      ],
+      "title": "Cosrx 4-Piece Snail Kit $14.97 Shipped at Amazon",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/cosrx-all-about-snail-kit-set-22-50/",
+      "source_url": "https://www.freestufffinder.com/cosrx-all-about-snail-kit-set-22-50/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "7d0559f7304e0bac05efb90a",
+      "types": [
+        "removed"
       ],
       "title": "THREE 3-Wick Candles $6.66 Each at JCPenney",
       "retailer": null,
@@ -270,11 +790,11 @@
       "link_type": "source"
     },
     {
-      "id": "7de67e0253b6d288ab3d1d63",
+      "id": "7d34145eb3b8064d80661a7d",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "Revlon Hair Dryer Brush $24 at CVS",
+      "title": "Fairlife Protein Shakes 12-Pack for $19 Shipped at Amazon",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -290,15 +810,171 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.freestufffinder.com/revlon-hair-dryer-brush-24-at-cvs/",
-      "source_url": "https://www.freestufffinder.com/revlon-hair-dryer-brush-24-at-cvs/",
+      "url": "https://www.freestufffinder.com/fairlife-protein-shakes-12-pack-for-23-shipped-at-amazon/",
+      "source_url": "https://www.freestufffinder.com/fairlife-protein-shakes-12-pack-for-23-shipped-at-amazon/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "82bb732a93ec20322dbd35cf",
+      "types": [
+        "new"
+      ],
+      "title": "9-Piece Self Care Gift Basket $16.99 at Amazon",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/9-piece-self-care-gift-basket-25-shipped-at-amazon/",
+      "source_url": "https://www.freestufffinder.com/9-piece-self-care-gift-basket-25-shipped-at-amazon/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "8700b9eba5cb1b5384ea1bf9",
+      "types": [
+        "new"
+      ],
+      "title": "FREE Duracell Batteries at Office Depot",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/duracell-batteries-office-depot/",
+      "source_url": "https://www.freestufffinder.com/duracell-batteries-office-depot/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "8fde44d9c479a5a6b9f452c2",
+      "types": [
+        "removed"
+      ],
+      "title": "Microfiber Hair Towel 2-Pack for $6 at Amazon",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/microfiber-hair-towel-2-pack-for-6-at-amazon/",
+      "source_url": "https://www.freestufffinder.com/microfiber-hair-towel-2-pack-for-6-at-amazon/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "92209b4bf9bad7e28bfa0f62",
+      "types": [
+        "new"
+      ],
+      "title": "Apple AirPods Pro 3 Just $169 Shipped at Amazon",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/apple-airpods-pro-3-available-for-pre-order-at-amazon/",
+      "source_url": "https://www.freestufffinder.com/apple-airpods-pro-3-available-for-pre-order-at-amazon/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "9e83fb6c024fc5c67460dd70",
+      "types": [
+        "new"
+      ],
+      "title": "Women’s Boots ONLY $11.99 at Kohl’s!",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/womens-boots-12-at-kohls-2/",
+      "source_url": "https://www.freestufffinder.com/womens-boots-12-at-kohls-2/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "9eebb9e0724043875f45cf37",
+      "types": [
+        "removed"
+      ],
+      "title": "Ferrero Rocher 30-Count Gift Box $9.60 at Amazon",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/ferrero-rocher/",
+      "source_url": "https://www.freestufffinder.com/ferrero-rocher/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "a222ce730e51d293635eb704",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "FREE Burger & Fries for Military & Veterans at Red Robin",
       "retailer": null,
@@ -322,11 +998,11 @@
       "link_type": "source"
     },
     {
-      "id": "a4d08a1c115cb1e14c34dcb0",
+      "id": "a7198f4980ccf41706aa4e5e",
       "types": [
-        "new"
+        "removed"
       ],
-      "title": "250 LED Christmas String Lights $7 at Amazon",
+      "title": "La Moderna Pasta 54¢ Shipped at Amazon",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -342,17 +1018,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.freestufffinder.com/250-led-christmas-string-lights-8-99-at-amazon/",
-      "source_url": "https://www.freestufffinder.com/250-led-christmas-string-lights-8-99-at-amazon/",
+      "url": "https://www.freestufffinder.com/la-moderna-pasta/",
+      "source_url": "https://www.freestufffinder.com/la-moderna-pasta/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "ae5cdfbf7882c02c7a28f992",
+      "id": "aa3dc63580982128214c34cb",
       "types": [
         "new"
       ],
-      "title": "Buy 1, Get 1 FREE Sandwiches at Arby’s",
+      "title": "NeeDoh Color Splash Dream Drop at Amazon – Request an Invite!",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -368,15 +1044,41 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.freestufffinder.com/arbys-coupons/",
-      "source_url": "https://www.freestufffinder.com/arbys-coupons/",
+      "url": "https://www.freestufffinder.com/needoh-in-stock/",
+      "source_url": "https://www.freestufffinder.com/needoh-in-stock/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "ab20b18cbd490214debd327f",
+      "types": [
+        "removed"
+      ],
+      "title": "Crocs Up to 60% Off + Extra 25% Off (From $13)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/crocs-sale/",
+      "source_url": "https://www.freestufffinder.com/crocs-sale/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "afdb6f9e1da99c52533b2cb2",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Grace Stella Lip Gloss $7 Shipped at Amazon",
       "retailer": null,
@@ -400,11 +1102,89 @@
       "link_type": "source"
     },
     {
-      "id": "b1cf0a42f0087b1249184295",
+      "id": "b005333fd5a65bcb96c5ae19",
+      "types": [
+        "removed"
+      ],
+      "title": "Disney Mini Backpack $38 at Kohl’s",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/disney-mini-backpack-40-at-kohls/",
+      "source_url": "https://www.freestufffinder.com/disney-mini-backpack-40-at-kohls/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "b26e8a84cc537ff71b360231",
+      "types": [
+        "removed"
+      ],
+      "title": "FREE Christmas Car Ornament Workshop at Home Depot (Happening Today!)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/home-depot-kids-workshop/",
+      "source_url": "https://www.freestufffinder.com/home-depot-kids-workshop/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "b5fdb2c1b73bf2c16e5afca6",
+      "types": [
+        "removed"
+      ],
+      "title": "Valentino Hair & Body Mists $29 at Macy’s",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/valentino-hair-and-body-mists-39-at-macys/",
+      "source_url": "https://www.freestufffinder.com/valentino-hair-and-body-mists-39-at-macys/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "bfcea988b91e68c8bb5b89a1",
       "types": [
         "new"
       ],
-      "title": "Food & Beverage Inspired Blankets from $19 at Walmart",
+      "title": "ULTA Black Friday Sale is LIVE!",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -420,17 +1200,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.freestufffinder.com/food-beverage-inspired-blankets-from-19-at-walmart/",
-      "source_url": "https://www.freestufffinder.com/food-beverage-inspired-blankets-from-19-at-walmart/",
+      "url": "https://www.freestufffinder.com/ulta-black-friday/",
+      "source_url": "https://www.freestufffinder.com/ulta-black-friday/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "b8644a26234d841002277350",
+      "id": "c1700cc8b0079a80e1b9b7a5",
       "types": [
         "removed"
       ],
-      "title": "Target Deal of the Day: 40% Off Sweatshirts & Sweatpants!",
+      "title": "Personalized Metal Photo Print $3.99",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -446,17 +1226,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.freestufffinder.com/target-deal-of-the-day/",
-      "source_url": "https://www.freestufffinder.com/target-deal-of-the-day/",
+      "url": "https://www.freestufffinder.com/personalized-metal-photo-print-5/",
+      "source_url": "https://www.freestufffinder.com/personalized-metal-photo-print-5/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "bf2d5f37bba95642c0de76fb",
+      "id": "c33e523c1474bcfefe2c354e",
       "types": [
         "removed"
       ],
-      "title": "Onion Soup & Dip Seasoning Mix 53¢ Shipped at Amazon",
+      "title": "FREE Thanksgiving Craft Event at Pottery Barn – Today Only!",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -472,15 +1252,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.freestufffinder.com/onion-soup-dip-seasoning-mix-48-shipped-at-amazon/",
-      "source_url": "https://www.freestufffinder.com/onion-soup-dip-seasoning-mix-48-shipped-at-amazon/",
+      "url": "https://www.freestufffinder.com/pottery-barn-kids-events/",
+      "source_url": "https://www.freestufffinder.com/pottery-barn-kids-events/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "c8b15f8702fb4b9241d534ed",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Custom 16×12 Canvas Print 2-Pack for $8.79",
       "retailer": null,
@@ -504,11 +1284,11 @@
       "link_type": "source"
     },
     {
-      "id": "d2ddcd6f4b8f2ec16c642248",
+      "id": "cd8e58a30ff0c5e1c564335f",
       "types": [
         "removed"
       ],
-      "title": "Dolce & Gabbana 2-Piece Gift Set $29 at Macy’s",
+      "title": "Marc Jacobs Mini Bag $99 Shipped",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -524,15 +1304,119 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.freestufffinder.com/dolce-gabbana-4-piece-parfum-mini-set-42-shipped-at-macys/",
-      "source_url": "https://www.freestufffinder.com/dolce-gabbana-4-piece-parfum-mini-set-42-shipped-at-macys/",
+      "url": "https://www.freestufffinder.com/marc-jacobs-medium-tote-bag-162-shipped-reg-325/",
+      "source_url": "https://www.freestufffinder.com/marc-jacobs-medium-tote-bag-162-shipped-reg-325/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "cda0a9d5d06af08f55b2e7de",
+      "types": [
+        "new"
+      ],
+      "title": "Amazon Grocery Chicken Broth 96¢ Shipped",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/amazon-grocery-beef-broth-95-shipped-at-amazon/",
+      "source_url": "https://www.freestufffinder.com/amazon-grocery-beef-broth-95-shipped-at-amazon/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "d381c9ea1ba06e624e507b6b",
+      "types": [
+        "new"
+      ],
+      "title": "FREE Gifts for Donating Blood at Red Cross",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/american-red-cross-freebie/",
+      "source_url": "https://www.freestufffinder.com/american-red-cross-freebie/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "d54e1befaa16d319d7bc51eb",
+      "types": [
+        "removed"
+      ],
+      "title": "Progresso Lasagna-Style Soup $1.58 at Amazon",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/progresso-lasagna-style-soup-1-58-at-amazon/",
+      "source_url": "https://www.freestufffinder.com/progresso-lasagna-style-soup-1-58-at-amazon/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "ef9430822dfd97c34e5b5d72",
+      "types": [
+        "removed"
+      ],
+      "title": "Kodak Digital Camera Keychain $29 at Amazon (TikTok Trending!)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/kodak-digital-camerakeychain-in-stock-at-amazon/",
+      "source_url": "https://www.freestufffinder.com/kodak-digital-camerakeychain-in-stock-at-amazon/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "efb74573b1592cfe233cbd7d",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Red Light Therapy Pad $12.99 at Amazon",
       "retailer": null,
@@ -556,11 +1440,11 @@
       "link_type": "source"
     },
     {
-      "id": "f6c690b700df9e6064dfd0fa",
+      "id": "f0c4c6e2e8a4ba14c0f02130",
       "types": [
         "new"
       ],
-      "title": "Levi’s Extra 40% Off + FREE Shipping (Women’s Jeans $20, Kids Tees $7)",
+      "title": "Sherpa Fleece Throw $9.59 at Amazon",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -576,15 +1460,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.freestufffinder.com/levis-sale/",
-      "source_url": "https://www.freestufffinder.com/levis-sale/",
+      "url": "https://www.freestufffinder.com/sherpa-fleece-throw-9-99-at-amazon/",
+      "source_url": "https://www.freestufffinder.com/sherpa-fleece-throw-9-99-at-amazon/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "f91506d89d986664a4c9f30b",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Candle Warmer Lamp $12 Shipped at Amazon",
       "retailer": null,
@@ -608,11 +1492,11 @@
       "link_type": "source"
     },
     {
-      "id": "fc955bc69766ea11d1ef9431",
+      "id": "fc8ec4ec953216c95fcf79e5",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "Best Amazon Deals This Weekend😍 (Ferrero Rocher 30-Count for $9!)",
+      "title": "Get 3 FREE November 1963 Movie Tickets!",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -628,8 +1512,60 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.freestufffinder.com/amazon-weekend-deals/",
-      "source_url": "https://www.freestufffinder.com/amazon-weekend-deals/",
+      "url": "https://www.freestufffinder.com/get-3-free-november-1963-movie-tickets/",
+      "source_url": "https://www.freestufffinder.com/get-3-free-november-1963-movie-tickets/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "fe26cbbfeec5a3ae148f07b8",
+      "types": [
+        "new"
+      ],
+      "title": "Nike Black Friday Sale + Extra 25% Off (Air Max $50, Dunk Shoes $59!)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/best-nike-deals/",
+      "source_url": "https://www.freestufffinder.com/best-nike-deals/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "feafa9463835b5c8594a0c19",
+      "types": [
+        "new"
+      ],
+      "title": "Macy’s Black Friday is Live Now!",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.freestufffinder.com/macys-black-friday/",
+      "source_url": "https://www.freestufffinder.com/macys-black-friday/",
       "retailer_url": null,
       "link_type": "source"
     }
