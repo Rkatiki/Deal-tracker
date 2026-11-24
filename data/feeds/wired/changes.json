@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-24T05:00:26.339704+00:00",
+  "retrieved_at": "2026-11-24T18:23:42.521175+00:00",
   "source": {
     "id": "wired",
     "name": "WIRED Deals",
@@ -10,11 +10,11 @@
   "baseline": false,
   "events": [
     {
-      "id": "be17300b32b9a241c43f737a",
+      "id": "1a08c5cd2769ba97a5c634a9",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "How to Save $25 on Burga’s Phone Accessories With This Sale",
+      "title": "The 24 Very Best Amazon Black Friday Deals to Get Now (2026)",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -30,8 +30,86 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.wired.com/story/burga-sale-november-2026/",
-      "source_url": "https://www.wired.com/story/burga-sale-november-2026/",
+      "url": "https://www.wired.com/story/amazon-black-friday-deals-11-24-2026/",
+      "source_url": "https://www.wired.com/story/amazon-black-friday-deals-11-24-2026/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "4dda919237611561b4ffc790",
+      "types": [
+        "new"
+      ],
+      "title": "The Best Early Black Friday MacBook Deals (2026)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.wired.com/story/best-black-friday-macbook-deals-2026/",
+      "source_url": "https://www.wired.com/story/best-black-friday-macbook-deals-2026/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "97db815feeea3e2a3277df9e",
+      "types": [
+        "removed"
+      ],
+      "title": "Best Air Purifiers for Allergies Are on Sale: Levoit, BlueAir (2026)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.wired.com/story/air-purifier-sale-october-3-2026/",
+      "source_url": "https://www.wired.com/story/air-purifier-sale-october-3-2026/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "c7a81f713b168c3a6c0913a5",
+      "types": [
+        "new"
+      ],
+      "title": "GPS Dog Collar for Less: Fi Black Friday Sale (2026)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.wired.com/story/fi-pet-trackers-deal-11-2026/",
+      "source_url": "https://www.wired.com/story/fi-pet-trackers-deal-11-2026/",
       "retailer_url": null,
       "link_type": "source"
     }

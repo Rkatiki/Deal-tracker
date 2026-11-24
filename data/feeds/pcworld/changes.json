@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-24T05:00:26.339704+00:00",
+  "retrieved_at": "2026-11-24T18:23:42.521175+00:00",
   "source": {
     "id": "pcworld",
     "name": "PCWorld",
@@ -11,11 +11,141 @@
   "baseline": false,
   "events": [
     {
-      "id": "a03cce47fa7528a5e06c10f1",
+      "id": "04629a92fef188588482baa5",
+      "types": [
+        "new"
+      ],
+      "title": "Stop paying for AI one model at a time: get GPT, Claude, Gemini, and 50+ more for $27.97 for Black Friday",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.pcworld.com/article/3291523/stop-paying-for-ai-one-model-at-a-time-get-gpt-claude-gemini-and-50-more-for-27-97-for-black-friday.html",
+      "source_url": "https://www.pcworld.com/article/3291523/stop-paying-for-ai-one-model-at-a-time-get-gpt-claude-gemini-and-50-more-for-27-97-for-black-friday.html",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "0b4198393cb1d2b029e69c4b",
+      "types": [
+        "new"
+      ],
+      "title": "Our favorite cheap VPN is 88% off for Black Friday, includes antivirus",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.pcworld.com/article/3294813/our-favorite-cheap-vpn-is-88-percent-off-for-black-friday-includes-antivirus.html",
+      "source_url": "https://www.pcworld.com/article/3294813/our-favorite-cheap-vpn-is-88-percent-off-for-black-friday-includes-antivirus.html",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "0d3fd56abc9f73f8f0a72d00",
+      "types": [
+        "new"
+      ],
+      "title": "Ninja’s dual-basket air fryer hits $150, its lowest price this year",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "air_fryer",
+        "variant": "dual_basket",
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": 130,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.pcworld.com/article/3295841/ninjas-dual-basket-air-fryer-hits-150-its-lowest-price-this-year.html",
+      "source_url": "https://www.pcworld.com/article/3295841/ninjas-dual-basket-air-fryer-hits-150-its-lowest-price-this-year.html",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "1bb223409d76e9530221acc3",
+      "types": [
+        "new"
+      ],
+      "title": "Today’s best laptop deals: Save big on work, school, home use, and gaming",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.pcworld.com/article/550968/best-laptop-deals-3.html",
+      "source_url": "https://www.pcworld.com/article/550968/best-laptop-deals-3.html",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "3f9349127ef550c2574b1147",
+      "types": [
+        "new"
+      ],
+      "title": "My favorite portable monitor is 29% off for Black Friday",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.pcworld.com/article/3295893/my-favorite-portable-monitor-is-29-off-for-black-friday.html",
+      "source_url": "https://www.pcworld.com/article/3295893/my-favorite-portable-monitor-is-29-off-for-black-friday.html",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "4612bdd370eb6b515be45ea2",
       "types": [
         "removed"
       ],
-      "title": "Early Black Friday steals: 10 tech deals under $25, at or near all-time lows",
+      "title": "Nintendo Switch 2 storage is expensive. These Black Friday microSD Express card deals help",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -31,17 +161,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.pcworld.com/article/3278024/best-amazon-black-friday-tech-deals-under-25.html",
-      "source_url": "https://www.pcworld.com/article/3278024/best-amazon-black-friday-tech-deals-under-25.html",
+      "url": "https://www.pcworld.com/article/3294538/nintendo-switch-2-storage-is-expensive-these-black-friday-microsd-express-card-deals-help.html",
+      "source_url": "https://www.pcworld.com/article/3294538/nintendo-switch-2-storage-is-expensive-these-black-friday-microsd-express-card-deals-help.html",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "e084965ba85b61b1c3bc56b2",
+      "id": "4f0e3a692d0e60e1f0ab47a6",
       "types": [
-        "new"
+        "removed"
       ],
-      "title": "Best early Black Friday VPN deals: What to expect and early sales",
+      "title": "I never leave home without this $22 Anker no-cable power bank",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -57,17 +187,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.pcworld.com/article/2519967/best-early-black-friday-vpn-deals-2026.html",
-      "source_url": "https://www.pcworld.com/article/2519967/best-early-black-friday-vpn-deals-2026.html",
+      "url": "https://www.pcworld.com/article/2852929/i-never-leave-home-without-this-22-anker-power-bank-it-needs-no-cable.html",
+      "source_url": "https://www.pcworld.com/article/2852929/i-never-leave-home-without-this-22-anker-power-bank-it-needs-no-cable.html",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "f647c736ca10a213f226b5ff",
+      "id": "58a1c74cda87f180002e2907",
       "types": [
-        "new"
+        "removed"
       ],
-      "title": "Best Black Friday mini PC deals: What to expect and early sales",
+      "title": "KAMRUI Black Friday: Up to 32% Off the G2 PRO Mini PC, plus discounts on the E3B and Hyper H2 Mini PCs",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -83,8 +213,294 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.pcworld.com/article/2971789/best-early-black-friday-mini-pc-deals-2026.html",
-      "source_url": "https://www.pcworld.com/article/2971789/best-early-black-friday-mini-pc-deals-2026.html",
+      "url": "https://www.pcworld.com/article/3288448/kamrui-black-friday-up-to-32-off-the-g2-pro-mini-pc-plus-discounts-on-the-e3b-and-hyper-h2-mini-pcs.html",
+      "source_url": "https://www.pcworld.com/article/3288448/kamrui-black-friday-up-to-32-off-the-g2-pro-mini-pc-plus-discounts-on-the-e3b-and-hyper-h2-mini-pcs.html",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "681a45c532241c2a07c49f72",
+      "types": [
+        "new"
+      ],
+      "title": "SanDisk’s fast 1TB portable SSD drops to $199 for the first time",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.pcworld.com/article/3295941/sandisks-fast-1tb-portable-ssd-drops-to-199-for-the-first-time.html",
+      "source_url": "https://www.pcworld.com/article/3295941/sandisks-fast-1tb-portable-ssd-drops-to-199-for-the-first-time.html",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "73b1830eb31b98e7e1c26ab2",
+      "types": [
+        "new"
+      ],
+      "title": "Alienware’s OLED ultrawide gaming monitor is just $650 for Black Friday",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.pcworld.com/article/3296021/alienwares-oled-ultrawide-gaming-monitor-is-just-650-for-black-friday.html",
+      "source_url": "https://www.pcworld.com/article/3296021/alienwares-oled-ultrawide-gaming-monitor-is-just-650-for-black-friday.html",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "752a16bfebdef22d84cbf5d9",
+      "types": [
+        "new"
+      ],
+      "title": "I love Lego. I hate the prices. Black Friday makes it hurt less",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.pcworld.com/article/3290925/the-best-lego-sets-you-can-buy-this-black-friday.html",
+      "source_url": "https://www.pcworld.com/article/3290925/the-best-lego-sets-you-can-buy-this-black-friday.html",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "752fad3d4612b9749c106737",
+      "types": [
+        "new"
+      ],
+      "title": "Ctrl+Alt+Save On This Black Friday ASUS Keyboard Deal",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.pcworld.com/article/3292305/ctrlaltsave-on-this-black-friday-asus-keyboard-deal.html",
+      "source_url": "https://www.pcworld.com/article/3292305/ctrlaltsave-on-this-black-friday-asus-keyboard-deal.html",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "7d42e24ecafe2af324fe0950",
+      "types": [
+        "removed"
+      ],
+      "title": "Our favorite 2TB Samsung portable SSD is $140 off for Black Friday",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.pcworld.com/article/3291204/our-favorite-2tb-samsung-portable-ssd-is-140-off-for-black-friday.html",
+      "source_url": "https://www.pcworld.com/article/3291204/our-favorite-2tb-samsung-portable-ssd-is-140-off-for-black-friday.html",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "8ad3b87f1c4d48371e1f43a1",
+      "types": [
+        "removed"
+      ],
+      "title": "Best Black Friday tech deals on Amazon 2026",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.pcworld.com/article/1384292/best-black-friday-amazon-tech-deals.html",
+      "source_url": "https://www.pcworld.com/article/1384292/best-black-friday-amazon-tech-deals.html",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "9cd89511001aaa008e23edb8",
+      "types": [
+        "removed"
+      ],
+      "title": "13 killer early Black Friday deals on tech accessories you actually need",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.pcworld.com/article/3278025/best-early-amazon-black-friday-accessory-deals-2026.html",
+      "source_url": "https://www.pcworld.com/article/3278025/best-early-amazon-black-friday-accessory-deals-2026.html",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "b873b8421786a751a4d1059f",
+      "types": [
+        "new"
+      ],
+      "title": "The Logitech mouse I’ve used for 10 years is only $13 for Black Friday",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.pcworld.com/article/3295838/the-logitech-mouse-ive-used-for-10-years-is-only-13-for-black-friday.html",
+      "source_url": "https://www.pcworld.com/article/3295838/the-logitech-mouse-ive-used-for-10-years-is-only-13-for-black-friday.html",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "bad8caf72877f6fb856a9ad9",
+      "types": [
+        "removed"
+      ],
+      "title": "Best Black Friday monitor deals: What to expect and early deals",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.pcworld.com/article/1383757/best-black-friday-monitor-deals-2026.html",
+      "source_url": "https://www.pcworld.com/article/1383757/best-black-friday-monitor-deals-2026.html",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "d508cd3703db402355576024",
+      "types": [
+        "removed"
+      ],
+      "title": "This $900 automatic espresso machine is just $550 for Black Friday",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.pcworld.com/article/3286717/this-900-automatic-espresso-machine-is-just-550-for-black-friday.html",
+      "source_url": "https://www.pcworld.com/article/3286717/this-900-automatic-espresso-machine-is-just-550-for-black-friday.html",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "f02a4b7aedbb24b6ed39d878",
+      "types": [
+        "new"
+      ],
+      "title": "Early Black Friday pricing cuts five years of flowkey to $54.97",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.pcworld.com/article/3291518/early-black-friday-pricing-cuts-five-years-of-flowkey-to-54-97.html",
+      "source_url": "https://www.pcworld.com/article/3291518/early-black-friday-pricing-cuts-five-years-of-flowkey-to-54-97.html",
       "retailer_url": null,
       "link_type": "source"
     }

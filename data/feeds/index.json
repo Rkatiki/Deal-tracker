@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "checked_at": "2026-11-24T05:00:26.339704+00:00",
+  "checked_at": "2026-11-24T18:23:42.521175+00:00",
   "sources": [
     {
       "id": "dealnews",
@@ -8,8 +8,8 @@
       "url": "https://www.dealnews.com/?rss=1&sort=time",
       "snapshot": "dealnews/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-24T05:00:26.339704+00:00",
-      "offer_count": 49,
+      "last_success_at": "2026-11-24T18:23:42.521175+00:00",
+      "offer_count": 48,
       "candidate_count": 0
     },
     {
@@ -18,7 +18,7 @@
       "url": "https://slickdeals.net/newsearch.php?mode=frontpage&searcharea=deals&searchin=first&rss=1",
       "snapshot": "slickdeals/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-24T05:00:26.339704+00:00",
+      "last_success_at": "2026-11-24T18:23:42.521175+00:00",
       "offer_count": 25,
       "candidate_count": 0
     },
@@ -27,9 +27,8 @@
       "name": "Ben's Bargains",
       "url": "https://bensbargains.com/rss/",
       "snapshot": "bens-bargains/latest.json",
-      "status": "failed",
-      "error": "HTTP 403 (curl exit 22)",
-      "last_success_at": "2026-11-22T02:41:08.365711+00:00",
+      "status": "ok",
+      "last_success_at": "2026-11-24T18:23:42.521175+00:00",
       "offer_count": 20,
       "candidate_count": 0
     },
@@ -39,7 +38,7 @@
       "url": "https://forums.woot.com/c/deal-chatter/daily-deal/10.rss",
       "snapshot": "woot-daily/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-24T05:00:26.339704+00:00",
+      "last_success_at": "2026-11-24T18:23:42.521175+00:00",
       "offer_count": 25,
       "candidate_count": 0
     },
@@ -49,7 +48,7 @@
       "url": "https://9to5toys.com/feed/",
       "snapshot": "9to5toys/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-24T05:00:26.339704+00:00",
+      "last_success_at": "2026-11-24T18:23:42.521175+00:00",
       "offer_count": 50,
       "candidate_count": 0
     },
@@ -59,8 +58,8 @@
       "url": "https://9to5mac.com/guides/deals/feed/",
       "snapshot": "9to5mac/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-24T05:00:26.339704+00:00",
-      "offer_count": 27,
+      "last_success_at": "2026-11-24T18:23:42.521175+00:00",
+      "offer_count": 28,
       "candidate_count": 0
     },
     {
@@ -69,7 +68,7 @@
       "url": "https://www.androidauthority.com/deals/feed/",
       "snapshot": "android-authority/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-24T05:00:26.339704+00:00",
+      "last_success_at": "2026-11-24T18:23:42.521175+00:00",
       "offer_count": 80,
       "candidate_count": 0
     },
@@ -79,7 +78,7 @@
       "url": "https://feeds.macrumors.com/MacRumors-Deals",
       "snapshot": "macrumors/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-24T05:00:26.339704+00:00",
+      "last_success_at": "2026-11-24T18:23:42.521175+00:00",
       "offer_count": 20,
       "candidate_count": 0
     },
@@ -89,7 +88,7 @@
       "url": "https://www.cnet.com/rss/deals/",
       "snapshot": "cnet/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-24T05:00:26.339704+00:00",
+      "last_success_at": "2026-11-24T18:23:42.521175+00:00",
       "offer_count": 16,
       "candidate_count": 0
     },
@@ -99,8 +98,8 @@
       "url": "https://www.wired.com/feed/tag/deals/latest/rss",
       "snapshot": "wired/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-24T05:00:26.339704+00:00",
-      "offer_count": 39,
+      "last_success_at": "2026-11-24T18:23:42.521175+00:00",
+      "offer_count": 41,
       "candidate_count": 0
     },
     {
@@ -109,8 +108,8 @@
       "url": "https://www.tomsguide.com/feeds.xml",
       "snapshot": "toms-guide/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-24T05:00:26.339704+00:00",
-      "offer_count": 30,
+      "last_success_at": "2026-11-24T18:23:42.521175+00:00",
+      "offer_count": 29,
       "candidate_count": 0
     },
     {
@@ -119,8 +118,8 @@
       "url": "https://www.techradar.com/feeds.xml",
       "snapshot": "techradar/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-24T05:00:26.339704+00:00",
-      "offer_count": 22,
+      "last_success_at": "2026-11-24T18:23:42.521175+00:00",
+      "offer_count": 16,
       "candidate_count": 0
     },
     {
@@ -129,8 +128,8 @@
       "url": "https://www.tomshardware.com/feeds.xml",
       "snapshot": "toms-hardware/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-24T05:00:26.339704+00:00",
-      "offer_count": 25,
+      "last_success_at": "2026-11-24T18:23:42.521175+00:00",
+      "offer_count": 22,
       "candidate_count": 0
     },
     {
@@ -139,8 +138,8 @@
       "url": "https://www.windowscentral.com/feeds.xml",
       "snapshot": "windows-central/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-24T05:00:26.339704+00:00",
-      "offer_count": 11,
+      "last_success_at": "2026-11-24T18:23:42.521175+00:00",
+      "offer_count": 13,
       "candidate_count": 0
     },
     {
@@ -149,8 +148,8 @@
       "url": "https://www.pcworld.com/feed",
       "snapshot": "pcworld/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-24T05:00:26.339704+00:00",
-      "offer_count": 12,
+      "last_success_at": "2026-11-24T18:23:42.521175+00:00",
+      "offer_count": 15,
       "candidate_count": 0
     },
     {
@@ -158,7 +157,8 @@
       "name": "Clark Deals",
       "url": "https://clarkdeals.com/feed/",
       "snapshot": "clark-deals/latest.json",
-      "status": "ok",
+      "status": "failed",
+      "error": "HTTP 202 (curl exit 0)",
       "last_success_at": "2026-11-24T05:00:26.339704+00:00",
       "offer_count": 40,
       "candidate_count": 0
@@ -169,8 +169,8 @@
       "url": "https://hip2save.com/feed/",
       "snapshot": "hip2save/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-24T05:00:26.339704+00:00",
-      "offer_count": 88,
+      "last_success_at": "2026-11-24T18:23:42.521175+00:00",
+      "offer_count": 91,
       "candidate_count": 0
     },
     {
@@ -179,8 +179,8 @@
       "url": "https://www.dansdeals.com/feed/",
       "snapshot": "dans-deals/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-24T05:00:26.339704+00:00",
-      "offer_count": 74,
+      "last_success_at": "2026-11-24T18:23:42.521175+00:00",
+      "offer_count": 73,
       "candidate_count": 0
     },
     {
@@ -189,8 +189,8 @@
       "url": "https://www.southernsavers.com/feed/",
       "snapshot": "southern-savers/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-24T05:00:26.339704+00:00",
-      "offer_count": 22,
+      "last_success_at": "2026-11-24T18:23:42.521175+00:00",
+      "offer_count": 21,
       "candidate_count": 0
     },
     {
@@ -199,8 +199,8 @@
       "url": "https://passionatepennypincher.com/feed/",
       "snapshot": "passionate-penny-pincher/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-24T05:00:26.339704+00:00",
-      "offer_count": 51,
+      "last_success_at": "2026-11-24T18:23:42.521175+00:00",
+      "offer_count": 53,
       "candidate_count": 0
     },
     {
@@ -209,7 +209,7 @@
       "url": "https://www.freestufffinder.com/feed/",
       "snapshot": "free-stuff-finder/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-24T05:00:26.339704+00:00",
+      "last_success_at": "2026-11-24T18:23:42.521175+00:00",
       "offer_count": 100,
       "candidate_count": 0
     },
@@ -219,7 +219,7 @@
       "url": "https://thefreebieguy.com/feed/",
       "snapshot": "freebie-guy/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-24T05:00:26.339704+00:00",
+      "last_success_at": "2026-11-24T18:23:42.521175+00:00",
       "offer_count": 40,
       "candidate_count": 0
     },
@@ -229,8 +229,8 @@
       "url": "https://www.livingrichwithcoupons.com/feed",
       "snapshot": "living-rich-with-coupons/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-24T05:00:26.339704+00:00",
-      "offer_count": 43,
+      "last_success_at": "2026-11-24T18:23:42.521175+00:00",
+      "offer_count": 41,
       "candidate_count": 0
     },
     {
@@ -239,7 +239,7 @@
       "url": "https://isthereanydeal.com/feeds/US/USD/deals.rss",
       "snapshot": "isthereanydeal/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-24T05:00:26.339704+00:00",
+      "last_success_at": "2026-11-24T18:23:42.521175+00:00",
       "offer_count": 150,
       "candidate_count": 0
     },
@@ -249,7 +249,7 @@
       "url": "https://www.cheapshark.com/api/1.0/deals?storeID=1&upperPrice=15&pageSize=30",
       "snapshot": "cheapshark-steam/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-24T05:00:26.339704+00:00",
+      "last_success_at": "2026-11-24T18:23:42.521175+00:00",
       "offer_count": 30,
       "candidate_count": 0
     },
@@ -259,8 +259,8 @@
       "url": "https://github.com/thuongtin/awesome-bfcm-2026",
       "snapshot": "github-bfcm-2026/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-24T05:00:26.339704+00:00",
-      "offer_count": 1951,
+      "last_success_at": "2026-11-24T18:23:42.521175+00:00",
+      "offer_count": 2054,
       "candidate_count": 6
     }
   ],
@@ -490,22 +490,22 @@
       }
     },
     {
-      "id": "7cd790d376be7f5be434e880",
-      "title": "3 Months of Peacock TV ONLY $2.99/month!",
-      "url": "https://passionatepennypincher.com/streaming-services/",
-      "source_url": "https://passionatepennypincher.com/streaming-services/",
+      "id": "befcb994a3405474299bb31d",
+      "title": "Disney+ And Hulu Bundle For Just $4.99/Month For A Full Year, Plus Black Friday Deals On Paramount+, Apple TV, HBO Max, Peacock, SiriusXM, And More!",
+      "url": "https://www.dansdeals.com/shopping-deals/disney-and-hulu-bundle-for-just-4-99-month-for-a-full-year-plus-black-friday-deals-on-paramount-apple-tv-hbo-max-peacock-siriusxm-and-more/",
+      "source_url": "https://www.dansdeals.com/shopping-deals/disney-and-hulu-bundle-for-just-4-99-month-for-a-full-year-plus-black-friday-deals-on-paramount-apple-tv-hbo-max-peacock-siriusxm-and-more/",
       "retailer_url": null,
       "link_type": "source",
       "retailer": null,
       "price_cents": null,
-      "headline_price_cents": 299,
+      "headline_price_cents": 499,
       "price_source": null,
       "currency": null,
-      "source_id": "passionate-penny-pincher",
-      "publisher": "Passionate Penny Pincher",
-      "published_at": "2026-11-23T18:33:26+00:00",
+      "source_id": "dans-deals",
+      "publisher": "DansDeals",
+      "published_at": "2026-11-24T15:34:10+00:00",
       "expires_at": null,
-      "publication_category": "Black Friday and Cyber Monday",
+      "publication_category": "Shopping",
       "rank": {
         "category": "tv",
         "variant": null,
@@ -522,7 +522,7 @@
         "category": "tv",
         "variant": null,
         "status": "candidate",
-        "score": 34.94,
+        "score": 34.9,
         "max_usd": 500,
         "preferred_usd": null,
         "within_budget": true,
@@ -616,22 +616,22 @@
       }
     },
     {
-      "id": "d6291965c827d1dcfd1e6bf8",
-      "title": "TCL 55-in. 4K UHD HDR Limited Edition smart Roku TV for $168",
-      "url": "https://clarkdeals.com/tv/tcl-55-in-4k-uhd-hdr-limited-edition-smart-roku-tv/",
-      "source_url": "https://clarkdeals.com/tv/tcl-55-in-4k-uhd-hdr-limited-edition-smart-roku-tv/",
+      "id": "2d891174898ceaf5eedf965c",
+      "title": "Walmart TVs On Sale – Snag a 43″ For ONLY $89 Shipped + MORE!",
+      "url": "https://passionatepennypincher.com/walmart-tv-sale/",
+      "source_url": "https://passionatepennypincher.com/walmart-tv-sale/",
       "retailer_url": null,
       "link_type": "source",
       "retailer": null,
       "price_cents": null,
-      "headline_price_cents": 16800,
+      "headline_price_cents": 8900,
       "price_source": null,
       "currency": null,
-      "source_id": "clark-deals",
-      "publisher": "Clark Deals",
-      "published_at": "2026-11-23T20:03:15+00:00",
+      "source_id": "passionate-penny-pincher",
+      "publisher": "Passionate Penny Pincher",
+      "published_at": "2026-11-24T17:14:55+00:00",
       "expires_at": null,
-      "publication_category": "Electronics",
+      "publication_category": "Black Friday and Cyber Monday",
       "rank": {
         "category": "tv",
         "variant": null,
@@ -648,7 +648,7 @@
         "category": "tv",
         "variant": null,
         "status": "candidate",
-        "score": 31.64,
+        "score": 33.22,
         "max_usd": 500,
         "preferred_usd": null,
         "within_budget": true,
@@ -700,10 +700,10 @@
       }
     },
     {
-      "id": "e65e2969bee1306737245ebf",
-      "title": "Hisense 65″ Class H5R1 Series 4K UHD HDR Smart Roku TV for $228",
-      "url": "https://clarkdeals.com/tv/hisense-65-class-h5r1-series-4k-uhd-hdr-smart-roku-tv/",
-      "source_url": "https://clarkdeals.com/tv/hisense-65-class-h5r1-series-4k-uhd-hdr-smart-roku-tv/",
+      "id": "d519ca52183ee275a18d2c50",
+      "title": "65\" Hisense H5R1 Series 4K UHD HDR Smart Roku TV $228 + Free S&H",
+      "url": "https://slickdeals.net/f/20373396-65-hisense-h5r1-series-4k-uhd-hdr-smart-roku-tv-65h5r1-2026-model-228-walmart?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source_url": "https://slickdeals.net/f/20373396-65-hisense-h5r1-series-4k-uhd-hdr-smart-roku-tv-65h5r1-2026-model-228-walmart?utm_source=rss&utm_content=fp&utm_medium=RSS2",
       "retailer_url": null,
       "link_type": "source",
       "retailer": null,
@@ -711,11 +711,11 @@
       "headline_price_cents": 22800,
       "price_source": null,
       "currency": null,
-      "source_id": "clark-deals",
-      "publisher": "Clark Deals",
-      "published_at": "2026-11-23T16:50:08+00:00",
+      "source_id": "slickdeals",
+      "publisher": "Slickdeals Frontpage",
+      "published_at": "2026-11-24T18:03:33+00:00",
       "expires_at": null,
-      "publication_category": "Black Friday",
+      "publication_category": "Frontpage Deals",
       "rank": {
         "category": "tv",
         "variant": null,
@@ -861,48 +861,6 @@
         "score": 27.57,
         "max_usd": 350,
         "preferred_usd": 250,
-        "within_budget": true,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
-      "id": "0790c4b241ed8f43d7b88806",
-      "title": "Bose TV Speaker soundbar gets an $80 Amazon discount",
-      "url": "https://www.androidauthority.com/bose-tv-speaker-deal-amazon-3736858/",
-      "source_url": "https://www.androidauthority.com/bose-tv-speaker-deal-amazon-3736858/",
-      "retailer_url": null,
-      "link_type": "source",
-      "retailer": null,
-      "price_cents": null,
-      "headline_price_cents": 8000,
-      "price_source": null,
-      "currency": null,
-      "source_id": "android-authority",
-      "publisher": "Android Authority Deals",
-      "published_at": "2026-11-19T10:49:14+00:00",
-      "expires_at": null,
-      "publication_category": "Deals",
-      "rank": {
-        "category": "soundbar",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": 100,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "headline_rank": {
-        "category": "soundbar",
-        "variant": null,
-        "status": "candidate",
-        "score": 27.0,
-        "max_usd": 100,
-        "preferred_usd": null,
         "within_budget": true,
         "comparisons": {},
         "savings_vs_comparison_cents": null,

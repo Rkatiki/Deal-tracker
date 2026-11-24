@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-24T05:00:26.339704+00:00",
+  "retrieved_at": "2026-11-24T18:23:42.521175+00:00",
   "source": {
     "id": "windows-central",
     "name": "Windows Central",
@@ -9,5 +9,162 @@
     "deal_headlines_only": true
   },
   "baseline": false,
-  "events": []
+  "events": [
+    {
+      "id": "50c4a30e546991a51d3aecbe",
+      "types": [
+        "new"
+      ],
+      "title": "Dell's excellent XPS laptops are up to 33% off in this early Black Friday sale",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.windowscentral.com/hardware/dell/best-xps-laptops-cheaper-before-black-friday-2026",
+      "source_url": "https://www.windowscentral.com/hardware/dell/best-xps-laptops-cheaper-before-black-friday-2026",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "8f4ad7f1246ef753e07d23d5",
+      "types": [
+        "removed"
+      ],
+      "title": "Xbox Game Pass Ultimate drops to $17.99 for a month in this Black Friday deal",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.windowscentral.com/gaming/xbox/game-pass-ultimate-early-black-friday-month-sub-2026",
+      "source_url": "https://www.windowscentral.com/gaming/xbox/game-pass-ultimate-early-black-friday-month-sub-2026",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "974bdceb05705b6e094a284f",
+      "types": [
+        "new"
+      ],
+      "title": "Essential Xbox Ally travel accessories drop their prices before Black Friday",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.windowscentral.com/hardware/handheld-gaming-pc/xbox-ally-early-black-friday-accessory-deals-2026",
+      "source_url": "https://www.windowscentral.com/hardware/handheld-gaming-pc/xbox-ally-early-black-friday-accessory-deals-2026",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "ac058b69b04703f8e241bd7a",
+      "types": [
+        "removed"
+      ],
+      "title": "Acer Swift Air 14 is another valiant attempt at a $699 laptop",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.windowscentral.com/hardware/acer/acers-new-usd699-windows-laptop-lasts-all-day-and-looks-great-but-its-not-without-some-unfortunate-flaws",
+      "source_url": "https://www.windowscentral.com/hardware/acer/acers-new-usd699-windows-laptop-lasts-all-day-and-looks-great-but-its-not-without-some-unfortunate-flaws",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "b7a4fce5b90d32157160c2c9",
+      "types": [
+        "new"
+      ],
+      "title": "Dell's Black Friday deals drop major savings on Alienware OLED monitors",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.windowscentral.com/accessories/monitors/black-friday-alienware-oled-monitor-deals-2026",
+      "source_url": "https://www.windowscentral.com/accessories/monitors/black-friday-alienware-oled-monitor-deals-2026",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "cdca1f33b9967e0a54f6fb53",
+      "types": [
+        "new"
+      ],
+      "title": "Dell's budget-friendly XPS 13 Windows laptop drops below $550 ahead of Black Friday",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.windowscentral.com/hardware/dell/this-xps-13-black-friday-deal-matters-more-now",
+      "source_url": "https://www.windowscentral.com/hardware/dell/this-xps-13-black-friday-deal-matters-more-now",
+      "retailer_url": null,
+      "link_type": "source"
+    }
+  ]
 }

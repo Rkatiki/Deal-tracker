@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-24T05:00:26.339704+00:00",
+  "retrieved_at": "2026-11-24T18:23:42.521175+00:00",
   "source": {
     "id": "woot-daily",
     "name": "Woot Daily Deals",
@@ -11,11 +11,11 @@
   "baseline": false,
   "events": [
     {
-      "id": "06e77ce0acb6ea48dceba32e",
+      "id": "35a6c03003702863b81101ad",
       "types": [
         "removed"
       ],
-      "title": "Starbucks Christmas Holiday Red Cup",
+      "title": "Vertuo Double Espresso Chiaro Decaf",
       "retailer": "Woot",
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -31,17 +31,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.woot.com/offers/starbucks-christmas-holiday-red-cup-1",
-      "source_url": "https://forums.woot.com/t/starbucks-christmas-holiday-red-cup/2703714",
-      "retailer_url": "https://www.woot.com/offers/starbucks-christmas-holiday-red-cup-1",
+      "url": "https://www.woot.com/offers/vertuo-double-espresso-chiaro-decaf-6",
+      "source_url": "https://forums.woot.com/t/vertuo-double-espresso-chiaro-decaf/2703715",
+      "retailer_url": "https://www.woot.com/offers/vertuo-double-espresso-chiaro-decaf-6",
       "link_type": "retailer"
     },
     {
-      "id": "cbb0fe8c9fe9cbe90a117637",
+      "id": "a06df2e816542285f8d72bcf",
       "types": [
-        "new"
+        "removed"
       ],
-      "title": "National Tree Company 4ft Pre-Lit Montclair Spruce",
+      "title": "Nespresso Decaffeinato Sweet Vanilla",
       "retailer": "Woot",
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -57,9 +57,61 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.woot.com/offers/national-tree-company-4ft-pre-lit-montclair-spruce-1",
-      "source_url": "https://forums.woot.com/t/national-tree-company-4ft-pre-lit-montclair-spruce/2707954",
-      "retailer_url": "https://www.woot.com/offers/national-tree-company-4ft-pre-lit-montclair-spruce-1",
+      "url": "https://www.woot.com/offers/nespresso-decaffeinato-sweet-vanilla-1",
+      "source_url": "https://forums.woot.com/t/nespresso-decaffeinato-sweet-vanilla/2703720",
+      "retailer_url": "https://www.woot.com/offers/nespresso-decaffeinato-sweet-vanilla-1",
+      "link_type": "retailer"
+    },
+    {
+      "id": "e6bf8bb31e01beed90463a13",
+      "types": [
+        "new"
+      ],
+      "title": "Drumstick Boppers Party Accessory",
+      "retailer": "Woot",
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.woot.com/offers/drumstick-boppers-party-accessory",
+      "source_url": "https://forums.woot.com/t/drumstick-boppers-party-accessory/2710956",
+      "retailer_url": "https://www.woot.com/offers/drumstick-boppers-party-accessory",
+      "link_type": "retailer"
+    },
+    {
+      "id": "fce8e8f9674876a6c2d99342",
+      "types": [
+        "new"
+      ],
+      "title": "TOWPONICS Lights Candles",
+      "retailer": "Woot",
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.woot.com/offers/towponics-lights-candles",
+      "source_url": "https://forums.woot.com/t/towponics-lights-candles/2709469",
+      "retailer_url": "https://www.woot.com/offers/towponics-lights-candles",
       "link_type": "retailer"
     }
   ]

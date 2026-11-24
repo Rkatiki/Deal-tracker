@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-24T05:00:26.339704+00:00",
+  "retrieved_at": "2026-11-24T18:23:42.521175+00:00",
   "source": {
     "id": "github-bfcm-2026",
     "name": "Awesome BFCM 2026 on GitHub",
@@ -11,14 +11,14 @@
   "baseline": false,
   "events": [
     {
-      "id": "0634e1b239978e5055fab05b",
+      "id": "02d667e3482440f5810a1e7b",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "SECTOR ZERO, $3.19, 20% off on Steam until Nov 23, Black Friday 2026",
+      "title": "VibeFather, 35% off lifetime, Black Friday 2026",
       "retailer": null,
-      "previous_price_cents": 319,
-      "current_price_cents": null,
+      "previous_price_cents": null,
+      "current_price_cents": 12900,
       "rank": {
         "category": "other",
         "variant": null,
@@ -31,20 +31,98 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://store.steampowered.com/app/2352050/SECTOR_ZERO/",
+      "url": "https://vibefather.ai/pricing",
       "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
-      "retailer_url": "https://store.steampowered.com/app/2352050/SECTOR_ZERO/",
-      "link_type": "retailer"
+      "retailer_url": null,
+      "link_type": "offer_link"
     },
     {
-      "id": "1b1700099359597a0403704f",
+      "id": "072584bd2f50abe72b95b40b",
       "types": [
         "new"
       ],
-      "title": "Soundcore Liberty 5 Pro by Anker ANC Wireless Earbuds, $130 (24% off) at Amazon, Black Friday 2026",
+      "title": "GoStudio.ai, 30% off, Black Friday 2026",
       "retailer": null,
       "previous_price_cents": null,
-      "current_price_cents": 13000,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.gostudio.ai/?ref=greatfrontend",
+      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
+      "retailer_url": null,
+      "link_type": "offer_link"
+    },
+    {
+      "id": "089156f583dd4373b4698f60",
+      "types": [
+        "new"
+      ],
+      "title": "HeyNews, 50% off any plan for 12 months, Black Friday 2026",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://app.heynews.co/register?coupon_code=BLACKFRIDAY50&trial_mode=card",
+      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
+      "retailer_url": null,
+      "link_type": "offer_link"
+    },
+    {
+      "id": "0921721123f83853f4e756ba",
+      "types": [
+        "new"
+      ],
+      "title": "Band.je, 50% off Band.je Unlimited one-time purchase (19.99 EUR to 9.99 EUR) with code BLACKFRIDAY, Black Friday 2026",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://band.je/",
+      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
+      "retailer_url": null,
+      "link_type": "offer_link"
+    },
+    {
+      "id": "099a64b78176fc05008d0f7e",
+      "types": [
+        "new"
+      ],
+      "title": "Wolfbox MegaFlow 200, $76.99 (36% off), Black Friday 2026",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": 7699,
       "rank": {
         "category": "other",
         "variant": null,
@@ -57,17 +135,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.amazon.com/Soundcore-Liberty-Cancelling-Wireless-Earbuds/dp/B0GWLN8QT6",
+      "url": "https://www.amazon.com/stores/page/DEE5B93A-0EA4-4606-8D90-4E9A5CEDED67",
       "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
-      "retailer_url": "https://www.amazon.com/Soundcore-Liberty-Cancelling-Wireless-Earbuds/dp/B0GWLN8QT6",
+      "retailer_url": "https://www.amazon.com/stores/page/DEE5B93A-0EA4-4606-8D90-4E9A5CEDED67",
       "link_type": "retailer"
     },
     {
-      "id": "1ce8477f62e1bf3b33b4e548",
+      "id": "0c50d4cd88601fa35f20c4b3",
       "types": [
         "new"
       ],
-      "title": "Ricly, 40% off Founding lifetime license ($99 to $59) with code FOUNDERBF26, Black Friday 2026",
+      "title": "Deface: Blur Faces in Video, 40% off Pro Lifetime ($24.99 to $14.99), Black Friday 2026",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -83,17 +161,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://usericly.com/",
+      "url": "https://apps.apple.com/us/app/deface-blur-faces-in-video/id6767766955",
       "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
       "retailer_url": null,
       "link_type": "offer_link"
     },
     {
-      "id": "23580c90dddcdec0f9a5a4b4",
+      "id": "0c726298499997f22911a671",
       "types": [
         "new"
       ],
-      "title": "Beagle Security, 35% off annual or 20% off monthly with code BFCMM26, Black Friday 2026",
+      "title": "CSS Demystified, 32% off ($249 to $169), Black Friday 2026",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -109,17 +187,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://beaglesecurity.com/black-friday-sale",
+      "url": "https://thecascade.dev/courses/css-demystified",
       "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
       "retailer_url": null,
       "link_type": "offer_link"
     },
     {
-      "id": "2958bd065ed2ffbf380e4353",
+      "id": "0ce2ee14f96718cbae0d5f05",
       "types": [
         "new"
       ],
-      "title": "Level Effect, about 17% off the first year of Adventurer or Guardian, Black Friday 2026",
+      "title": "ISA, 25% off training and standards, Black Friday 2026",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -135,17 +213,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.leveleffect.com/pricing",
+      "url": "https://programs.isa.org/blackfriday26",
       "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
       "retailer_url": null,
       "link_type": "offer_link"
     },
     {
-      "id": "2e5801876d96968d9a840b04",
+      "id": "0ea6b801eb4345cdc9efe40c",
       "types": [
         "new"
       ],
-      "title": "Cisco U. Store Learning Deals, 40% off Essentials and CCNA/DCAI bundles, 50% off CCNA 1.1 path, Black Friday 2026",
+      "title": "SelfOS, up to 40% off, Black Friday 2026",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -161,17 +239,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.cisco.com/site/us/en/learn/training-certifications/learning-deals.html",
+      "url": "https://apps.apple.com/redeem?ctx=offercodes&id=6756428834&code=BLACKFRIDAY2026",
       "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
       "retailer_url": null,
       "link_type": "offer_link"
     },
     {
-      "id": "38721914a78a506b0334c3c7",
+      "id": "0fcea3c5e51894b2e06b6de2",
       "types": [
         "new"
       ],
-      "title": "Covert Instruments, 20 to 30% off most tools plus free gifts, Black Friday 2026",
+      "title": "Clino, 20% off annual plan, Black Friday 2026",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -187,17 +265,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://covertinstruments.com/",
+      "url": "https://clino.ch/en",
       "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
       "retailer_url": null,
       "link_type": "offer_link"
     },
     {
-      "id": "47cbf5533ac57b8aef753a6d",
+      "id": "12db49068ad8e40f847caae5",
       "types": [
         "new"
       ],
-      "title": "Mobile Hacking Lab, up to 61% off course bundles from 249 EUR, Black Friday 2026",
+      "title": "FolioSort, 25% off Elite, Black Friday 2026",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -213,20 +291,46 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://ads.mobilehackinglab.com/bf/deals",
+      "url": "https://www.foliosort.app/pricing",
       "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
       "retailer_url": null,
       "link_type": "offer_link"
     },
     {
-      "id": "49c7de97f0c142c2d9d451e0",
+      "id": "13775249290c31eda63cfcc6",
       "types": [
         "new"
       ],
-      "title": "ASRock Challenger Radeon RX 9070 16GB, $749.99 at Newegg, Black Friday 2026",
+      "title": "Open Pi, about 20% off single-user lifetime ($4.79) with code ARTSVITBF20, Black Friday 2026",
       "retailer": null,
       "previous_price_cents": null,
-      "current_price_cents": 74999,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://openpi.uk/",
+      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
+      "retailer_url": null,
+      "link_type": "offer_link"
+    },
+    {
+      "id": "167b54ab708459d6ceadc41a",
+      "types": [
+        "new"
+      ],
+      "title": "Painkiller, 90% off, $3.99 on Steam, Black Friday 2026",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": 399,
       "rank": {
         "category": "other",
         "variant": null,
@@ -239,17 +343,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.newegg.com/asrock-challenger-rx9070-cl-16g-radeon-rx-9070-16gb-graphics-card-triple-fans/p/N82E16814930138",
+      "url": "https://store.steampowered.com/app/2300120/Painkiller/",
       "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
-      "retailer_url": "https://www.newegg.com/asrock-challenger-rx9070-cl-16g-radeon-rx-9070-16gb-graphics-card-triple-fans/p/N82E16814930138",
+      "retailer_url": "https://store.steampowered.com/app/2300120/Painkiller/",
       "link_type": "retailer"
     },
     {
-      "id": "51b715baebe89d6f6e56be75",
+      "id": "1c1acc896b8ad5752159a99f",
       "types": [
         "new"
       ],
-      "title": "Red Dead Redemption 2, 75% off, 14.99 EUR on Steam, Black Friday 2026",
+      "title": "SocialAPIs, 30% off the first 3 months of monthly plans or 17% off the first year with code BLACKDATA30, Black Friday 2026",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -265,46 +369,46 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/",
-      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
-      "retailer_url": "https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/",
-      "link_type": "retailer"
-    },
-    {
-      "id": "5fb8262ca4b4a6b4f1ba48d9",
-      "types": [
-        "removed"
-      ],
-      "title": "System76, up to $200 off selected models, Black Friday 2026",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://system76.com/",
+      "url": "https://socialapis.io/pricing?utm_source=github&utm_medium=deal-list&utm_campaign=bf2026&utm_content=trungdq88",
       "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
       "retailer_url": null,
       "link_type": "offer_link"
     },
     {
-      "id": "60284567cd93acfab6c65bd5",
+      "id": "1f768e81339485e0f64b21b9",
       "types": [
         "new"
       ],
-      "title": "007 First Light, 50% off, $34.99 on Steam, Black Friday 2026",
+      "title": "Kollab, Annual Pro $168/yr and Max $1,680/yr plus 15% off credit packs, Black Friday 2026",
       "retailer": null,
       "previous_price_cents": null,
-      "current_price_cents": 3499,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://kollab.im/black-friday",
+      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
+      "retailer_url": null,
+      "link_type": "offer_link"
+    },
+    {
+      "id": "2470e6da952ba21baafbd00f",
+      "types": [
+        "new"
+      ],
+      "title": "Sensei, 50% off, Black Friday 2026",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": 2950,
       "rank": {
         "category": "other",
         "variant": null,
@@ -317,17 +421,43 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://store.steampowered.com/app/3768760/007_First_Light/",
+      "url": "https://cindori.com/sensei",
       "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
-      "retailer_url": "https://store.steampowered.com/app/3768760/007_First_Light/",
-      "link_type": "retailer"
+      "retailer_url": null,
+      "link_type": "offer_link"
     },
     {
-      "id": "633739e17fa715eb43b19c77",
+      "id": "25d7d36f06bf38bfe52adc0d",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "Parallels Desktop for Mac, 50% off new 1-year Standard and Pro plans with code PD50, Black Friday 2026",
+      "title": "Kompressor, 47% off Lifetime, Black Friday 2026",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": 749,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://apps.apple.com/app/apple-store/id6468196574",
+      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
+      "retailer_url": null,
+      "link_type": "offer_link"
+    },
+    {
+      "id": "2719fd891a5baa574b72a41f",
+      "types": [
+        "new"
+      ],
+      "title": "ETK Image Compressor Pro, 66% off with code ETKBF66, Black Friday 2026",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -343,20 +473,332 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.parallels.com/products/desktop/buy/",
+      "url": "https://shakster24.gumroad.com/l/fcnkut",
       "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
       "retailer_url": null,
       "link_type": "offer_link"
     },
     {
-      "id": "6ffada0ec2900478a484441c",
+      "id": "2810aa5f9f873e0827ae3a97",
       "types": [
         "new"
       ],
-      "title": "Alienware AW2725D 27-inch 1440p 280Hz QD-OLED Gaming Monitor, $350 at Dell, Black Friday 2026",
+      "title": "SharpAPI, 40% off every plan with code BF2026, Black Friday 2026",
       "retailer": null,
       "previous_price_cents": null,
-      "current_price_cents": 35000,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://sharpapi.com/en/pricing",
+      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
+      "retailer_url": null,
+      "link_type": "offer_link"
+    },
+    {
+      "id": "28a56093ebc6cc3cb1330138",
+      "types": [
+        "new"
+      ],
+      "title": "WP Import Export, 100% off first PRO payment, Black Friday 2026",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://wpimportexport.com/",
+      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
+      "retailer_url": null,
+      "link_type": "offer_link"
+    },
+    {
+      "id": "2e4938ce93a21b0dd1195470",
+      "types": [
+        "new"
+      ],
+      "title": "Guidejar, 40% off all plans with code BFCM26, Black Friday 2026",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.guidejar.com?ref=tonybf",
+      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
+      "retailer_url": null,
+      "link_type": "offer_link"
+    },
+    {
+      "id": "3176d4074be123cb60c9d8a4",
+      "types": [
+        "new"
+      ],
+      "title": "VueSchool, 87% off, $149 instead of $1,200, Black Friday 2026",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://vueschool.io/",
+      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
+      "retailer_url": null,
+      "link_type": "offer_link"
+    },
+    {
+      "id": "3218d00f186d8e785423a2ce",
+      "types": [
+        "new"
+      ],
+      "title": "RDPyon, 30% off one-time purchase ($19 to $13.30) with code BF2026RDP, Black Friday 2026",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://rdpyon.com/?utm_source=awesome_bf&utm_campaign=bf2026",
+      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
+      "retailer_url": null,
+      "link_type": "offer_link"
+    },
+    {
+      "id": "341a8012747eb6768c9557d7",
+      "types": [
+        "new"
+      ],
+      "title": "MDB Bootstrap Pro/Bundle, 30% off other offers with code BF2026, AI Bundle $149, Black Friday 2026",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://mdbootstrap.com/",
+      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
+      "retailer_url": null,
+      "link_type": "offer_link"
+    },
+    {
+      "id": "3be792c1065cbb1936b19052",
+      "types": [
+        "new"
+      ],
+      "title": "Jackery Explorer 300 Portable Power Station (LiFePO4, 290Wh), $149 with code USBF28 at AliExpress, Black Friday 2026",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://s.click.aliexpress.com/e/_c2RKGCU9",
+      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
+      "retailer_url": null,
+      "link_type": "offer_link"
+    },
+    {
+      "id": "48f229b5c78b3f6b6d457542",
+      "types": [
+        "new"
+      ],
+      "title": "CSS for JavaScript Developers, Ultimate $239 (was $399), Pro $219 (was $279), Basic $129 (was $149), Black Friday 2026",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://css-for-js.dev/?ref=greatfrontend",
+      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
+      "retailer_url": null,
+      "link_type": "offer_link"
+    },
+    {
+      "id": "49cf86fd8787e79eb19ddf6f",
+      "types": [
+        "new"
+      ],
+      "title": "BitHut, 58% off Plus for 3 months with code SHASHANKT2-A8S89Y, Black Friday 2026",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://bithut.app/pricing",
+      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
+      "retailer_url": null,
+      "link_type": "offer_link"
+    },
+    {
+      "id": "4b88fb5e9550d857fad813f9",
+      "types": [
+        "new"
+      ],
+      "title": "natbox, 50% off for life NAT VPS, Black Friday 2026",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://my.natbox.io/products/nat-vps",
+      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
+      "retailer_url": null,
+      "link_type": "offer_link"
+    },
+    {
+      "id": "4cc63b4850e7e9e7b304cdbf",
+      "types": [
+        "new"
+      ],
+      "title": "Udemie, 20% off lifetime and 30% off annual, Black Friday 2026",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.udemie.study/pricing",
+      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
+      "retailer_url": null,
+      "link_type": "offer_link"
+    },
+    {
+      "id": "4d4d627fed68c05c8b7895a1",
+      "types": [
+        "new"
+      ],
+      "title": "BetterDisplay, 33% off Pro, Black Friday 2026",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://betterdisplay.pro/",
+      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
+      "retailer_url": null,
+      "link_type": "offer_link"
+    },
+    {
+      "id": "4fdd1ba71a85cd19e00178c8",
+      "types": [
+        "new"
+      ],
+      "title": "Note, 40% off one-time purchase, Black Friday 2026",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": 299,
       "rank": {
         "category": "other",
         "variant": null,
@@ -369,17 +811,1291 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.dell.com/en-us/shop/Monitors/apd/Alienware-27-280Hz-QD-OLED-Gaming-Monitor---AW2725D/aw2725d_monitor/-?tfcid=33163968",
+      "url": "https://apps.apple.com/app/note/id1602765272",
       "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
       "retailer_url": null,
       "link_type": "offer_link"
     },
     {
-      "id": "761daf32ac8c3724dc495bed",
+      "id": "4fdf15956cfda577100d1c6a",
       "types": [
         "new"
       ],
-      "title": "Pentiment, 75% off, $4.99 on Steam, Black Friday 2026",
+      "title": "daisyUI, up to 45% off with code BF26TZXLP, Black Friday 2026",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://daisyui.com/store/",
+      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
+      "retailer_url": null,
+      "link_type": "offer_link"
+    },
+    {
+      "id": "53421122ba441d3dbb91eea7",
+      "types": [
+        "new"
+      ],
+      "title": "HookTide, 50% off first year Pipeline yearly, Black Friday 2026",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": 29400,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://hooktide.io/pricing",
+      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
+      "retailer_url": null,
+      "link_type": "offer_link"
+    },
+    {
+      "id": "5449020141f9521cc959dd8d",
+      "types": [
+        "new"
+      ],
+      "title": "Knitting Chart, 32% off Lifetime Pro, Black Friday 2026",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://knittingchart.com/pricing",
+      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
+      "retailer_url": null,
+      "link_type": "offer_link"
+    },
+    {
+      "id": "564b4f816d0a0a3807f56c99",
+      "types": [
+        "new"
+      ],
+      "title": "Polypane, 25% off yearly business plans and 22% off yearly individual plans, Black Friday 2026",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://polypane.app",
+      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
+      "retailer_url": null,
+      "link_type": "offer_link"
+    },
+    {
+      "id": "59e6fd08c073191d0ee92ab8",
+      "types": [
+        "new"
+      ],
+      "title": "Pound, $4.99 to $0.99, Black Friday 2026",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": 99,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://trypound.app",
+      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
+      "retailer_url": null,
+      "link_type": "offer_link"
+    },
+    {
+      "id": "5ae9e45487bc86ebd23c18d5",
+      "types": [
+        "new"
+      ],
+      "title": "Heart: Locket and Couple Widget, free for iPhone, Black Friday 2026",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://apps.apple.com/app/heart-locket-couple-widget/id6452191888",
+      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
+      "retailer_url": null,
+      "link_type": "offer_link"
+    },
+    {
+      "id": "5af81b1d0b970493d0ebf68f",
+      "types": [
+        "new"
+      ],
+      "title": "Mockvid, 20% off Studio first year ($49 to $39.20), Black Friday 2026",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://mockvid.com/?utm_source=bf26-trungdq88",
+      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
+      "retailer_url": null,
+      "link_type": "offer_link"
+    },
+    {
+      "id": "5d091e2368ab3bfe2f139b17",
+      "types": [
+        "new"
+      ],
+      "title": "ScreenCommand, 25% off one-time, Black Friday 2026",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": 369,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://screencommand.app/",
+      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
+      "retailer_url": null,
+      "link_type": "offer_link"
+    },
+    {
+      "id": "5d0a8dc889838086bdb0f726",
+      "types": [
+        "new"
+      ],
+      "title": "Sorapuff, $9.99 one-time Sorapuff Pro, Black Friday 2026",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": 999,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://sorapuff.app/holiday-sale",
+      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
+      "retailer_url": null,
+      "link_type": "offer_link"
+    },
+    {
+      "id": "5e2da8a57d1f571ec1388083",
+      "types": [
+        "new"
+      ],
+      "title": "inReels.ai, 50% off yearly plans with code BLACKFRIDAY2026, Black Friday 2026",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.inreels.ai",
+      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
+      "retailer_url": null,
+      "link_type": "offer_link"
+    },
+    {
+      "id": "6455feac39ad9ef6fec4b16c",
+      "types": [
+        "new"
+      ],
+      "title": "PocketBar, 20% off Pro with code POCKETBAR20, Black Friday 2026",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://pocketbar.site",
+      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
+      "retailer_url": null,
+      "link_type": "offer_link"
+    },
+    {
+      "id": "65b13edd62ee60fbab2e5029",
+      "types": [
+        "new"
+      ],
+      "title": "Vaneform, 20% off Pro Annual Year 1, Black Friday 2026",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://vaneform.com/pricing",
+      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
+      "retailer_url": null,
+      "link_type": "offer_link"
+    },
+    {
+      "id": "68bc1a52e6f288084280dd93",
+      "types": [
+        "new"
+      ],
+      "title": "Moordeck, 25% off Pro and Team Annual Year 1, Black Friday 2026",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://moordeck.com/pricing",
+      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
+      "retailer_url": null,
+      "link_type": "offer_link"
+    },
+    {
+      "id": "6ba92c372440be52605361f5",
+      "types": [
+        "new"
+      ],
+      "title": "Gojiberry.ai, 40% off yearly plan, Black Friday 2026",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://gojiberry.ai/",
+      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
+      "retailer_url": null,
+      "link_type": "offer_link"
+    },
+    {
+      "id": "70a31f37f4eed3fb228a995b",
+      "types": [
+        "new"
+      ],
+      "title": "memecub, 50% off first payment, Black Friday 2026",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://memecub.com/pricing",
+      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
+      "retailer_url": null,
+      "link_type": "offer_link"
+    },
+    {
+      "id": "71c509fae3eb3713cd52a861",
+      "types": [
+        "new"
+      ],
+      "title": "Macrowave, 33% off Lifetime, Black Friday 2026",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": 7999,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://apps.apple.com/app/apple-store/id6746954963",
+      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
+      "retailer_url": null,
+      "link_type": "offer_link"
+    },
+    {
+      "id": "72811c11e96957e8bd6f02e9",
+      "types": [
+        "new"
+      ],
+      "title": "GrayGrids, up to 80% off, Black Friday 2026",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://graygrids.com/",
+      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
+      "retailer_url": null,
+      "link_type": "offer_link"
+    },
+    {
+      "id": "729519a4b3fc053c1178006d",
+      "types": [
+        "new"
+      ],
+      "title": "Invoice Mama, 50% off every paid plan, Black Friday 2026",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://invoicemama.com/pricing",
+      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
+      "retailer_url": null,
+      "link_type": "offer_link"
+    },
+    {
+      "id": "744f9516fc340d142e06ecb5",
+      "types": [
+        "new"
+      ],
+      "title": "GreatFrontEnd Projects, extra 30% off all Projects plans with code BF30, Black Friday 2026",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://greatfrontend.com/projects?ref=bfcm&gnrs=bfcm",
+      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
+      "retailer_url": null,
+      "link_type": "offer_link"
+    },
+    {
+      "id": "7b3c19af6395323c01b6798d",
+      "types": [
+        "new"
+      ],
+      "title": "Jireh, 50% off first year Jireh Plus, Black Friday 2026",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": 1499,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://getjireh.com/",
+      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
+      "retailer_url": null,
+      "link_type": "offer_link"
+    },
+    {
+      "id": "7d52cd004352c43d7de052e3",
+      "types": [
+        "new"
+      ],
+      "title": "PaperMac, 50% off Pro and Lifetime, Black Friday 2026",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://getpaper.sh/mac/",
+      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
+      "retailer_url": null,
+      "link_type": "offer_link"
+    },
+    {
+      "id": "7d60b4c9e4f2df5205f0a29b",
+      "types": [
+        "new"
+      ],
+      "title": "Backdrop, 30% off Lifetime, Black Friday 2026",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": 2099,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://cindori.com/backdrop",
+      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
+      "retailer_url": null,
+      "link_type": "offer_link"
+    },
+    {
+      "id": "802bd4dce79bf49210c1c60b",
+      "types": [
+        "new"
+      ],
+      "title": "Beamly, 30% off annual plans, Black Friday 2026",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://beamly.com/",
+      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
+      "retailer_url": null,
+      "link_type": "offer_link"
+    },
+    {
+      "id": "802f5371efd57615fb614fae",
+      "types": [
+        "new"
+      ],
+      "title": "Hello Interview, 35% off a year of Premium ($119 to $77), Black Friday 2026",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.hellointerview.com?ref=greatfrontend",
+      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
+      "retailer_url": null,
+      "link_type": "offer_link"
+    },
+    {
+      "id": "81a2b30835d453df4819c664",
+      "types": [
+        "new"
+      ],
+      "title": "CASABREWS 3700 Essential Espresso Machine, $98.99 at Amazon, Black Friday 2026",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": 9899,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.amazon.com/CASABREWS-Professional-Cappuccino-Removable-Stainless/dp/B0BRSP8YT6",
+      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
+      "retailer_url": "https://www.amazon.com/CASABREWS-Professional-Cappuccino-Removable-Stainless/dp/B0BRSP8YT6",
+      "link_type": "retailer"
+    },
+    {
+      "id": "8272036d54cd6168f9d22d18",
+      "types": [
+        "new"
+      ],
+      "title": "Spaceclear, 25% off Spaceclear Pro, Black Friday 2026",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": 599,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://spaceclear.app/black-friday",
+      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
+      "retailer_url": null,
+      "link_type": "offer_link"
+    },
+    {
+      "id": "847e39051460305f1c2ba145",
+      "types": [
+        "new"
+      ],
+      "title": "BookForge CLI, 50% off lifetime licence, Black Friday 2026",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": 5900,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://kineticsprint-studio.vercel.app/bookforge.html",
+      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
+      "retailer_url": null,
+      "link_type": "offer_link"
+    },
+    {
+      "id": "8b042492cd13ff028fc69e2d",
+      "types": [
+        "new"
+      ],
+      "title": "Knowii Voice AI, 20% off with code BLACKFRIDAY2026, Black Friday 2026",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.store.dsebastien.net/product/knowii-voice-ai/",
+      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
+      "retailer_url": null,
+      "link_type": "offer_link"
+    },
+    {
+      "id": "8c794c93d3c64ba3d1910cf4",
+      "types": [
+        "new"
+      ],
+      "title": "Expandi, 33% off for 12 months, Black Friday 2026",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://expandi.io/bfcm-promo/",
+      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
+      "retailer_url": null,
+      "link_type": "offer_link"
+    },
+    {
+      "id": "8ed865a9fdc2eb08132834b0",
+      "types": [
+        "new"
+      ],
+      "title": "Convika, 50% off the first year of Pro yearly ($108 to $54), Black Friday 2026",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://convika.com/black-friday/?utm_source=tonybf&utm_campaign=bf2026",
+      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
+      "retailer_url": null,
+      "link_type": "offer_link"
+    },
+    {
+      "id": "927af75a59dfaa4ddd6d48c6",
+      "types": [
+        "new"
+      ],
+      "title": "certificates.dev, up to 60% off with code BLACKFRIDAYSPECIAL, Black Friday 2026",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://certificates.dev/?utm_source=greatfrontend&utm_medium=github&utm_campaign=cert_bf2025_bf",
+      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
+      "retailer_url": null,
+      "link_type": "offer_link"
+    },
+    {
+      "id": "93217c5376d4151f55a6c4e9",
+      "types": [
+        "new"
+      ],
+      "title": "GitKraken, 60% off the first year with code BLACKFRIDAY2026, Black Friday 2026",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.gitkraken.com/pricing",
+      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
+      "retailer_url": null,
+      "link_type": "offer_link"
+    },
+    {
+      "id": "933d7c161f1e5aad1eaaa3f6",
+      "types": [
+        "new"
+      ],
+      "title": "ShadcnStore, 40% off every plan and template, Black Friday 2026",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://shadcnstore.com/pricing",
+      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
+      "retailer_url": null,
+      "link_type": "offer_link"
+    },
+    {
+      "id": "9b007353621a0badb8cbc94f",
+      "types": [
+        "new"
+      ],
+      "title": "CrawlRaven, 50% off every lifetime plan with code CRBFCM50, Black Friday 2026",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://crawlraven.com/pricing?utm_source=tonybf",
+      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
+      "retailer_url": null,
+      "link_type": "offer_link"
+    },
+    {
+      "id": "9c054a60d65a76b9bcf6319d",
+      "types": [
+        "new"
+      ],
+      "title": "Zorga, 50% off Lifetime $99 (was $199) or $49 for the first year of Annual, Black Friday 2026",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.organize.io/black-friday/?utm_source=awesome-bf",
+      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
+      "retailer_url": null,
+      "link_type": "offer_link"
+    },
+    {
+      "id": "9d9d9f0741fe5bd72d88abaa",
+      "types": [
+        "new"
+      ],
+      "title": "Grai, 30% off first billing cycle, Black Friday 2026",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://grai.page",
+      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
+      "retailer_url": null,
+      "link_type": "offer_link"
+    },
+    {
+      "id": "a2808c14748e4f2a8ae86579",
+      "types": [
+        "new"
+      ],
+      "title": "BoxAudit, 41% off 90-day box audit, Black Friday 2026",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": 2900,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://getboxaudit.com",
+      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
+      "retailer_url": null,
+      "link_type": "offer_link"
+    },
+    {
+      "id": "a4cabcb0334d67acb32b785b",
+      "types": [
+        "new"
+      ],
+      "title": "ABContents, 30% off videos and API packs, Black Friday 2026",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://abcontents.com/",
+      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
+      "retailer_url": null,
+      "link_type": "offer_link"
+    },
+    {
+      "id": "a4fe019ddeee15cba7090d3d",
+      "types": [
+        "new"
+      ],
+      "title": "Taro, 25% off with code BLACKFRIDAY26, Black Friday 2026",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.jointaro.com/?ref=greatfrontend",
+      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
+      "retailer_url": null,
+      "link_type": "offer_link"
+    },
+    {
+      "id": "a57851395543537248e3fc97",
+      "types": [
+        "new"
+      ],
+      "title": "AlgoMonster, 60% off premium, Black Friday 2026",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://shareasale.com/r.cfm?b=1873647&u=3114753&m=114505&urllink=&afftrack=",
+      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
+      "retailer_url": null,
+      "link_type": "offer_link"
+    },
+    {
+      "id": "a5d6824c3e49545f522f0841",
+      "types": [
+        "new"
+      ],
+      "title": "The Cross Stitch Pattern Maker, 32% off Lifetime Pro, Black Friday 2026",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://thecrossstitchpatternmaker.com/pricing",
+      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
+      "retailer_url": null,
+      "link_type": "offer_link"
+    },
+    {
+      "id": "a6b0a5db2e9a12cd73d2f64f",
+      "types": [
+        "new"
+      ],
+      "title": "MeetMic, 55% off lifetime ($26.55) with code BF26, Black Friday 2026",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://meetmic.app/buy",
+      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
+      "retailer_url": null,
+      "link_type": "offer_link"
+    },
+    {
+      "id": "abda78b5c286b0ceccadcd7c",
+      "types": [
+        "new"
+      ],
+      "title": "Zero To Mastery, 66% off annual membership with code BFCM26, Black Friday 2026",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://zerotomastery.io/courses/",
+      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
+      "retailer_url": null,
+      "link_type": "offer_link"
+    },
+    {
+      "id": "ae157b55d427f3cb50fdb9d8",
+      "types": [
+        "new"
+      ],
+      "title": "Narva, 30% off the first month of any plan with code NARVA30, Black Friday 2026",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://narva.app/#pricing",
+      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
+      "retailer_url": null,
+      "link_type": "offer_link"
+    },
+    {
+      "id": "b0e59ee9496ab4f7e3822548",
+      "types": [
+        "new"
+      ],
+      "title": "The Joy of React, Ultimate $349 (was $599), Pro $299 (was $399), Basic $209 (was $249), Black Friday 2026",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.joyofreact.com/?ref=greatfrontend",
+      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
+      "retailer_url": null,
+      "link_type": "offer_link"
+    },
+    {
+      "id": "b69ebf338412ae2760d18dfd",
+      "types": [
+        "new"
+      ],
+      "title": "Hardcopy, launch price $8.99 one-time, Black Friday 2026",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": 899,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://gethardcopy.app",
+      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
+      "retailer_url": null,
+      "link_type": "offer_link"
+    },
+    {
+      "id": "ba3005cead89d0f16af64ba0",
+      "types": [
+        "new"
+      ],
+      "title": "GreatFrontEnd Interviews, 30% off all plans with code BF30, Black Friday 2026",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://greatfrontend.com/?ref=bfcm&gnrs=bfcm",
+      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
+      "retailer_url": null,
+      "link_type": "offer_link"
+    },
+    {
+      "id": "ba61134e36e8e6d0b5dbec59",
+      "types": [
+        "new"
+      ],
+      "title": "FlowSpeak, 34% off Lifetime Pro ($29 to $19), Black Friday 2026",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://smolkapps.com/flowspeak/?utm_source=github-trungdq88&utm_medium=deal-list&utm_campaign=bf2026#pricing",
+      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
+      "retailer_url": null,
+      "link_type": "offer_link"
+    },
+    {
+      "id": "bcd00d22a90016a9b3fad3ec",
+      "types": [
+        "new"
+      ],
+      "title": "Morse, 40% off first payment Pro or Max, Black Friday 2026",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://trymorse.ai/",
+      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
+      "retailer_url": null,
+      "link_type": "offer_link"
+    },
+    {
+      "id": "c1d516c0724025ae0c0c0927",
+      "types": [
+        "new"
+      ],
+      "title": "Pagi, 50% off Lifetime, Black Friday 2026",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": 499,
@@ -395,17 +2111,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://store.steampowered.com/app/1205520/Pentiment/",
+      "url": "https://apps.apple.com/app/apple-store/id1586446074",
       "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
-      "retailer_url": "https://store.steampowered.com/app/1205520/Pentiment/",
-      "link_type": "retailer"
+      "retailer_url": null,
+      "link_type": "offer_link"
     },
     {
-      "id": "7737eb8728e7ed6cc2fb55d2",
+      "id": "c1de790f0493c9986deaa123",
       "types": [
         "new"
       ],
-      "title": "Beelink, up to 17% off selected mini PCs and bundles with code BF495, Black Friday 2026",
+      "title": "ClaudeKit, $8 off the first year of Pro annual ($28 to $20), Black Friday 2026",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -421,17 +2137,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.bee-link.com/pages/black-friday-cyber-monday",
+      "url": "https://claudekit.app/pricing?utm_source=awesome-bfcm&utm_medium=github&utm_campaign=bf-2026",
       "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
       "retailer_url": null,
       "link_type": "offer_link"
     },
     {
-      "id": "7db1c002f6e030836dc85ad5",
+      "id": "c318f4df721febfb6ab257fc",
       "types": [
         "new"
       ],
-      "title": "Lingon Pro, 20% off, Black Friday 2026",
+      "title": "Skywall, 33% off Skywall Full one-time purchase ($5.99 to $3.99), Black Friday 2026",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -447,202 +2163,20 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.peterborgapps.com/lingon",
+      "url": "https://getskywall.app/black-friday?ref=boltai",
       "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
       "retailer_url": null,
       "link_type": "offer_link"
     },
     {
-      "id": "842fffe7d89178142a9e8e4c",
+      "id": "c76d7141ff2ff5858bcd6f06",
       "types": [
         "new"
       ],
-      "title": "AdGuard VPN, 83% off the 2-year subscription with code BFVPN26, Black Friday 2026",
+      "title": "Unlearn, 56% off Unlearn Plus Lifetime, Black Friday 2026",
       "retailer": null,
       "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://adguard-vpn.com/en/license.html",
-      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
-      "retailer_url": null,
-      "link_type": "offer_link"
-    },
-    {
-      "id": "87e61fd1feced67cfb2aa98b",
-      "types": [
-        "new"
-      ],
-      "title": "AdGuard DNS, 65% off Personal and 55% off Team with code BFDNS26, Black Friday 2026",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://adguard-dns.io/en/license.html",
-      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
-      "retailer_url": null,
-      "link_type": "offer_link"
-    },
-    {
-      "id": "8b85e058778c4bd25a8c16a7",
-      "types": [
-        "new"
-      ],
-      "title": "13Cubed, $100 off all courses with code BLACKFRIDAY2026, Black Friday 2026",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://training.13cubed.com/",
-      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
-      "retailer_url": null,
-      "link_type": "offer_link"
-    },
-    {
-      "id": "9d253445f28adedd265a43f4",
-      "types": [
-        "removed"
-      ],
-      "title": "LearnWorlds, up to 39% off Learning Center plans, Black Friday 2026",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://get.learnworlds.com/coupon",
-      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
-      "retailer_url": null,
-      "link_type": "offer_link"
-    },
-    {
-      "id": "af587e66c122e87a109048d7",
-      "types": [
-        "new"
-      ],
-      "title": "Cloud Security Alliance, 50% off training and exam tokens, Cyber Monday 2026",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://cloudsecurityalliance.org/p/cyber-monday-2026",
-      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
-      "retailer_url": null,
-      "link_type": "offer_link"
-    },
-    {
-      "id": "bbb7db586c491932d972070b",
-      "types": [
-        "new"
-      ],
-      "title": "TabHold, 40% off Pro one-time ($12.99 to $7.79) with code BF2026, Black Friday 2026",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://studiobluegrove.com/tabhold/",
-      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
-      "retailer_url": null,
-      "link_type": "offer_link"
-    },
-    {
-      "id": "bbfe08c1d75696a0167722b3",
-      "types": [
-        "new"
-      ],
-      "title": "Smultron, 20% off, Black Friday 2026",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.peterborgapps.com/smultron",
-      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
-      "retailer_url": null,
-      "link_type": "offer_link"
-    },
-    {
-      "id": "c66db9e169601c1364bdbd85",
-      "types": [
-        "new"
-      ],
-      "title": "ASUS Prime Radeon RX 9070 GRE EVO OC Edition 12GB, $699 at Newegg, Black Friday 2026",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": 69900,
+      "current_price_cents": 39900,
       "rank": {
         "category": "other",
         "variant": null,
@@ -655,69 +2189,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.newegg.com/asus-radeon-rx-9070-gre-12gb-graphics-card/p/N82E16814126841",
-      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
-      "retailer_url": "https://www.newegg.com/asus-radeon-rx-9070-gre-12gb-graphics-card/p/N82E16814126841",
-      "link_type": "retailer"
-    },
-    {
-      "id": "cb7d77065363489ce8374d3b",
-      "types": [
-        "new"
-      ],
-      "title": "Hiro 55-inch 4K UHD HDR Smart TV with Roku TV, $149.99 at Target, Black Friday 2026",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": 14999,
-      "rank": {
-        "category": "tv",
-        "variant": null,
-        "status": "candidate",
-        "score": 32.0,
-        "max_usd": 500,
-        "preferred_usd": null,
-        "within_budget": true,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.target.com/p/hiro-4k-led-roku-smart-tv/-/A-95005688?preselect=94728909",
-      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
-      "retailer_url": "https://www.target.com/p/hiro-4k-led-roku-smart-tv/-/A-95005688?preselect=94728909",
-      "link_type": "retailer"
-    },
-    {
-      "id": "f09761fbf7c9c99028968b22",
-      "types": [
-        "new"
-      ],
-      "title": "Altered Security, 20% off all courses and bootcamps plus extra 5% on 2 or more items, Black Friday 2026",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.alteredsecurity.com/",
+      "url": "https://unlearn.dev/pricing",
       "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
       "retailer_url": null,
       "link_type": "offer_link"
     },
     {
-      "id": "f4cd5f3fac79083fddd5e27f",
+      "id": "c9bcb0ab3a7290cc8213bfac",
       "types": [
         "new"
       ],
-      "title": "QRat, FREE lifetime license for the first 500 with code BLACKFRIDAY2026, Black Friday 2026",
+      "title": "Fotilo, 50% off lifetime ($59 to $29.50), Black Friday 2026",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -733,7 +2215,475 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://apps.apple.com/redeem?ctx=offercodes&id=1497158638&code=BLACKFRIDAY2026",
+      "url": "https://fotilo.app/?utm_source=gh-awesome-bfcm&utm_campaign=bf2026",
+      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
+      "retailer_url": null,
+      "link_type": "offer_link"
+    },
+    {
+      "id": "cb02cecd19ceda17db37f875",
+      "types": [
+        "new"
+      ],
+      "title": "Mixpost, 25% off Cloud plans for 12 months, Black Friday 2026",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://mixpost.app/pricing",
+      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
+      "retailer_url": null,
+      "link_type": "offer_link"
+    },
+    {
+      "id": "cba0499b20a4f0e8bc238c81",
+      "types": [
+        "new"
+      ],
+      "title": "PeekTheDay, 67% off one-time, Black Friday 2026",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": 500,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://peektheday.com",
+      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
+      "retailer_url": null,
+      "link_type": "offer_link"
+    },
+    {
+      "id": "cc6bb58f903b29982149897a",
+      "types": [
+        "new"
+      ],
+      "title": "Blackmagic Design 8TB Cloud Store Mini (4 x 2TB), $559 at B&H, Black Friday 2026",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": 55900,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.bhphotovideo.com/c/product/1702200-REG/blackmagic_design_bmd_dwclde_cldmini08_cloud_store_mini_8tb.html/overview",
+      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
+      "retailer_url": "https://www.bhphotovideo.com/c/product/1702200-REG/blackmagic_design_bmd_dwclde_cldmini08_cloud_store_mini_8tb.html/overview",
+      "link_type": "retailer"
+    },
+    {
+      "id": "cf40ea7155815390e42358e7",
+      "types": [
+        "new"
+      ],
+      "title": "BookWorm, $12.99 to $8.99, Black Friday 2026",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": 899,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://apps.apple.com/app/id6804252010",
+      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
+      "retailer_url": null,
+      "link_type": "offer_link"
+    },
+    {
+      "id": "d0103c6addff820326d826a8",
+      "types": [
+        "new"
+      ],
+      "title": "DubbingMate, 40% off Full version ($9.99 to $5.99) with code BF2026DM, Black Friday 2026",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://dubbingmate.com/pricing/?utm_source=awesome_bf&utm_campaign=bf2026",
+      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
+      "retailer_url": null,
+      "link_type": "offer_link"
+    },
+    {
+      "id": "d01df438ef9decb8b91194aa",
+      "types": [
+        "new"
+      ],
+      "title": "AITroveX, 71% off bulk listing pack, Black Friday 2026",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://aitrovex.com/pricing",
+      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
+      "retailer_url": null,
+      "link_type": "offer_link"
+    },
+    {
+      "id": "d5fe30ad858f621f98111b4b",
+      "types": [
+        "new"
+      ],
+      "title": "Reviso, 25% off first year Pro or Agency, Black Friday 2026",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://getreviso.io/pricing/",
+      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
+      "retailer_url": null,
+      "link_type": "offer_link"
+    },
+    {
+      "id": "da5e2dead79b6d0e8431a738",
+      "types": [
+        "new"
+      ],
+      "title": "Lenovo Legion Tower 5i Gen 10 (Intel) Ultra 7 265F, 32GB DDR5, 1TB SSD, RTX 5070 Ti, $2,229.99, Black Friday 2026",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": 222999,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.lenovo.com/us/vipmembers/ticketsatwork/en/p/desktops/legion-desktops/legion-t-series-towers/lenovo-legion-tower-5i-gen-10-intel/90ya000yus",
+      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
+      "retailer_url": null,
+      "link_type": "offer_link"
+    },
+    {
+      "id": "dad935774dec99051a176799",
+      "types": [
+        "new"
+      ],
+      "title": "AutoMailSender, 40% off Unlimited (9.99 EUR to 5.99 EUR) one-time purchase, Black Friday 2026",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://automailsender.app/black-friday.html?utm_source=Awesome-Black-Friday-Cyber-Monday&utm_medium=deal-list&utm_campaign=bf26",
+      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
+      "retailer_url": null,
+      "link_type": "offer_link"
+    },
+    {
+      "id": "db44675e5750d731706403c4",
+      "types": [
+        "new"
+      ],
+      "title": "PostSyncer, 40% off the first year of any yearly plan, Black Friday 2026",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://postsyncer.com/pricing?utm_source=awesome-bfcm&utm_campaign=black-friday-2026",
+      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
+      "retailer_url": null,
+      "link_type": "offer_link"
+    },
+    {
+      "id": "e0129d576766229dd0585463",
+      "types": [
+        "new"
+      ],
+      "title": "AMD Ryzen 7 9800X3D, $349.99 at Micro Center (in-store only), Black Friday 2026",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": 34999,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.microcenter.com/product/687907/amd-ryzen-7-9800x3d-granite-ridge-am5-470ghz-8-core-boxed-processor-heatsink-not-included",
+      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
+      "retailer_url": null,
+      "link_type": "offer_link"
+    },
+    {
+      "id": "e0bdf8f2fdc6826985d76216",
+      "types": [
+        "new"
+      ],
+      "title": "Testomato, 50% off every plan with code BF2026, Black Friday 2026",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://testomato.com/black-friday/",
+      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
+      "retailer_url": null,
+      "link_type": "offer_link"
+    },
+    {
+      "id": "e6f32262242dfd930f456d6a",
+      "types": [
+        "new"
+      ],
+      "title": "EarlyLore, 25% off Pro and Max Annual Year 1, Black Friday 2026",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://earlylore.com/pricing",
+      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
+      "retailer_url": null,
+      "link_type": "offer_link"
+    },
+    {
+      "id": "ee3696fbc93c66e96ef579e0",
+      "types": [
+        "new"
+      ],
+      "title": "GlidePrompt, 20% off one-time purchase ($9.99 to $7.99), Black Friday 2026",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://apps.microsoft.com/detail/9P5QVX0SN0CL?cid=awesomebf",
+      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
+      "retailer_url": null,
+      "link_type": "offer_link"
+    },
+    {
+      "id": "ee7b049dc6afc3549f71d0d9",
+      "types": [
+        "new"
+      ],
+      "title": "ASO Atlas, 30% off the first year of the Yearly plan ($100 to $70) with code BLACKWEEK30, Black Friday 2026",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://asoatlas.com/?ref=Awesome-Black-Friday-Cyber-Monday",
+      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
+      "retailer_url": null,
+      "link_type": "offer_link"
+    },
+    {
+      "id": "f4e8c5f1f672dfeefbde7cd4",
+      "types": [
+        "new"
+      ],
+      "title": "Code With Mosh, lifetime access $199 (was $499), Black Friday Sale 2026",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://codewithmosh.com/",
+      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
+      "retailer_url": null,
+      "link_type": "offer_link"
+    },
+    {
+      "id": "f921f44b025681facf396d05",
+      "types": [
+        "new"
+      ],
+      "title": "GitCMS, 25% off lifetime site licences, Black Friday 2026",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://gitcms.dev/",
+      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
+      "retailer_url": null,
+      "link_type": "offer_link"
+    },
+    {
+      "id": "faa953e534238c1069ce4370",
+      "types": [
+        "new"
+      ],
+      "title": "Joy for JavaScript Developers, bundle $498, more than 60% off, Black Friday 2026",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.joyforjs.com/?ref=greatfrontend",
       "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
       "retailer_url": null,
       "link_type": "offer_link"
