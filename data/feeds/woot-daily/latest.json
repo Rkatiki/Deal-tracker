@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-23T20:37:26.427449+00:00",
+  "retrieved_at": "2026-11-24T05:00:26.339704+00:00",
   "source": {
     "id": "woot-daily",
     "name": "Woot Daily Deals",
@@ -9,36 +9,6 @@
     "retailer": "Woot"
   },
   "deals": [
-    {
-      "id": "06e77ce0acb6ea48dceba32e",
-      "title": "Starbucks Christmas Holiday Red Cup",
-      "url": "https://www.woot.com/offers/starbucks-christmas-holiday-red-cup-1",
-      "source_url": "https://forums.woot.com/t/starbucks-christmas-holiday-red-cup/2703714",
-      "retailer_url": "https://www.woot.com/offers/starbucks-christmas-holiday-red-cup-1",
-      "link_type": "retailer",
-      "retailer": "Woot",
-      "price_cents": null,
-      "headline_price_cents": null,
-      "price_source": null,
-      "currency": null,
-      "source_id": "woot-daily",
-      "publisher": "Woot Daily Deals",
-      "published_at": "2026-11-22T06:00:30+00:00",
-      "expires_at": null,
-      "publication_category": "Daily Deal",
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
     {
       "id": "0c66ee72279efa016ecd11ff",
       "title": "Nespresso Blue Bottle NOLA",
@@ -594,6 +564,36 @@
       "source_id": "woot-daily",
       "publisher": "Woot Daily Deals",
       "published_at": "2026-11-22T06:00:32+00:00",
+      "expires_at": null,
+      "publication_category": "Daily Deal",
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
+      "id": "cbb0fe8c9fe9cbe90a117637",
+      "title": "National Tree Company 4ft Pre-Lit Montclair Spruce",
+      "url": "https://www.woot.com/offers/national-tree-company-4ft-pre-lit-montclair-spruce-1",
+      "source_url": "https://forums.woot.com/t/national-tree-company-4ft-pre-lit-montclair-spruce/2707954",
+      "retailer_url": "https://www.woot.com/offers/national-tree-company-4ft-pre-lit-montclair-spruce-1",
+      "link_type": "retailer",
+      "retailer": "Woot",
+      "price_cents": null,
+      "headline_price_cents": null,
+      "price_source": null,
+      "currency": null,
+      "source_id": "woot-daily",
+      "publisher": "Woot Daily Deals",
+      "published_at": "2026-11-23T23:00:13+00:00",
       "expires_at": null,
       "publication_category": "Daily Deal",
       "rank": {

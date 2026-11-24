@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "checked_at": "2026-11-23T20:37:26.427449+00:00",
+  "checked_at": "2026-11-24T05:00:26.339704+00:00",
   "sources": [
     {
       "id": "dealnews",
@@ -8,8 +8,8 @@
       "url": "https://www.dealnews.com/?rss=1&sort=time",
       "snapshot": "dealnews/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-23T20:37:26.427449+00:00",
-      "offer_count": 48,
+      "last_success_at": "2026-11-24T05:00:26.339704+00:00",
+      "offer_count": 49,
       "candidate_count": 0
     },
     {
@@ -18,7 +18,7 @@
       "url": "https://slickdeals.net/newsearch.php?mode=frontpage&searcharea=deals&searchin=first&rss=1",
       "snapshot": "slickdeals/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-23T20:37:26.427449+00:00",
+      "last_success_at": "2026-11-24T05:00:26.339704+00:00",
       "offer_count": 25,
       "candidate_count": 0
     },
@@ -39,7 +39,7 @@
       "url": "https://forums.woot.com/c/deal-chatter/daily-deal/10.rss",
       "snapshot": "woot-daily/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-23T20:37:26.427449+00:00",
+      "last_success_at": "2026-11-24T05:00:26.339704+00:00",
       "offer_count": 25,
       "candidate_count": 0
     },
@@ -49,7 +49,7 @@
       "url": "https://9to5toys.com/feed/",
       "snapshot": "9to5toys/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-23T20:37:26.427449+00:00",
+      "last_success_at": "2026-11-24T05:00:26.339704+00:00",
       "offer_count": 50,
       "candidate_count": 0
     },
@@ -59,7 +59,7 @@
       "url": "https://9to5mac.com/guides/deals/feed/",
       "snapshot": "9to5mac/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-23T20:37:26.427449+00:00",
+      "last_success_at": "2026-11-24T05:00:26.339704+00:00",
       "offer_count": 27,
       "candidate_count": 0
     },
@@ -69,7 +69,7 @@
       "url": "https://www.androidauthority.com/deals/feed/",
       "snapshot": "android-authority/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-23T20:37:26.427449+00:00",
+      "last_success_at": "2026-11-24T05:00:26.339704+00:00",
       "offer_count": 80,
       "candidate_count": 0
     },
@@ -79,7 +79,7 @@
       "url": "https://feeds.macrumors.com/MacRumors-Deals",
       "snapshot": "macrumors/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-23T20:37:26.427449+00:00",
+      "last_success_at": "2026-11-24T05:00:26.339704+00:00",
       "offer_count": 20,
       "candidate_count": 0
     },
@@ -89,7 +89,7 @@
       "url": "https://www.cnet.com/rss/deals/",
       "snapshot": "cnet/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-23T20:37:26.427449+00:00",
+      "last_success_at": "2026-11-24T05:00:26.339704+00:00",
       "offer_count": 16,
       "candidate_count": 0
     },
@@ -99,8 +99,8 @@
       "url": "https://www.wired.com/feed/tag/deals/latest/rss",
       "snapshot": "wired/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-23T20:37:26.427449+00:00",
-      "offer_count": 40,
+      "last_success_at": "2026-11-24T05:00:26.339704+00:00",
+      "offer_count": 39,
       "candidate_count": 0
     },
     {
@@ -109,8 +109,8 @@
       "url": "https://www.tomsguide.com/feeds.xml",
       "snapshot": "toms-guide/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-23T20:37:26.427449+00:00",
-      "offer_count": 28,
+      "last_success_at": "2026-11-24T05:00:26.339704+00:00",
+      "offer_count": 30,
       "candidate_count": 0
     },
     {
@@ -119,8 +119,8 @@
       "url": "https://www.techradar.com/feeds.xml",
       "snapshot": "techradar/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-23T20:37:26.427449+00:00",
-      "offer_count": 23,
+      "last_success_at": "2026-11-24T05:00:26.339704+00:00",
+      "offer_count": 22,
       "candidate_count": 0
     },
     {
@@ -129,7 +129,7 @@
       "url": "https://www.tomshardware.com/feeds.xml",
       "snapshot": "toms-hardware/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-23T20:37:26.427449+00:00",
+      "last_success_at": "2026-11-24T05:00:26.339704+00:00",
       "offer_count": 25,
       "candidate_count": 0
     },
@@ -139,7 +139,7 @@
       "url": "https://www.windowscentral.com/feeds.xml",
       "snapshot": "windows-central/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-23T20:37:26.427449+00:00",
+      "last_success_at": "2026-11-24T05:00:26.339704+00:00",
       "offer_count": 11,
       "candidate_count": 0
     },
@@ -149,8 +149,8 @@
       "url": "https://www.pcworld.com/feed",
       "snapshot": "pcworld/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-23T20:37:26.427449+00:00",
-      "offer_count": 11,
+      "last_success_at": "2026-11-24T05:00:26.339704+00:00",
+      "offer_count": 12,
       "candidate_count": 0
     },
     {
@@ -159,7 +159,7 @@
       "url": "https://clarkdeals.com/feed/",
       "snapshot": "clark-deals/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-23T20:37:26.427449+00:00",
+      "last_success_at": "2026-11-24T05:00:26.339704+00:00",
       "offer_count": 40,
       "candidate_count": 0
     },
@@ -169,8 +169,8 @@
       "url": "https://hip2save.com/feed/",
       "snapshot": "hip2save/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-23T20:37:26.427449+00:00",
-      "offer_count": 86,
+      "last_success_at": "2026-11-24T05:00:26.339704+00:00",
+      "offer_count": 88,
       "candidate_count": 0
     },
     {
@@ -179,7 +179,7 @@
       "url": "https://www.dansdeals.com/feed/",
       "snapshot": "dans-deals/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-23T20:37:26.427449+00:00",
+      "last_success_at": "2026-11-24T05:00:26.339704+00:00",
       "offer_count": 74,
       "candidate_count": 0
     },
@@ -189,7 +189,7 @@
       "url": "https://www.southernsavers.com/feed/",
       "snapshot": "southern-savers/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-23T20:37:26.427449+00:00",
+      "last_success_at": "2026-11-24T05:00:26.339704+00:00",
       "offer_count": 22,
       "candidate_count": 0
     },
@@ -199,8 +199,8 @@
       "url": "https://passionatepennypincher.com/feed/",
       "snapshot": "passionate-penny-pincher/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-23T20:37:26.427449+00:00",
-      "offer_count": 55,
+      "last_success_at": "2026-11-24T05:00:26.339704+00:00",
+      "offer_count": 51,
       "candidate_count": 0
     },
     {
@@ -209,7 +209,7 @@
       "url": "https://www.freestufffinder.com/feed/",
       "snapshot": "free-stuff-finder/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-23T20:37:26.427449+00:00",
+      "last_success_at": "2026-11-24T05:00:26.339704+00:00",
       "offer_count": 100,
       "candidate_count": 0
     },
@@ -219,7 +219,7 @@
       "url": "https://thefreebieguy.com/feed/",
       "snapshot": "freebie-guy/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-23T20:37:26.427449+00:00",
+      "last_success_at": "2026-11-24T05:00:26.339704+00:00",
       "offer_count": 40,
       "candidate_count": 0
     },
@@ -229,7 +229,7 @@
       "url": "https://www.livingrichwithcoupons.com/feed",
       "snapshot": "living-rich-with-coupons/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-23T20:37:26.427449+00:00",
+      "last_success_at": "2026-11-24T05:00:26.339704+00:00",
       "offer_count": 43,
       "candidate_count": 0
     },
@@ -239,8 +239,8 @@
       "url": "https://isthereanydeal.com/feeds/US/USD/deals.rss",
       "snapshot": "isthereanydeal/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-23T20:37:26.427449+00:00",
-      "offer_count": 148,
+      "last_success_at": "2026-11-24T05:00:26.339704+00:00",
+      "offer_count": 150,
       "candidate_count": 0
     },
     {
@@ -249,7 +249,7 @@
       "url": "https://www.cheapshark.com/api/1.0/deals?storeID=1&upperPrice=15&pageSize=30",
       "snapshot": "cheapshark-steam/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-23T20:37:26.427449+00:00",
+      "last_success_at": "2026-11-24T05:00:26.339704+00:00",
       "offer_count": 30,
       "candidate_count": 0
     },
@@ -259,9 +259,9 @@
       "url": "https://github.com/thuongtin/awesome-bfcm-2026",
       "snapshot": "github-bfcm-2026/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-23T20:37:26.427449+00:00",
-      "offer_count": 1931,
-      "candidate_count": 5
+      "last_success_at": "2026-11-24T05:00:26.339704+00:00",
+      "offer_count": 1951,
+      "candidate_count": 6
     }
   ],
   "candidates": [
@@ -317,6 +317,36 @@
         "variant": null,
         "status": "candidate",
         "score": 32.44,
+        "max_usd": 500,
+        "preferred_usd": null,
+        "within_budget": true,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
+      "id": "cb7d77065363489ce8374d3b",
+      "title": "Hiro 55-inch 4K UHD HDR Smart TV with Roku TV, $149.99 at Target, Black Friday 2026",
+      "url": "https://www.target.com/p/hiro-4k-led-roku-smart-tv/-/A-95005688?preselect=94728909",
+      "source_url": "https://github.com/thuongtin/awesome-bfcm-2026",
+      "retailer_url": "https://www.target.com/p/hiro-4k-led-roku-smart-tv/-/A-95005688?preselect=94728909",
+      "link_type": "retailer",
+      "retailer": null,
+      "price_cents": 14999,
+      "headline_price_cents": null,
+      "price_source": "publisher_structured_data",
+      "currency": "USD",
+      "source_id": "github-bfcm-2026",
+      "publisher": "Awesome BFCM 2026 on GitHub",
+      "published_at": null,
+      "expires_at": null,
+      "publication_category": "Electronics",
+      "rank": {
+        "category": "tv",
+        "variant": null,
+        "status": "candidate",
+        "score": 32.0,
         "max_usd": 500,
         "preferred_usd": null,
         "within_budget": true,
@@ -418,48 +448,6 @@
   ],
   "headline_leads": [
     {
-      "id": "ed821eb6b7834f8e6156b2d5",
-      "title": "ILIFE V2 Robot Vacuum Cleaner Just $59 on Amazon | Lowest Price Ever!",
-      "url": "https://thefreebieguy.com/ilife-v2-robot-vacuum-cleaner/",
-      "source_url": "https://thefreebieguy.com/ilife-v2-robot-vacuum-cleaner/",
-      "retailer_url": null,
-      "link_type": "source",
-      "retailer": null,
-      "price_cents": null,
-      "headline_price_cents": 5900,
-      "price_source": null,
-      "currency": null,
-      "source_id": "freebie-guy",
-      "publisher": "The Freebie Guy",
-      "published_at": "2026-11-23T16:52:09+00:00",
-      "expires_at": null,
-      "publication_category": "Amazon",
-      "rank": {
-        "category": "robot_vacuum_mop",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": 350,
-        "preferred_usd": 250,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "headline_rank": {
-        "category": "robot_vacuum_mop",
-        "variant": null,
-        "status": "candidate",
-        "score": 41.31,
-        "max_usd": 350,
-        "preferred_usd": 250,
-        "within_budget": true,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
       "id": "6924fe0a779d50f48650aff2",
       "title": "Dreame D20 Air Plus Robot Vacuum and Mop, $199.99 at Amazon, Black Friday 2026",
       "url": "https://www.amazon.com/dp/B0G5XVMVJN",
@@ -557,51 +545,9 @@
       "currency": null,
       "source_id": "hip2save",
       "publisher": "Hip2Save",
-      "published_at": "2026-11-23T14:40:00+00:00",
+      "published_at": "2026-11-24T03:55:00+00:00",
       "expires_at": null,
       "publication_category": "Black Friday",
-      "rank": {
-        "category": "tv",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": 500,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "headline_rank": {
-        "category": "tv",
-        "variant": null,
-        "status": "candidate",
-        "score": 34.4,
-        "max_usd": 500,
-        "preferred_usd": null,
-        "within_budget": true,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
-      "id": "ecb8a1296681b81f4d496a77",
-      "title": "Super Mario Party Jamboree + Jamboree TV (Nintendo Switch 2 Digital Code) $30",
-      "url": "https://slickdeals.net/f/20378148-30-super-mario-party-jamboree-nintendo-switch-2-edition-jamboree-tv-nintendo-switch-2-digital-code-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "source_url": "https://slickdeals.net/f/20378148-30-super-mario-party-jamboree-nintendo-switch-2-edition-jamboree-tv-nintendo-switch-2-digital-code-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "retailer_url": null,
-      "link_type": "source",
-      "retailer": null,
-      "price_cents": null,
-      "headline_price_cents": 3000,
-      "price_source": null,
-      "currency": null,
-      "source_id": "slickdeals",
-      "publisher": "Slickdeals Frontpage",
-      "published_at": "2026-11-23T18:51:43+00:00",
-      "expires_at": null,
-      "publication_category": "Frontpage Deals",
       "rank": {
         "category": "tv",
         "variant": null,
@@ -956,48 +902,6 @@
         "status": "candidate",
         "score": 27.0,
         "max_usd": 100,
-        "preferred_usd": null,
-        "within_budget": true,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
-      "id": "e6443d8d84996c195771bea6",
-      "title": "Gourmia 8 Qt Digital Window Air Fryer with 8 One-Touch Cooking Functions $39 + Free S&H",
-      "url": "https://slickdeals.net/f/20373438-w-live-11-23-gourmia-8-qt-digital-window-air-fryer-with-8-one-touch-cooking-functions-39?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "source_url": "https://slickdeals.net/f/20373438-w-live-11-23-gourmia-8-qt-digital-window-air-fryer-with-8-one-touch-cooking-functions-39?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "retailer_url": null,
-      "link_type": "source",
-      "retailer": null,
-      "price_cents": null,
-      "headline_price_cents": 3900,
-      "price_source": null,
-      "currency": null,
-      "source_id": "slickdeals",
-      "publisher": "Slickdeals Frontpage",
-      "published_at": "2026-11-23T18:37:35+00:00",
-      "expires_at": null,
-      "publication_category": "Frontpage Deals",
-      "rank": {
-        "category": "air_fryer",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": 75,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "headline_rank": {
-        "category": "air_fryer",
-        "variant": null,
-        "status": "watch",
-        "score": 24.8,
-        "max_usd": 75,
         "preferred_usd": null,
         "within_budget": true,
         "comparisons": {},
