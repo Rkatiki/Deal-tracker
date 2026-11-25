@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-25T02:49:59.309299+00:00",
+  "retrieved_at": "2026-11-25T15:02:01.006082+00:00",
   "source": {
     "id": "pcworld",
     "name": "PCWorld",
@@ -11,11 +11,11 @@
   "baseline": false,
   "events": [
     {
-      "id": "13a76a5b5974d61e78fc28a1",
+      "id": "04629a92fef188588482baa5",
       "types": [
-        "new"
+        "removed"
       ],
-      "title": "This is the NordVPN deal I’ve been waiting for all year",
+      "title": "Stop paying for AI one model at a time: get GPT, Claude, Gemini, and 50+ more for $27.97 for Black Friday",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -31,17 +31,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.pcworld.com/article/3296234/this-is-the-nordvpn-deal-ive-been-waiting-for-all-year.html",
-      "source_url": "https://www.pcworld.com/article/3296234/this-is-the-nordvpn-deal-ive-been-waiting-for-all-year.html",
+      "url": "https://www.pcworld.com/article/3291523/stop-paying-for-ai-one-model-at-a-time-get-gpt-claude-gemini-and-50-more-for-27-97-for-black-friday.html",
+      "source_url": "https://www.pcworld.com/article/3291523/stop-paying-for-ai-one-model-at-a-time-get-gpt-claude-gemini-and-50-more-for-27-97-for-black-friday.html",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "16060741fba7c5f429479eba",
+      "id": "0b4198393cb1d2b029e69c4b",
       "types": [
-        "new"
+        "removed"
       ],
-      "title": "Best PC computer deals: Top picks from desktops to all-in-ones",
+      "title": "Our favorite cheap VPN is 88% off for Black Friday, includes antivirus",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -57,15 +57,41 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.pcworld.com/article/813362/best-pc-computer-deals.html",
-      "source_url": "https://www.pcworld.com/article/813362/best-pc-computer-deals.html",
+      "url": "https://www.pcworld.com/article/3294813/our-favorite-cheap-vpn-is-88-percent-off-for-black-friday-includes-antivirus.html",
+      "source_url": "https://www.pcworld.com/article/3294813/our-favorite-cheap-vpn-is-88-percent-off-for-black-friday-includes-antivirus.html",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "4913c7197308d8579941b109",
+      "types": [
+        "new"
+      ],
+      "title": "This Windows 11 Home key is $48 for Black Friday, down from $140",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.pcworld.com/article/3297008/this-windows-11-home-key-is-48-for-black-friday-down-from-140.html",
+      "source_url": "https://www.pcworld.com/article/3297008/this-windows-11-home-key-is-48-for-black-friday-down-from-140.html",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "52f4001123451d95a55c2903",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Best Black Friday laptop deals 2026: Our top picks",
       "retailer": null,
@@ -89,11 +115,11 @@
       "link_type": "source"
     },
     {
-      "id": "752fad3d4612b9749c106737",
+      "id": "858f2e695b57e68ba922f438",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "Ctrl+Alt+Save On This Black Friday ASUS Keyboard Deal",
+      "title": "Black Friday deals are here! 7 tips to avoid being scammed",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -109,17 +135,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.pcworld.com/article/3292305/ctrlaltsave-on-this-black-friday-asus-keyboard-deal.html",
-      "source_url": "https://www.pcworld.com/article/3292305/ctrlaltsave-on-this-black-friday-asus-keyboard-deal.html",
+      "url": "https://www.pcworld.com/article/2536784/black-friday-deals-are-here-7-tips-to-avoid-being-scammed.html",
+      "source_url": "https://www.pcworld.com/article/2536784/black-friday-deals-are-here-7-tips-to-avoid-being-scammed.html",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "e084965ba85b61b1c3bc56b2",
+      "id": "9f5a0f97a64962393b9199ec",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "Best early Black Friday VPN deals: What to expect and early sales",
+      "title": "Early Black Friday pricing cuts Visual Studio Pro 2026 to $19.97",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -135,17 +161,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.pcworld.com/article/2519967/best-early-black-friday-vpn-deals-2026.html",
-      "source_url": "https://www.pcworld.com/article/2519967/best-early-black-friday-vpn-deals-2026.html",
+      "url": "https://www.pcworld.com/article/3294346/early-black-friday-pricing-cuts-visual-studio-pro-2026-to-19-97.html",
+      "source_url": "https://www.pcworld.com/article/3294346/early-black-friday-pricing-cuts-visual-studio-pro-2026-to-19-97.html",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "f647c736ca10a213f226b5ff",
+      "id": "d5351b00fdb9150bf5736e62",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "Best Black Friday mini PC deals: What to expect and early sales",
+      "title": "Best Black Friday laptop deals 2026: Save on notebooks while you can",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -161,8 +187,60 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.pcworld.com/article/2971789/best-early-black-friday-mini-pc-deals-2026.html",
-      "source_url": "https://www.pcworld.com/article/2971789/best-early-black-friday-mini-pc-deals-2026.html",
+      "url": "https://www.pcworld.com/article/1382155/best-black-friday-laptop-deals-2026.html",
+      "source_url": "https://www.pcworld.com/article/1382155/best-black-friday-laptop-deals-2026.html",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "e13abb6cc07d05ac88ea940e",
+      "types": [
+        "new"
+      ],
+      "title": "The 9 Anker products you actually want this Black Friday",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.pcworld.com/article/3294365/most-anker-gear-is-fine-these-11-products-are-the-real-standouts.html",
+      "source_url": "https://www.pcworld.com/article/3294365/most-anker-gear-is-fine-these-11-products-are-the-real-standouts.html",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "f02a4b7aedbb24b6ed39d878",
+      "types": [
+        "removed"
+      ],
+      "title": "Early Black Friday pricing cuts five years of flowkey to $54.97",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.pcworld.com/article/3291518/early-black-friday-pricing-cuts-five-years-of-flowkey-to-54-97.html",
+      "source_url": "https://www.pcworld.com/article/3291518/early-black-friday-pricing-cuts-five-years-of-flowkey-to-54-97.html",
       "retailer_url": null,
       "link_type": "source"
     }

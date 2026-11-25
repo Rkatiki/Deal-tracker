@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-25T02:49:59.309299+00:00",
+  "retrieved_at": "2026-11-25T15:02:01.006082+00:00",
   "source": {
     "id": "macrumors",
     "name": "MacRumors Deals",
@@ -10,11 +10,11 @@
   "baseline": false,
   "events": [
     {
-      "id": "07420a543b049248f35f8caf",
+      "id": "31a542c1a1a2b09139546984",
       "types": [
         "new"
       ],
-      "title": "Meta's Muse AI Agent Comes to Instagram DMs",
+      "title": "Threads App for iPad Now Available",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -30,17 +30,43 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.macrumors.com/2026/11/24/meta-muse-instagram-dms/",
-      "source_url": "https://www.macrumors.com/2026/11/24/meta-muse-instagram-dms/",
+      "url": "https://www.macrumors.com/2026/11/25/threads-app-for-ipad-now-available/",
+      "source_url": "https://www.macrumors.com/2026/11/25/threads-app-for-ipad-now-available/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "07cbd77a64869c16c2a04d7e",
+      "id": "8cb5efcdd13dea9166d7b98b",
+      "types": [
+        "removed"
+      ],
+      "title": "iPhone 18e to Get Redesigned, iPad Pro-Style Camera",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.macrumors.com/2026/11/24/iphone-18e-to-get-redesigned-ipad-pro-style-camera/",
+      "source_url": "https://www.macrumors.com/2026/11/24/iphone-18e-to-get-redesigned-ipad-pro-style-camera/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "b66720b1afe542232c672b25",
       "types": [
         "new"
       ],
-      "title": "Tidal Bans AI Music, While Apple Music Sticks to Labels",
+      "title": "Apple Is Far From Done With 2026: Here's What's Still Coming",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -56,69 +82,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.macrumors.com/2026/11/24/tidal-ai-music-ban/",
-      "source_url": "https://www.macrumors.com/2026/11/24/tidal-ai-music-ban/",
+      "url": "https://www.macrumors.com/2026/11/25/apple-2026-heres-whats-still-coming/",
+      "source_url": "https://www.macrumors.com/2026/11/25/apple-2026-heres-whats-still-coming/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "313c96996905c9a94dafd3a5",
-      "types": [
-        "removed"
-      ],
-      "title": "Apple Store With All-New Design Opening in UK Next Month",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.macrumors.com/2026/11/23/new-apple-store-at-the-oracle/",
-      "source_url": "https://www.macrumors.com/2026/11/23/new-apple-store-at-the-oracle/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "754a77ae37561559dce360a2",
-      "types": [
-        "removed"
-      ],
-      "title": "Apple Announces 'Ted Lasso' Renewed for Fifth Season",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.macrumors.com/2026/11/23/ted-lasso-season-five-renewal/",
-      "source_url": "https://www.macrumors.com/2026/11/23/ted-lasso-season-five-renewal/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "87d2c8fbac6e22bf8f1ca1c3",
+      "id": "c8ba74505424e8e514e30770",
       "types": [
         "new"
       ],
-      "title": "Walmart App Rolls Back Apple Pay Support After Just Weeks",
+      "title": "Apple Has iPads Running macOS Internally, Says Gurman",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -134,69 +108,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.macrumors.com/2026/11/24/walmart-app-drops-apple-pay/",
-      "source_url": "https://www.macrumors.com/2026/11/24/walmart-app-drops-apple-pay/",
+      "url": "https://www.macrumors.com/2026/11/25/apple-has-ipads-running-macos-internally/",
+      "source_url": "https://www.macrumors.com/2026/11/25/apple-has-ipads-running-macos-internally/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "99adc46068b6286ee744a4ec",
-      "types": [
-        "removed"
-      ],
-      "title": "OpenAI Brings GPT-6.2 Sol to ChatGPT's Chat Tab",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.macrumors.com/2026/11/23/openai-gpt-6-2-sol-chatgpt/",
-      "source_url": "https://www.macrumors.com/2026/11/23/openai-gpt-6-2-sol-chatgpt/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "ad45df41c9debf912b8f8781",
-      "types": [
-        "removed"
-      ],
-      "title": "MacBook Neo Sees Record Low $599 Price in Latest Black Friday Sale ($100 Off) [Update: Gone]",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.macrumors.com/2026/11/23/macbook-neo-100-off/",
-      "source_url": "https://www.macrumors.com/2026/11/23/macbook-neo-100-off/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "b73dc9ff45a67df1313d65c5",
+      "id": "cf5fc7f0e0b95fa65af4103f",
       "types": [
         "new"
       ],
-      "title": "Add Holiday Lights and Snow to Your Mac With Festivitas",
+      "title": "Claude Now Lets You Install Artifacts as Desktop Apps",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -212,43 +134,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.macrumors.com/2026/11/24/festivitas-for-mac-2026-update/",
-      "source_url": "https://www.macrumors.com/2026/11/24/festivitas-for-mac-2026-update/",
+      "url": "https://www.macrumors.com/2026/11/25/claude-install-artifacts-desktop-apps/",
+      "source_url": "https://www.macrumors.com/2026/11/25/claude-install-artifacts-desktop-apps/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "be76aee9200ac34a73712b7b",
-      "types": [
-        "new"
-      ],
-      "title": "Google Says Apple's iOS Browser Rules Offer 'Choice on Paper, Not in Practice'",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.macrumors.com/2026/11/24/google-ios-eu-browser-rules/",
-      "source_url": "https://www.macrumors.com/2026/11/24/google-ios-eu-browser-rules/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "bf1e291748d9e2aec692c155",
+      "id": "d86e6c81859c3684afb8a002",
       "types": [
         "removed"
       ],
-      "title": "Google Search Gets Wallet Access, With Drive Coming Soon",
+      "title": "EU in Talks With Apple Over Barriers to Rival iPhone Browsers",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -264,43 +160,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.macrumors.com/2026/11/23/google-search-wallet-access/",
-      "source_url": "https://www.macrumors.com/2026/11/23/google-search-wallet-access/",
+      "url": "https://www.macrumors.com/2026/11/24/eu-talks-with-apple-over-rival-iphone-browsers/",
+      "source_url": "https://www.macrumors.com/2026/11/24/eu-talks-with-apple-over-rival-iphone-browsers/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "e2f257fa8338369c643c5ddb",
+      "id": "db22860da918a819da906e20",
       "types": [
         "removed"
       ],
-      "title": "Best Black Friday Streaming Deals on Apple TV, Peacock, HBO Max, and More",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "tv",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": 500,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.macrumors.com/2026/11/23/best-black-friday-streaming-deals/",
-      "source_url": "https://www.macrumors.com/2026/11/23/best-black-friday-streaming-deals/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "f5975709956525ec576e7e95",
-      "types": [
-        "new"
-      ],
-      "title": "Black Friday Discount Hits 512GB MacBook Neo at $699 ($100 Off)",
+      "title": "Meta's Muse Personal AI Agent Launches in the UK",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -316,8 +186,34 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.macrumors.com/2026/11/24/black-friday-512-macbook-neo/",
-      "source_url": "https://www.macrumors.com/2026/11/24/black-friday-512-macbook-neo/",
+      "url": "https://www.macrumors.com/2026/11/24/metas-muse-personal-ai-agent-launches-in-the-uk/",
+      "source_url": "https://www.macrumors.com/2026/11/24/metas-muse-personal-ai-agent-launches-in-the-uk/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "fe1a064c73ede96898baceca",
+      "types": [
+        "removed"
+      ],
+      "title": "iPhone Duo: 20 Tips to Get the Most Out of Apple's Foldable",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.macrumors.com/guide/iphone-duo-20-tips-apple-foldable/",
+      "source_url": "https://www.macrumors.com/guide/iphone-duo-20-tips-apple-foldable/",
       "retailer_url": null,
       "link_type": "source"
     }
