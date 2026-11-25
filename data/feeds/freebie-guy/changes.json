@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-24T18:23:42.521175+00:00",
+  "retrieved_at": "2026-11-25T02:49:59.309299+00:00",
   "source": {
     "id": "freebie-guy",
     "name": "The Freebie Guy",
@@ -12,7 +12,7 @@
     {
       "id": "01455b47c609b2daefae9a50",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Walmart Patio Furniture Sale | Sets Starting UNDER $50!",
       "retailer": null,
@@ -36,11 +36,11 @@
       "link_type": "source"
     },
     {
-      "id": "03f97b165426509f9eb311f3",
+      "id": "09a0e1920f279a2c28029f5d",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "Yogurtland Deals | BOGO 50% Off Frozen Yogurt on 11/27!",
+      "title": "PRICE DROP! Amazon Fire TV Stick 4K Select Only $17.xx on Amazon (Reg. $50)",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -56,41 +56,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://thefreebieguy.com/yogurtland-deals/",
-      "source_url": "https://thefreebieguy.com/yogurtland-deals/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "07304655c105c5a4f8ef3505",
-      "types": [
-        "removed"
-      ],
-      "title": "USB C to USB C Fast Charging Cable 3-Pack Only $3.xx on Amazon (Reg $10)",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://thefreebieguy.com/usb-c-to-usb-c-fast-charging-cable-3-pack/",
-      "source_url": "https://thefreebieguy.com/usb-c-to-usb-c-fast-charging-cable-3-pack/",
+      "url": "https://thefreebieguy.com/amazon-fire-tv-stick-4k/",
+      "source_url": "https://thefreebieguy.com/amazon-fire-tv-stick-4k/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "09ac09bbb4edd862099db024",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Restocked! Native Hand Soap Only $2.xx WYB 3 on Amazon (Reg. $18)",
       "retailer": null,
@@ -114,37 +88,37 @@
       "link_type": "source"
     },
     {
-      "id": "0a1a65f21bc93a4fc56e8b34",
+      "id": "0d394add3088a4e9b274646c",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "Walmart’s Black Friday Round 2 Deals Live! $99 Beats Pro, $150 Blackstone + More!",
+      "title": "NEW Walmart Promo Code – $10 Off $35 Purchase Works on TV’s, Barbie Dreamhouse & More!",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
       "rank": {
-        "category": "other",
+        "category": "tv",
         "variant": null,
         "status": "price_unavailable",
         "score": 0,
-        "max_usd": null,
+        "max_usd": 500,
         "preferred_usd": null,
         "within_budget": null,
         "comparisons": {},
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://thefreebieguy.com/walmart-black-friday/",
-      "source_url": "https://thefreebieguy.com/walmart-black-friday/",
+      "url": "https://thefreebieguy.com/walmart-promo-code/",
+      "source_url": "https://thefreebieguy.com/walmart-promo-code/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "0d4183ecd4ae20699a61ae82",
+      "id": "0e3f4ec5ddb373c08fcdd131",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "Nintendo Switch Games on Sale at Walmart – Save on Mario, Bluey, & More",
+      "title": "Sephora Black Friday & Cyber Week Deals – Save Up to 50% on Beauty!",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -160,15 +134,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://thefreebieguy.com/video-games-walmart/",
-      "source_url": "https://thefreebieguy.com/video-games-walmart/",
+      "url": "https://thefreebieguy.com/sephora-black-friday/",
+      "source_url": "https://thefreebieguy.com/sephora-black-friday/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "1779f63f5469ac540f4e15c2",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Score up to 25% off Sleep Number’s Black Friday Sale + BOGO 50% Off Pillows & Sheets!",
       "retailer": null,
@@ -192,9 +166,35 @@
       "link_type": "source"
     },
     {
-      "id": "182aaf8b8c168b6e2fa590ea",
+      "id": "18238c6dacb3be4574a794d2",
       "types": [
         "new"
+      ],
+      "title": "Coach Outlet Black Friday Sale | Up to 70% Off Shoulder Bags, Wristlets, and More!",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://thefreebieguy.com/coach-outlet-black-friday/",
+      "source_url": "https://thefreebieguy.com/coach-outlet-black-friday/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "182aaf8b8c168b6e2fa590ea",
+      "types": [
+        "removed"
       ],
       "title": "Mrs. Meyer’s Clean Day Basil Dish Soap Only $2.xx on Amazon (Reg. $6)",
       "retailer": null,
@@ -218,11 +218,11 @@
       "link_type": "source"
     },
     {
-      "id": "1b377e84e437b62f1a2d3293",
+      "id": "1b758285be13408f7cc3abf5",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "Hanes EcoSmart Fleece Hoodie as Low as $9.xx (Reg. $27) | Amazon #1 Best-Seller!",
+      "title": "Little Tikes Learn & Play Learning Lane Activity Walker Only $15.xx on Amazon (Reg. $52)",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -238,15 +238,67 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://thefreebieguy.com/hanes-ecosmart-fleece-hoodie/",
-      "source_url": "https://thefreebieguy.com/hanes-ecosmart-fleece-hoodie/",
+      "url": "https://thefreebieguy.com/little-tikes-learn-play-learning-lane-activity-walker/",
+      "source_url": "https://thefreebieguy.com/little-tikes-learn-play-learning-lane-activity-walker/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "2149fd9d2d2235856d9ea77f",
+      "types": [
+        "removed"
+      ],
+      "title": "Dollar General Penny List: Updated Weekly + Penny Shopping Guide ⭐",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://thefreebieguy.com/dollar-general-penny-shopping-master-list/",
+      "source_url": "https://thefreebieguy.com/dollar-general-penny-shopping-master-list/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "24fa573eba8693f261c06a2e",
+      "types": [
+        "new"
+      ],
+      "title": "Bedsure Reversible Sherpa Fleece Blanket Only $15.xx on Amazon (Reg $35)!",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://thefreebieguy.com/bedsure-gentlesoft-reversible-sherpa-fleece-throw-blanket/",
+      "source_url": "https://thefreebieguy.com/bedsure-gentlesoft-reversible-sherpa-fleece-throw-blanket/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "2c340a0c2bda0c406c8aef93",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Score $8.00 AMC Movie Tickets ALL YEAR & 50% Off Small Combos (Every Tuesday and Wednesday)",
       "retailer": null,
@@ -272,7 +324,7 @@
     {
       "id": "2f8ad0118946e224fd886a42",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Crocs Classic Cozzzy Slippers Only $20 (Reg. $50)",
       "retailer": null,
@@ -298,7 +350,7 @@
     {
       "id": "3063b3dcd0c601fc8c89da8f",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "eBay – Up to 50% Off Crocs for the Family + Extra 20% Off | Crocs from $11.xx",
       "retailer": null,
@@ -322,11 +374,11 @@
       "link_type": "source"
     },
     {
-      "id": "37ab35d051b90a146c5ec8fd",
+      "id": "3339b248014f69c7c4823dde",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "KFC Deals | $20 Friendsgiving Feast through November 29th!",
+      "title": "Smashburger Deals | BOGO 50% Off on Weekdays through 12/31!",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -342,17 +394,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://thefreebieguy.com/kfc-coupons-deals/",
-      "source_url": "https://thefreebieguy.com/kfc-coupons-deals/",
+      "url": "https://thefreebieguy.com/smashburger-coupons/",
+      "source_url": "https://thefreebieguy.com/smashburger-coupons/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "388837a716ddd64bd660ac07",
+      "id": "3abb84e11d185052320f4f6b",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "Tineco Cordless Mop & Vacuum Only $149.99 at Kohl’s (Reg $300) + $30 in Kohl’s Cash!",
+      "title": "Free King Hawaiian Maple Brown Sugar Rolls (After Rebate)",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -368,17 +420,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://thefreebieguy.com/tineco-floorwasher-vacuum/",
-      "source_url": "https://thefreebieguy.com/tineco-floorwasher-vacuum/",
+      "url": "https://thefreebieguy.com/free-king-hawaiian-maple-brown-sugar-rolls/",
+      "source_url": "https://thefreebieguy.com/free-king-hawaiian-maple-brown-sugar-rolls/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "3e4c9b109547c0893413f932",
+      "id": "3d1fd69a04499c181632d278",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "PRICE DROP! Blackstone Original 36″ Outdoor Griddle w/ Cover Only $264 at Walmart (Reg. $344)",
+      "title": "Walmart Black Friday Rug Deals – Shop Rugs for Every Room!",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -394,15 +446,41 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://thefreebieguy.com/blackstone-griddle/",
-      "source_url": "https://thefreebieguy.com/blackstone-griddle/",
+      "url": "https://thefreebieguy.com/walmart-rugs-sale/",
+      "source_url": "https://thefreebieguy.com/walmart-rugs-sale/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "3f1349df81fa4be2b2b59227",
+      "types": [
+        "new"
+      ],
+      "title": "Natural Ice Original Medicated Lip Balm 12-Pack Only $5.xx on Amazon (Reg. $16)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://thefreebieguy.com/natural-ice-original-medicated-lip-balm/",
+      "source_url": "https://thefreebieguy.com/natural-ice-original-medicated-lip-balm/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "3f41af17a3662c6d2bb114bc",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "The Best Amazon Things Under $5 | Cheap Snacks, Household Essentials & More",
       "retailer": null,
@@ -428,7 +506,7 @@
     {
       "id": "409e528dcedb00bdc50aa0fd",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Magnetic Tiles 32-Piece Set Only $10.xx on Amazon (Reg. $25)",
       "retailer": null,
@@ -454,7 +532,7 @@
     {
       "id": "41cf059af525b08ec72dba98",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Fresh Step Odor Shield Advanced Multi Cat Clumping Litter 18.5lb Box Only $7.xx on Amazon (Reg. $15)",
       "retailer": null,
@@ -478,11 +556,11 @@
       "link_type": "source"
     },
     {
-      "id": "43fe80dd71c0603765155ac7",
+      "id": "47c71948d30e839d494c85eb",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "Free CeraVe Dune Moisturizing Cream Sample",
+      "title": "CUTE! Mainstays Snow Globe Candle Just $8.48 at Walmart!",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -498,41 +576,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://thefreebieguy.com/free-cerave-dune-moisturizing-cream-sample/",
-      "source_url": "https://thefreebieguy.com/free-cerave-dune-moisturizing-cream-sample/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "4992bc58e62cd395162d6d42",
-      "types": [
-        "removed"
-      ],
-      "title": "Black Friday Sale at ShopBop–25% Off On Cloud, Birkenstock, UGG, & More!",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://thefreebieguy.com/shopbop-sale/",
-      "source_url": "https://thefreebieguy.com/shopbop-sale/",
+      "url": "https://thefreebieguy.com/mainstays-snow-globe-candle-at-walmart/",
+      "source_url": "https://thefreebieguy.com/mainstays-snow-globe-candle-at-walmart/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "4a5b1a3e4792c77300105528",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Buy 5 Save $20 on Tonies at Walmart!",
       "retailer": null,
@@ -556,35 +608,9 @@
       "link_type": "source"
     },
     {
-      "id": "4caaeca1c213faa3a4fa5476",
-      "types": [
-        "removed"
-      ],
-      "title": "Ollie Fresh Dog Food Deal! 80% Off Your First Box + FREE Jerky For Life!",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://thefreebieguy.com/ollie-fresh-dog-food-deal-save-on-first-box/",
-      "source_url": "https://thefreebieguy.com/ollie-fresh-dog-food-deal-save-on-first-box/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
       "id": "4d562d1d04e84e5cc3d5966a",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Infants’ Tylenol Oral Suspension Liquid Medicine Only $4.xx on Amazon (Reg $9)",
       "retailer": null,
@@ -608,9 +634,35 @@
       "link_type": "source"
     },
     {
-      "id": "4e15665c1accff42fb1a61f6",
+      "id": "4d66e69c6b1feb71796e6cd6",
       "types": [
         "new"
+      ],
+      "title": "GO! Hot Barbie Sale at Walmart + Walmart Cash Offers!",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://thefreebieguy.com/barbie-walmart/",
+      "source_url": "https://thefreebieguy.com/barbie-walmart/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "4e15665c1accff42fb1a61f6",
+      "types": [
+        "removed"
       ],
       "title": "Taco Bell Deals | 500 Will Win a Live Más Open Golf Capsule – Today Only!",
       "retailer": null,
@@ -634,35 +686,9 @@
       "link_type": "source"
     },
     {
-      "id": "5066f2927511272690cad6df",
-      "types": [
-        "removed"
-      ],
-      "title": "Walmart Black Friday Price Drops on Kids Clothing | Sets, Tees, Hoodies, & More!",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://thefreebieguy.com/walmart-kids-clothing/",
-      "source_url": "https://thefreebieguy.com/walmart-kids-clothing/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
       "id": "52eb36e9d3502c76da39e3e2",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Today Only! Bath & Body Works Bundle Sale – Grab Three Full Sized Items For $19.95!",
       "retailer": null,
@@ -686,35 +712,9 @@
       "link_type": "source"
     },
     {
-      "id": "5517311c38aa1daedba099b9",
-      "types": [
-        "removed"
-      ],
-      "title": "Finish Line Black Friday Sale 2026 Is Here! | Prices From $18 (Reg. $40)",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://thefreebieguy.com/finish-line-black-friday/",
-      "source_url": "https://thefreebieguy.com/finish-line-black-friday/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
       "id": "5674566be7c6dce85053aa71",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "On the Hunt for Needoh? Thousands Are Scoring with Amazon’s Auto-Buy Feature!",
       "retailer": null,
@@ -738,37 +738,11 @@
       "link_type": "source"
     },
     {
-      "id": "5c8cfabb1c9351d440648dbe",
-      "types": [
-        "removed"
-      ],
-      "title": "Shark Steam & Scrub Scrubbing Steam Mop Only $98 at Walmart (Reg. $149)",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://thefreebieguy.com/shark-steam-scrub-mop/",
-      "source_url": "https://thefreebieguy.com/shark-steam-scrub-mop/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "61cad50a9d1679138c091ec6",
+      "id": "57bcd57eac358beef5e63ca1",
       "types": [
         "new"
       ],
-      "title": "Disney+ & Hulu Black Friday Streaming Deal | Just $4.99 Per Month for a Year (Reg. $13)",
+      "title": "Dollar General $5 Off $25 Scenarios for Wednesday November 25th or Saturday November 28th!",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -784,17 +758,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://thefreebieguy.com/disney-plus-streaming-deal/",
-      "source_url": "https://thefreebieguy.com/disney-plus-streaming-deal/",
+      "url": "https://thefreebieguy.com/dollar-general-saturday-scenarios-list/",
+      "source_url": "https://thefreebieguy.com/dollar-general-saturday-scenarios-list/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "67694a944bf49611ce9dd625",
+      "id": "59888d9708e5a64300cea4a4",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "PRICE DROP! Lifetime 55-Quart Bear-Resistant Camping Cooler Only $124 at Walmart (Reg. $210)",
+      "title": "FREE Sol de Janeiro Mini Body Cream Duo with Purchase on Amazon!",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -810,17 +784,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://thefreebieguy.com/lifetime-cooler/",
-      "source_url": "https://thefreebieguy.com/lifetime-cooler/",
+      "url": "https://thefreebieguy.com/sol-de-janeiro-body-cream/",
+      "source_url": "https://thefreebieguy.com/sol-de-janeiro-body-cream/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "6810f6b0396306f4d4211c1f",
+      "id": "5d3ebe6f7ce2ce08b7c413af",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "FurReal Daisy the Yoga Goat Interactive Toy Only $20.xx on Amazon (Reg. $45)",
+      "title": "Blackstone 1971 Original 17″ Omnivore Tabletop Griddle Only $62.xx on Amazon (Reg. $130)",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -836,17 +810,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://thefreebieguy.com/furreal-daisy-the-yoga-goat/",
-      "source_url": "https://thefreebieguy.com/furreal-daisy-the-yoga-goat/",
+      "url": "https://thefreebieguy.com/blackstone-omnivore-tabletop-griddle/",
+      "source_url": "https://thefreebieguy.com/blackstone-omnivore-tabletop-griddle/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "6880c61c51690867d83b9aab",
+      "id": "6466bdfea574010c7f5a21ba",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "Nespresso Vertuo Pop Coffee and Espresso Maker Only $59 at Walmart (Reg. $119)",
+      "title": "Hershey’s is Selling 5¢ Hershey Milk Chocolate Bars on 11/25 – Same Price As In 1900!",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -862,15 +836,93 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://thefreebieguy.com/nespresso-vertuo-pop-coffee-and-expresso-machine/",
-      "source_url": "https://thefreebieguy.com/nespresso-vertuo-pop-coffee-and-expresso-machine/",
+      "url": "https://thefreebieguy.com/five-cent-hershey-milk-chocolate-bars/",
+      "source_url": "https://thefreebieguy.com/five-cent-hershey-milk-chocolate-bars/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "65a88a46befc44faa90f81cc",
+      "types": [
+        "new"
+      ],
+      "title": "Ninja Crispi Pro 6-in-1 Countertop Glass Air Fryer Just $249.99 (Reg. $300) + Score $85 Worth of Freebies!",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "air_fryer",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": 75,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://thefreebieguy.com/ninja-crispi-pro/",
+      "source_url": "https://thefreebieguy.com/ninja-crispi-pro/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "67d0d1bd6bd204c674f80b72",
+      "types": [
+        "new"
+      ],
+      "title": "Women’s Oversized Cable Knit Sweaters Only $27.xx on Amazon (Reg. $47)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://thefreebieguy.com/womens-oversized-cable-knit-sweaters/",
+      "source_url": "https://thefreebieguy.com/womens-oversized-cable-knit-sweaters/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "680def884314128e2493499e",
+      "types": [
+        "new"
+      ],
+      "title": "Shower Steamers Gift Set 8-Pack Only $2.xx on Amazon (Reg. $10)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://thefreebieguy.com/rusemle-shower-steamers/",
+      "source_url": "https://thefreebieguy.com/rusemle-shower-steamers/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "6a8b23dc1182f386b3062260",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "30% Off Sol de Janeiro Holiday Gift Sets + FREE FULL SIZED Cheirosa 39 Perfume Mist – Sets From $20!",
       "retailer": null,
@@ -894,11 +946,11 @@
       "link_type": "source"
     },
     {
-      "id": "6af22e9b823bd341f5bd475a",
+      "id": "6f8c25b48c27e0c75235e39a",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "PRICE DROP! Zero Gravity Outdoor Lounge Chairs 2-Pack Only $54.xx at Walmart (Reg. $98)",
+      "title": "McCook Stainless Steel Kitchen Knife Block Set Only $49.xx on Amazon (Reg. $126)!",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -914,17 +966,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://thefreebieguy.com/edx-zero-gravity-outdoor-lounge-chairs/",
-      "source_url": "https://thefreebieguy.com/edx-zero-gravity-outdoor-lounge-chairs/",
+      "url": "https://thefreebieguy.com/mccook-german-stainless-steel-kitchen-knife-block-set/",
+      "source_url": "https://thefreebieguy.com/mccook-german-stainless-steel-kitchen-knife-block-set/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "6c66916dc36a206575e5376a",
+      "id": "7093bce0976d16d73d224da6",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "Free Petco Events – Adopt a Pet, & More + Free Pics with Santa in December!",
+      "title": "Buffalo Wild Wings Deals | BOGO Wings Every Tuesday & Thursday!",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -940,15 +992,41 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://thefreebieguy.com/free-petco-events/",
-      "source_url": "https://thefreebieguy.com/free-petco-events/",
+      "url": "https://thefreebieguy.com/buffalo-wild-wings-deals/",
+      "source_url": "https://thefreebieguy.com/buffalo-wild-wings-deals/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "74cb6fa55a65d1243171d7fd",
+      "types": [
+        "new"
+      ],
+      "title": "New Costco Membership Just $20 After Offer (Reg $65) | Save on Executive Membership Too!",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://thefreebieguy.com/costco-membership-deal/",
+      "source_url": "https://thefreebieguy.com/costco-membership-deal/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "7931101974e54324a3efff38",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Crayola Light Ups From $3.xx on Amazon (Reg. $11)!",
       "retailer": null,
@@ -974,7 +1052,7 @@
     {
       "id": "7d14524ff13287a6871d32dd",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Score 4 iPhone Fast Charging USB C Chargers for just $8.xx on Amazon! (Reg $20)",
       "retailer": null,
@@ -1000,7 +1078,7 @@
     {
       "id": "85d7f3251a7934549787a9ba",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Walmart Winter Beauty Boxes Are In Stock For Only $8.98 Shipped!",
       "retailer": null,
@@ -1024,35 +1102,9 @@
       "link_type": "source"
     },
     {
-      "id": "8bfc73a71e114dd240e36f8c",
-      "types": [
-        "removed"
-      ],
-      "title": "Tropical Smoothie Deals | $6 Acai Bowls (Nov. 30 – Dec. 13)",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://thefreebieguy.com/tropical-smoothie-deals/",
-      "source_url": "https://thefreebieguy.com/tropical-smoothie-deals/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
       "id": "8dcf5b875e7028dbb99f76e4",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "PRICE DROP! Astercook 20-Piece Cookware Set Only $54.99 at Walmart (Reg. $140)",
       "retailer": null,
@@ -1076,9 +1128,35 @@
       "link_type": "source"
     },
     {
-      "id": "91034356b638114e7c953115",
+      "id": "8e90b5bc095f68856b48b3e3",
       "types": [
         "new"
+      ],
+      "title": "McCormick’s Finishing Sugars From $2.xx on Amazon!",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://thefreebieguy.com/mccormick-finishing-sugar/",
+      "source_url": "https://thefreebieguy.com/mccormick-finishing-sugar/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "91034356b638114e7c953115",
+      "types": [
+        "removed"
       ],
       "title": "T-Mobile Tuesdays for T-Mobile & Metro Customers – Win Popeyes GC’s + Customers Score Freebies!",
       "retailer": null,
@@ -1104,7 +1182,7 @@
     {
       "id": "9234d8611d134b2a853a59ac",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Apply to Score Free Borboleta Lash Serum!",
       "retailer": null,
@@ -1130,7 +1208,7 @@
     {
       "id": "947f83a086c4278edf066756",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "As Fairy Deep V Wireless Push Up Bras Only $9.xx on Amazon (Reg $27)",
       "retailer": null,
@@ -1156,7 +1234,7 @@
     {
       "id": "98812f03e92ffa7986330b64",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Crumbl Cookies Score a 6-Pack or 12 Mini Cookies for $12 + 12 Days of Rewards!",
       "retailer": null,
@@ -1180,9 +1258,35 @@
       "link_type": "source"
     },
     {
-      "id": "9b34697b1730930716765c64",
+      "id": "9ad5c16e434f2622d89865db",
       "types": [
         "new"
+      ],
+      "title": "Tory Burch Black Friday Sale | Score 30% off $250+ (Prices Starting at $20!)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://thefreebieguy.com/tory-burch-black-friday/",
+      "source_url": "https://thefreebieguy.com/tory-burch-black-friday/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "9b34697b1730930716765c64",
+      "types": [
+        "removed"
       ],
       "title": "Ortega Taco Seasoning 3-Pack Only 88 Cents (Reg. $3)!",
       "retailer": null,
@@ -1206,11 +1310,11 @@
       "link_type": "source"
     },
     {
-      "id": "9c2f8bc3a0a59e8c30e16989",
+      "id": "9b3cf6b06e2f46b807099813",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "CAVA Deals | 12 Days of Holiday Deals & Giveaways (Dec. 1-12)",
+      "title": "Revlon One-Step Hair Dryer Brush Only $34.xx at Walmart (Reg. $50)!",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -1226,17 +1330,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://thefreebieguy.com/cava-deals/",
-      "source_url": "https://thefreebieguy.com/cava-deals/",
+      "url": "https://thefreebieguy.com/revlon-hair-dryer-brush/",
+      "source_url": "https://thefreebieguy.com/revlon-hair-dryer-brush/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "a80095ea2490267ec8b49e39",
+      "id": "a0e3e6aeef84084f2ebd06c0",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "Ninja French Door 8-in-1 Countertop Oven Only $169 at Walmart (Reg. $280)",
+      "title": "Nature Made Magnesium Only $4.xx on Amazon (Reg $13)",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -1252,17 +1356,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://thefreebieguy.com/ninja-french-door-8-in-1-countertop-oven/",
-      "source_url": "https://thefreebieguy.com/ninja-french-door-8-in-1-countertop-oven/",
+      "url": "https://thefreebieguy.com/nature-made-magnesium-oxide/",
+      "source_url": "https://thefreebieguy.com/nature-made-magnesium-oxide/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "ac1528b2755a969abcd42710",
+      "id": "a5ab405b2461ccfe626f9cf7",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "Crocs Doorbuster Deals Up To 60% OFF + Extra 20% Off – Clogs From $14!",
+      "title": "Amazon Saver Columbian Coffee Pods 24-Count Only $4.xx (Reg. $9)!",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -1278,15 +1382,41 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://thefreebieguy.com/crocs-sale/",
-      "source_url": "https://thefreebieguy.com/crocs-sale/",
+      "url": "https://thefreebieguy.com/happy-belly-coffee-pods-24/",
+      "source_url": "https://thefreebieguy.com/happy-belly-coffee-pods-24/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "aa24ab008542959716b2f405",
+      "types": [
+        "new"
+      ],
+      "title": "ULTA Black Friday | 50% off ULTA Samplers, JoyBright + Free Robe or Throw w/ $75 Purchase",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://thefreebieguy.com/ulta-black-friday/",
+      "source_url": "https://thefreebieguy.com/ulta-black-friday/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "aef70b4f28092f44d90237d7",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Score $1.45 Off Per Gallon at Speedway",
       "retailer": null,
@@ -1310,9 +1440,35 @@
       "link_type": "source"
     },
     {
-      "id": "b400f8fb0aa91eed80cec26e",
+      "id": "b000b3532494cec4cc30554f",
       "types": [
         "new"
+      ],
+      "title": "PRICE DROP! Ninja 8-in-1 Flip Toaster Oven & Air Fryer Only $139.xx at Walmart (Reg. $250)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "air_fryer",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": 75,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://thefreebieguy.com/ninja-flip-toaster-oven-air-fryer/",
+      "source_url": "https://thefreebieguy.com/ninja-flip-toaster-oven-air-fryer/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "b400f8fb0aa91eed80cec26e",
+      "types": [
+        "removed"
       ],
       "title": "Save on Gas with 7-Eleven Codes | Extra 50¢ Off Gas Every 7th and 11th – NEW CODES TO SAVE YOU EVEN MORE!",
       "retailer": null,
@@ -1338,7 +1494,7 @@
     {
       "id": "b5440054775741574fb77254",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Ulta Sweet and Shimmer Holiday Products 5 For $4.xx!",
       "retailer": null,
@@ -1364,7 +1520,7 @@
     {
       "id": "b5fdba364c61978e37c49b6a",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Thanksgiving Feast For 10 Just $2.50 Per Person at Walmart | Includes Turkey, Sides & More!",
       "retailer": null,
@@ -1390,7 +1546,7 @@
     {
       "id": "b80ceff21bf99050df13dc41",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "AMC Movie Tickets Black Friday Deal! Two Tickets Just $16!",
       "retailer": null,
@@ -1416,7 +1572,7 @@
     {
       "id": "b89a3a78c30c51cf453abced",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Exclusive Offers + Freebies + Sweepstakes for Disney+ Subscribers!",
       "retailer": null,
@@ -1440,11 +1596,11 @@
       "link_type": "source"
     },
     {
-      "id": "beeb68625da8d25a5e1fcee2",
+      "id": "b8d38ae26787b3f7f217c76a",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "No Boundaries Women’s Fleece Sweatshirts and Joggers Only $8 at Walmart (Reg. $12)",
+      "title": "Finish Jet-Dry Dishwasher Rinse Aid Only $2.xx on Amazon (Reg. $5)",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -1460,67 +1616,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://thefreebieguy.com/no-boundaries-womens-sets/",
-      "source_url": "https://thefreebieguy.com/no-boundaries-womens-sets/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "c16c77134380e42486d7ef08",
-      "types": [
-        "removed"
-      ],
-      "title": "Bissell CrossWave Wet Dry Vacuum Only $98.87 at Walmart (Reg. $250)",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://thefreebieguy.com/bissell-crosswave-omniforce-edge-wet-dry-vacuum/",
-      "source_url": "https://thefreebieguy.com/bissell-crosswave-omniforce-edge-wet-dry-vacuum/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "c228c15abffb6159dd5225ee",
-      "types": [
-        "removed"
-      ],
-      "title": "BestOffice 4 Shelf Wire Shelving Unit Only $33.99 at Walmart (Reg. $66)",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://thefreebieguy.com/bestoffice-wire-shelving-unit/",
-      "source_url": "https://thefreebieguy.com/bestoffice-wire-shelving-unit/",
+      "url": "https://thefreebieguy.com/finish-jet-dry-dishwasher-rinse-aid/",
+      "source_url": "https://thefreebieguy.com/finish-jet-dry-dishwasher-rinse-aid/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "c290a12c1f8026ec11167960",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "$50 Cheesecake Factory Gift Card Only $43 + Save on Dave & Buster’s, Five Guys & More!",
       "retailer": null,
@@ -1544,11 +1648,11 @@
       "link_type": "source"
     },
     {
-      "id": "c8908885ca878efb69bbd205",
+      "id": "c352422ef3825e83aefb2531",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "Kate Spade Wristlets as Low as $22.50 (Reg. $99)",
+      "title": "Old Navy Black Friday Is Live – 50% Off Everything!",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -1564,17 +1668,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://thefreebieguy.com/kate-spade-wristlets/",
-      "source_url": "https://thefreebieguy.com/kate-spade-wristlets/",
+      "url": "https://thefreebieguy.com/old-navy-black-friday/",
+      "source_url": "https://thefreebieguy.com/old-navy-black-friday/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "c8a33a674a1e6ad6327d0a3c",
+      "id": "ccbf773443044c31b41b3463",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "32 Degrees Sale – Prices Start at Just $3.99",
+      "title": "Instant Pot Duo 7-in-1 Electric Pressure Cooker $59.xx on Amazon (Reg $110)",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -1590,17 +1694,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://thefreebieguy.com/32-degrees-sale/",
-      "source_url": "https://thefreebieguy.com/32-degrees-sale/",
+      "url": "https://thefreebieguy.com/instant-pot-duo-7-in-1-mini-electric-pressure-cooker/",
+      "source_url": "https://thefreebieguy.com/instant-pot-duo-7-in-1-mini-electric-pressure-cooker/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "ce0c0bc31c0d66b9e33faaf5",
+      "id": "ce91509c8e0a0477a22fe2ad",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "Nerds Juicy Gummy Clusters Just $2.xx Each on Amazon (Reg. $4)",
+      "title": "Tineco GO Spot Deep Carpet Cleaner Just $79 at Walmart (Reg. $190)",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -1616,17 +1720,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://thefreebieguy.com/nerds-gummy-clusters-amazon/",
-      "source_url": "https://thefreebieguy.com/nerds-gummy-clusters-amazon/",
+      "url": "https://thefreebieguy.com/tineco-go-spot-deep-carpet-cleaner/",
+      "source_url": "https://thefreebieguy.com/tineco-go-spot-deep-carpet-cleaner/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "d630b33b739a5606893c3238",
+      "id": "d789b41dc57d36f2d8277fa8",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "Huffy 6V Disney Frozen Ice Cream Kart Ride-On Only $138 at Walmart (Reg $230)",
+      "title": "SIX Sterilite 27-Gallon Plastic Storage Totes Only $48 at Walmart (Reg. $60)",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -1642,15 +1746,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://thefreebieguy.com/frozen-ice-cream-kart/",
-      "source_url": "https://thefreebieguy.com/frozen-ice-cream-kart/",
+      "url": "https://thefreebieguy.com/sterilite-large-27-gallon-plastic-storage-totes-at-walmart/",
+      "source_url": "https://thefreebieguy.com/sterilite-large-27-gallon-plastic-storage-totes-at-walmart/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "d8d3ff0350b2851c60fdd0db",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "DSW Black Friday Sale is Live | $19 Doorbuster Boots, $69 UGGS & More!",
       "retailer": null,
@@ -1676,7 +1780,7 @@
     {
       "id": "d97d3eba4af3d94ecfb05c3b",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Rechargeable Hand Warmers 2-Pack Only $6.xx on Amazon (Reg. $14)",
       "retailer": null,
@@ -1700,11 +1804,11 @@
       "link_type": "source"
     },
     {
-      "id": "da83e73ca3d5eaa06faf7faa",
+      "id": "ed1f1345ec86fee50d53b1b6",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "Physician’s Choice Fiber Gummies 60-Count Only $7.xx for Prime Members (Reg $20)",
+      "title": "Starbucks Deals | FriendsWithYou Merch Just Dropped + Touchland Drops 12/1",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -1720,93 +1824,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://thefreebieguy.com/physicians-choice-fiber-gummies/",
-      "source_url": "https://thefreebieguy.com/physicians-choice-fiber-gummies/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "dc5d561e5cd95296dff1cbdd",
-      "types": [
-        "removed"
-      ],
-      "title": "2026 Black Friday Freebies in November – FREE Events, Samples & MORE!",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://thefreebieguy.com/black-friday-freebies-deals/",
-      "source_url": "https://thefreebieguy.com/black-friday-freebies-deals/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "ee2407422914995313da0a9c",
-      "types": [
-        "removed"
-      ],
-      "title": "Possible Free Grace & Stella Firming White Eye Mask Sample",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://thefreebieguy.com/possible-free-grace-stella-firming-white-eye-mask-sample/",
-      "source_url": "https://thefreebieguy.com/possible-free-grace-stella-firming-white-eye-mask-sample/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "f0947e5fdefe1dddc4836af0",
-      "types": [
-        "removed"
-      ],
-      "title": "Macy’s 16-Piece Favorite Scents Gift Set Only $15 (Reg. $35)",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://thefreebieguy.com/fragrance-sample-sets-on-sale-at-macys/",
-      "source_url": "https://thefreebieguy.com/fragrance-sample-sets-on-sale-at-macys/",
+      "url": "https://thefreebieguy.com/best-starbucks-deals/",
+      "source_url": "https://thefreebieguy.com/best-starbucks-deals/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "f1bc69d6421e8b0186c2e172",
       "types": [
-        "removed"
+        "new"
       ],
       "title": "The Freebie Guy’s HUGE List of Social Media Giveaways! New Giveaways Added Daily!",
       "retailer": null,
@@ -1832,7 +1858,7 @@
     {
       "id": "f5c5e99dc28ce7fa160f46e0",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Kids Underwear Multipacks from $3 at Walmart | Score a 14-Pack for Just $5!",
       "retailer": null,
@@ -1858,7 +1884,7 @@
     {
       "id": "f7490e8441ded0249db3e147",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Dunkin’ Deals & Freebies: Free Donut Fridays + Free Coffee for The First Million People on Nov. 30!",
       "retailer": null,
@@ -1884,7 +1910,7 @@
     {
       "id": "f9c578effdf8dd55993aa20c",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Victoria’s Secret Black Friday – 40% Off Sitewide Including Beauty, Bras, & More",
       "retailer": null,
@@ -1910,7 +1936,7 @@
     {
       "id": "faa89b318b61df4bb215fbc9",
       "types": [
-        "removed"
+        "new"
       ],
       "title": "Walmart Black Friday Toy Deals | $5 Character Books, $15 LEGO Sets, $15 Monster Jam Sets, & More",
       "retailer": null,
@@ -1934,11 +1960,11 @@
       "link_type": "source"
     },
     {
-      "id": "fc620c41992f760c8b0b0cfc",
+      "id": "fb0bd5ebef65eeb843bac57f",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "Grubhub Deals | FREE Grubhub+ for 1 Year! ($90 Value)",
+      "title": "Best Wednesday Food and Restaurant Deals | Chipotle BOGO Entrées, Panera FREE Baguettes, & More!",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -1954,15 +1980,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://thefreebieguy.com/grubhub-deals/",
-      "source_url": "https://thefreebieguy.com/grubhub-deals/",
+      "url": "https://thefreebieguy.com/cheap-wednesday-food-deals/",
+      "source_url": "https://thefreebieguy.com/cheap-wednesday-food-deals/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "fd589f3d4819091ddf714b9b",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Ekouaer Women’s 2-Piece Mock Neck Lounge Sets Only $20.xx on Amazon (Reg. $36)",
       "retailer": null,
@@ -1986,11 +2012,11 @@
       "link_type": "source"
     },
     {
-      "id": "fda65855bd52bb4bd506701c",
+      "id": "fff490069f5ae30c3f7f4dec",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "B2G1 Free Kids Books on Amazon + Christmas Books from $2.xx!",
+      "title": "PRICE DROP! TOLOCO Massage Gun w/ 10 Heads Only $37.xx on Amazon (Reg. $60)",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -2006,34 +2032,8 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://thefreebieguy.com/amazon-book-sale/",
-      "source_url": "https://thefreebieguy.com/amazon-book-sale/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "feb6c79436d328f2f600badc",
-      "types": [
-        "removed"
-      ],
-      "title": "Peacock Black Friday Streaming Deal | 12 Months for Just $29.99!",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://thefreebieguy.com/streaming-peacock-deal/",
-      "source_url": "https://thefreebieguy.com/streaming-peacock-deal/",
+      "url": "https://thefreebieguy.com/toloco-deep-tissue-massage-gun/",
+      "source_url": "https://thefreebieguy.com/toloco-deep-tissue-massage-gun/",
       "retailer_url": null,
       "link_type": "source"
     }

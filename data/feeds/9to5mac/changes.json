@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-24T18:23:42.521175+00:00",
+  "retrieved_at": "2026-11-25T02:49:59.309299+00:00",
   "source": {
     "id": "9to5mac",
     "name": "9to5Mac Deals",
@@ -8,84 +8,5 @@
     "kind": "rss"
   },
   "baseline": false,
-  "events": [
-    {
-      "id": "15d34b588713ebf0bc56a8d2",
-      "types": [
-        "new"
-      ],
-      "title": "Black Friday deals: AirPods Pro 3 $100 off, AirTag $18 all-time low, MacBooks $300 off, iPad $350 off, more",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://9to5mac.com/2026/11/24/black-friday-deals-airpods-pro-3-airtag-2-macbook-pro/",
-      "source_url": "https://9to5mac.com/2026/11/24/black-friday-deals-airpods-pro-3-airtag-2-macbook-pro/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "7a64631c420df312d4b25056",
-      "types": [
-        "new"
-      ],
-      "title": "The best Mac Black Friday deals: $300 off MacBook Air, $220 off M6, PROLED, more",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://9to5mac.com/2026/11/24/best-mac-black-friday-deals/",
-      "source_url": "https://9to5mac.com/2026/11/24/best-mac-black-friday-deals/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "bf512717d94be2836d4213e5",
-      "types": [
-        "removed"
-      ],
-      "title": "Deals: MacBook Neo up to $120 off, AirPods Pro 3, Apple Watch Ultra 4, Beats 360 up to $80 off, more",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://9to5mac.com/2026/11/03/deals-macbook-neo-airpods-apple-watch-beats-360/",
-      "source_url": "https://9to5mac.com/2026/11/03/deals-macbook-neo-airpods-apple-watch-beats-360/",
-      "retailer_url": null,
-      "link_type": "source"
-    }
-  ]
+  "events": []
 }

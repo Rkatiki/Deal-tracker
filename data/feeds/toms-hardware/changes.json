@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-24T18:23:42.521175+00:00",
+  "retrieved_at": "2026-11-25T02:49:59.309299+00:00",
   "source": {
     "id": "toms-hardware",
     "name": "Tom's Hardware",
@@ -11,37 +11,11 @@
   "baseline": false,
   "events": [
     {
-      "id": "003cacfbd82ca79809b193a1",
-      "types": [
-        "removed"
-      ],
-      "title": "OLED gaming laptop with RTX 5060 and Intel Core Ultra 7 CPU price crashes by $650 in Black Friday offer",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.tomshardware.com/laptops/gaming-laptops/oled-gaming-laptop-with-rtx-5060-and-intel-core-ultra-7-cpu-price-crashes-by-usd650-in-black-friday-offer-lenovo-legion-5i-laptop-drops-to-usd1-349-with-free-games-at-b-and-h",
-      "source_url": "https://www.tomshardware.com/laptops/gaming-laptops/oled-gaming-laptop-with-rtx-5060-and-intel-core-ultra-7-cpu-price-crashes-by-usd650-in-black-friday-offer-lenovo-legion-5i-laptop-drops-to-usd1-349-with-free-games-at-b-and-h",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "06a765770a77ef78b88e7ef1",
+      "id": "304016a93ddf81b3753fa28e",
       "types": [
         "new"
       ],
-      "title": "These four 27-inch OLED 240 Hz QHD gaming monitors are stellar deals at less than $300",
+      "title": "512GB MacBook Neo drops to $699 — comes with Touch ID, but only in pink",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -57,17 +31,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.tomshardware.com/monitors/gaming-monitors/these-four-27-inch-oled-240-hz-qhd-gaming-monitors-are-stellar-deals-at-less-than-usd300-acer-aoc-gigabyte-and-innocn-rock-qd-oled-and-woled-panels",
-      "source_url": "https://www.tomshardware.com/monitors/gaming-monitors/these-four-27-inch-oled-240-hz-qhd-gaming-monitors-are-stellar-deals-at-less-than-usd300-acer-aoc-gigabyte-and-innocn-rock-qd-oled-and-woled-panels",
+      "url": "https://www.tomshardware.com/laptops/macbooks/512gb-macbook-neo-drops-to-usd699-comes-with-touch-id-but-only-in-pink",
+      "source_url": "https://www.tomshardware.com/laptops/macbooks/512gb-macbook-neo-drops-to-usd699-comes-with-touch-id-but-only-in-pink",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "1ae07507c89fbf062cfe3caa",
+      "id": "32c5ba9d4955d19a962a3341",
       "types": [
         "new"
       ],
-      "title": "Dell XPS 13 hits all-time low $549 for Black Friday",
+      "title": "US DOJ touts \"largest-ever\" crackdown on scammers across the globe as it seizes 14,000 devices and $17 billion in illicit funds",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -83,17 +57,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.tomshardware.com/laptops/dell-xps-13-hits-all-time-low-usd549-for-black-friday-dell-continues-to-challenge-macbook-neo",
-      "source_url": "https://www.tomshardware.com/laptops/dell-xps-13-hits-all-time-low-usd549-for-black-friday-dell-continues-to-challenge-macbook-neo",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/us-doj-touts-largest-ever-crackdown-on-scammers-across-the-globe-as-it-seizes-14-000-devices-and-usd17-billion-in-illicit-funds-operation-results-in-800-defendants-and-frees-2-200-forced-laborers",
+      "source_url": "https://www.tomshardware.com/tech-industry/cyber-security/us-doj-touts-largest-ever-crackdown-on-scammers-across-the-globe-as-it-seizes-14-000-devices-and-usd17-billion-in-illicit-funds-operation-results-in-800-defendants-and-frees-2-200-forced-laborers",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "21d3dd4f19e4240c261f0e28",
+      "id": "34196b60222147257acfa761",
       "types": [
         "removed"
       ],
-      "title": "MSI's magnificent 32-inch 4K QD-OLED gaming monitor tumbles to just $569",
+      "title": "Homelabber's $3,500 build straps four 32GB Nvidia V100s to a Lenovo mini PC for 128GB of VRAM",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -109,43 +83,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.tomshardware.com/monitors/gaming-monitors/msis-magnificent-32-inch-4k-qd-oled-gaming-monitor-tumbles-to-just-usd569-save-usd130-at-b-and-h-photo-with-this-black-friday-mag-321up-deal-the-perfect-gaming-upgrade-for-your-pc",
-      "source_url": "https://www.tomshardware.com/monitors/gaming-monitors/msis-magnificent-32-inch-4k-qd-oled-gaming-monitor-tumbles-to-just-usd569-save-usd130-at-b-and-h-photo-with-this-black-friday-mag-321up-deal-the-perfect-gaming-upgrade-for-your-pc",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/homelabbers-usd3-500-build-straps-four-32gb-nvidia-v100s-to-a-lenovo-mini-pc-for-128gb-of-vram-coreboot-oculink-docks-and-a-solder-bridge-unlock-285-tokens-sec-in-qwen3-8-27b",
+      "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/homelabbers-usd3-500-build-straps-four-32gb-nvidia-v100s-to-a-lenovo-mini-pc-for-128gb-of-vram-coreboot-oculink-docks-and-a-solder-bridge-unlock-285-tokens-sec-in-qwen3-8-27b",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "2679f2ff9b796c855c544d18",
-      "types": [
-        "removed"
-      ],
-      "title": "Logitech's accomplished MX Master 3S productivity mouse gets 24% discount",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.tomshardware.com/peripherals/mice/logitechs-accomplished-mx-master-3s-productivity-mouse-gets-24-percent-discount-usd75-buys-you-a-tried-and-tested-workhorse-with-killer-features",
-      "source_url": "https://www.tomshardware.com/peripherals/mice/logitechs-accomplished-mx-master-3s-productivity-mouse-gets-24-percent-discount-usd75-buys-you-a-tried-and-tested-workhorse-with-killer-features",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "284cb64f31a62d4f32c4a41c",
+      "id": "342837db59be514b24e84c35",
       "types": [
         "new"
       ],
-      "title": "Best Black Friday gaming GPU deals 2026",
+      "title": "Anycubic's Black Friday 3D Printers sale slashes up to $350 off a brand new printer",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -161,17 +109,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.tomshardware.com/pc-components/gpus/best-gaming-graphics-card-gpu-deals-nvidia-amd-intel",
-      "source_url": "https://www.tomshardware.com/pc-components/gpus/best-gaming-graphics-card-gpu-deals-nvidia-amd-intel",
+      "url": "https://www.tomshardware.com/3d-printing/anycubics-black-friday-3d-printers-sale-slashes-up-to-usd350-off-a-brand-new-printer-massive-discounts-available-on-the-most-popular-models",
+      "source_url": "https://www.tomshardware.com/3d-printing/anycubics-black-friday-3d-printers-sale-slashes-up-to-usd350-off-a-brand-new-printer-massive-discounts-available-on-the-most-popular-models",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "2c4ac375a891bf1461c6a655",
+      "id": "512ee45eaecaf10a1409af13",
       "types": [
         "new"
       ],
-      "title": "Go ad-free across Tom’s Hardware by subscribing to Premium from $7 a month, or $29 annually",
+      "title": "TP-Link's Archer 770 tri-band Wi-Fi 7 router is $120 off",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -187,17 +135,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.tomshardware.com/tech-industry/go-ad-free-across-toms-hardware-by-subscribing-to-premium-from-usd7-a-month-or-usd29-annually-support-us-to-get-seamless-browsing-read-a-treasure-trove-of-exclusive-content-and-unlock-access-to-bench",
-      "source_url": "https://www.tomshardware.com/tech-industry/go-ad-free-across-toms-hardware-by-subscribing-to-premium-from-usd7-a-month-or-usd29-annually-support-us-to-get-seamless-browsing-read-a-treasure-trove-of-exclusive-content-and-unlock-access-to-bench",
+      "url": "https://www.tomshardware.com/networking/routers/tp-links-archer-be770-tri-band-wi-fi-7-router-is-usd120-off-10-gbps-lan-ports-and-blazing-fast-wireless-speeds-for-usd280",
+      "source_url": "https://www.tomshardware.com/networking/routers/tp-links-archer-be770-tri-band-wi-fi-7-router-is-usd120-off-10-gbps-lan-ports-and-blazing-fast-wireless-speeds-for-usd280",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "2ff052b45ed7f7a092f9da7b",
+      "id": "708d4ac61e54457e2e43be61",
       "types": [
         "new"
       ],
-      "title": "The best Switch 2 accessories on sale now",
+      "title": "Legendary Cooler Master Hyper 212 Halo CPU air cooler drops to an all-time low of $15 — keep your AMD or Intel processor running cool on the cheap",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -213,17 +161,43 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.tomshardware.com/video-games/handheld-gaming/the-best-nintendo-switch-2-accessories-on-sale-now-for-black-friday-2026-controllers-cameras-cases-screen-protectors-and-more",
-      "source_url": "https://www.tomshardware.com/video-games/handheld-gaming/the-best-nintendo-switch-2-accessories-on-sale-now-for-black-friday-2026-controllers-cameras-cases-screen-protectors-and-more",
+      "url": "https://www.tomshardware.com/pc-components/air-cooling/legendary-cooler-master-hyper-212-halo-cpu-air-cooler-drops-to-an-all-time-low-of-usd15-keep-your-amd-or-intel-processor-running-cool-on-the-cheap",
+      "source_url": "https://www.tomshardware.com/pc-components/air-cooling/legendary-cooler-master-hyper-212-halo-cpu-air-cooler-drops-to-an-all-time-low-of-usd15-keep-your-amd-or-intel-processor-running-cool-on-the-cheap",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "3946a17b379026b5cfff447e",
+      "id": "70dd81645ee6813b1bfbf46f",
+      "types": [
+        "removed"
+      ],
+      "title": "Canadian scalper places 40+ Nvidia RTX 5090s on Facebook Marketplace for over $6,600 apiece",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.tomshardware.com/pc-components/gpus/canadian-scalper-places-40-nvidia-rtx-5090s-on-facebook-marketplace-for-over-usd6-600-apiece-ironically-still-cheaper-than-memory-expresss-10-000-cad-retail-price-purportedly-selling-every-unit-quite-quickly",
+      "source_url": "https://www.tomshardware.com/pc-components/gpus/canadian-scalper-places-40-nvidia-rtx-5090s-on-facebook-marketplace-for-over-usd6-600-apiece-ironically-still-cheaper-than-memory-expresss-10-000-cad-retail-price-purportedly-selling-every-unit-quite-quickly",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "784e6fcda478a8eb6325a8b8",
       "types": [
         "new"
       ],
-      "title": "This $479 RTX 5060 Ti 8GB gives you a big step up in performance for an RTX 5060 price",
+      "title": "3D printer tool changers are cheaper than ever, now starting at just $599 with multiple models at lowest-ever pricing",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -239,17 +213,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.tomshardware.com/pc-components/gpus/this-usd479-rtx-5060-ti-8gb-gives-you-a-big-step-up-in-performance-for-an-rtx-5060-price-twin-fan-gigabyte-eagle-card-is-a-great-1080p-gaming-upgrade",
-      "source_url": "https://www.tomshardware.com/pc-components/gpus/this-usd479-rtx-5060-ti-8gb-gives-you-a-big-step-up-in-performance-for-an-rtx-5060-price-twin-fan-gigabyte-eagle-card-is-a-great-1080p-gaming-upgrade",
+      "url": "https://www.tomshardware.com/3d-printing/3d-printer-tool-changers-are-cheaper-than-ever-now-starting-at-just-usd599-with-multiple-models-at-lowest-ever-pricing-these-game-changing-multi-material-multi-color-filament-saving-printers-are-all-on-sale",
+      "source_url": "https://www.tomshardware.com/3d-printing/3d-printer-tool-changers-are-cheaper-than-ever-now-starting-at-just-usd599-with-multiple-models-at-lowest-ever-pricing-these-game-changing-multi-material-multi-color-filament-saving-printers-are-all-on-sale",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "48238a6601d411226eaff4f9",
+      "id": "a5ddef8fdb60b139801ca5f1",
       "types": [
         "removed"
       ],
-      "title": "Alienware Aurora PC with RTX 5070, 32GB of RAM drops to $1,899 in Amazon Black Friday offer",
+      "title": "Walmart has slashed $1,090 off this RTX 5070 gaming laptop, nearly half price",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -265,17 +239,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.tomshardware.com/desktops/gaming-pcs/alienware-aurora-pc-with-rtx-5070-32gb-of-ram-drops-to-usd1-899-in-amazon-black-friday-offer-core-ultra-7-equipped-pc-is-one-of-the-best-value-prebuilt-deals-weve-seen-so-far",
-      "source_url": "https://www.tomshardware.com/desktops/gaming-pcs/alienware-aurora-pc-with-rtx-5070-32gb-of-ram-drops-to-usd1-899-in-amazon-black-friday-offer-core-ultra-7-equipped-pc-is-one-of-the-best-value-prebuilt-deals-weve-seen-so-far",
+      "url": "https://www.tomshardware.com/laptops/gaming-laptops/walmart-has-slashed-usd1-090-off-this-rtx-5070-gaming-laptop-nearly-half-price-get-a-ryzen-9-powered-machine-for-just-usd1-299",
+      "source_url": "https://www.tomshardware.com/laptops/gaming-laptops/walmart-has-slashed-usd1-090-off-this-rtx-5070-gaming-laptop-nearly-half-price-get-a-ryzen-9-powered-machine-for-just-usd1-299",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "6b884eaf7844f0f07e75fa20",
+      "id": "da6601cfa2552e41fc843681",
       "types": [
         "removed"
       ],
-      "title": "Ditch cloud subscriptions with a $132 discount on a 4-Bay NAS enclosure in Amazon Black Friday deal",
+      "title": "Save $730 on this RTX 5070 Ti gaming PC from Cyberpower",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -291,17 +265,43 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.tomshardware.com/pc-components/nas/ditch-cloud-subscriptions-with-a-usd132-discount-on-a-4-bay-ugreen-dxp4800-gt-nas-enclosure-in-amazon-black-friday-deal-offers-dual-10gbe-ports-and-supports-up-to-144tb-of-storage",
-      "source_url": "https://www.tomshardware.com/pc-components/nas/ditch-cloud-subscriptions-with-a-usd132-discount-on-a-4-bay-ugreen-dxp4800-gt-nas-enclosure-in-amazon-black-friday-deal-offers-dual-10gbe-ports-and-supports-up-to-144tb-of-storage",
+      "url": "https://www.tomshardware.com/desktops/gaming-pcs/save-usd730-on-this-rtx-5070-ti-gaming-pc-from-cyberpower-32gb-of-ram-16gb-of-vram-and-a-2tb-ssd-make-for-an-impressive-spec-sheet-for-only-usd2-479",
+      "source_url": "https://www.tomshardware.com/desktops/gaming-pcs/save-usd730-on-this-rtx-5070-ti-gaming-pc-from-cyberpower-32gb-of-ram-16gb-of-vram-and-a-2tb-ssd-make-for-an-impressive-spec-sheet-for-only-usd2-479",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "721d2b374e8ec45ce20a7d7c",
+      "id": "ed5ffc23edfd3d2592d7ad7f",
+      "types": [
+        "removed"
+      ],
+      "title": "Weird finger-wearable gaming mouse raises $43,000 on Kickstarter, a staggering 8x its crowdfunding goal",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.tomshardware.com/peripherals/gaming-mice/weird-finger-wearable-gaming-mouse-kickstarter-breaks-8x-its-crowdfunding-goal-but-it-potentially-has-major-design-flaws-and-is-kind-of-sketchy",
+      "source_url": "https://www.tomshardware.com/peripherals/gaming-mice/weird-finger-wearable-gaming-mouse-kickstarter-breaks-8x-its-crowdfunding-goal-but-it-potentially-has-major-design-flaws-and-is-kind-of-sketchy",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "f3a5588222d75883a96c5fb8",
       "types": [
         "new"
       ],
-      "title": "The SSD crisis is being defeated with Black Friday 1TB and 2TB deals at less than $0.15 per GB",
+      "title": "RTX 5090-equipped Asus ROG Strix SCAR 16 laptop is $350 off",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -317,43 +317,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.tomshardware.com/pc-components/the-ssd-crisis-is-being-defeated-with-black-friday-1tb-and-2tb-deals-at-less-than-usd0-15-per-gb-some-pcie-4-0-ssds-are-now-cheaper-than-when-we-reviewed-them",
-      "source_url": "https://www.tomshardware.com/pc-components/the-ssd-crisis-is-being-defeated-with-black-friday-1tb-and-2tb-deals-at-less-than-usd0-15-per-gb-some-pcie-4-0-ssds-are-now-cheaper-than-when-we-reviewed-them",
+      "url": "https://www.tomshardware.com/pc-components/rtx-5090-equipped-asus-rog-strix-scar-16-laptop-is-usd350-off-snag-a-great-deal-on-a-ridiculously-powerful-2025-model-16-inch-gaming-laptop-with-32gb-of-ram-and-core-ultra-9-275hx-processor-for-only-usd4-149",
+      "source_url": "https://www.tomshardware.com/pc-components/rtx-5090-equipped-asus-rog-strix-scar-16-laptop-is-usd350-off-snag-a-great-deal-on-a-ridiculously-powerful-2025-model-16-inch-gaming-laptop-with-32gb-of-ram-and-core-ultra-9-275hx-processor-for-only-usd4-149",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "7f756c709e8702c7416c926c",
-      "types": [
-        "removed"
-      ],
-      "title": "Nintendo Switch 2 bundles drop to pre-hike pricing in Black Friday run-up sale",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.tomshardware.com/video-games/handheld-gaming/nintendo-switch-2-bundles-drop-to-pre-hike-pricing-in-black-friday-run-up-sale-get-a-switch-2-along-with-mario-kart-world-and-nintendo-switch-online-for-usd50-off",
-      "source_url": "https://www.tomshardware.com/video-games/handheld-gaming/nintendo-switch-2-bundles-drop-to-pre-hike-pricing-in-black-friday-run-up-sale-get-a-switch-2-along-with-mario-kart-world-and-nintendo-switch-online-for-usd50-off",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "877d384f4bea70c5bc6407a5",
+      "id": "f5fb3e6f5acd5da9c842bdec",
       "types": [
         "new"
       ],
-      "title": "Hit this RTX 5070 Ti-powered gaming laptop deal at Best Buy and save $550",
+      "title": "Best Black Friday gaming laptop PC deals 2026",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -369,242 +343,8 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.tomshardware.com/laptops/gaming-laptops/hit-this-rtx-5070-ti-powered-gaming-laptop-deal-at-best-buy-and-save-usd550-asus-rog-strix-g16-only-usd1-749-with-16gb-of-ddr5-ram-and-a-1tb-ssd",
-      "source_url": "https://www.tomshardware.com/laptops/gaming-laptops/hit-this-rtx-5070-ti-powered-gaming-laptop-deal-at-best-buy-and-save-usd550-asus-rog-strix-g16-only-usd1-749-with-16gb-of-ddr5-ram-and-a-1tb-ssd",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "87ef48a85336b21f8147cf0e",
-      "types": [
-        "new"
-      ],
-      "title": "Grab a 4K-ready CyberPowerPC gaming rig with a 7800X3D and RTX 5070 for $2,099.99",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.tomshardware.com/desktops/gaming-pcs/grab-a-4k-ready-cyberpowerpc-gaming-rig-with-a-7800x3d-and-rtx-5070-for-usd2-099-99-newegg-knocks-usd130-off-this-liquid-cooled-desktop-with-32gb-ddr5-and-a-1tb-ssd",
-      "source_url": "https://www.tomshardware.com/desktops/gaming-pcs/grab-a-4k-ready-cyberpowerpc-gaming-rig-with-a-7800x3d-and-rtx-5070-for-usd2-099-99-newegg-knocks-usd130-off-this-liquid-cooled-desktop-with-32gb-ddr5-and-a-1tb-ssd",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "8af07f07ebd3055521359395",
-      "types": [
-        "removed"
-      ],
-      "title": "One of the best gaming headsets plummets to just $78 at Amazon in unmissable Black Friday deal",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.tomshardware.com/peripherals/gaming-headsets/one-of-the-best-gaming-headsets-plummets-to-just-usd78-at-amazon-in-unmissable-black-friday-deal-razer-blackshark-v2-pro-outshines-its-successor-at-less-than-half-the-price",
-      "source_url": "https://www.tomshardware.com/peripherals/gaming-headsets/one-of-the-best-gaming-headsets-plummets-to-just-usd78-at-amazon-in-unmissable-black-friday-deal-razer-blackshark-v2-pro-outshines-its-successor-at-less-than-half-the-price",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "8f11a9316b415faf810a1647",
-      "types": [
-        "removed"
-      ],
-      "title": "Act fast to score Intel's Core i7-14700K for its lowest price ever at $249.99",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.tomshardware.com/pc-components/cpus/act-fast-to-score-intels-core-i7-14700k-for-its-lowest-price-ever-at-usd249-99-raptor-lake-refresh-cpu-is-a-bargain-that-supports-ddr5-and-ddr4-motherboards",
-      "source_url": "https://www.tomshardware.com/pc-components/cpus/act-fast-to-score-intels-core-i7-14700k-for-its-lowest-price-ever-at-usd249-99-raptor-lake-refresh-cpu-is-a-bargain-that-supports-ddr5-and-ddr4-motherboards",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "953dad27f1b23cc8e5f02847",
-      "types": [
-        "removed"
-      ],
-      "title": "Lenders back SpaceX's $43 billion Nvidia GPU deal but worry the collateral could end up in orbit, making them impossible to reclaim if Musk defaults",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.tomshardware.com/tech-industry/data-centers/lenders-back-spacexs-usd43-billion-nvidia-gpu-deal-but-worry-the-collateral-could-end-up-in-orbit-making-it-impossible-to-reclaim-if-musk-defaults-five-year-hell-or-high-water-lease-may-lack-a-written-earth-only-guarantee",
-      "source_url": "https://www.tomshardware.com/tech-industry/data-centers/lenders-back-spacexs-usd43-billion-nvidia-gpu-deal-but-worry-the-collateral-could-end-up-in-orbit-making-it-impossible-to-reclaim-if-musk-defaults-five-year-hell-or-high-water-lease-may-lack-a-written-earth-only-guarantee",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "9ce0236e25738c31638203ad",
-      "types": [
-        "new"
-      ],
-      "title": "The cheapest 32GB DDR5-6000 RAM kit on the market is on sale for only $439",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.tomshardware.com/pc-components/ddr5/the-cheapest-32gb-ddr5-6000-ram-kit-on-the-market-is-on-sale-for-only-usd439-teams-32gb-ddr5-6000-cl38-t-force-delta-rgb-ram-kit-is-usd110-off-with-promo-code-no-bundle-deals-needed",
-      "source_url": "https://www.tomshardware.com/pc-components/ddr5/the-cheapest-32gb-ddr5-6000-ram-kit-on-the-market-is-on-sale-for-only-usd439-teams-32gb-ddr5-6000-cl38-t-force-delta-rgb-ram-kit-is-usd110-off-with-promo-code-no-bundle-deals-needed",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "a44bbe3abb86c4fdfd050687",
-      "types": [
-        "removed"
-      ],
-      "title": "Corsair's tiny Xeneon Edge PC touchscreen discounted by $50 in all five colors",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.tomshardware.com/pc-components/corsairs-tiny-xeneon-edge-pc-touchscreen-discounted-by-usd50-in-all-five-colors-14-5-inch-lcd-touchscreen-drops-to-usd199-99-comes-with-a-built-in-stand",
-      "source_url": "https://www.tomshardware.com/pc-components/corsairs-tiny-xeneon-edge-pc-touchscreen-discounted-by-usd50-in-all-five-colors-14-5-inch-lcd-touchscreen-drops-to-usd199-99-comes-with-a-built-in-stand",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "a65e79aa8ca8ccdf5c38fc78",
-      "types": [
-        "removed"
-      ],
-      "title": "Grab Keychron's full-sized low-profile K5 V2 wireless mechanical keyboard for its lowest-ever price of just $56",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.tomshardware.com/peripherals/mice/grab-keychrons-full-sized-low-profile-k5-v2-wireless-mechanical-keyboard-for-its-lowest-ever-price-of-just-usd56-108-key-low-profile-clacker-supports-qmk-sports-three-layers-of-foam",
-      "source_url": "https://www.tomshardware.com/peripherals/mice/grab-keychrons-full-sized-low-profile-k5-v2-wireless-mechanical-keyboard-for-its-lowest-ever-price-of-just-usd56-108-key-low-profile-clacker-supports-qmk-sports-three-layers-of-foam",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "d0d0abb9b78e4b8a9b89efc3",
-      "types": [
-        "removed"
-      ],
-      "title": "An under-desk headphone hanger with three charging ports (up to 20W) for less than $10",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.tomshardware.com/peripherals/usb/under-desk-headphone-hanger-with-three-charging-ports-drops-below-usd10-cozoos-20w-combo-device-has-been-a-useful-addition-to-my-standing-desk-since-2023",
-      "source_url": "https://www.tomshardware.com/peripherals/usb/under-desk-headphone-hanger-with-three-charging-ports-drops-below-usd10-cozoos-20w-combo-device-has-been-a-useful-addition-to-my-standing-desk-since-2023",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "eb8671cf449e2b332970361e",
-      "types": [
-        "removed"
-      ],
-      "title": "Save $78 on Corsair's triple-chamber AIR 5400 RS-R midtower PC case at new all-time low price",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.tomshardware.com/pc-components/pc-cases/save-usd78-on-corsairs-triple-chamber-air-5400-rs-r-midtower-pc-case-at-new-all-time-low-price-chassis-includes-three-pre-installed-rs-r-argb-fans-and-back-connector-motherboard-support",
-      "source_url": "https://www.tomshardware.com/pc-components/pc-cases/save-usd78-on-corsairs-triple-chamber-air-5400-rs-r-midtower-pc-case-at-new-all-time-low-price-chassis-includes-three-pre-installed-rs-r-argb-fans-and-back-connector-motherboard-support",
+      "url": "https://www.tomshardware.com/laptops/gaming-laptops/best-gaming-laptop-deals-dell-msi-alienware-rog",
+      "source_url": "https://www.tomshardware.com/laptops/gaming-laptops/best-gaming-laptop-deals-dell-msi-alienware-rog",
       "retailer_url": null,
       "link_type": "source"
     }

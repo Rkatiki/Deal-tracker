@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-24T18:23:42.521175+00:00",
+  "retrieved_at": "2026-11-25T02:49:59.309299+00:00",
   "source": {
     "id": "woot-daily",
     "name": "Woot Daily Deals",
@@ -11,11 +11,11 @@
   "baseline": false,
   "events": [
     {
-      "id": "35a6c03003702863b81101ad",
+      "id": "0c66ee72279efa016ecd11ff",
       "types": [
         "removed"
       ],
-      "title": "Vertuo Double Espresso Chiaro Decaf",
+      "title": "Nespresso Blue Bottle NOLA",
       "retailer": "Woot",
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -31,17 +31,43 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.woot.com/offers/vertuo-double-espresso-chiaro-decaf-6",
-      "source_url": "https://forums.woot.com/t/vertuo-double-espresso-chiaro-decaf/2703715",
-      "retailer_url": "https://www.woot.com/offers/vertuo-double-espresso-chiaro-decaf-6",
+      "url": "https://www.woot.com/offers/nespresso-blue-bottle-nola-1",
+      "source_url": "https://forums.woot.com/t/nespresso-blue-bottle-nola/2703723",
+      "retailer_url": "https://www.woot.com/offers/nespresso-blue-bottle-nola-1",
       "link_type": "retailer"
     },
     {
-      "id": "a06df2e816542285f8d72bcf",
+      "id": "39f973f13be6fc976513871e",
+      "types": [
+        "new"
+      ],
+      "title": "GLORIOUS Gaming Model O 2 PRO Wireless Gaming Mouse",
+      "retailer": "Woot",
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.woot.com/offers/glorious-gaming-model-o-2-pro-wireless-gaming-mouse",
+      "source_url": "https://forums.woot.com/t/glorious-gaming-model-o-2-pro-wireless-gaming-mouse/2711324",
+      "retailer_url": "https://www.woot.com/offers/glorious-gaming-model-o-2-pro-wireless-gaming-mouse",
+      "link_type": "retailer"
+    },
+    {
+      "id": "3ef1ad86f09e8e4f91cdff8c",
       "types": [
         "removed"
       ],
-      "title": "Nespresso Decaffeinato Sweet Vanilla",
+      "title": "Nespresso Samra Togetherness Blend",
       "retailer": "Woot",
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -57,17 +83,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.woot.com/offers/nespresso-decaffeinato-sweet-vanilla-1",
-      "source_url": "https://forums.woot.com/t/nespresso-decaffeinato-sweet-vanilla/2703720",
-      "retailer_url": "https://www.woot.com/offers/nespresso-decaffeinato-sweet-vanilla-1",
+      "url": "https://www.woot.com/offers/nespresso-samra-togetherness-blend-1",
+      "source_url": "https://forums.woot.com/t/nespresso-samra-togetherness-blend/2703727",
+      "retailer_url": "https://www.woot.com/offers/nespresso-samra-togetherness-blend-1",
       "link_type": "retailer"
     },
     {
-      "id": "e6bf8bb31e01beed90463a13",
+      "id": "58f911894aadaa64c6892e55",
       "types": [
         "new"
       ],
-      "title": "Drumstick Boppers Party Accessory",
+      "title": "Hallmark Paper Party Plates and Napkins",
       "retailer": "Woot",
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -83,17 +109,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.woot.com/offers/drumstick-boppers-party-accessory",
-      "source_url": "https://forums.woot.com/t/drumstick-boppers-party-accessory/2710956",
-      "retailer_url": "https://www.woot.com/offers/drumstick-boppers-party-accessory",
+      "url": "https://www.woot.com/offers/hallmark-paper-party-plates-and-napkins-3",
+      "source_url": "https://forums.woot.com/t/hallmark-paper-party-plates-and-napkins/2711299",
+      "retailer_url": "https://www.woot.com/offers/hallmark-paper-party-plates-and-napkins-3",
       "link_type": "retailer"
     },
     {
-      "id": "fce8e8f9674876a6c2d99342",
+      "id": "8750e316168f78bc9d912792",
       "types": [
         "new"
       ],
-      "title": "TOWPONICS Lights Candles",
+      "title": "SPOT Capybara with Orange Plush Dog Toy",
       "retailer": "Woot",
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -109,9 +135,87 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.woot.com/offers/towponics-lights-candles",
-      "source_url": "https://forums.woot.com/t/towponics-lights-candles/2709469",
-      "retailer_url": "https://www.woot.com/offers/towponics-lights-candles",
+      "url": "https://www.woot.com/offers/spot-capybara-with-orange-plush-dog-toy-4",
+      "source_url": "https://forums.woot.com/t/spot-capybara-with-orange-plush-dog-toy/2711310",
+      "retailer_url": "https://www.woot.com/offers/spot-capybara-with-orange-plush-dog-toy-4",
+      "link_type": "retailer"
+    },
+    {
+      "id": "a28517a030aa1cc722a01d08",
+      "types": [
+        "removed"
+      ],
+      "title": "Nespresso Sweet Vanilla Coffee Pods",
+      "retailer": "Woot",
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.woot.com/offers/nespresso-sweet-vanilla-coffee-pods-1",
+      "source_url": "https://forums.woot.com/t/nespresso-sweet-vanilla-coffee-pods/2703731",
+      "retailer_url": "https://www.woot.com/offers/nespresso-sweet-vanilla-coffee-pods-1",
+      "link_type": "retailer"
+    },
+    {
+      "id": "d797748cdf6cd0b622cdbb7a",
+      "types": [
+        "new"
+      ],
+      "title": "BUILT Mercer Lunch Bag Black",
+      "retailer": "Woot",
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.woot.com/offers/built-mercer-lunch-bag-black-3",
+      "source_url": "https://forums.woot.com/t/built-mercer-lunch-bag-black/2711335",
+      "retailer_url": "https://www.woot.com/offers/built-mercer-lunch-bag-black-3",
+      "link_type": "retailer"
+    },
+    {
+      "id": "e82fede477e90c8f506bd7b0",
+      "types": [
+        "removed"
+      ],
+      "title": "Nespresso Sweet Almond & Hibiscus LE",
+      "retailer": "Woot",
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.woot.com/offers/nespresso-sweet-almond-hibiscus-le-1",
+      "source_url": "https://forums.woot.com/t/nespresso-sweet-almond-hibiscus-le/2703725",
+      "retailer_url": "https://www.woot.com/offers/nespresso-sweet-almond-hibiscus-le-1",
       "link_type": "retailer"
     }
   ]

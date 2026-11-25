@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-24T18:23:42.521175+00:00",
+  "retrieved_at": "2026-11-25T02:49:59.309299+00:00",
   "source": {
     "id": "cnet",
     "name": "CNET Deals",
@@ -8,5 +8,32 @@
     "kind": "rss"
   },
   "baseline": false,
-  "events": []
+  "events": [
+    {
+      "id": "e7dce2130ad5451587be4f3b",
+      "types": [
+        "new"
+      ],
+      "title": "Your Black Friday 2026 Shopping Guide: What You Need to Know to Make the Most of the Biggest Sale of the Year",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.cnet.com/deals/black-friday-2026-sales-dates-faq-everything-to-know/",
+      "source_url": "https://www.cnet.com/deals/black-friday-2026-sales-dates-faq-everything-to-know/",
+      "retailer_url": null,
+      "link_type": "source"
+    }
+  ]
 }
