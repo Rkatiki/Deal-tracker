@@ -1,19 +1,19 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-25T02:28:33+00:00",
+  "retrieved_at": "2026-11-25T14:22:26+00:00",
   "sheet_id": "18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4",
   "tabs": [
     {
       "gid": "0",
       "name": "Master List",
       "method": "gviz_csv",
-      "count": 1878
+      "count": 1892
     },
     {
       "gid": "447244790",
       "name": "Electronics",
       "method": "gviz_csv",
-      "count": 531
+      "count": 538
     },
     {
       "gid": "2126119671",
@@ -79,7 +79,7 @@
       "gid": "618994169",
       "name": "Other",
       "method": "gviz_csv",
-      "count": 138
+      "count": 144
     }
   ],
   "deals": [
@@ -56348,6 +56348,45 @@
       }
     },
     {
+      "id": "0482a0ad2ff06e5898f78573",
+      "title": "Gucci Guilty Love Edition Eau de Parfum for Men, 1.6 oz",
+      "retailer": "Ulta",
+      "price_cents": null,
+      "currency": "USD",
+      "coupon": null,
+      "notes": "Was $140.00 (40% off); Posted Nov 24; Price can change; check before posting",
+      "url": "https://mavely.app.link/XOeMLeeql8b",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=618994169",
+      "retailer_url": "https://mavely.app.link/XOeMLeeql8b",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=618994169",
+      "sources": [
+        {
+          "gid": "618994169",
+          "tab": "Other",
+          "price_text": ""
+        },
+        {
+          "gid": "0",
+          "tab": "Master List",
+          "price_text": ""
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
       "id": "0627ca1468e44691bbefda1c",
       "title": "ProCase Laptop Sleeve for MacBook Neo 13 Inch",
       "retailer": "Amazon",
@@ -57820,6 +57859,45 @@
       }
     },
     {
+      "id": "1d4c9bc32806801ecf3ccc16",
+      "title": "Dell - 15.3\" 2K Touchscreen Laptop - Intel Core 7 Series 3 2026 - 16GB Memory - 1TB Storage - Celestial Blue",
+      "retailer": "Best Buy",
+      "price_cents": null,
+      "currency": "USD",
+      "coupon": null,
+      "notes": "Was $1,199.99 (33% off); Posted Nov 24; Price can change; check before posting",
+      "url": "https://bestbuycreators.7tiv.net/DWodDG",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
+      "retailer_url": null,
+      "link_type": "offer_link",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
+      "sources": [
+        {
+          "gid": "447244790",
+          "tab": "Electronics",
+          "price_text": ""
+        },
+        {
+          "gid": "0",
+          "tab": "Master List",
+          "price_text": ""
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
       "id": "1d9b10090c209619cf8a3eba",
       "title": "NEXPURE - 1300W Ionic Hair Dryer Blow Dryer with Nozzle Lightweight Quiet Fast Dry Home Salon Travel",
       "retailer": "Best Buy",
@@ -58523,6 +58601,45 @@
         {
           "gid": "666531270",
           "tab": "Toys",
+          "price_text": ""
+        },
+        {
+          "gid": "0",
+          "tab": "Master List",
+          "price_text": ""
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
+      "id": "2c71cbffb1059d705b65d394",
+      "title": "bella PRO 5 Speed Centrifugal Digital Juice Extractor Stainless Steel",
+      "retailer": "Best Buy",
+      "price_cents": null,
+      "currency": "USD",
+      "coupon": null,
+      "notes": "Was $119.99 (58% off); Posted Nov 24; Price can change; check before posting",
+      "url": "https://bestbuycreators.7tiv.net/OYBkWz",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=618994169",
+      "retailer_url": null,
+      "link_type": "offer_link",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=618994169",
+      "sources": [
+        {
+          "gid": "618994169",
+          "tab": "Other",
           "price_text": ""
         },
         {
@@ -59837,6 +59954,45 @@
       }
     },
     {
+      "id": "3d05f513227d604daf3a5e52",
+      "title": "Chloe Nomade Eau de Parfum, 1.0 oz",
+      "retailer": "Ulta",
+      "price_cents": null,
+      "currency": "USD",
+      "coupon": null,
+      "notes": "Was $115.00 (40% off); Posted Nov 24; Price can change; check before posting",
+      "url": "https://mavely.app.link/wb7B6Raql8b",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=618994169",
+      "retailer_url": "https://mavely.app.link/wb7B6Raql8b",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=618994169",
+      "sources": [
+        {
+          "gid": "618994169",
+          "tab": "Other",
+          "price_text": ""
+        },
+        {
+          "gid": "0",
+          "tab": "Master List",
+          "price_text": ""
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
       "id": "3de3d34f4292fb8d47c55a83",
       "title": "Apple iPad mini (A20 Pro) — Midnight | 8.5-inch OLED Display, 128GB, Wi-Fi 7, 12MP Front/Back Camera, Water Resistant",
       "retailer": "Amazon",
@@ -59889,6 +60045,45 @@
       "link_type": "offer_link",
       "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=0",
       "sources": [
+        {
+          "gid": "0",
+          "tab": "Master List",
+          "price_text": ""
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
+      "id": "3ecf428d60984ce4232d372a",
+      "title": "Fujifilm Instax Mini SE Instant Camera with Bonus 10 Pack Mini Film, Pink (Value Pack)",
+      "retailer": "Walmart",
+      "price_cents": null,
+      "currency": "USD",
+      "coupon": null,
+      "notes": "Was $78.44 (43% off); Posted Nov 24; Price can change; check before posting",
+      "url": "https://mavely.app.link/e/Q3RrXK2FuPb",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
+      "retailer_url": "https://mavely.app.link/e/Q3RrXK2FuPb",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
+      "sources": [
+        {
+          "gid": "447244790",
+          "tab": "Electronics",
+          "price_text": ""
+        },
         {
           "gid": "0",
           "tab": "Master List",
@@ -61109,6 +61304,45 @@
       }
     },
     {
+      "id": "53f6604e511ffd9035cfacfd",
+      "title": "HP OmniBook X Flip 2-in-1 14\" 2K OLED Touchscreen Laptop, Intel Core Ultra 7 (2026), 16GB Memory, 1TB Storage, Meteor Silver",
+      "retailer": "Best Buy",
+      "price_cents": null,
+      "currency": "USD",
+      "coupon": null,
+      "notes": "Was $1,649.99 (19% off); Posted Nov 24; Price can change; check before posting",
+      "url": "https://bestbuycreators.7tiv.net/aNg9vW",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
+      "retailer_url": null,
+      "link_type": "offer_link",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
+      "sources": [
+        {
+          "gid": "447244790",
+          "tab": "Electronics",
+          "price_text": ""
+        },
+        {
+          "gid": "0",
+          "tab": "Master List",
+          "price_text": ""
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
       "id": "55388aec159fb36324e65e69",
       "title": "Hamilton Beach 14-in-1 Dual Level French Door Air Fryer Oven",
       "retailer": "Kohl's",
@@ -61867,6 +62101,45 @@
         "score": 0,
         "max_usd": null,
         "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
+      "id": "6031d27649c32391634c4e3a",
+      "title": "bObsweep Dustin Robot Vacuum & Mop, 1 Gal Capacity Auto Empty Odor Control Dock, with Privacy First U.S. Software Twilight",
+      "retailer": "Best Buy",
+      "price_cents": null,
+      "currency": "USD",
+      "coupon": null,
+      "notes": "Was $799.99 (79% off); Posted Nov 24; Price can change; check before posting",
+      "url": "https://bestbuycreators.7tiv.net/Pzxd2j",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
+      "retailer_url": null,
+      "link_type": "offer_link",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
+      "sources": [
+        {
+          "gid": "447244790",
+          "tab": "Electronics",
+          "price_text": ""
+        },
+        {
+          "gid": "0",
+          "tab": "Master List",
+          "price_text": ""
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "robot_vacuum_mop",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": 350,
+        "preferred_usd": 250,
         "within_budget": null,
         "comparisons": {},
         "savings_vs_comparison_cents": null,
@@ -64159,6 +64432,45 @@
       }
     },
     {
+      "id": "8223e2cfd7b4fd5295423bc8",
+      "title": "HP - Chromebook Plus 14\" 2K Touchscreen Laptop - Intel Core Processor N Series (2025) - 8GB Memory - 128GB Storage - Glacier Silver",
+      "retailer": "Best Buy",
+      "price_cents": null,
+      "currency": "USD",
+      "coupon": null,
+      "notes": "Was $599.00 (37% off); Posted Nov 24; Price can change; check before posting",
+      "url": "https://bestbuycreators.7tiv.net/3kQ0by",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
+      "retailer_url": null,
+      "link_type": "offer_link",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
+      "sources": [
+        {
+          "gid": "447244790",
+          "tab": "Electronics",
+          "price_text": ""
+        },
+        {
+          "gid": "0",
+          "tab": "Master List",
+          "price_text": ""
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
       "id": "82ca9fa91c63e817ebfd70be",
       "title": "8BitDo - Pro 2 Bluetooth Controller for Switch, Windows, macOS, Android, and Steam Deck with Hall Effect Joysticks - Black — Black Friday Deal",
       "retailer": "Best Buy",
@@ -65309,6 +65621,45 @@
       }
     },
     {
+      "id": "9391bf3c04a9a060704a6175",
+      "title": "Samsonite Silhouette 18 Softside Carry-on Luggage",
+      "retailer": "Kohl's",
+      "price_cents": null,
+      "currency": "USD",
+      "coupon": null,
+      "notes": "Was $499.99 (60% off); Posted Nov 24; Price can change; check before posting",
+      "url": "https://mavely.app.link/BehewFyrg8b",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=618994169",
+      "retailer_url": "https://mavely.app.link/BehewFyrg8b",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=618994169",
+      "sources": [
+        {
+          "gid": "618994169",
+          "tab": "Other",
+          "price_text": ""
+        },
+        {
+          "gid": "0",
+          "tab": "Master List",
+          "price_text": ""
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
       "id": "93b0133d5a15cad7fbba9922",
       "title": "Michael Kors Hudson Notched Money Clip Card Case, Chocolate",
       "retailer": "Amazon",
@@ -65483,6 +65834,40 @@
           "tab": "Houshold",
           "price_text": ""
         },
+        {
+          "gid": "0",
+          "tab": "Master List",
+          "price_text": ""
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
+      "id": "96a12c1ff1812221046cb5eb",
+      "title": "Yves Saint Laurent Libre L'Eau Nue Alcohol-Free Perfume with Green Mandarin & Bergamot, 1.6 oz",
+      "retailer": "Ulta",
+      "price_cents": null,
+      "currency": "USD",
+      "coupon": null,
+      "notes": "Was $120.00 (50% off); Price can change; check before posting",
+      "url": "https://mavely.app.link/dyNd8Pmtg8b",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=0",
+      "retailer_url": "https://mavely.app.link/dyNd8Pmtg8b",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=0",
+      "sources": [
         {
           "gid": "0",
           "tab": "Master List",
@@ -67482,6 +67867,45 @@
       }
     },
     {
+      "id": "b34d545a8cddb7ad0553a6a1",
+      "title": "Gucci Guilty Love Edition Eau de Parfum for Women, 1.6 oz",
+      "retailer": "Ulta",
+      "price_cents": null,
+      "currency": "USD",
+      "coupon": null,
+      "notes": "Was $154.00 (40% off); Posted Nov 24; Price can change; check before posting",
+      "url": "https://mavely.app.link/vB26t4fql8b",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=618994169",
+      "retailer_url": "https://mavely.app.link/vB26t4fql8b",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=618994169",
+      "sources": [
+        {
+          "gid": "618994169",
+          "tab": "Other",
+          "price_text": ""
+        },
+        {
+          "gid": "0",
+          "tab": "Master List",
+          "price_text": ""
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
       "id": "b4515aef8ea9b4db62609238",
       "title": "Call of Duty: Black Ops 6 - PlayStation 4 Game",
       "retailer": "Walmart",
@@ -67888,6 +68312,45 @@
         {
           "gid": "47040948",
           "tab": "Fashion",
+          "price_text": ""
+        },
+        {
+          "gid": "0",
+          "tab": "Master List",
+          "price_text": ""
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
+      "id": "bc5364fd0b641c9a4b37624a",
+      "title": "Compustar - CSX5305S-KIT 2-Way Remote Starter, 3,000-ft Range, Smartphone Control, DroneMobile, Installation Included - Black",
+      "retailer": "Best Buy",
+      "price_cents": null,
+      "currency": "USD",
+      "coupon": null,
+      "notes": "Was $649.99 (38% off); Posted Nov 24; Price can change; check before posting",
+      "url": "https://bestbuycreators.7tiv.net/k46Gg0",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
+      "retailer_url": null,
+      "link_type": "offer_link",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
+      "sources": [
+        {
+          "gid": "447244790",
+          "tab": "Electronics",
           "price_text": ""
         },
         {
@@ -71215,6 +71678,45 @@
       }
     },
     {
+      "id": "ec4692c4bc04bf4d35b28fa6",
+      "title": "Samsung 65-Inch Class S85H Series, OLED, 4K, Smart TV, 2026 Model",
+      "retailer": "Amazon",
+      "price_cents": null,
+      "currency": "USD",
+      "coupon": null,
+      "notes": "Was $1,597.99 (44% off); Posted Nov 24; Price can change; check before posting",
+      "url": "https://mavely.app.link/ybTGXsrxH7b",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
+      "retailer_url": "https://mavely.app.link/ybTGXsrxH7b",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
+      "sources": [
+        {
+          "gid": "447244790",
+          "tab": "Electronics",
+          "price_text": ""
+        },
+        {
+          "gid": "0",
+          "tab": "Master List",
+          "price_text": ""
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "tv",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": 500,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
       "id": "ecd732c7b655f9da94f5dca1",
       "title": "FOX Nation — $3.99/month for 12 Months",
       "retailer": "FOX Nation",
@@ -72045,6 +72547,45 @@
         {
           "gid": "1904736644",
           "tab": "Hardware-Tools",
+          "price_text": ""
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
+      "id": "f74c92de27d7a99135a04b31",
+      "title": "NEXPURE Body Hair Trimmer Wet Dry Groin Bikini Trimmer Ceramic Blade LED Waterproof USB Rechargeable Black",
+      "retailer": "Best Buy",
+      "price_cents": null,
+      "currency": "USD",
+      "coupon": null,
+      "notes": "Was $59.99 (67% off); Posted Nov 24; Price can change; check before posting",
+      "url": "https://bestbuycreators.7tiv.net/6kjMBQ",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=618994169",
+      "retailer_url": null,
+      "link_type": "offer_link",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=618994169",
+      "sources": [
+        {
+          "gid": "618994169",
+          "tab": "Other",
+          "price_text": ""
+        },
+        {
+          "gid": "0",
+          "tab": "Master List",
           "price_text": ""
         }
       ],
