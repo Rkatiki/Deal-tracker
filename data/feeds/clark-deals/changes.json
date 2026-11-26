@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-25T15:02:01.006082+00:00",
+  "retrieved_at": "2026-11-26T00:42:54.071745+00:00",
   "source": {
     "id": "clark-deals",
     "name": "Clark Deals",
@@ -10,9 +10,35 @@
   "baseline": false,
   "events": [
     {
-      "id": "0373cfdb261ed45c8e7178a0",
+      "id": "034c54a74ffc51e1b21f968b",
       "types": [
         "new"
+      ],
+      "title": "Keurig K-Duo Essentials hot & iced single serve K-Cup pod & carafe coffee maker for $79",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://clarkdeals.com/home-kitchen/keurig-k-duo-single-serve-carafe-coffee-maker/",
+      "source_url": "https://clarkdeals.com/home-kitchen/keurig-k-duo-single-serve-carafe-coffee-maker/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "0373cfdb261ed45c8e7178a0",
+      "types": [
+        "removed"
       ],
       "title": "Today only: Singing Machine SingCast One karaoke system for $30 shipped",
       "retailer": null,
@@ -36,37 +62,11 @@
       "link_type": "source"
     },
     {
-      "id": "0a0277f2a7f016880395126b",
-      "types": [
-        "new"
-      ],
-      "title": "Select accounts: Tums Chewy Bites 60-count for $5",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://clarkdeals.com/health-beauty/tums-chewy-bites-60-count/",
-      "source_url": "https://clarkdeals.com/health-beauty/tums-chewy-bites-60-count/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "0def384c29a0c4b7fcc473cc",
+      "id": "0859fbab4354de8ca8979cd2",
       "types": [
         "removed"
       ],
-      "title": "Calvin Klein men’s dress belt for $16",
+      "title": "Hulu Black Friday deal: Get Hulu & Disney+ for $5 per month",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -82,17 +82,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://clarkdeals.com/clothing/calvin-klein-mens-dress-belt/",
-      "source_url": "https://clarkdeals.com/clothing/calvin-klein-mens-dress-belt/",
+      "url": "https://clarkdeals.com/streaming-tv/hulu/",
+      "source_url": "https://clarkdeals.com/streaming-tv/hulu/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "0f8f262a99d25ad9f92d4354",
+      "id": "09d472199519a51ce26a740d",
       "types": [
         "new"
       ],
-      "title": "Dewalt 20V Max XR reciprocating saw kit with 2 batteries for $199",
+      "title": "Ryobi USB Lithium 575-lumen cordless rechargeable LED magnetic headlamp kit with battery for $30",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -108,15 +108,41 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://clarkdeals.com/tools-diy/dewalt-20v-max-xr-reciprocating-saw-kit-with-2-batteries/",
-      "source_url": "https://clarkdeals.com/tools-diy/dewalt-20v-max-xr-reciprocating-saw-kit-with-2-batteries/",
+      "url": "https://clarkdeals.com/electronics/ryobi-usb-lithium-575-lumen-cordless-rechargeable-led-magnetic-headlamp-kit-with-battery/",
+      "source_url": "https://clarkdeals.com/electronics/ryobi-usb-lithium-575-lumen-cordless-rechargeable-led-magnetic-headlamp-kit-with-battery/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "0c35f97d103d155d9f0bb8ed",
+      "types": [
+        "removed"
+      ],
+      "title": "Agri-Fab pull-behind broadcast spreader for $160",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://clarkdeals.com/tools-diy/agri-fab-pull-behind-broadcast-spreader/",
+      "source_url": "https://clarkdeals.com/tools-diy/agri-fab-pull-behind-broadcast-spreader/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "17b01b156303c875d73eb77a",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Princess Caribbean cruises from $80/night + FREE guests",
       "retailer": null,
@@ -140,11 +166,11 @@
       "link_type": "source"
     },
     {
-      "id": "20f6bbc968a682f56aaae162",
+      "id": "2317492caf8034ea9cc5890f",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "Today only: Kreg K4 pocket-hole jig for $50",
+      "title": "Muk Luks women’s cozy holiday clog slippers for $6",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -160,17 +186,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://clarkdeals.com/tools-diy/kreg-k4-pocket-hole-jig/",
-      "source_url": "https://clarkdeals.com/tools-diy/kreg-k4-pocket-hole-jig/",
+      "url": "https://clarkdeals.com/clothing/muk-luks-womens-cozy-holiday-clog-slippers/",
+      "source_url": "https://clarkdeals.com/clothing/muk-luks-womens-cozy-holiday-clog-slippers/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "3d4c830d7ad1675d4c0ed366",
+      "id": "3ce82f1f63ddcb2b5ddf1dc5",
       "types": [
-        "new"
+        "removed"
       ],
-      "title": "25 great Black Friday deals for $10 or less",
+      "title": "Save up to 39% on the 7-night Tasmania cruise + FREE guests",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -186,15 +212,41 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://clarkdeals.com/black-friday/budget-friendly-black-friday-deals/",
-      "source_url": "https://clarkdeals.com/black-friday/budget-friendly-black-friday-deals/",
+      "url": "https://clarkdeals.com/travel/cruise/tasmania-cruise/",
+      "source_url": "https://clarkdeals.com/travel/cruise/tasmania-cruise/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "4062f7db84d500f4f9614e8c",
+      "types": [
+        "new"
+      ],
+      "title": "50-piece Fisher-Price wooden jungle blocks set for $9",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://clarkdeals.com/toys/50-piece-fisher-price-wooden-jungle-blocks/",
+      "source_url": "https://clarkdeals.com/toys/50-piece-fisher-price-wooden-jungle-blocks/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "4aa2fe162ac897b52a747f32",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "6-night London & Paris trip with air from $919",
       "retailer": null,
@@ -220,7 +272,7 @@
     {
       "id": "4d89f7cdb0a48a52800a5811",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Today only: 32 Degrees essentials from $4",
       "retailer": null,
@@ -244,11 +296,11 @@
       "link_type": "source"
     },
     {
-      "id": "53f7a982b2a47e04a1d1db61",
+      "id": "5a6548c1a6c6881ed477cf9e",
       "types": [
         "new"
       ],
-      "title": "N-Bone puppy teething sticks for $3",
+      "title": "AstroAI 62-in. heavy-duty snow shovel with 17-in. stainless steel blade for $42",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -264,67 +316,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://clarkdeals.com/pets/n-bone-puppy-teething-sticks/",
-      "source_url": "https://clarkdeals.com/pets/n-bone-puppy-teething-sticks/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "544d284fa5efff2981cc2568",
-      "types": [
-        "removed"
-      ],
-      "title": "Sharpie Ultimate Collection 45-pack of permanent markers for $20",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://clarkdeals.com/home-kitchen/sharpie-ultimate-collection-45-pack-of-permanent-markers/",
-      "source_url": "https://clarkdeals.com/home-kitchen/sharpie-ultimate-collection-45-pack-of-permanent-markers/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "66eee122d413812593d07d23",
-      "types": [
-        "removed"
-      ],
-      "title": "JLab JBuds Lux ANC headphones for $40",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://clarkdeals.com/electronics/headphones/jlab-jbuds-lux-anc-headphones/",
-      "source_url": "https://clarkdeals.com/electronics/headphones/jlab-jbuds-lux-anc-headphones/",
+      "url": "https://clarkdeals.com/tools-diy/astro-ai-62-in-heavy-duty-snow-shovel-with-17-in-steel-blade/",
+      "source_url": "https://clarkdeals.com/tools-diy/astro-ai-62-in-heavy-duty-snow-shovel-with-17-in-steel-blade/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "6845f24917f6376743017cec",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Today only: Compustar 5305S remote start system for $400",
       "retailer": null,
@@ -348,191 +348,9 @@
       "link_type": "source"
     },
     {
-      "id": "70bb7c348d16e7786e61450a",
-      "types": [
-        "removed"
-      ],
-      "title": "Earn a $200 bonus after you spend $500 with this card",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://clarkdeals.com/credit-cards/chase-freedom-flex-card/",
-      "source_url": "https://clarkdeals.com/credit-cards/chase-freedom-flex-card/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "799bafaf73944acf523980d9",
-      "types": [
-        "new"
-      ],
-      "title": "Westcott 8-inch titanium scissors 6-pack for $17",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://clarkdeals.com/office-education/westcott-8-inch-titanium-scissors-6-pack/",
-      "source_url": "https://clarkdeals.com/office-education/westcott-8-inch-titanium-scissors-6-pack/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "7a5331f445ca967122db3bb2",
-      "types": [
-        "removed"
-      ],
-      "title": "Today only: Take up to 40% off bathroom essentials",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://clarkdeals.com/home-kitchen/bath-fixtures-home-depot/",
-      "source_url": "https://clarkdeals.com/home-kitchen/bath-fixtures-home-depot/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "7ab2924664429b3f58445fe9",
-      "types": [
-        "removed"
-      ],
-      "title": "Epson WorkForce Pro WF-4833 wireless all-in-one printer for $100",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://clarkdeals.com/office-education/epson-workforce-pro-wf-4833-wireless-all-in-one-printer/",
-      "source_url": "https://clarkdeals.com/office-education/epson-workforce-pro-wf-4833-wireless-all-in-one-printer/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "7b018789ba0ae662a37085b8",
-      "types": [
-        "removed"
-      ],
-      "title": "Crocs adult Classic Confetti clogs for $20",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://clarkdeals.com/shoes/crocs-adult-classic-confetti-clogs/",
-      "source_url": "https://clarkdeals.com/shoes/crocs-adult-classic-confetti-clogs/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "7f387aa117dbc8508190bd0f",
-      "types": [
-        "removed"
-      ],
-      "title": "WWE 2K26 for PS5 for $15",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://clarkdeals.com/gaming/wwe-2k26-for-ps5/",
-      "source_url": "https://clarkdeals.com/gaming/wwe-2k26-for-ps5/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "893467d0de9001f80a8ec50e",
-      "types": [
-        "removed"
-      ],
-      "title": "FitRx SmartBell 52.5-pound adjustable dumbbell with storage rack for $78",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://clarkdeals.com/sporting-goods/fitrx-smartbell-52-5-pound-adjustable-dumbbell-with-storage-rack/",
-      "source_url": "https://clarkdeals.com/sporting-goods/fitrx-smartbell-52-5-pound-adjustable-dumbbell-with-storage-rack/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
       "id": "8ab81c78be6c3b046fffccd5",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Book the Omni Parker House in Boston from $139/night",
       "retailer": null,
@@ -556,37 +374,11 @@
       "link_type": "source"
     },
     {
-      "id": "8c67ca20fa5fbdeae92c8d81",
-      "types": [
-        "removed"
-      ],
-      "title": "Today only: Dewalt 12-inch corded miter saw & adjustable stand for $379",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://clarkdeals.com/tools-diy/dewalt-12-in-corded-miter-saw-adjustable-stand/",
-      "source_url": "https://clarkdeals.com/tools-diy/dewalt-12-in-corded-miter-saw-adjustable-stand/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "9d607c1a132c9131050429c8",
+      "id": "8b5ecda14a2f18398b6bba27",
       "types": [
         "new"
       ],
-      "title": "Barbie Basics Model 09 collector doll with accessories for $11",
+      "title": "19-piece Milwaukee Shockwave 1/2-in. drive SAE 6-point impact socket set for $100",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -602,17 +394,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://clarkdeals.com/toys/barbie-basics-model-09-collector-doll-with-accessories/",
-      "source_url": "https://clarkdeals.com/toys/barbie-basics-model-09-collector-doll-with-accessories/",
+      "url": "https://clarkdeals.com/tools-diy/19-piece-milwaukee-shockwave-1-2-in-drive-sae-6-point-impact-socket-set/",
+      "source_url": "https://clarkdeals.com/tools-diy/19-piece-milwaukee-shockwave-1-2-in-drive-sae-6-point-impact-socket-set/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "a6bb80dab1ee9f16c81ca6dc",
+      "id": "94c280482a7025bd9b1ed494",
       "types": [
         "new"
       ],
-      "title": "Prime members: Ugreen MagFlow foldable magnetic charging station for $15",
+      "title": "Costco Black Friday: The best deals available now and coming soon!",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -628,17 +420,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://clarkdeals.com/electronics/ugreen-magflow-foldable-magnetic-charging-station/",
-      "source_url": "https://clarkdeals.com/electronics/ugreen-magflow-foldable-magnetic-charging-station/",
+      "url": "https://clarkdeals.com/black-friday/costco-black-friday-ad/",
+      "source_url": "https://clarkdeals.com/black-friday/costco-black-friday-ad/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "be6dc589300a66517a1d6bb8",
+      "id": "9635226839e5adb81cbb2d71",
       "types": [
         "removed"
       ],
-      "title": "Select accounts: Philips Sonicare W DiamondClean replacement brush heads 3-pack for $15",
+      "title": "Casio Illuminator men’s Bluetooth watch for $23",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -654,95 +446,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://clarkdeals.com/health-beauty/philips-sonicare-w-diamondclean-replacement-brush-heads-3-pack/",
-      "source_url": "https://clarkdeals.com/health-beauty/philips-sonicare-w-diamondclean-replacement-brush-heads-3-pack/",
+      "url": "https://clarkdeals.com/jewelry-watches/casio-illuminator-mens-bluetooth-watch/",
+      "source_url": "https://clarkdeals.com/jewelry-watches/casio-illuminator-mens-bluetooth-watch/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "c4f3f4439ef7bca92b622356",
-      "types": [
-        "removed"
-      ],
-      "title": "Insignia 75-inch F50 4K smart Fire TV for $350",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "tv",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": 500,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://clarkdeals.com/tv/insignia-75-inch-f50-4k-smart-fire-tv/",
-      "source_url": "https://clarkdeals.com/tv/insignia-75-inch-f50-4k-smart-fire-tv/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "c63d1b86901f848b0843081a",
-      "types": [
-        "removed"
-      ],
-      "title": "Ryobi USB lithium project kit with rotary tool, screwdriver, light and glue pen for $99",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://clarkdeals.com/tools-diy/ryobi-usb-lithium-project-kit-with-rotary-tool-screwdriver-light-and-glue-pen/",
-      "source_url": "https://clarkdeals.com/tools-diy/ryobi-usb-lithium-project-kit-with-rotary-tool-screwdriver-light-and-glue-pen/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "cb4998bfee77e3fcd6bf656d",
-      "types": [
-        "removed"
-      ],
-      "title": "Cremo Original men’s shaving cream, 6 ounces, for $6",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://clarkdeals.com/health-beauty/cremo-original-mens-shaving-cream-6-ounces/",
-      "source_url": "https://clarkdeals.com/health-beauty/cremo-original-mens-shaving-cream-6-ounces/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "cbd4e0016dff108dd480f80c",
+      "id": "a47b93728654a5653aed0476",
       "types": [
         "new"
       ],
-      "title": "Eufy FamiLock E34 smart deadbolt with palm vein recognition for $160",
+      "title": "Today only: 2-pack Miracle-Gro indoor potting soil mix for $5",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -758,15 +472,93 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://clarkdeals.com/electronics/eufy-familock-e34-smart-deadbolt-with-palm-vein-recognition/",
-      "source_url": "https://clarkdeals.com/electronics/eufy-familock-e34-smart-deadbolt-with-palm-vein-recognition/",
+      "url": "https://clarkdeals.com/lawn-garden/miracle-gro-indoor-potting-soil-mix/",
+      "source_url": "https://clarkdeals.com/lawn-garden/miracle-gro-indoor-potting-soil-mix/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "a51e3f3dda0667f7f2caaacf",
+      "types": [
+        "new"
+      ],
+      "title": "11-piece Milwaukee screwdriver set with electrician’s wire stripper pliers for $35",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://clarkdeals.com/tools-diy/11-piece-milwaukee-screwdriver-set-with-electricians-wire-stripper-pliers/",
+      "source_url": "https://clarkdeals.com/tools-diy/11-piece-milwaukee-screwdriver-set-with-electricians-wire-stripper-pliers/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "a7838df81795f809c6ad0ff3",
+      "types": [
+        "new"
+      ],
+      "title": "Steelite 43-in. ice scraper and extendable snow brush for $16",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://clarkdeals.com/tools-diy/steelite-43-in-ice-scraper-and-extendable-snow-brush/",
+      "source_url": "https://clarkdeals.com/tools-diy/steelite-43-in-ice-scraper-and-extendable-snow-brush/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "aa0bada63987e79d165a0b8e",
+      "types": [
+        "new"
+      ],
+      "title": "Lefant M5 Pro self-emptying robot vacuum and mop for $400",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "robot_vacuum_mop",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": 350,
+        "preferred_usd": 250,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://clarkdeals.com/vacuums/lefant-m5-pro-self-emptying-robot-vacuum-and-mop/",
+      "source_url": "https://clarkdeals.com/vacuums/lefant-m5-pro-self-emptying-robot-vacuum-and-mop/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "ce7c996356a3c041d4e51da1",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Keurig K-Express coffee maker for $60",
       "retailer": null,
@@ -790,9 +582,61 @@
       "link_type": "source"
     },
     {
-      "id": "d76407a45e488271c2d333d7",
+      "id": "d4e96a0b207cabd5c5e757c0",
       "types": [
         "new"
+      ],
+      "title": "Anker Solix C1000 2nd Gen 2000W portable power station for $470",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://clarkdeals.com/sporting-goods/anker-solix-c1000-2nd-gen-2000w-portable-power-station/",
+      "source_url": "https://clarkdeals.com/sporting-goods/anker-solix-c1000-2nd-gen-2000w-portable-power-station/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "d72d9a90f578b784fbd0c0e6",
+      "types": [
+        "removed"
+      ],
+      "title": "InterContinental New Orleans from $95/night",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://clarkdeals.com/travel/hotels/intercontinental-new-orleans/",
+      "source_url": "https://clarkdeals.com/travel/hotels/intercontinental-new-orleans/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "d76407a45e488271c2d333d7",
+      "types": [
+        "removed"
       ],
       "title": "Cuisinart 4-slice toaster with countdown timer for $52",
       "retailer": null,
@@ -816,11 +660,11 @@
       "link_type": "source"
     },
     {
-      "id": "d7a314c4ac0f7b1c62b70ba2",
+      "id": "d7a0c3666f4b9011c28e5ea1",
       "types": [
         "removed"
       ],
-      "title": "Ring Indoor Cam Plus for $25",
+      "title": "8-night tour of South Africa with air & safari from $2,499",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -836,15 +680,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://clarkdeals.com/electronics/ring-indoor-cam-plus/",
-      "source_url": "https://clarkdeals.com/electronics/ring-indoor-cam-plus/",
+      "url": "https://clarkdeals.com/travel/guided-tour-of-south-africa/",
+      "source_url": "https://clarkdeals.com/travel/guided-tour-of-south-africa/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "d9277132db00a829d0a8194f",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Today only: 6-pack Kosmos BBQ sauce, wing dust & dry rub for $20 shipped",
       "retailer": null,
@@ -868,11 +712,11 @@
       "link_type": "source"
     },
     {
-      "id": "debba478f5fee4d12384898f",
+      "id": "e1410e0d88f4eeeaa59545d3",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "Windstar Cruises: Get a complimentary all-inclusive package",
+      "title": "6-piece Gearwrench 90-tooth 12-point metric GearBox Double Flex ratcheting wrench set for $139",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -888,67 +732,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://clarkdeals.com/travel/cruise/windstar-cruises/",
-      "source_url": "https://clarkdeals.com/travel/cruise/windstar-cruises/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "e3c0eadc9da197984c888f0d",
-      "types": [
-        "removed"
-      ],
-      "title": "Ophanie orthopedic dog bed with washable cover, large, for $17",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://clarkdeals.com/pets/ophanie-orthopedic-dog-bed-with-washable-cover-large/",
-      "source_url": "https://clarkdeals.com/pets/ophanie-orthopedic-dog-bed-with-washable-cover-large/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "e3cc6d49bdc8a9b6c8e57c37",
-      "types": [
-        "removed"
-      ],
-      "title": "Final Fantasy VII Rebirth for PS5 for $15",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://clarkdeals.com/gaming/final-fantasy-vii-rebirth-for-ps5/",
-      "source_url": "https://clarkdeals.com/gaming/final-fantasy-vii-rebirth-for-ps5/",
+      "url": "https://clarkdeals.com/tools-diy/6-piece-gearwrench-90-tooth-12-point-metric-gearbox-double-flex-ratcheting-wrench-set/",
+      "source_url": "https://clarkdeals.com/tools-diy/6-piece-gearwrench-90-tooth-12-point-metric-gearbox-double-flex-ratcheting-wrench-set/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "e437ee27184012c2c6d4c3e8",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "7-night Peru Machu Picchu tour with air from $1,299",
       "retailer": null,
@@ -972,35 +764,61 @@
       "link_type": "source"
     },
     {
-      "id": "f253fe692835d2c59f0245b0",
+      "id": "e76e150d090406bbe0941997",
       "types": [
         "new"
       ],
-      "title": "Limited time: LG 5.1-channel soundbar with rear surround speakers for $220",
+      "title": "Workpro wet/dry vacuum 2.5-gallon 3-peak horsepower for $37",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
       "rank": {
-        "category": "soundbar",
+        "category": "other",
         "variant": null,
         "status": "price_unavailable",
         "score": 0,
-        "max_usd": 100,
+        "max_usd": null,
         "preferred_usd": null,
         "within_budget": null,
         "comparisons": {},
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://clarkdeals.com/electronics/lg-5-1-channel-soundbar-with-rear-surround-speakers/",
-      "source_url": "https://clarkdeals.com/electronics/lg-5-1-channel-soundbar-with-rear-surround-speakers/",
+      "url": "https://clarkdeals.com/vacuums/workpro-wet-dry-vacuum-2-5-gallon-3-peak-horsepower/",
+      "source_url": "https://clarkdeals.com/vacuums/workpro-wet-dry-vacuum-2-5-gallon-3-peak-horsepower/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "f041dcd9f3cc868112d4253c",
+      "types": [
+        "new"
+      ],
+      "title": "Craftsman 42-in. snow blade for lawn tractors for $284",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://clarkdeals.com/tools-diy/craftsman-42-in-snow-blade-for-lawn-tractors/",
+      "source_url": "https://clarkdeals.com/tools-diy/craftsman-42-in-snow-blade-for-lawn-tractors/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "f949ff410e86d38e6950b055",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Today only: Urbanista Phoenix solar hybrid earbuds for $25 shipped",
       "retailer": null,
@@ -1024,11 +842,11 @@
       "link_type": "source"
     },
     {
-      "id": "fea9dafed3339ebba1c9d1f6",
+      "id": "fd5e172f3e772c5837d251b2",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "Crocs adult Baya holiday Christmas clogs for $20",
+      "title": "Ace Hardware’s Black Friday ad: Here are the best deals available now!",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -1044,8 +862,34 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://clarkdeals.com/shoes/crocs-adult-baya-holiday-christmas-clogs/",
-      "source_url": "https://clarkdeals.com/shoes/crocs-adult-baya-holiday-christmas-clogs/",
+      "url": "https://clarkdeals.com/black-friday/ace-hardware-black-friday-ad-here-are-the-best-deals/",
+      "source_url": "https://clarkdeals.com/black-friday/ace-hardware-black-friday-ad-here-are-the-best-deals/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "fd72b25bd0f9b0ef5700dac2",
+      "types": [
+        "new"
+      ],
+      "title": "Today only: Kreg 3/8-inch pocket-hole jig with starter screw kit for $30",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://clarkdeals.com/tools-diy/kreg-3-8-inch-pocket-hole-jig-with-starter-screw-kit/",
+      "source_url": "https://clarkdeals.com/tools-diy/kreg-3-8-inch-pocket-hole-jig-with-starter-screw-kit/",
       "retailer_url": null,
       "link_type": "source"
     }

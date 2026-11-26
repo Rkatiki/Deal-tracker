@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-25T15:02:01.006082+00:00",
+  "retrieved_at": "2026-11-26T00:42:54.071745+00:00",
   "source": {
     "id": "windows-central",
     "name": "Windows Central",
@@ -86,6 +86,36 @@
       "published_at": "2026-11-25T11:00:00+00:00",
       "expires_at": null,
       "publication_category": "Desktops",
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
+      "id": "2f9c627f87d6e729d9253512",
+      "title": "The ultimate laptop charging setup is $50 off",
+      "url": "https://www.windowscentral.com/hardware/laptops/the-ultimate-laptop-charging-setup-is-on-sale-for-black-friday-and-it-takes-the-guesswork-out-of-usb-c-charging",
+      "source_url": "https://www.windowscentral.com/hardware/laptops/the-ultimate-laptop-charging-setup-is-on-sale-for-black-friday-and-it-takes-the-guesswork-out-of-usb-c-charging",
+      "retailer_url": null,
+      "link_type": "source",
+      "retailer": null,
+      "price_cents": null,
+      "headline_price_cents": null,
+      "price_source": null,
+      "currency": null,
+      "source_id": "windows-central",
+      "publisher": "Windows Central",
+      "published_at": "2026-11-25T15:40:03+00:00",
+      "expires_at": null,
+      "publication_category": "Laptops",
       "rank": {
         "category": "other",
         "variant": null,

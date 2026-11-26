@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-25T15:02:01.006082+00:00",
+  "retrieved_at": "2026-11-26T00:42:54.071745+00:00",
   "source": {
     "id": "woot-daily",
     "name": "Woot Daily Deals",
@@ -9,5 +9,58 @@
     "retailer": "Woot"
   },
   "baseline": false,
-  "events": []
+  "events": [
+    {
+      "id": "327d1fe24cde16b63113642e",
+      "types": [
+        "removed"
+      ],
+      "title": "Nespresso Ginseng Delight Coffee",
+      "retailer": "Woot",
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.woot.com/offers/nespresso-ginseng-delight-coffee-1",
+      "source_url": "https://forums.woot.com/t/nespresso-ginseng-delight-coffee/2703734",
+      "retailer_url": "https://www.woot.com/offers/nespresso-ginseng-delight-coffee-1",
+      "link_type": "retailer"
+    },
+    {
+      "id": "4666e60de0d2f0b717feefe2",
+      "types": [
+        "new"
+      ],
+      "title": "Quiksilver Skateboard Pintail Longboard",
+      "retailer": "Woot",
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.woot.com/offers/quiksilver-skateboard-pintail-longboard",
+      "source_url": "https://forums.woot.com/t/quiksilver-skateboard-pintail-longboard/2713288",
+      "retailer_url": "https://www.woot.com/offers/quiksilver-skateboard-pintail-longboard",
+      "link_type": "retailer"
+    }
+  ]
 }

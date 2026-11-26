@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-25T15:02:01.006082+00:00",
+  "retrieved_at": "2026-11-26T00:42:54.071745+00:00",
   "source": {
     "id": "wired",
     "name": "WIRED Deals",
@@ -8,5 +8,32 @@
     "kind": "rss"
   },
   "baseline": false,
-  "events": []
+  "events": [
+    {
+      "id": "94d775e927cfad012afaf15b",
+      "types": [
+        "removed"
+      ],
+      "title": "Google Pixel 11, 11 Pro, and 11 Pro XL Sale: Save Up to $350",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.wired.com/story/google-pixel-11-deal-november-2026/",
+      "source_url": "https://www.wired.com/story/google-pixel-11-deal-november-2026/",
+      "retailer_url": null,
+      "link_type": "source"
+    }
+  ]
 }
