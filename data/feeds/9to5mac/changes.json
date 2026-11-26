@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-26T00:42:54.071745+00:00",
+  "retrieved_at": "2026-11-26T08:56:39.269298+00:00",
   "source": {
     "id": "9to5mac",
     "name": "9to5Mac Deals",
@@ -8,58 +8,5 @@
     "kind": "rss"
   },
   "baseline": false,
-  "events": [
-    {
-      "id": "892063bc5841ee400d78f227",
-      "types": [
-        "removed"
-      ],
-      "title": "Deals: HomeView discount, Apple Watch Ultra 4 $100 off, Ultra 3 $250 off, MacBook Neo, more",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://9to5mac.com/2026/11/04/deals-homeview-apple-watch-ultra-macbook-neo/",
-      "source_url": "https://9to5mac.com/2026/11/04/deals-homeview-apple-watch-ultra-macbook-neo/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "f4854314f50bc081990c75e1",
-      "types": [
-        "new"
-      ],
-      "title": "Black Friday deals: PROLED touch MacBook $290 off, AirPods Pro 3 $100 off, OLED iPad mini $100 off, Watch, much more",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://9to5mac.com/2026/11/25/black-friday-deals-proled-macbook-airpods-ipad-mini/",
-      "source_url": "https://9to5mac.com/2026/11/25/black-friday-deals-proled-macbook-airpods-ipad-mini/",
-      "retailer_url": null,
-      "link_type": "source"
-    }
-  ]
+  "events": []
 }

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-26T00:42:54.071745+00:00",
+  "retrieved_at": "2026-11-26T08:56:39.269298+00:00",
   "source": {
     "id": "pcworld",
     "name": "PCWorld",
@@ -10,10 +10,10 @@
   },
   "deals": [
     {
-      "id": "1bb223409d76e9530221acc3",
-      "title": "Today’s best laptop deals: Save big on work, school, home use, and gaming",
-      "url": "https://www.pcworld.com/article/550968/best-laptop-deals-3.html",
-      "source_url": "https://www.pcworld.com/article/550968/best-laptop-deals-3.html",
+      "id": "236ec32cee010f19595f57eb",
+      "title": "Staples Holiday Printer Deals: Save Up to 48% on Epson, HP, Canon and Brother Through December 31",
+      "url": "https://www.pcworld.com/article/3295960/staples-holiday-printer-deals-save-up-to-48-on-epson-hp-canon-and-brother-through-december-31.html",
+      "source_url": "https://www.pcworld.com/article/3295960/staples-holiday-printer-deals-save-up-to-48-on-epson-hp-canon-and-brother-through-december-31.html",
       "retailer_url": null,
       "link_type": "source",
       "retailer": null,
@@ -23,9 +23,9 @@
       "currency": null,
       "source_id": "pcworld",
       "publisher": "PCWorld",
-      "published_at": "2026-11-25T13:20:28+00:00",
+      "published_at": "2026-11-26T07:52:49+00:00",
       "expires_at": null,
-      "publication_category": "Laptops",
+      "publication_category": "Accessories, Computer Accessories, Printers",
       "rank": {
         "category": "other",
         "variant": null,
@@ -280,6 +280,36 @@
       }
     },
     {
+      "id": "d4d2dac795f04dbcf4341677",
+      "title": "Ditch the Microsoft 365 bill and own an Office Pro 2021 license for $22.97 ahead of Black Friday",
+      "url": "https://www.pcworld.com/article/3294360/ditch-the-microsoft-365-bill-and-own-an-office-pro-2021-license-for-22-97-ahead-of-black-friday.html",
+      "source_url": "https://www.pcworld.com/article/3294360/ditch-the-microsoft-365-bill-and-own-an-office-pro-2021-license-for-22-97-ahead-of-black-friday.html",
+      "retailer_url": null,
+      "link_type": "source",
+      "retailer": null,
+      "price_cents": null,
+      "headline_price_cents": 2297,
+      "price_source": null,
+      "currency": null,
+      "source_id": "pcworld",
+      "publisher": "PCWorld",
+      "published_at": "2026-11-26T08:00:00+00:00",
+      "expires_at": null,
+      "publication_category": "Professional Software",
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
       "id": "d524c4621a029d7653f3256f",
       "title": "Our top-ranked Windows antivirus is just $15 for 5 devices for Black Friday",
       "url": "https://www.pcworld.com/article/3297007/our-top-ranked-windows-antivirus-is-just-15-for-5-devices-for-black-friday.html",
@@ -296,36 +326,6 @@
       "published_at": "2026-11-25T15:38:32+00:00",
       "expires_at": null,
       "publication_category": "Antivirus, Security Software and Services",
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
-      "id": "d5351b00fdb9150bf5736e62",
-      "title": "Best Black Friday laptop deals 2026: Save on notebooks while you can",
-      "url": "https://www.pcworld.com/article/1382155/best-black-friday-laptop-deals-2026.html",
-      "source_url": "https://www.pcworld.com/article/1382155/best-black-friday-laptop-deals-2026.html",
-      "retailer_url": null,
-      "link_type": "source",
-      "retailer": null,
-      "price_cents": null,
-      "headline_price_cents": null,
-      "price_source": null,
-      "currency": null,
-      "source_id": "pcworld",
-      "publisher": "PCWorld",
-      "published_at": "2026-11-25T13:23:00+00:00",
-      "expires_at": null,
-      "publication_category": "Budget Laptops, Chromebooks, Gaming Laptops, Laptops",
       "rank": {
         "category": "other",
         "variant": null,
