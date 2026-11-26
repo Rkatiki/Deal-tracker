@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-26T08:56:39.269298+00:00",
+  "retrieved_at": "2026-11-26T19:51:51.028373+00:00",
   "source": {
     "id": "cheapshark-steam",
     "name": "CheapShark Steam Deals",
@@ -11,13 +11,13 @@
   "baseline": false,
   "events": [
     {
-      "id": "c97c11a48464557d4cc55212",
+      "id": "120d2ceeb43f6f7ca658775d",
       "types": [
         "removed"
       ],
-      "title": "Rhell: Warped Worlds and Troubled Times",
+      "title": "Blackguards 2",
       "retailer": "Steam",
-      "previous_price_cents": 998,
+      "previous_price_cents": 99,
       "current_price_cents": null,
       "rank": {
         "category": "other",
@@ -31,17 +31,173 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://store.steampowered.com/app/3247030/",
-      "source_url": "https://www.cheapshark.com/redirect?dealID=XeLBHQ9Wd0BtRYlHcC8Xd%2BzS%2BHHVBjBmhfOFhX3K1U0%3D",
-      "retailer_url": "https://store.steampowered.com/app/3247030/",
+      "url": "https://store.steampowered.com/app/314830/",
+      "source_url": "https://www.cheapshark.com/redirect?dealID=s%2FDtJEgWEsD7QtbRKj2Qpw0ueH1rrwUvTmmvf9VHl2Y%3D",
+      "retailer_url": "https://store.steampowered.com/app/314830/",
       "link_type": "retailer"
     },
     {
-      "id": "d52caa4cd85096adfac29af6",
+      "id": "19fe3dd167347525df584d88",
+      "types": [
+        "removed"
+      ],
+      "title": "Impulsion",
+      "retailer": "Steam",
+      "previous_price_cents": 129,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://store.steampowered.com/app/811270/",
+      "source_url": "https://www.cheapshark.com/redirect?dealID=wVSMfNngwSH659CMc6aDUC2A7Bw2rhCjzTXFpggFaLs%3D",
+      "retailer_url": "https://store.steampowered.com/app/811270/",
+      "link_type": "retailer"
+    },
+    {
+      "id": "3306fdbf0a381a1cd07adb7c",
       "types": [
         "new"
       ],
-      "title": "The Night of the Rabbit",
+      "title": "Titan Souls",
+      "retailer": "Steam",
+      "previous_price_cents": null,
+      "current_price_cents": 149,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://store.steampowered.com/app/297130/",
+      "source_url": "https://www.cheapshark.com/redirect?dealID=fe%2BFHkOyLOeEBTyr9T2mdgou7O9MXuN0LmNtSQn2l38%3D",
+      "retailer_url": "https://store.steampowered.com/app/297130/",
+      "link_type": "retailer"
+    },
+    {
+      "id": "4f56cdbb2f783a03d33d7b18",
+      "types": [
+        "new"
+      ],
+      "title": "BattleBlock Theater",
+      "retailer": "Steam",
+      "previous_price_cents": null,
+      "current_price_cents": 442,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://store.steampowered.com/app/238460/",
+      "source_url": "https://www.cheapshark.com/redirect?dealID=sztj2UH03fJk%2FLgcdWRnyPZ54Qf%2FUf7EFPuxnsdVOsU%3D",
+      "retailer_url": "https://store.steampowered.com/app/238460/",
+      "link_type": "retailer"
+    },
+    {
+      "id": "74deacd9a17a05de8dc28c94",
+      "types": [
+        "new"
+      ],
+      "title": "FAR: Lone Sails",
+      "retailer": "Steam",
+      "previous_price_cents": null,
+      "current_price_cents": 224,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://store.steampowered.com/app/609320/",
+      "source_url": "https://www.cheapshark.com/redirect?dealID=9pIp54N%2FtzkMMTjC5Lqb0hnhNMuGdh%2FNTVG8Q1sJ1gc%3D",
+      "retailer_url": "https://store.steampowered.com/app/609320/",
+      "link_type": "retailer"
+    },
+    {
+      "id": "76d9f86934d0fd43383e1b61",
+      "types": [
+        "removed"
+      ],
+      "title": "The Dark Eye: Chains of Satinav",
+      "retailer": "Steam",
+      "previous_price_cents": 199,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://store.steampowered.com/app/203830/",
+      "source_url": "https://www.cheapshark.com/redirect?dealID=BhEhC%2FmWGE9fbNlw%2BKFoheqDFgJf3VcwzTkgQtrQ8e0%3D",
+      "retailer_url": "https://store.steampowered.com/app/203830/",
+      "link_type": "retailer"
+    },
+    {
+      "id": "772aca36d0f760a2d37c9cc9",
+      "types": [
+        "removed"
+      ],
+      "title": "The Incredible Adventures of Van Helsing Final Cut",
+      "retailer": "Steam",
+      "previous_price_cents": 449,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://store.steampowered.com/app/400170/",
+      "source_url": "https://www.cheapshark.com/redirect?dealID=HByTzxf7UCLeGfzqvdVuuDSqpZxvNOJgFF%2BeK7euvHI%3D",
+      "retailer_url": "https://store.steampowered.com/app/400170/",
+      "link_type": "retailer"
+    },
+    {
+      "id": "7dfe03d6dca8ecfb1bb8868a",
+      "types": [
+        "new"
+      ],
+      "title": "Absolver",
       "retailer": "Steam",
       "previous_price_cents": null,
       "current_price_cents": 299,
@@ -57,9 +213,269 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
+      "url": "https://store.steampowered.com/app/473690/",
+      "source_url": "https://www.cheapshark.com/redirect?dealID=GYeCNABAQrMoL%2FQTbd7eCC2x9XHvx5mlRxspaHwTaeU%3D",
+      "retailer_url": "https://store.steampowered.com/app/473690/",
+      "link_type": "retailer"
+    },
+    {
+      "id": "9b445ea04ddebae96608c467",
+      "types": [
+        "new"
+      ],
+      "title": "Door Kickers",
+      "retailer": "Steam",
+      "previous_price_cents": null,
+      "current_price_cents": 299,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://store.steampowered.com/app/248610/",
+      "source_url": "https://www.cheapshark.com/redirect?dealID=Ag5ntcKmi1Iih%2FgiSbn45z%2BBdchiBCri6L82VjGeFU8%3D",
+      "retailer_url": "https://store.steampowered.com/app/248610/",
+      "link_type": "retailer"
+    },
+    {
+      "id": "a587630081915e1ec8c8612a",
+      "types": [
+        "new"
+      ],
+      "title": "Evil Genius 2: World Domination",
+      "retailer": "Steam",
+      "previous_price_cents": null,
+      "current_price_cents": 399,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://store.steampowered.com/app/700600/",
+      "source_url": "https://www.cheapshark.com/redirect?dealID=TFMsHY8yEXTTxChVjffLd7JqTV24nShS0ZsChthQZGg%3D",
+      "retailer_url": "https://store.steampowered.com/app/700600/",
+      "link_type": "retailer"
+    },
+    {
+      "id": "ab83338145355c094e2eed95",
+      "types": [
+        "new"
+      ],
+      "title": "RUINER",
+      "retailer": "Steam",
+      "previous_price_cents": null,
+      "current_price_cents": 199,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://store.steampowered.com/app/464060/",
+      "source_url": "https://www.cheapshark.com/redirect?dealID=%2FeyQAzTPH1qgJpOkX7AGJ7k%2FPqvcTbfpyDSODLLPELI%3D",
+      "retailer_url": "https://store.steampowered.com/app/464060/",
+      "link_type": "retailer"
+    },
+    {
+      "id": "aeaed242b1bc30c7c329e3a7",
+      "types": [
+        "new"
+      ],
+      "title": "Warhammer: End Times - Vermintide",
+      "retailer": "Steam",
+      "previous_price_cents": null,
+      "current_price_cents": 299,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://store.steampowered.com/app/235540/",
+      "source_url": "https://www.cheapshark.com/redirect?dealID=IFYr9AIXHCkSKU0rkj1Tl2V1Cvk%2BWPz%2FmGaH2%2F%2BufYc%3D",
+      "retailer_url": "https://store.steampowered.com/app/235540/",
+      "link_type": "retailer"
+    },
+    {
+      "id": "b85832a5dbe4165d10c9c103",
+      "types": [
+        "removed"
+      ],
+      "title": "Unstoppable Gorg",
+      "retailer": "Steam",
+      "previous_price_cents": 99,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://store.steampowered.com/app/18120/",
+      "source_url": "https://www.cheapshark.com/redirect?dealID=zrK7O7Xn368%2B5zXU%2B32aPdn1GSvWxy9xIrgdfi4uxUg%3D",
+      "retailer_url": "https://store.steampowered.com/app/18120/",
+      "link_type": "retailer"
+    },
+    {
+      "id": "b9f88faee354b14abee44283",
+      "types": [
+        "new"
+      ],
+      "title": "Warhammer: Vermintide 2",
+      "retailer": "Steam",
+      "previous_price_cents": null,
+      "current_price_cents": 299,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://store.steampowered.com/app/552500/",
+      "source_url": "https://www.cheapshark.com/redirect?dealID=WsGdr8u7VzKVcEhPy%2BuEqhvHQegMgCeyKlIthyE7rWI%3D",
+      "retailer_url": "https://store.steampowered.com/app/552500/",
+      "link_type": "retailer"
+    },
+    {
+      "id": "c31f0d7f32be830d6f7b8461",
+      "types": [
+        "removed"
+      ],
+      "title": "Edna and Harvey: Harvey's New Eyes",
+      "retailer": "Steam",
+      "previous_price_cents": 199,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://store.steampowered.com/app/219910/",
+      "source_url": "https://www.cheapshark.com/redirect?dealID=MP20gFP2%2B1pizYvVNhA%2FEPIi4mkjnyIe3hRN6yfhLmk%3D",
+      "retailer_url": "https://store.steampowered.com/app/219910/",
+      "link_type": "retailer"
+    },
+    {
+      "id": "d52caa4cd85096adfac29af6",
+      "types": [
+        "removed"
+      ],
+      "title": "The Night of the Rabbit",
+      "retailer": "Steam",
+      "previous_price_cents": 299,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
       "url": "https://store.steampowered.com/app/230820/",
       "source_url": "https://www.cheapshark.com/redirect?dealID=o9Rx7JRHuFZuU59Iias%2BcEDCPAdM94bFsX1flJqGg58%3D",
       "retailer_url": "https://store.steampowered.com/app/230820/",
+      "link_type": "retailer"
+    },
+    {
+      "id": "e63ae8e6e042e3959a092776",
+      "types": [
+        "removed"
+      ],
+      "title": "Hades",
+      "retailer": "Steam",
+      "previous_price_cents": 624,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://store.steampowered.com/app/1145360/",
+      "source_url": "https://www.cheapshark.com/redirect?dealID=%2FRRvRbW4trH2Me4HcfUIFk5pCGamwlMuyid9ZTDJ4do%3D",
+      "retailer_url": "https://store.steampowered.com/app/1145360/",
+      "link_type": "retailer"
+    },
+    {
+      "id": "f75a73de4037aa1bb9f12175",
+      "types": [
+        "removed"
+      ],
+      "title": "The Incredible Adventures of Van Helsing II",
+      "retailer": "Steam",
+      "previous_price_cents": 149,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://store.steampowered.com/app/272470/",
+      "source_url": "https://www.cheapshark.com/redirect?dealID=QExRSxKZzNZLOM6sea5qRnvt84OZIdpH9WXJBnlole8%3D",
+      "retailer_url": "https://store.steampowered.com/app/272470/",
       "link_type": "retailer"
     }
   ]

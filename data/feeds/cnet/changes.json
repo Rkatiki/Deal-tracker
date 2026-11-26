@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-26T08:56:39.269298+00:00",
+  "retrieved_at": "2026-11-26T19:51:51.028373+00:00",
   "source": {
     "id": "cnet",
     "name": "CNET Deals",
@@ -8,5 +8,58 @@
     "kind": "rss"
   },
   "baseline": false,
-  "events": []
+  "events": [
+    {
+      "id": "30939eeb8e1e241b0c22c756",
+      "types": [
+        "new"
+      ],
+      "title": "Stay Warm With This Dreo Heater, Just $98 for Black Friday",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.cnet.com/deals/dreo-room-heater-black-friday-deal/",
+      "source_url": "https://www.cnet.com/deals/dreo-room-heater-black-friday-deal/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "476525bb1d842929cb5fab00",
+      "types": [
+        "removed"
+      ],
+      "title": "GTA 6 Is Here, and You Can Get Walmart Black Friday Gaming Deals Delivered in 30 Minutes",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.cnet.com/deals/walmart-black-friday-express-delivery-deal/",
+      "source_url": "https://www.cnet.com/deals/walmart-black-friday-express-delivery-deal/",
+      "retailer_url": null,
+      "link_type": "source"
+    }
+  ]
 }

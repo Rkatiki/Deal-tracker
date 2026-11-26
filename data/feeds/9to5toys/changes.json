@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-26T08:56:39.269298+00:00",
+  "retrieved_at": "2026-11-26T19:51:51.028373+00:00",
   "source": {
     "id": "9to5toys",
     "name": "9to5Toys",
@@ -10,9 +10,35 @@
   "baseline": false,
   "events": [
     {
-      "id": "067aeef5148aabbab8485a43",
+      "id": "00b739cceaf50aa35f41abe9",
       "types": [
         "new"
+      ],
+      "title": "Black Friday deals In My Cart to upgrade my holiday travel kit: AirFly, Anker, Insta360, more from $26",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://link.amazon/B0aErvEBj",
+      "source_url": "https://9to5toys.com/2026/11/26/black-friday-deals-in-my-cart-to-upgrade-my-holiday-travel-kit/",
+      "retailer_url": "https://link.amazon/B0aErvEBj",
+      "link_type": "retailer_redirect"
+    },
+    {
+      "id": "067aeef5148aabbab8485a43",
+      "types": [
+        "removed"
       ],
       "title": "New Amazon Android Alexa Tablet 12 Pro drops again to Black Friday all-time low at $150 off",
       "retailer": null,
@@ -36,63 +62,11 @@
       "link_type": "source"
     },
     {
-      "id": "0956cf4cf62c613f6271c02b",
-      "types": [
-        "removed"
-      ],
-      "title": "Use EGO batteries to power this foldable portable area light, which also doubles as a power bank for $119 ($60 off)",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://link.amazon/B010LfjIU",
-      "source_url": "https://9to5toys.com/2026/11/25/ego-foldable-portable-area-light/",
-      "retailer_url": "https://link.amazon/B010LfjIU",
-      "link_type": "retailer_redirect"
-    },
-    {
-      "id": "0ba45befc36798b02e02c76f",
-      "types": [
-        "removed"
-      ],
-      "title": "UGREEN’s latest pocket-sized Qi2.2 25W MagFlow Pro travel charger is over 50% off right now at $28 (All-time low)",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://9to5toys.com/2026/11/25/ugreen-pocket-sized-qi2-2-25w-magflow-pro-travel-charger-over-50-off/",
-      "source_url": "https://9to5toys.com/2026/11/25/ugreen-pocket-sized-qi2-2-25w-magflow-pro-travel-charger-over-50-off/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "0f3875406317b662fa0590dd",
+      "id": "090f5151e566af793baa7a1b",
       "types": [
         "new"
       ],
-      "title": "Update your home’s outdoor spaces with Govee’s Matter-ready UpDown wall light 2-pack at its $150 low (Reg. $230)",
+      "title": "Thanksgiving Green Deals hub 2026: EVs, power stations, tools, appliances, and more",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -108,17 +82,43 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://9to5toys.com/2026/11/26/govee-matter-outdoor-updown-wall-light-2-pack/",
-      "source_url": "https://9to5toys.com/2026/11/26/govee-matter-outdoor-updown-wall-light-2-pack/",
+      "url": "https://link.amazon/B01Zq5PQa",
+      "source_url": "https://9to5toys.com/2026/11/26/thanksgiving-green-deals-hub-2026-evs-power-stations-tools-appliances-and-more/",
+      "retailer_url": "https://link.amazon/B01Zq5PQa",
+      "link_type": "retailer_redirect"
+    },
+    {
+      "id": "1054edd5534d85b7f0acd01f",
+      "types": [
+        "new"
+      ],
+      "title": "Land Apple’s most affordable current-gen iPad down at $379 for Black Friday",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://9to5toys.com/2026/11/26/apple-most-affordable-current-ipad-black-friday/",
+      "source_url": "https://9to5toys.com/2026/11/26/apple-most-affordable-current-ipad-black-friday/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "12193deb902268500ced928a",
+      "id": "144104703b411105d646fcfe",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "Heated jacket warms ‘up to 140°F in seconds’, now under $100 (Reg. $150)",
+      "title": "Distinctive carbon fiber links headline Pitaka’s standout Apple Watch band at $63 (Reg. $79)",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -134,15 +134,119 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://9to5toys.com/2026/11/25/dewbu-mens-heated-jacket/",
-      "source_url": "https://9to5toys.com/2026/11/25/dewbu-mens-heated-jacket/",
+      "url": "https://9to5toys.com/2026/11/26/pitaka-carbon-fiber-apple-watch-band/",
+      "source_url": "https://9to5toys.com/2026/11/26/pitaka-carbon-fiber-apple-watch-band/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "14fcaabd616afd7eeb9b224b",
+      "types": [
+        "removed"
+      ],
+      "title": "Now even lower: Sennheiser ANC and audiophile headphones up to $130 off for Black Friday",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://9to5toys.com/2026/11/25/sennheiser-anc-audiophile-headphones-black-friday/",
+      "source_url": "https://9to5toys.com/2026/11/25/sennheiser-anc-audiophile-headphones-black-friday/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "19e61e3ed346ca41e1955033",
+      "types": [
+        "new"
+      ],
+      "title": "Thanksgiving Android app deals and freebies: Bioweaver, Deus Ex GO, Seoul Exorcist 1111, Hitman GO, more",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://9to5toys.com/2026/11/26/thanksgiving-android-app-deals-free/",
+      "source_url": "https://9to5toys.com/2026/11/26/thanksgiving-android-app-deals-free/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "1bd80293f3cc5a06c6af6051",
+      "types": [
+        "new"
+      ],
+      "title": "All-new Amazon Fire TV Stick 4K just $20 for Thanksgiving Day (Giant 67% off)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://9to5toys.com/2026/11/26/amazon-fire-tv-stick-4k/",
+      "source_url": "https://9to5toys.com/2026/11/26/amazon-fire-tv-stick-4k/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "1c003a4d174810c4c8b59943",
+      "types": [
+        "new"
+      ],
+      "title": "UGREEN’s 240W USB-C cables with built-in power displays are to just $10 each for Black Friday",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://9to5toys.com/2026/11/26/ugreen-240w-display-usb-c-cable/",
+      "source_url": "https://9to5toys.com/2026/11/26/ugreen-240w-display-usb-c-cable/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "1c51d4e3b7f6750b0f44b2b5",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "What stores are open and closed on Thanksgiving Day 2026? Walmart, Best Buy, Costco, Target, more",
       "retailer": null,
@@ -166,11 +270,11 @@
       "link_type": "retailer_redirect"
     },
     {
-      "id": "1ecc149dc32bcc650fd91528",
+      "id": "25235650423237c4d33ed59d",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "Gift the fun of electric riding with GoTrax’s MK2 retro e-motorcycle at a $266 low ($84 off)",
+      "title": "The Best Black Friday deal is already live: AirPods Pro 3 at $100 off (Same price as entry-level AirPods)",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -186,17 +290,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://9to5toys.com/2026/11/25/gotrax-mk2-retro-electric-motorcycle/",
-      "source_url": "https://9to5toys.com/2026/11/25/gotrax-mk2-retro-electric-motorcycle/",
+      "url": "https://9to5toys.com/2026/11/26/best-black-friday-deal-already-live-airpods-pro-3/",
+      "source_url": "https://9to5toys.com/2026/11/26/best-black-friday-deal-already-live-airpods-pro-3/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "2039391e3f084a9c1a10ee73",
+      "id": "25d83dae4862caa49db14134",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "Dyson’s Airwrap i.d. multi-styler comes with a bottle of Chitosan serum for a $500 low ($210 off), more",
+      "title": "Make your Christmas lights smarter with Tapo’s Apple HomeKit smart plugs at just $8 each with this Black Friday deal",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -212,41 +316,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://9to5toys.com/2026/11/25/dyson-airwrap-i-d-multi-styler-with-chitosan-serum-2/",
-      "source_url": "https://9to5toys.com/2026/11/25/dyson-airwrap-i-d-multi-styler-with-chitosan-serum-2/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "2802549d35a1026aee1c972f",
-      "types": [
-        "removed"
-      ],
-      "title": "One of the best Black Friday SSD deals now live on this keychain-sized 512GB drive at $75 all-time low",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://9to5toys.com/2026/11/25/best-black-friday-ssd-deal-keychain-sized-512gb-drive-all-time-low/",
-      "source_url": "https://9to5toys.com/2026/11/25/best-black-friday-ssd-deal-keychain-sized-512gb-drive-all-time-low/",
+      "url": "https://9to5toys.com/2026/11/26/tapo-homekit-smart-plug-mini-2-pack/",
+      "source_url": "https://9to5toys.com/2026/11/26/tapo-homekit-smart-plug-mini-2-pack/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "2b82da9cf924bfbb26524146",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Best Buy 1-day Thanksgiving sale now live! Apple, PlayStation, TVs, Android gear, more",
       "retailer": null,
@@ -270,115 +348,11 @@
       "link_type": "retailer_redirect"
     },
     {
-      "id": "2f599749e972f27500764f37",
-      "types": [
-        "removed"
-      ],
-      "title": "Huge $710 Black Friday discount strikes Lenovo’s Legion Go S SteamOS handheld with 32GB RAM/1TB SSD",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://9to5toys.com/2026/11/25/black-friday-discount-lenovo-legion-go-s-steamos-handheld/",
-      "source_url": "https://9to5toys.com/2026/11/25/black-friday-discount-lenovo-legion-go-s-steamos-handheld/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "31d9edc54c8257d55dd061c0",
-      "types": [
-        "removed"
-      ],
-      "title": "Apple’s new iPhone/AirPods Wrist Straps hit Black Friday lows from $21",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://9to5toys.com/2026/11/25/apples-new-iphone-airpods-wrist-straps-black-friday/",
-      "source_url": "https://9to5toys.com/2026/11/25/apples-new-iphone-airpods-wrist-straps-black-friday/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "34a1b97816b2451cf6306a94",
-      "types": [
-        "removed"
-      ],
-      "title": "Chipolo LOOP and POP Google Find Hub trackers now up to 25% off, deals from $16 each",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://9to5toys.com/2026/11/25/chipolo-loop-pop-google-find-hub-trackers/",
-      "source_url": "https://9to5toys.com/2026/11/25/chipolo-loop-pop-google-find-hub-trackers/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "35a9dfa314da167340a97cbc",
-      "types": [
-        "removed"
-      ],
-      "title": "Donkey Kong Bananza Black Friday all-time low: One of the best Switch 2 games at nearly 30% off",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://9to5toys.com/2026/11/25/donkey-kong-bananza-nintendo-switch-2/",
-      "source_url": "https://9to5toys.com/2026/11/25/donkey-kong-bananza-nintendo-switch-2/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "41a0d9b5e11a746f1f6c0128",
+      "id": "345f9bf42216b3ae4d8f0b49",
       "types": [
         "new"
       ],
-      "title": "Enjoy low and slow smoky goodness from East Oak’s 30-inch electric smoker down at a $255 2026 low",
+      "title": "Update tables, nightstands, more with color-changing ambiance from Govee’s Smart Table Lamp 2 with Matter at a $54 low",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -394,17 +368,121 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://link.amazon/B05KDFuwe",
-      "source_url": "https://9to5toys.com/2026/11/26/east-oak-30-inch-electric-smoker/",
-      "retailer_url": "https://link.amazon/B05KDFuwe",
+      "url": "https://9to5toys.com/2026/11/26/govee-rgbic-smart-table-lamp-2/",
+      "source_url": "https://9to5toys.com/2026/11/26/govee-rgbic-smart-table-lamp-2/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "3a463fe4473ba5f588b2775e",
+      "types": [
+        "new"
+      ],
+      "title": "Thanksgiving deals drop Lenovo Android tablets to some of their lowest prices yet, starting at just $90",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://9to5toys.com/2026/11/26/thanksgiving-deals-lenovo-android-tablets-starting-at-just-90/",
+      "source_url": "https://9to5toys.com/2026/11/26/thanksgiving-deals-lenovo-android-tablets-starting-at-just-90/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "3bd21256dc81560edeb3b116",
+      "types": [
+        "new"
+      ],
+      "title": "Black Friday TV deals from $135: LG C6 OLED $1,350 off, Samsung, Hisense, more",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "tv",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": 500,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://9to5toys.com/2026/11/26/smart-4k-uhd-led-tv-deals/",
+      "source_url": "https://9to5toys.com/2026/11/26/smart-4k-uhd-led-tv-deals/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "3ed2da25507fb399765c76a4",
+      "types": [
+        "new"
+      ],
+      "title": "New Amazon Echo Time touchscreen smart speaker and home hub up to $110 off for Thanksgiving Day",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://9to5toys.com/2026/11/26/new-amazon-echo-time-touchscreen-smart-speaker-thanksgiving/",
+      "source_url": "https://9to5toys.com/2026/11/26/new-amazon-echo-time-touchscreen-smart-speaker-thanksgiving/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "3f8446ee34cec8bfa04fcb3d",
+      "types": [
+        "removed"
+      ],
+      "title": "Worx’s 40V 20-inch Cordless PowerShare snow blower + 2x batteries just hit a new $350 low for Black Friday",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://link.amazon/B0bSiM2mR",
+      "source_url": "https://9to5toys.com/2026/11/25/worx-40v-20-inch-cordless-powershare-snow-blower-2x-batteries/",
+      "retailer_url": "https://link.amazon/B0bSiM2mR",
       "link_type": "retailer_redirect"
     },
     {
-      "id": "43de6a6a4102527e33022d62",
+      "id": "48c0edf1719e9fe8d4270a26",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "Mammotion’s robot lawn mowers up to 34% off: LUBA Mini 2 AWD 1500H + cleaning stand at new $1,599 low ($479 off), more",
+      "title": "Tidy up your garage with this 4-tier metal tool rack and charging station down at $56",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -420,17 +498,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://9to5toys.com/2026/11/25/mammotion-luba-mini-2-awd-1500h-robot-lawn-mower/",
-      "source_url": "https://9to5toys.com/2026/11/25/mammotion-luba-mini-2-awd-1500h-robot-lawn-mower/",
+      "url": "https://9to5toys.com/2026/11/26/pokipo-4-tier-metal-tool-organizer/",
+      "source_url": "https://9to5toys.com/2026/11/26/pokipo-4-tier-metal-tool-organizer/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "497f48737eeed43455583399",
+      "id": "4afb2502098f258f6e728b95",
       "types": [
         "new"
       ],
-      "title": "Anker 2026 Thanksgiving deals now live ahead of Black Friday: Nearly 50% off Nano chargers, Qi2.2 power banks, more",
+      "title": "Lenovo’s regularly $50 NVIDIA Reflex-compatible RGB wireless gaming mouse is 40% off today at $30",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -446,43 +524,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://link.amazon/B0cddcadt",
-      "source_url": "https://9to5toys.com/2026/11/25/anker-2026-thanksgiving-deals-now-live-ahead-of-black-friday-nearly-50-off/",
-      "retailer_url": "https://link.amazon/B0cddcadt",
-      "link_type": "retailer_redirect"
-    },
-    {
-      "id": "4aa07d874fec6379ac2da106",
-      "types": [
-        "new"
-      ],
-      "title": "Amazon’s giant 2026 Thanksgiving Day sale now live! New Black Friday deals, more",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://9to5toys.com/2026/11/26/amazons-2026-thanksgiving-day-sale-now-live/",
-      "source_url": "https://9to5toys.com/2026/11/26/amazons-2026-thanksgiving-day-sale-now-live/",
+      "url": "https://9to5toys.com/2026/11/26/lenovo-legion-m410-wireless-gaming-mouse/",
+      "source_url": "https://9to5toys.com/2026/11/26/lenovo-legion-m410-wireless-gaming-mouse/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "5afc7afc4cac3bc54ea2920a",
+      "id": "4fa814c96597faf9b096ebcc",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "Samsung’s 2026 Galaxy S26 FE starts from $500 for Black Friday, more from just $230",
+      "title": "ORICO’s $10 aluminum selfie stick doubles as a 35-inch smartphone tripod",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -498,15 +550,67 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://9to5toys.com/2026/11/25/samsung-2026-galaxy-s26-fe-black-friday/",
-      "source_url": "https://9to5toys.com/2026/11/25/samsung-2026-galaxy-s26-fe-black-friday/",
+      "url": "https://9to5toys.com/2026/11/26/orico-aluminum-portable-selfie-stick-tripod/",
+      "source_url": "https://9to5toys.com/2026/11/26/orico-aluminum-portable-selfie-stick-tripod/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "521180bc37867cacd76aa131",
+      "types": [
+        "removed"
+      ],
+      "title": "Amazon Black Friday – Today’s Big Deals are loaded with premium brands at up to 50% off (24 hours-only)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://9to5toys.com/2026/11/25/anker-electronics-and-charging-deals/",
+      "source_url": "https://9to5toys.com/2026/11/25/anker-electronics-and-charging-deals/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "53a0d55d24fad3e9111c5fa3",
+      "types": [
+        "removed"
+      ],
+      "title": "Ditch the traditional office chair for this mid-century modern swivel seat down at $144",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://9to5toys.com/2026/11/25/art-leon-swivel-desk-chair/",
+      "source_url": "https://9to5toys.com/2026/11/25/art-leon-swivel-desk-chair/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "5b07108fbefc28652b8f2c27",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Best Buy’s 24-Hour Thanksgiving Flash Sale: 43-inch 4K TV $90, iPhone Air, PS5 gear, Copilot+ PCs, more from just $25",
       "retailer": null,
@@ -530,11 +634,11 @@
       "link_type": "source"
     },
     {
-      "id": "5d8777bd62eef092c33255d6",
+      "id": "5e1d967a2c5fc86f0e538999",
       "types": [
         "removed"
       ],
-      "title": "Apple Watch Ultra 4 with all-new Translucent Ocean Band nearly $100 off for Black Friday",
+      "title": "Funko POP! Jumbo Astro Bot at 50% off: Perfect PS5 gamer gift at $20 all-time low",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -550,17 +654,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://9to5toys.com/2026/11/25/apple-watch-ultra-4-new-translucent-band-black-friday/",
-      "source_url": "https://9to5toys.com/2026/11/25/apple-watch-ultra-4-new-translucent-band-black-friday/",
+      "url": "https://9to5toys.com/2026/11/25/funko-pop-jumbo-astro-bot/",
+      "source_url": "https://9to5toys.com/2026/11/25/funko-pop-jumbo-astro-bot/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "5db0b7635482e58f54793286",
+      "id": "608443e189b67771a24f7875",
       "types": [
         "removed"
       ],
-      "title": "Bring Worx’s lightweight 2-in-1 Pegasus folding workbench & sawhorse to your project needs down at $100 ($60 off)",
+      "title": "Stow 138 gallons of clothing, bedding, more with six storage bags at $14 Prime shipped ($2.33 each)",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -576,17 +680,95 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://9to5toys.com/2026/11/25/worx-pegasus-folding-workbench-sawhorse/",
-      "source_url": "https://9to5toys.com/2026/11/25/worx-pegasus-folding-workbench-sawhorse/",
+      "url": "https://9to5toys.com/2026/11/25/clearspace-23-gallon-moving-bags-6-pack/",
+      "source_url": "https://9to5toys.com/2026/11/25/clearspace-23-gallon-moving-bags-6-pack/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "6237457eb67a4872878b8fc4",
+      "id": "61b708b899890fdeef910162",
+      "types": [
+        "removed"
+      ],
+      "title": "Estella’s top Black Friday pet deals: Up to 50% off Purina, Earth Rated, Greenies, Fresh Step, more",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://link.amazon/B05OKgFT5",
+      "source_url": "https://9to5toys.com/2026/11/25/estellas-top-black-friday-pet-deals-50-off-purina-pro-plan-petlab-co-greenies-fresh-step/",
+      "retailer_url": "https://link.amazon/B05OKgFT5",
+      "link_type": "retailer_redirect"
+    },
+    {
+      "id": "631bb81bbda92372cbc92430",
+      "types": [
+        "removed"
+      ],
+      "title": "Yozma’s IN 10 Pro electric dirt bike bundle just got better at exclusive new $1,519 low ($930 off), more from $949",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://link.amazon/B05FSnZ7v",
+      "source_url": "https://9to5toys.com/2026/11/25/yozma-in-10-pro-electric-dirt-bike-exclusive/",
+      "retailer_url": "https://link.amazon/B05FSnZ7v",
+      "link_type": "retailer_redirect"
+    },
+    {
+      "id": "658559aa8218828ceacd9f29",
+      "types": [
+        "removed"
+      ],
+      "title": "Add Eve’s Aqua HomeKit smart water controller to spigots this Black Friday at a $100 2026 low ($50 off)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://link.amazon/B0hMdEztS",
+      "source_url": "https://9to5toys.com/2026/11/25/eve-aqua-homekit-smart-water-controller/",
+      "retailer_url": "https://link.amazon/B0hMdEztS",
+      "link_type": "retailer_redirect"
+    },
+    {
+      "id": "68e4cb87ecc7a779440b6a12",
       "types": [
         "new"
       ],
-      "title": "Apple Watch Ultra 4 just hit a new all-time low at $150 off for Thanksgiving!",
+      "title": "Thanksgiving MacBook deals are crazy good! M5 Air $400 off, Neo $100 off, M5 Pro $500 off, more",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -602,15 +784,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://9to5toys.com/2026/11/25/apple-watch-ultra-4-best-price-ever-thanksgiving/",
-      "source_url": "https://9to5toys.com/2026/11/25/apple-watch-ultra-4-best-price-ever-thanksgiving/",
+      "url": "https://9to5toys.com/2026/11/26/thanksgiving-macbook-deals-crazy-good-m5-air-neo-m6/",
+      "source_url": "https://9to5toys.com/2026/11/26/thanksgiving-macbook-deals-crazy-good-m5-air-neo-m6/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "6e079639b6f227716e16b1a2",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "GameSir’s all-new Xbox 25th Anniversary iPhone/Android controller is already discounted for Black Friday at 20% off",
       "retailer": null,
@@ -634,11 +816,11 @@
       "link_type": "source"
     },
     {
-      "id": "73da7eb9a00d1e15a62fc18a",
+      "id": "6ebc43b6e3fae9875f6cdd77",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "Amazon 2026 Black Friday Week – Day 7: AirPods Pro 3 $100 off, Google Pixel even lower, 50% off premium brands, more",
+      "title": "Backbone’s iPhone/Android gaming controllers drop as low as $60 for Thanksgiving, Pro hits new $120 low",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -654,15 +836,93 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://9to5toys.com/2026/11/25/amazon-2026-black-friday-airpods-new-deals/",
-      "source_url": "https://9to5toys.com/2026/11/25/amazon-2026-black-friday-airpods-new-deals/",
+      "url": "https://9to5toys.com/2026/11/26/backbone-iphone-android-gaming-controllers-drop-to-60-for-thanksgiving/",
+      "source_url": "https://9to5toys.com/2026/11/26/backbone-iphone-android-gaming-controllers-drop-to-60-for-thanksgiving/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "718d4e49f56c98a12662a78b",
+      "types": [
+        "removed"
+      ],
+      "title": "Latest official Google Pixelsnap Ring Stands just hit the $24 Black Friday Amazon all-time low",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://9to5toys.com/2026/11/25/latest-official-google-pixelsnap-ring-stands-black-friday/",
+      "source_url": "https://9to5toys.com/2026/11/25/latest-official-google-pixelsnap-ring-stands-black-friday/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "7236a390979cffc9ac9281b7",
+      "types": [
+        "new"
+      ],
+      "title": "Hallmark Sony PlayStation Console Ornament now under $19 (Save 33%)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://9to5toys.com/2026/11/26/hallmark-keepsake-playstation-console-ornament/",
+      "source_url": "https://9to5toys.com/2026/11/26/hallmark-keepsake-playstation-console-ornament/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "7372e0135cd93463c411eb1d",
+      "types": [
+        "new"
+      ],
+      "title": "iOttie’s pebble-like 25W Qi2.2 travel charger with built-in Find My hits $91 (Reg. $130)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://9to5toys.com/2026/11/26/iottie-3-in-1-qi2-charging-station/",
+      "source_url": "https://9to5toys.com/2026/11/26/iottie-3-in-1-qi2-charging-station/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "74a45f4653c867b79200c68f",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "MacBook Neo Black Friday deal just dropped even lower: All models now at $100 off",
       "retailer": null,
@@ -686,9 +946,61 @@
       "link_type": "source"
     },
     {
-      "id": "7f72e49527aded3aad17cf39",
+      "id": "77fae9cb23976c556c6f7dfd",
+      "types": [
+        "removed"
+      ],
+      "title": "Gift Amazon’s new Android Kids Tablets at $100 off for Black Friday + extra 10% off if you grab two",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://9to5toys.com/2026/11/25/amazons-new-android-kids-tablets-gifts-black-friday/",
+      "source_url": "https://9to5toys.com/2026/11/25/amazons-new-android-kids-tablets-gifts-black-friday/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "7a083416ef173f21291a0400",
       "types": [
         "new"
+      ],
+      "title": "The 20 best Switch 2 and PS5 game deals live for Thanksgiving at up to 57% off",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://9to5toys.com/2026/11/26/20-best-switch-2-ps5-game-deals-thanksgiving-day/",
+      "source_url": "https://9to5toys.com/2026/11/26/20-best-switch-2-ps5-game-deals-thanksgiving-day/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "7f72e49527aded3aad17cf39",
+      "types": [
+        "removed"
       ],
       "title": "Step up your post-brushing routine with Waterpik’s popular Aquarius water flosser down at $50 (50% off)",
       "retailer": null,
@@ -712,11 +1024,11 @@
       "link_type": "source"
     },
     {
-      "id": "81dcbf44d16b917ecc70b8c8",
+      "id": "7faafe3e89107a216a6c6266",
       "types": [
         "new"
       ],
-      "title": "Go, go, go! M5 MacBook Air now at an insane $400 off via Amazon",
+      "title": "Massive deals hit Roborock’s latest RockMow robot mowers from $1,400 low (Up to $2,249 off)",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -732,15 +1044,41 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://9to5toys.com/2026/11/26/m5-macbook-air-low-price-black-friday/",
-      "source_url": "https://9to5toys.com/2026/11/26/m5-macbook-air-low-price-black-friday/",
+      "url": "https://9to5toys.com/2026/11/26/roborock-rockmow-robot-mowers/",
+      "source_url": "https://9to5toys.com/2026/11/26/roborock-rockmow-robot-mowers/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "82018e1c67b6cb881f81e8f6",
+      "types": [
+        "removed"
+      ],
+      "title": "Day 7 Apple Black Friday deals now live! Touch MacBook Pro $290 off, iPad mini, AirPods, AirTag 2, more",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://9to5toys.com/2026/11/25/day-7-apple-black-friday-deals-live-touch-macbook-airpods/",
+      "source_url": "https://9to5toys.com/2026/11/25/day-7-apple-black-friday-deals-live-touch-macbook-airpods/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "8371bdbe46a2620140840aff",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "EGO’s 8-inch cordless electric auger covers earth and ice drilling with a 5.0Ah battery for $449 ($210 off)",
       "retailer": null,
@@ -766,7 +1104,7 @@
     {
       "id": "839ba220efcaeb9bc7942c66",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "EGO’s advanced 21-inch Select Cut + Touch Drive cordless lawn mower with 2x batteries down at $580 (Reg. $779)",
       "retailer": null,
@@ -790,9 +1128,35 @@
       "link_type": "source"
     },
     {
+      "id": "8438eea56623e026dbea09a1",
+      "types": [
+        "removed"
+      ],
+      "title": "Sony’s world-class mirrorless cameras are up to $600 off for Black Friday at Best Buy",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://9to5toys.com/2026/11/25/sonys-world-class-mirrorless-cameras-are-up-to-600-off-for-black-friday-at-best-buy/",
+      "source_url": "https://9to5toys.com/2026/11/25/sonys-world-class-mirrorless-cameras-are-up-to-600-off-for-black-friday-at-best-buy/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
       "id": "856309419757f5b11003eac2",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Amazon undercuts Black Friday deal on most affordable Pixel Watch 5, now at $285 ($115 off)",
       "retailer": null,
@@ -816,11 +1180,11 @@
       "link_type": "source"
     },
     {
-      "id": "86be61b0176092cbfc17f71e",
+      "id": "88ce3e9b94b2f93682468535",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "One of the best Black Friday gaming monitor deals now live on Alienware’s 4K dual-mode display at $280 all-time low",
+      "title": "Best Buy Black Friday: These runner-friendly Shokz headphones are up to 30% off right now",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -836,15 +1200,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://9to5toys.com/2026/11/25/one-of-the-best-black-friday-gaming-monitor-deals-alienware-4k-display/",
-      "source_url": "https://9to5toys.com/2026/11/25/one-of-the-best-black-friday-gaming-monitor-deals-alienware-4k-display/",
+      "url": "https://9to5toys.com/2026/11/26/best-buy-black-friday-runner-shokz-headphones-deals/",
+      "source_url": "https://9to5toys.com/2026/11/26/best-buy-black-friday-runner-shokz-headphones-deals/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "89cbf17be6505d6ccad2264f",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "This BougeRV T1 telescopic camping light can cover 12 nights of illumination and its down at a new $71 low",
       "retailer": null,
@@ -868,11 +1232,11 @@
       "link_type": "source"
     },
     {
-      "id": "94ff9098624d2fe29ef06851",
+      "id": "9049f2e02a7f1ca126d03d91",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "Get the official Black Friday Nintendo Switch 2 Console Bundle under the tree (Up to $88 in savings)",
+      "title": "Thanksgiving iOS app deals and freebies: Bioweaver, Quakeline, Little Big Workshop, Lia, more",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -888,15 +1252,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://9to5toys.com/2026/11/25/black-friday-nintendo-switch-2-console-bundle-under-tree/",
-      "source_url": "https://9to5toys.com/2026/11/25/black-friday-nintendo-switch-2-console-bundle-under-tree/",
+      "url": "https://9to5toys.com/2026/11/26/thanksgiving-ios-app-deals-2/",
+      "source_url": "https://9to5toys.com/2026/11/26/thanksgiving-ios-app-deals-2/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "95879e1fc91118076b260ab8",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Ninja’s Waffle Maker Pro just hit its best price of the year for Black Friday",
       "retailer": null,
@@ -920,11 +1284,11 @@
       "link_type": "retailer_redirect"
     },
     {
-      "id": "a124703df775a20d2214d50c",
+      "id": "9681c0d0c758fe67e775320b",
       "types": [
         "removed"
       ],
-      "title": "Official ecobee Black Friday HomeKit deals live at up to $130 off: Smart Siri Thermostats, sensors, more",
+      "title": "Fanttik crams an entire electronics repair workstation into an iPad-like design, now $60",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -940,15 +1304,93 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://9to5toys.com/2026/11/25/official-ecobee-black-friday-homekit-deals/",
-      "source_url": "https://9to5toys.com/2026/11/25/official-ecobee-black-friday-homekit-deals/",
+      "url": "https://9to5toys.com/2026/11/25/fanttik-e1-nex-electric-repair-workstation/",
+      "source_url": "https://9to5toys.com/2026/11/25/fanttik-e1-nex-electric-repair-workstation/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "97853f0e82443dd926a3f5ea",
+      "types": [
+        "new"
+      ],
+      "title": "I use this paintable cord cover to hide cables around my home, grab 20 feet down at $18",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://9to5toys.com/2026/11/26/delamu-20-foot-cord-cover-kit/",
+      "source_url": "https://9to5toys.com/2026/11/26/delamu-20-foot-cord-cover-kit/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "9b2072ff580afde812ca4b6f",
+      "types": [
+        "new"
+      ],
+      "title": "Govee smart lighting devices see up to 64% Black Friday savings: Matter Floor Lamp 3 hits $119 low ($51 off), more",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://9to5toys.com/2026/11/26/govee-smart-lighting-devices-black-friday-matter-floor-lamp-3/",
+      "source_url": "https://9to5toys.com/2026/11/26/govee-smart-lighting-devices-black-friday-matter-floor-lamp-3/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "9da4af9a70a81555838b4f00",
+      "types": [
+        "removed"
+      ],
+      "title": "M5 MacBook Air models currently $300 off for Black Friday – best prices in nearly 6 months",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://9to5toys.com/2026/11/25/m5-macbook-air-models-black-friday-best-prices/",
+      "source_url": "https://9to5toys.com/2026/11/25/m5-macbook-air-models-black-friday-best-prices/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "a1e93bad697a7d1d96636f9f",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Go quick: Amazon just dropped the Silver MacBook Neo Black Friday price even lower to $599 (Now $100 off)",
       "retailer": null,
@@ -972,11 +1414,11 @@
       "link_type": "source"
     },
     {
-      "id": "a3967f002e14c64547ace462",
+      "id": "a5805a0d1f929d8ad877aa8a",
       "types": [
         "removed"
       ],
-      "title": "Early Black Friday pricing drops 1min AI’s Advanced Business Plan to $65 for life (Reg. $540)",
+      "title": "Grab the 3,402-piece LEGO One Piece Baratie Floating Restaurant for your display down at $297 this Black Friday",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -992,17 +1434,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://9to5toys.com/2026/11/25/early-black-friday-pricing-drops-1min-ais-advanced-business-plan-to-65-for-life-reg-540/",
-      "source_url": "https://9to5toys.com/2026/11/25/early-black-friday-pricing-drops-1min-ais-advanced-business-plan-to-65-for-life-reg-540/",
+      "url": "https://9to5toys.com/2026/11/25/lego-one-piece-baratie-floating-restaurant/",
+      "source_url": "https://9to5toys.com/2026/11/25/lego-one-piece-baratie-floating-restaurant/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "a572cf184095fab9029bb343",
+      "id": "a6e25f6b7232d0b84883948b",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "Heads up! NBA 2K27 for Switch 2 is a whopping 57% off for Black Friday Week (All-time low)",
+      "title": "GoPro’s new MISSION 1 PRO 8K action camera drops to $599 for Black Friday, Grip Edition also $100 off",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -1018,15 +1460,67 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://9to5toys.com/2026/11/25/nba-2k27-nintendo-switch-2/",
-      "source_url": "https://9to5toys.com/2026/11/25/nba-2k27-nintendo-switch-2/",
+      "url": "https://9to5toys.com/2026/11/26/gopro-new-mission-1-pro-8k-action-camera-drops-to-599-for-black-friday/",
+      "source_url": "https://9to5toys.com/2026/11/26/gopro-new-mission-1-pro-8k-action-camera-drops-to-599-for-black-friday/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "a82a21f8b4c37f3ff5467c03",
+      "types": [
+        "new"
+      ],
+      "title": "In My Cart: Here’s the deals we are scoring in the Amazon Thanksgiving sale today from $14",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://9to5toys.com/2026/11/26/in-my-cart-deals-we-buying-amazon-thanksgiving-sale-today/",
+      "source_url": "https://9to5toys.com/2026/11/26/in-my-cart-deals-we-buying-amazon-thanksgiving-sale-today/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "b2c42ef612c29c8e1185d33b",
+      "types": [
+        "new"
+      ],
+      "title": "Woot’s massive Black Friday gaming sale takes up to 67% off Razer keyboards, mice, headsets, more from just $10 (Extra 20% off)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://9to5toys.com/2026/11/26/woot-massive-black-friday-gaming-sale-takes-up-to-67-off-extra-20-off/",
+      "source_url": "https://9to5toys.com/2026/11/26/woot-massive-black-friday-gaming-sale-takes-up-to-67-off-extra-20-off/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "b3dc93265ec4edf67708b80f",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Apple’s 2026 M5 Pro MacBook Pro models now up to $500 off for Black Friday",
       "retailer": null,
@@ -1050,11 +1544,11 @@
       "link_type": "source"
     },
     {
-      "id": "b4211060fb0abfbad89f2076",
+      "id": "b476ddce08e0651a4f0220e3",
       "types": [
         "removed"
       ],
-      "title": "Resident Evil Requiem for Switch 2 at 43% off is a killer Black Friday Week deal",
+      "title": "Mid-week Android app deals and freebies: Stardew Valley, The Past Within, Almost Out of Mana, more",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -1070,15 +1564,145 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://9to5toys.com/2026/11/25/resident-evil-requiem-nintendo-switch-2/",
-      "source_url": "https://9to5toys.com/2026/11/25/resident-evil-requiem-nintendo-switch-2/",
+      "url": "https://9to5toys.com/2026/11/25/today-google-play-deals-app-deals-stardew-valley/",
+      "source_url": "https://9to5toys.com/2026/11/25/today-google-play-deals-app-deals-stardew-valley/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "b50b6ddceb38bc8af7c26c8b",
+      "types": [
+        "removed"
+      ],
+      "title": "OLED iPad mini Black Friday deal already selling out, score one now at $100 off while you still can",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://9to5toys.com/2026/11/25/oled-ipad-mini-black-friday-deal/",
+      "source_url": "https://9to5toys.com/2026/11/25/oled-ipad-mini-black-friday-deal/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "bc229c6daa90b1e322b3c2ce",
+      "types": [
+        "removed"
+      ],
+      "title": "Pelican’s rugged MagSafe wallet with a dedicated AirTag slot drops to $35 (Reg. $50)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://9to5toys.com/2026/11/25/pelican-protector-magsafe-airtag-wallet/",
+      "source_url": "https://9to5toys.com/2026/11/25/pelican-protector-magsafe-airtag-wallet/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "bd712af8e7b8ff73b28af904",
+      "types": [
+        "removed"
+      ],
+      "title": "BMX’s iPhone Duo-ready 5K semi-solid-state power bank with a 360-degree kickstand drops to $60",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://9to5toys.com/2026/11/25/bmx-iphone-duo-5k-power-bank/",
+      "source_url": "https://9to5toys.com/2026/11/25/bmx-iphone-duo-5k-power-bank/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "c04fd2f5fbc0ce53c7baef9f",
+      "types": [
+        "new"
+      ],
+      "title": "Amazon undercuts Black Friday price on Google Pixel Buds Pro 2, now nearly 30% off",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://9to5toys.com/2026/11/26/amazon-undercuts-black-friday-price-google-pixel-buds-pro-2/",
+      "source_url": "https://9to5toys.com/2026/11/26/amazon-undercuts-black-friday-price-google-pixel-buds-pro-2/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "c33274f6f17a5c8d28ccd0ad",
+      "types": [
+        "removed"
+      ],
+      "title": "Gift this LEGO Ideas Polaroid OneStep SX-70 to photographers or nostalgic loved ones down at a $45 low",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://9to5toys.com/2026/11/25/lego-ideas-polaroid-onestep-sx-70/",
+      "source_url": "https://9to5toys.com/2026/11/25/lego-ideas-polaroid-onestep-sx-70/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "c68a71abd0242a70cbee62f8",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Give the kids a new Chromebook this Thanksgiving with Lenovo’s 15.3-inch 2K laptop at just $169 (All-time low)",
       "retailer": null,
@@ -1102,11 +1726,11 @@
       "link_type": "source"
     },
     {
-      "id": "cec72239ead80d0fa86947f7",
+      "id": "c75b60f90dde5a0db0bcedd3",
       "types": [
         "removed"
       ],
-      "title": "My go-to dress pants are actually these golf joggers, now priced from $20 (Reg. $30)",
+      "title": "Palm-sized $13 Gerber utility knife is also a money clip that’s ready to handle Black Friday deliveries and beyond",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -1122,15 +1746,197 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://9to5toys.com/2026/11/25/g-gradual-tapered-stretch-golf-joggers/",
-      "source_url": "https://9to5toys.com/2026/11/25/g-gradual-tapered-stretch-golf-joggers/",
+      "url": "https://9to5toys.com/2026/11/25/gerber-eab-lite-utility-knife/",
+      "source_url": "https://9to5toys.com/2026/11/25/gerber-eab-lite-utility-knife/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "c7ad0268b019e574ff78104f",
+      "types": [
+        "removed"
+      ],
+      "title": "Aluminum 11-in-1 multi-tool pens pack screwdrivers, bubble levels, more: Grab two down at $8 each",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://9to5toys.com/2026/11/25/rak-11-in-1-multitool-pen-2-pack/",
+      "source_url": "https://9to5toys.com/2026/11/25/rak-11-in-1-multitool-pen-2-pack/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "c91d9305ad29098d72870871",
+      "types": [
+        "removed"
+      ],
+      "title": "Sharge’s 67W Pixel 3-port USB-C laptop charger just plunged 54% to hit $23 all-time low for Black Friday Week",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://link.amazon/B0c2KaKJO",
+      "source_url": "https://9to5toys.com/2026/11/25/sharge-67w-pixel-3-port-usb-c-laptop-charger-all-time-low/",
+      "retailer_url": "https://link.amazon/B0c2KaKJO",
+      "link_type": "retailer_redirect"
+    },
+    {
+      "id": "c9630ef6c4a9365b4cbc3226",
+      "types": [
+        "new"
+      ],
+      "title": "Black Friday knocks $140 off ROVE’s R3 3-channel dash cam to $160, more models + FREE 128GB cards from $140",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://9to5toys.com/2026/11/26/rove-r3-3-channel-dash-cam-2/",
+      "source_url": "https://9to5toys.com/2026/11/26/rove-r3-3-channel-dash-cam-2/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "c9857e293b11de673eba11ba",
+      "types": [
+        "new"
+      ],
+      "title": "Bruno Marc’s mesh dress shoes blend casual and dressy at $27.50 (Reg. $47)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://9to5toys.com/2026/11/26/bruno-marc-mens-mesh-dress-shoes/",
+      "source_url": "https://9to5toys.com/2026/11/26/bruno-marc-mens-mesh-dress-shoes/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "cbb7703b23a6d92c36293f0f",
+      "types": [
+        "new"
+      ],
+      "title": "Wild Thanksgiving Apple deals now live: MacBook Air $400 off, Neo $100 off, AirPods Pro 3 $100 off, more",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://9to5toys.com/2026/11/26/thanksgiving-apple-deals-live-macbook-airpods-watch/",
+      "source_url": "https://9to5toys.com/2026/11/26/thanksgiving-apple-deals-live-macbook-airpods-watch/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "d1da499b5a2316930a363a12",
+      "types": [
+        "new"
+      ],
+      "title": "Snaaaaaaake! Funko POP Metal Gear Solid Snake now at $10.50 Black Friday all-time low (Selling out quick)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://9to5toys.com/2026/11/26/funko-pop-games-solid-snake/",
+      "source_url": "https://9to5toys.com/2026/11/26/funko-pop-games-solid-snake/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "d240a97d41798a74efcebdc5",
+      "types": [
+        "new"
+      ],
+      "title": "Automatically log your weight in Apple Health with this smart scale at $16.50 (Reg. $25)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://9to5toys.com/2026/11/26/insmart-apple-health-smart-scale/",
+      "source_url": "https://9to5toys.com/2026/11/26/insmart-apple-health-smart-scale/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "d52dc193cb225324238a1d8d",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Bring home the Our Place 6-in-1 Wonder Oven down at $149 or the 8-in-1 Pro at $275",
       "retailer": null,
@@ -1154,63 +1960,11 @@
       "link_type": "retailer_redirect"
     },
     {
-      "id": "de2452689dd4498f4947439a",
-      "types": [
-        "removed"
-      ],
-      "title": "Bring home LEGO’s display-worthy Mario & Standard Kart this Black Friday at a new $136 low",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://9to5toys.com/2026/11/25/lego-super-mario-standard-kart/",
-      "source_url": "https://9to5toys.com/2026/11/25/lego-super-mario-standard-kart/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "e1b72715891e29a6cd308f3d",
-      "types": [
-        "removed"
-      ],
-      "title": "Mid-week iOS app deals and freebies: Dead Cells, 8 Ball Club, Minimoog Model D, more",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://9to5toys.com/2026/11/25/ios-app-deals-buff-knight-advanced/",
-      "source_url": "https://9to5toys.com/2026/11/25/ios-app-deals-buff-knight-advanced/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "e36c66501cec3f7060b5350f",
+      "id": "d6810ec1fe0ae8d1ce4da292",
       "types": [
         "new"
       ],
-      "title": "Samsung’s 512GB P9 Switch 2 Express microSD card hits lowest since price hikes at $93 (Nearly 50% off)",
+      "title": "Thanksgiving Apple Watch deals: Ultra 4 $150 off all-time low, Series 12 $100 off, more",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -1226,17 +1980,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://9to5toys.com/2026/11/26/samsung-512gb-p9-switch-2-express-microsd-card-hits-lowest-since-price-hikes-2/",
-      "source_url": "https://9to5toys.com/2026/11/26/samsung-512gb-p9-switch-2-express-microsd-card-hits-lowest-since-price-hikes-2/",
+      "url": "https://9to5toys.com/2026/11/26/thanksgiving-apple-watch-deals-ultra-4-series/",
+      "source_url": "https://9to5toys.com/2026/11/26/thanksgiving-apple-watch-deals-ultra-4-series/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "f7d94cc190dadcaece99b5f9",
+      "id": "d694a8a6ee37679430113b60",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "EGO’s Nexus 1,400W portable inverter and generator charges batteries + powers devices at a $599 low ($100 off)",
+      "title": "Toss Fanttik’s sleek electric ball pump in your gym bag for $40 (Save $20)",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -1252,15 +2006,197 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://9to5toys.com/2026/11/25/egos-nexus-1400w-portable-inverter-and-generator/",
-      "source_url": "https://9to5toys.com/2026/11/25/egos-nexus-1400w-portable-inverter-and-generator/",
+      "url": "https://9to5toys.com/2026/11/26/fanttik-x10-nano-plus-ball-pump/",
+      "source_url": "https://9to5toys.com/2026/11/26/fanttik-x10-nano-plus-ball-pump/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "dea0a61fa43dcdc4428ec78d",
+      "types": [
+        "new"
+      ],
+      "title": "Thanksgiving deals hub: Apple, Google, LEGO, Anker, apparel, TVs, more",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "tv",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": 500,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://9to5toys.com/2026/11/26/thanksgiving-deals-hub-best-now-live/",
+      "source_url": "https://9to5toys.com/2026/11/26/thanksgiving-deals-hub-best-now-live/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "e3013eb24ee0aad9be096861",
+      "types": [
+        "new"
+      ],
+      "title": "Amazon offers up to 64% Black Friday LEGO discounts: Mario Kart Luigi & Mach 8 set hits new $144 low + much more from $6",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://9to5toys.com/2026/11/26/amazon-black-friday-lego/",
+      "source_url": "https://9to5toys.com/2026/11/26/amazon-black-friday-lego/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "e38c1c852d5d656bfe089b5d",
+      "types": [
+        "new"
+      ],
+      "title": "Samsung’s 27-inch 5K dual-mode Odyssey G8 gaming monitor hits new all-time low at $480 ahead of Black Friday (Save $470)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://9to5toys.com/2026/11/26/samsung-5k-dual-mode-odyssey-g8-gaming-monitor-new-all-time-low/",
+      "source_url": "https://9to5toys.com/2026/11/26/samsung-5k-dual-mode-odyssey-g8-gaming-monitor-new-all-time-low/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "e3c4c733f28803103c5a62d9",
+      "types": [
+        "new"
+      ],
+      "title": "This leather Apple Watch band sports a stainless steel buckle and is only $11 right now",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://9to5toys.com/2026/11/26/marge-plus-genuine-leather-watch-strap/",
+      "source_url": "https://9to5toys.com/2026/11/26/marge-plus-genuine-leather-watch-strap/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "e7247f1a1cca985029361b6e",
+      "types": [
+        "new"
+      ],
+      "title": "Score Fanttik’s aluminum USB-C pet nail grinder at less than half price, now $36",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://9to5toys.com/2026/11/26/fanttik-f2-master-pet-nail-grinder/",
+      "source_url": "https://9to5toys.com/2026/11/26/fanttik-f2-master-pet-nail-grinder/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "ee64a0c6b6669cf08b6bdcb3",
+      "types": [
+        "new"
+      ],
+      "title": "Govee’s Matter Outdoor Lamp Post with self-adjusting lights gets largest-ever $175 price cut to a new $125 low, more",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://link.amazon/B0er4AfIQ",
+      "source_url": "https://9to5toys.com/2026/11/26/govee-matter-outdoor-lamp-post/",
+      "retailer_url": "https://link.amazon/B0er4AfIQ",
+      "link_type": "retailer_redirect"
+    },
+    {
+      "id": "f83e06d8b8739c716126a991",
+      "types": [
+        "removed"
+      ],
+      "title": "This $13 USB-C cable can drive Apple’s Studio Display, handle 240W charging, and more",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://9to5toys.com/2026/11/25/silkland-usb-4-thunderbolt-4-cable/",
+      "source_url": "https://9to5toys.com/2026/11/25/silkland-usb-4-thunderbolt-4-cable/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "f847afffb50be585965c761d",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Amazon has loads of Advent calendars on sale from $8 for Black Friday: Candles, tea, golf, kids, more",
       "retailer": null,
@@ -1286,7 +2222,7 @@
     {
       "id": "f9a2f03e2cc2702764f99a5b",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Apple’s most affordable M5 MacBook Air is now $300 off for Thanksgiving Day",
       "retailer": null,
