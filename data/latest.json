@@ -1,25 +1,25 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-26T10:53:44+00:00",
+  "retrieved_at": "2026-11-26T21:31:13+00:00",
   "sheet_id": "18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4",
   "tabs": [
     {
       "gid": "0",
       "name": "Master List",
       "method": "gviz_csv",
-      "count": 1848
+      "count": 1877
     },
     {
       "gid": "447244790",
       "name": "Electronics",
       "method": "gviz_csv",
-      "count": 546
+      "count": 556
     },
     {
       "gid": "2126119671",
       "name": "Houshold",
       "method": "gviz_csv",
-      "count": 377
+      "count": 382
     },
     {
       "gid": "1760337101",
@@ -31,7 +31,7 @@
       "gid": "1154128692",
       "name": "Sports & Outdoors",
       "method": "gviz_csv",
-      "count": 56
+      "count": 57
     },
     {
       "gid": "1131968003",
@@ -61,7 +61,7 @@
       "gid": "666531270",
       "name": "Toys",
       "method": "gviz_csv",
-      "count": 78
+      "count": 80
     },
     {
       "gid": "1904736644",
@@ -73,13 +73,13 @@
       "gid": "47040948",
       "name": "Fashion",
       "method": "gviz_csv",
-      "count": 290
+      "count": 291
     },
     {
       "gid": "618994169",
       "name": "Other",
       "method": "gviz_csv",
-      "count": 150
+      "count": 160
     }
   ],
   "deals": [
@@ -55056,6 +55056,45 @@
       }
     },
     {
+      "id": "0a46487bcea72dd3b1ea6791",
+      "title": "LG - 100\" Class 84B Series QNED evo AI Mini LED 4K Smart webOS TV (2026)",
+      "retailer": "Best Buy",
+      "price_cents": null,
+      "currency": "USD",
+      "coupon": null,
+      "notes": "Was $4,999.99 (44% off); Posted Nov 26; Price can change; check before posting",
+      "url": "https://bestbuycreators.7tiv.net/yZ6rNv",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
+      "retailer_url": null,
+      "link_type": "offer_link",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
+      "sources": [
+        {
+          "gid": "447244790",
+          "tab": "Electronics",
+          "price_text": ""
+        },
+        {
+          "gid": "0",
+          "tab": "Master List",
+          "price_text": ""
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "tv",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": 500,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
       "id": "0a8111d1f18150b60796e622",
       "title": "BJ's Wholesale Club — 1-Year Membership for $10",
       "retailer": "BJ's Wholesale Club",
@@ -55111,6 +55150,45 @@
         {
           "gid": "666531270",
           "tab": "Toys",
+          "price_text": ""
+        },
+        {
+          "gid": "0",
+          "tab": "Master List",
+          "price_text": ""
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
+      "id": "0b5c05fb4077a9ce730f7410",
+      "title": "Carolina Herrera Good Girl Hair Mist, 1-oz.",
+      "retailer": "Macy's",
+      "price_cents": null,
+      "currency": "USD",
+      "coupon": null,
+      "notes": "Was $45.00 (44% off); Posted Nov 25; Price can change; check before posting",
+      "url": "https://mavely.app.link/m3vK10RtX7b",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=618994169",
+      "retailer_url": "https://mavely.app.link/m3vK10RtX7b",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=618994169",
+      "sources": [
+        {
+          "gid": "618994169",
+          "tab": "Other",
           "price_text": ""
         },
         {
@@ -55306,6 +55384,45 @@
         {
           "gid": "447244790",
           "tab": "Electronics",
+          "price_text": ""
+        },
+        {
+          "gid": "0",
+          "tab": "Master List",
+          "price_text": ""
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
+      "id": "0e127be31ec0796fa8aa5ae6",
+      "title": "UGG® Avery Reversible Throw, 50\" x 70\"",
+      "retailer": "Macy's",
+      "price_cents": null,
+      "currency": "USD",
+      "coupon": null,
+      "notes": "Was $48.00 (48% off); Posted Nov 26; Price can change; check before posting",
+      "url": "https://mavely.app.link/jSIRqrcTT7b",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=618994169",
+      "retailer_url": "https://mavely.app.link/jSIRqrcTT7b",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=618994169",
+      "sources": [
+        {
+          "gid": "618994169",
+          "tab": "Other",
           "price_text": ""
         },
         {
@@ -55646,6 +55763,45 @@
       }
     },
     {
+      "id": "12543ef9255a0d17a98ebbed",
+      "title": "Samsung 32\" Class QLED The Frame LS03C Series TV",
+      "retailer": "Woot",
+      "price_cents": null,
+      "currency": "USD",
+      "coupon": null,
+      "notes": "Was $597.99 (36% off); Posted Nov 26; Price can change; check before posting",
+      "url": "https://mavely.app.link/LUPtgCQXO7b",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
+      "retailer_url": "https://mavely.app.link/LUPtgCQXO7b",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
+      "sources": [
+        {
+          "gid": "447244790",
+          "tab": "Electronics",
+          "price_text": ""
+        },
+        {
+          "gid": "0",
+          "tab": "Master List",
+          "price_text": ""
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "tv",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": 500,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
       "id": "12d4c5eb64c4fc3e9ed402b0",
       "title": "Meta Quest 3S 128GB All-In-One VR Headset (includes GOLF+, TPC Sawgrass course and 1,800 in-game credits)",
       "retailer": "Target",
@@ -55854,6 +56010,45 @@
       "link_type": "retailer_redirect",
       "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=0",
       "sources": [
+        {
+          "gid": "0",
+          "tab": "Master List",
+          "price_text": ""
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
+      "id": "18053424ba3de3d384e00762",
+      "title": "Samsung Galaxy Watch8 Aluminum Smartwatch 40mm BT - Graphite (2025)",
+      "retailer": "Best Buy",
+      "price_cents": null,
+      "currency": "USD",
+      "coupon": null,
+      "notes": "Was $299.99 (33% off); Posted Nov 26; Price can change; check before posting",
+      "url": "https://bestbuycreators.7tiv.net/k46BXx",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
+      "retailer_url": null,
+      "link_type": "offer_link",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
+      "sources": [
+        {
+          "gid": "447244790",
+          "tab": "Electronics",
+          "price_text": ""
+        },
         {
           "gid": "0",
           "tab": "Master List",
@@ -57334,6 +57529,45 @@
         "status": "price_unavailable",
         "score": 0,
         "max_usd": 500,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
+      "id": "2ef7f6b60ac6a96a8b3243f7",
+      "title": "Midea 5.1-cu ft Garage Ready Chest Freezer Convertible to Refrigerator (White)",
+      "retailer": "Lowe's",
+      "price_cents": null,
+      "currency": "USD",
+      "coupon": null,
+      "notes": "Was $219.00 (55% off); Posted Nov 26; Price can change; check before posting",
+      "url": "https://mavely.app.link/rq2Ovwb9n8b",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=618994169",
+      "retailer_url": "https://mavely.app.link/rq2Ovwb9n8b",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=618994169",
+      "sources": [
+        {
+          "gid": "618994169",
+          "tab": "Other",
+          "price_text": ""
+        },
+        {
+          "gid": "0",
+          "tab": "Master List",
+          "price_text": ""
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
         "preferred_usd": null,
         "within_budget": null,
         "comparisons": {},
@@ -59091,6 +59325,45 @@
       }
     },
     {
+      "id": "4ba82b821456651fdea710cf",
+      "title": "DJI - Flip Fly More Combo (DJI RC 2) (GL)",
+      "retailer": "Best Buy",
+      "price_cents": null,
+      "currency": "USD",
+      "coupon": null,
+      "notes": "Was $779.00 (30% off); Posted Nov 26; Price can change; check before posting",
+      "url": "https://bestbuycreators.7tiv.net/xJdagy",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=666531270",
+      "retailer_url": null,
+      "link_type": "offer_link",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=666531270",
+      "sources": [
+        {
+          "gid": "666531270",
+          "tab": "Toys",
+          "price_text": ""
+        },
+        {
+          "gid": "0",
+          "tab": "Master List",
+          "price_text": ""
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
       "id": "4bb08f041b968d66d9499701",
       "title": "Avengers: Doomsday New Avengers Tower 76352",
       "retailer": "LEGO",
@@ -59419,6 +59692,45 @@
         {
           "gid": "447244790",
           "tab": "Electronics",
+          "price_text": ""
+        },
+        {
+          "gid": "0",
+          "tab": "Master List",
+          "price_text": ""
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
+      "id": "4f270e9755350ad36c6c1ddc",
+      "title": "Serta 2-Pack Adjustable Comfort Gel Memory Foam Mini Cushion Pillow Set — Black Friday Deal",
+      "retailer": "Kohl's",
+      "price_cents": null,
+      "currency": "USD",
+      "coupon": "TAKE20",
+      "notes": "Was $49.99 (76% off); Posted Nov 26; Price can change; check before posting",
+      "url": "https://mavely.app.link/XyaP9Oe3C6b",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=2126119671",
+      "retailer_url": "https://mavely.app.link/XyaP9Oe3C6b",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=2126119671",
+      "sources": [
+        {
+          "gid": "2126119671",
+          "tab": "Houshold",
           "price_text": ""
         },
         {
@@ -59871,6 +60183,45 @@
       }
     },
     {
+      "id": "54b7a0e252c2c2291da415f2",
+      "title": "Kenneth Cole Reaction Men's Double-Breasted Slim-Fit 2-Piece Suit",
+      "retailer": "Macy's",
+      "price_cents": null,
+      "currency": "USD",
+      "coupon": null,
+      "notes": "Was $395.00 (80% off); Posted Nov 26; Price can change; check before posting",
+      "url": "https://mavely.app.link/ZjxVbBeD67b",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=618994169",
+      "retailer_url": "https://mavely.app.link/ZjxVbBeD67b",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=618994169",
+      "sources": [
+        {
+          "gid": "618994169",
+          "tab": "Other",
+          "price_text": ""
+        },
+        {
+          "gid": "0",
+          "tab": "Master List",
+          "price_text": ""
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
       "id": "55388aec159fb36324e65e69",
       "title": "Hamilton Beach 14-in-1 Dual Level French Door Air Fryer Oven",
       "retailer": "Kohl's",
@@ -60116,6 +60467,45 @@
       "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
       "retailer_url": null,
       "link_type": "offer_link",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
+      "sources": [
+        {
+          "gid": "447244790",
+          "tab": "Electronics",
+          "price_text": ""
+        },
+        {
+          "gid": "0",
+          "tab": "Master List",
+          "price_text": ""
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
+      "id": "57e408cfc3c214d269550f12",
+      "title": "(NEW) Nintendo Switch 2 System",
+      "retailer": "Woot",
+      "price_cents": null,
+      "currency": "USD",
+      "coupon": null,
+      "notes": "Was $499.00 (6% off); Posted Nov 26; Price can change; check before posting",
+      "url": "https://mavely.app.link/JGDQte3UK7b",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
+      "retailer_url": "https://mavely.app.link/JGDQte3UK7b",
+      "link_type": "retailer_redirect",
       "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
       "sources": [
         {
@@ -60485,6 +60875,45 @@
       }
     },
     {
+      "id": "5e1daa359098282a21331d18",
+      "title": "Anker 20,000mAh 15W Powerbank 2-Port (USB-C & USB-A)",
+      "retailer": "Woot",
+      "price_cents": null,
+      "currency": "USD",
+      "coupon": null,
+      "notes": "Was $49.99 (46% off); Posted Nov 26; Price can change; check before posting",
+      "url": "https://mavely.app.link/AkSvhvDfP7b",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=618994169",
+      "retailer_url": "https://mavely.app.link/AkSvhvDfP7b",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=618994169",
+      "sources": [
+        {
+          "gid": "618994169",
+          "tab": "Other",
+          "price_text": ""
+        },
+        {
+          "gid": "0",
+          "tab": "Master List",
+          "price_text": ""
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
       "id": "5e1dd52a55916955b942cbc5",
       "title": "DJI - Mini 4K Drone with Remote Control - Gray",
       "retailer": "Best Buy",
@@ -60636,6 +61065,45 @@
       }
     },
     {
+      "id": "6099e2ef5f5031860e64f856",
+      "title": "Michael Kors Jet Set Travel Medium Logo Dome Crossbody Bag - Maroon",
+      "retailer": "Michael Kors",
+      "price_cents": null,
+      "currency": "USD",
+      "coupon": null,
+      "notes": "Was $258.00 (83% off); Posted Nov 26; Price can change; check before posting",
+      "url": "https://mavely.app.link/EMRVfuZ7n8b",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=618994169",
+      "retailer_url": "https://mavely.app.link/EMRVfuZ7n8b",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=618994169",
+      "sources": [
+        {
+          "gid": "618994169",
+          "tab": "Other",
+          "price_text": ""
+        },
+        {
+          "gid": "0",
+          "tab": "Master List",
+          "price_text": ""
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
       "id": "60b9d3cd116b3900f3b07f3e",
       "title": "The Pebble Clover Shoulder Bag (Camel) — Cyber Weekend Deal",
       "retailer": "Marc Jacobs",
@@ -60769,6 +61237,45 @@
         {
           "gid": "2126119671",
           "tab": "Houshold",
+          "price_text": ""
+        },
+        {
+          "gid": "0",
+          "tab": "Master List",
+          "price_text": ""
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
+      "id": "64112784e229cdeedc6dd82c",
+      "title": "Calvin Klein Men's Prosper Wool-Blend Slim Fit Overcoat",
+      "retailer": "Macy's",
+      "price_cents": null,
+      "currency": "USD",
+      "coupon": null,
+      "notes": "Was $425.00 (76% off); Posted Nov 25; Price can change; check before posting",
+      "url": "https://mavely.app.link/Qv9xnkOIW6b",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=47040948",
+      "retailer_url": "https://mavely.app.link/Qv9xnkOIW6b",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=47040948",
+      "sources": [
+        {
+          "gid": "47040948",
+          "tab": "Fashion",
           "price_text": ""
         },
         {
@@ -60993,6 +61500,45 @@
         {
           "gid": "2126119671",
           "tab": "Houshold",
+          "price_text": ""
+        },
+        {
+          "gid": "0",
+          "tab": "Master List",
+          "price_text": ""
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
+      "id": "68d07a5713ff089507f622a3",
+      "title": "Kenmore Super Automatic Espresso Coffee Machine",
+      "retailer": "Kohl's",
+      "price_cents": null,
+      "currency": "USD",
+      "coupon": "TAKE20",
+      "notes": "Was $1,359.99 (32% off); Posted Nov 26; Price can change; check before posting",
+      "url": "https://mavely.app.link/tg9ff0iFN7b",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
+      "retailer_url": "https://mavely.app.link/tg9ff0iFN7b",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
+      "sources": [
+        {
+          "gid": "447244790",
+          "tab": "Electronics",
           "price_text": ""
         },
         {
@@ -62327,6 +62873,45 @@
       }
     },
     {
+      "id": "7b796b26d6564a777a8368c6",
+      "title": "Pioneer - 70\" Class LED 4K UHD Smart Roku TV",
+      "retailer": "Best Buy",
+      "price_cents": null,
+      "currency": "USD",
+      "coupon": null,
+      "notes": "Was $509.99 (39% off); Posted Nov 26; Price can change; check before posting",
+      "url": "https://bestbuycreators.7tiv.net/E01Ykn",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
+      "retailer_url": null,
+      "link_type": "offer_link",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
+      "sources": [
+        {
+          "gid": "447244790",
+          "tab": "Electronics",
+          "price_text": ""
+        },
+        {
+          "gid": "0",
+          "tab": "Master List",
+          "price_text": ""
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "tv",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": 500,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
       "id": "7bb5cc547a877d2cb79e1f9f",
       "title": "VIZIO 75\" Class Quantum 4K QLED HDR Limited Edition Smart TV (NEW 2026) VQD75X-10",
       "retailer": "Walmart",
@@ -62517,6 +63102,45 @@
       }
     },
     {
+      "id": "7ce210e4ec07532cc3289d3e",
+      "title": "Bath & Body Works — Buy 3, Get 4 FREE Entire Store",
+      "retailer": "Bath & Body Works",
+      "price_cents": null,
+      "currency": "USD",
+      "coupon": null,
+      "notes": "Posted Nov 26; Price can change; check before posting",
+      "url": "https://mavely.app.link/TLdZrpHwB7b",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=2126119671",
+      "retailer_url": "https://mavely.app.link/TLdZrpHwB7b",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=2126119671",
+      "sources": [
+        {
+          "gid": "2126119671",
+          "tab": "Houshold",
+          "price_text": ""
+        },
+        {
+          "gid": "0",
+          "tab": "Master List",
+          "price_text": ""
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
       "id": "7d04c2eab192ee7010956878",
       "title": "Champs Onyx II Collection 3-pc. Hardside Spinner Luggage Set",
       "retailer": "Kohl's",
@@ -62670,6 +63294,45 @@
         "status": "price_unavailable",
         "score": 0,
         "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
+      "id": "8113b867af20ef0a1e7f2e21",
+      "title": "TCL - 65\" Class QM8L Series 4K UHD HDR SQD Mini LED Smart TV with Google TV (2026)",
+      "retailer": "Best Buy",
+      "price_cents": null,
+      "currency": "USD",
+      "coupon": null,
+      "notes": "Was $2,499.99 (60% off); Posted Nov 26; Price can change; check before posting",
+      "url": "https://bestbuycreators.7tiv.net/VOX2BO",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
+      "retailer_url": null,
+      "link_type": "offer_link",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
+      "sources": [
+        {
+          "gid": "447244790",
+          "tab": "Electronics",
+          "price_text": ""
+        },
+        {
+          "gid": "0",
+          "tab": "Master List",
+          "price_text": ""
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "tv",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": 500,
         "preferred_usd": null,
         "within_budget": null,
         "comparisons": {},
@@ -63006,6 +63669,45 @@
         {
           "gid": "447244790",
           "tab": "Electronics",
+          "price_text": ""
+        },
+        {
+          "gid": "0",
+          "tab": "Master List",
+          "price_text": ""
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
+      "id": "86e2fe8a2087af5737eec38f",
+      "title": "Rayovac High Energy Alkaline AA Batteries (36-Pack) — Black Friday Deal",
+      "retailer": "Lowe's",
+      "price_cents": null,
+      "currency": "USD",
+      "coupon": null,
+      "notes": "Was $20.98 (48% off); Posted Nov 26; Price can change; check before posting",
+      "url": "https://mavely.app.link/StJnsWDbo8b",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=618994169",
+      "retailer_url": "https://mavely.app.link/StJnsWDbo8b",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=618994169",
+      "sources": [
+        {
+          "gid": "618994169",
+          "tab": "Other",
           "price_text": ""
         },
         {
@@ -63815,6 +64517,45 @@
         {
           "gid": "447244790",
           "tab": "Electronics",
+          "price_text": ""
+        },
+        {
+          "gid": "0",
+          "tab": "Master List",
+          "price_text": ""
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
+      "id": "92102265a85bc6fd06e393e8",
+      "title": "Rayovac High Energy Alkaline AAA Batteries (36-Pack) — Black Friday Deal",
+      "retailer": "Lowe's",
+      "price_cents": null,
+      "currency": "USD",
+      "coupon": null,
+      "notes": "Was $20.98 (48% off); Posted Nov 26; Price can change; check before posting",
+      "url": "https://mavely.app.link/2GZYbwGbo8b",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=618994169",
+      "retailer_url": "https://mavely.app.link/2GZYbwGbo8b",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=618994169",
+      "sources": [
+        {
+          "gid": "618994169",
+          "tab": "Other",
           "price_text": ""
         },
         {
@@ -64871,6 +65612,45 @@
       }
     },
     {
+      "id": "9ed996ab925a1f7c01d49545",
+      "title": "Schylling Lava Labs MYO Lava Lamp: Craft Kit for 8-11 Year Old Girls, Birthday Gift Idea, Includes Activity Guide, Requires AAA Batteries",
+      "retailer": "Target",
+      "price_cents": null,
+      "currency": "USD",
+      "coupon": null,
+      "notes": "Posted Nov 26; Price can change; check before posting",
+      "url": "https://mavely.app.link/caYdH6e4d8b",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=2126119671",
+      "retailer_url": "https://mavely.app.link/caYdH6e4d8b",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=2126119671",
+      "sources": [
+        {
+          "gid": "2126119671",
+          "tab": "Houshold",
+          "price_text": ""
+        },
+        {
+          "gid": "0",
+          "tab": "Master List",
+          "price_text": ""
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
       "id": "9f0b8ac21474cb86ddde83e7",
       "title": "Gymshark Soft Sculpt Leggings - Black",
       "retailer": "Gymshark",
@@ -64980,6 +65760,45 @@
         "status": "price_unavailable",
         "score": 0,
         "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
+      "id": "a06b7d7ecefc251132f77ded",
+      "title": "Samsung 70\" 4K Crystal Series SamsungVision AI Companion Smart Tizen OS TV - UN70U8000H",
+      "retailer": "Target",
+      "price_cents": null,
+      "currency": "USD",
+      "coupon": null,
+      "notes": "Was $499.99 (26% off); Posted Nov 26; Price can change; check before posting",
+      "url": "https://mavely.app.link/4azNi24j17b",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
+      "retailer_url": "https://mavely.app.link/4azNi24j17b",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
+      "sources": [
+        {
+          "gid": "447244790",
+          "tab": "Electronics",
+          "price_text": ""
+        },
+        {
+          "gid": "0",
+          "tab": "Master List",
+          "price_text": ""
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "tv",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": 500,
         "preferred_usd": null,
         "within_budget": null,
         "comparisons": {},
@@ -65943,6 +66762,45 @@
       }
     },
     {
+      "id": "b3088cb89f99c4e219bbece6",
+      "title": "HP - Googlebook 14\" - 3K OLED Touchscreen - Snapdragon X Elite X1E-80-100 (2024) - 16GB Memory - 512GB Storage - Atmospheric Blue",
+      "retailer": "Best Buy",
+      "price_cents": null,
+      "currency": "USD",
+      "coupon": null,
+      "notes": "Was $1,299.00 (23% off); Posted Nov 26; Price can change; check before posting",
+      "url": "https://bestbuycreators.7tiv.net/bkdz2k",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=2126119671",
+      "retailer_url": null,
+      "link_type": "offer_link",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=2126119671",
+      "sources": [
+        {
+          "gid": "2126119671",
+          "tab": "Houshold",
+          "price_text": ""
+        },
+        {
+          "gid": "0",
+          "tab": "Master List",
+          "price_text": ""
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
       "id": "b34d545a8cddb7ad0553a6a1",
       "title": "Gucci Guilty Love Edition Eau de Parfum for Women, 1.6 oz",
       "retailer": "Ulta",
@@ -66060,6 +66918,84 @@
       }
     },
     {
+      "id": "b4b2a426d065284985180620",
+      "title": "2-PACK Motorola T110 Talkabout Radios, 16 Mile Range",
+      "retailer": "Woot",
+      "price_cents": null,
+      "currency": "USD",
+      "coupon": null,
+      "notes": "Was $39.99 (58% off); Posted Nov 26; Price can change; check before posting",
+      "url": "https://mavely.app.link/WFbGAL0GV6b",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=618994169",
+      "retailer_url": "https://mavely.app.link/WFbGAL0GV6b",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=618994169",
+      "sources": [
+        {
+          "gid": "618994169",
+          "tab": "Other",
+          "price_text": ""
+        },
+        {
+          "gid": "0",
+          "tab": "Master List",
+          "price_text": ""
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
+      "id": "b4cf78c273f21721b2faa004",
+      "title": "DJI - Mini 3 Fly More Combo (DJI RC) (GL) - Gray",
+      "retailer": "Best Buy",
+      "price_cents": null,
+      "currency": "USD",
+      "coupon": null,
+      "notes": "Was $719.99 (15% off); Posted Nov 26; Price can change; check before posting",
+      "url": "https://bestbuycreators.7tiv.net/JkPGke",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=666531270",
+      "retailer_url": null,
+      "link_type": "offer_link",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=666531270",
+      "sources": [
+        {
+          "gid": "666531270",
+          "tab": "Toys",
+          "price_text": ""
+        },
+        {
+          "gid": "0",
+          "tab": "Master List",
+          "price_text": ""
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
       "id": "b5058c2ab73b82bd3ff832bb",
       "title": "Package - LG - 5.0 Cu. Ft. High-Efficiency Smart Top Load Washer with Easy Unload and 7.3 Cu. Ft. Smart Electric Dryer with Sensor Dry - Alpine White",
       "retailer": "Best Buy",
@@ -66130,6 +67066,45 @@
         "status": "price_unavailable",
         "score": 0,
         "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
+      "id": "b652422f5526c39a75f2821d",
+      "title": "Insignia 75-inch Class F50 Series LED 2160p 4K UHD Smart Fire TV — Black Friday Deal",
+      "retailer": "Best Buy",
+      "price_cents": null,
+      "currency": "USD",
+      "coupon": null,
+      "notes": "Was $599.99 (50% off); Posted Nov 26; Price can change; check before posting",
+      "url": "https://bestbuycreators.7tiv.net/dyB32k",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
+      "retailer_url": null,
+      "link_type": "offer_link",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
+      "sources": [
+        {
+          "gid": "447244790",
+          "tab": "Electronics",
+          "price_text": ""
+        },
+        {
+          "gid": "0",
+          "tab": "Master List",
+          "price_text": ""
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "tv",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": 500,
         "preferred_usd": null,
         "within_budget": null,
         "comparisons": {},
@@ -68346,6 +69321,45 @@
       }
     },
     {
+      "id": "d4d5a9d48463868471126cfa",
+      "title": "Tory Burch Mini Miller Crossbody Bag - Dark Carmine",
+      "retailer": "Tory Burch",
+      "price_cents": null,
+      "currency": "USD",
+      "coupon": null,
+      "notes": "Was $295.00 (43% off); Posted Nov 26; Price can change; check before posting",
+      "url": "https://mavely.app.link/ZeU9Cgr7n8b",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=618994169",
+      "retailer_url": "https://mavely.app.link/ZeU9Cgr7n8b",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=618994169",
+      "sources": [
+        {
+          "gid": "618994169",
+          "tab": "Other",
+          "price_text": ""
+        },
+        {
+          "gid": "0",
+          "tab": "Master List",
+          "price_text": ""
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
       "id": "d53a90a7ada49908501487c8",
       "title": "Costway Fireplace TV Stand with LED Lights & 18\" Electric Fireplace for 65\" TV - Black",
       "retailer": "Best Buy",
@@ -69134,6 +70148,45 @@
       "link_type": "retailer_redirect",
       "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=0",
       "sources": [
+        {
+          "gid": "0",
+          "tab": "Master List",
+          "price_text": ""
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
+      "id": "e21526667773f29e15d0507e",
+      "title": "KitchenAid - 36 in. Wide 26 Cu. Ft. Multi-Door French Door Refrigerator with Platinum Interior - Stainless Steel",
+      "retailer": "Best Buy",
+      "price_cents": null,
+      "currency": "USD",
+      "coupon": null,
+      "notes": "Was $3,599.99 (25% off); Posted Nov 26; Price can change; check before posting",
+      "url": "https://bestbuycreators.7tiv.net/k46BK0",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=2126119671",
+      "retailer_url": null,
+      "link_type": "offer_link",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=2126119671",
+      "sources": [
+        {
+          "gid": "2126119671",
+          "tab": "Houshold",
+          "price_text": ""
+        },
         {
           "gid": "0",
           "tab": "Master List",
@@ -70505,6 +71558,45 @@
       }
     },
     {
+      "id": "f2d1583e219efc35980c946a",
+      "title": "Cooler Master DYN-X Actuator Mount",
+      "retailer": "Woot",
+      "price_cents": null,
+      "currency": "USD",
+      "coupon": null,
+      "notes": "Was $399.99 (90% off); Posted Nov 26; Price can change; check before posting",
+      "url": "https://mavely.app.link/wkLCZFLdS7b",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=1154128692",
+      "retailer_url": "https://mavely.app.link/wkLCZFLdS7b",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=1154128692",
+      "sources": [
+        {
+          "gid": "1154128692",
+          "tab": "Sports & Outdoors",
+          "price_text": ""
+        },
+        {
+          "gid": "0",
+          "tab": "Master List",
+          "price_text": ""
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
       "id": "f34d645a90c83c37eabfabd0",
       "title": "Eddibox 3-1 Wireless iPhone Charger Stand, Dual Type-C cable, 20W PD Adapter",
       "retailer": "Amazon",
@@ -70711,6 +71803,45 @@
       "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
       "retailer_url": "https://mavely.app.link/rKfMkDYim8b",
       "link_type": "retailer_redirect",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
+      "sources": [
+        {
+          "gid": "447244790",
+          "tab": "Electronics",
+          "price_text": ""
+        },
+        {
+          "gid": "0",
+          "tab": "Master List",
+          "price_text": ""
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
+      "id": "f65ff9a1a9b4e07ebf799458",
+      "title": "Apple - iPhone Air 256GB (Unlocked) - Space Black",
+      "retailer": "Best Buy",
+      "price_cents": null,
+      "currency": "USD",
+      "coupon": null,
+      "notes": "Was $1,099.99 (32% off); Posted Nov 26; Price can change; check before posting",
+      "url": "https://bestbuycreators.7tiv.net/rEEq3d",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
+      "retailer_url": null,
+      "link_type": "offer_link",
       "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
       "sources": [
         {
