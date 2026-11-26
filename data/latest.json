@@ -1,25 +1,25 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-25T14:22:26+00:00",
+  "retrieved_at": "2026-11-26T00:20:43+00:00",
   "sheet_id": "18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4",
   "tabs": [
     {
       "gid": "0",
       "name": "Master List",
       "method": "gviz_csv",
-      "count": 1892
+      "count": 1890
     },
     {
       "gid": "447244790",
       "name": "Electronics",
       "method": "gviz_csv",
-      "count": 538
+      "count": 552
     },
     {
       "gid": "2126119671",
       "name": "Houshold",
       "method": "gviz_csv",
-      "count": 384
+      "count": 383
     },
     {
       "gid": "1760337101",
@@ -31,13 +31,13 @@
       "gid": "1154128692",
       "name": "Sports & Outdoors",
       "method": "gviz_csv",
-      "count": 59
+      "count": 60
     },
     {
       "gid": "1131968003",
       "name": "Holiday",
       "method": "gviz_csv",
-      "count": 45
+      "count": 43
     },
     {
       "gid": "1033372714",
@@ -49,7 +49,7 @@
       "gid": "1423386812",
       "name": "Personal Care",
       "method": "gviz_csv",
-      "count": 168
+      "count": 167
     },
     {
       "gid": "1655275521",
@@ -61,25 +61,25 @@
       "gid": "666531270",
       "name": "Toys",
       "method": "gviz_csv",
-      "count": 85
+      "count": 79
     },
     {
       "gid": "1904736644",
       "name": "Hardware-Tools",
       "method": "gviz_csv",
-      "count": 74
+      "count": 72
     },
     {
       "gid": "47040948",
       "name": "Fashion",
       "method": "gviz_csv",
-      "count": 299
+      "count": 295
     },
     {
       "gid": "618994169",
       "name": "Other",
       "method": "gviz_csv",
-      "count": 144
+      "count": 147
     }
   ],
   "deals": [
@@ -54384,6 +54384,40 @@
       }
     },
     {
+      "id": "bc9157ac52abdbcaa7a67c5c",
+      "title": "[EPP/EDU] Galaxy S26 Ultra 512GB Cobalt Violet Unlocked",
+      "retailer": "Samsung",
+      "price_cents": 116999,
+      "currency": "USD",
+      "coupon": null,
+      "notes": "was $1,599.99, EDU/EPP Offer Program",
+      "url": "https://www.samsung.com/us/multistore/us_education/smartphones/galaxy-s26-ultra/buy/galaxy-s26-ultra-512gb-unlocked-sku-sm-s948uzvexaa/",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=0",
+      "retailer_url": null,
+      "link_type": "offer_link",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=0",
+      "sources": [
+        {
+          "gid": "0",
+          "tab": "Master List",
+          "price_text": "$1,169.99"
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
       "id": "a7dd78dc9a90b3c187f9ed84",
       "title": "VIZIO 100\" Class Quantum Series QLED Smart TV, QuickFit™",
       "retailer": "Sam's Club",
@@ -56080,19 +56114,24 @@
       }
     },
     {
-      "id": "0198203330dca6fdecc26a6b",
-      "title": "GUGUG 4-Mode Skin Scrubber Face Spatula Blackhead Remover (White)",
-      "retailer": "Amazon",
+      "id": "018b561acce12b3e726479d1",
+      "title": "JBL - Go 4 Portable Bluetooth Speaker - 2024 - Black",
+      "retailer": "Best Buy",
       "price_cents": null,
       "currency": "USD",
-      "coupon": "SB69CLR1",
-      "notes": "Was $19.00 (53% off); Price can change; check before posting",
-      "url": "https://mavely.app.link/OUO5CVikj8b",
-      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=0",
-      "retailer_url": "https://mavely.app.link/OUO5CVikj8b",
-      "link_type": "retailer_redirect",
-      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=0",
+      "coupon": null,
+      "notes": "Was $54.99 (42% off); Posted Nov 25; Price can change; check before posting",
+      "url": "https://bestbuycreators.7tiv.net/m4dQ1y",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
+      "retailer_url": null,
+      "link_type": "offer_link",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
       "sources": [
+        {
+          "gid": "447244790",
+          "tab": "Electronics",
+          "price_text": ""
+        },
         {
           "gid": "0",
           "tab": "Master List",
@@ -56192,22 +56231,22 @@
       }
     },
     {
-      "id": "032d6333466909b35de9ea18",
-      "title": "Monster Energy Drink, Green, Original, 16 Ounce (Pack of 15)",
-      "retailer": "Amazon",
+      "id": "0272f94e92f30ffd179cb314",
+      "title": "Xbox Series X X25 Special Edition Gaming 1TB Console with Wireless Controller & Halo Campaign Evolved — Best Buy Drops, app only",
+      "retailer": "Best Buy",
       "price_cents": null,
       "currency": "USD",
       "coupon": null,
-      "notes": "Was $31.23 (49% off); Posted Nov 23; Price can change; check before posting",
-      "url": "https://mavely.app.link/oQeOZrnXc8b",
-      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=618994169",
-      "retailer_url": "https://mavely.app.link/oQeOZrnXc8b",
-      "link_type": "retailer_redirect",
-      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=618994169",
+      "notes": "Posted Nov 25; Price can change; check before posting",
+      "url": "https://bestbuycreators.7tiv.net/DWoGab",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
+      "retailer_url": null,
+      "link_type": "offer_link",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
       "sources": [
         {
-          "gid": "618994169",
-          "tab": "Other",
+          "gid": "447244790",
+          "tab": "Electronics",
           "price_text": ""
         },
         {
@@ -56242,45 +56281,6 @@
       "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
       "retailer_url": null,
       "link_type": "offer_link",
-      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
-      "sources": [
-        {
-          "gid": "447244790",
-          "tab": "Electronics",
-          "price_text": ""
-        },
-        {
-          "gid": "0",
-          "tab": "Master List",
-          "price_text": ""
-        }
-      ],
-      "price_conflict": false,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
-      "id": "038f7efeccf8586b57f8ae84",
-      "title": "Logitech G Yeti GX Dynamic RGB Gaming/Podcast USB Microphone - Black",
-      "retailer": "Amazon",
-      "price_cents": null,
-      "currency": "USD",
-      "coupon": null,
-      "notes": "Posted Nov 23; Price can change; check before posting",
-      "url": "https://mavely.app.link/ykGuTOcdf8b",
-      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
-      "retailer_url": "https://mavely.app.link/ykGuTOcdf8b",
-      "link_type": "retailer_redirect",
       "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
       "sources": [
         {
@@ -56894,19 +56894,24 @@
       }
     },
     {
-      "id": "0d617c22b35f4eb615605ad2",
-      "title": "3-Ct 16.9-Oz Nivea Men Maximum Hydration Body Wash w/ Aloe Vera",
-      "retailer": "Amazon",
+      "id": "0db321e84be24e8cc86889b1",
+      "title": "Calvin Klein Men's Classic Zip-Front Ripstop Bomber Jacket — Black Friday Deal",
+      "retailer": "Macy's",
       "price_cents": null,
       "currency": "USD",
       "coupon": null,
-      "notes": "Was $13.77 (44% off); Price can change; check before posting",
-      "url": "https://mavely.app.link/9rREi2kjj8b",
-      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=0",
-      "retailer_url": "https://mavely.app.link/9rREi2kjj8b",
+      "notes": "Was $195.00 (79% off); Posted Nov 25; Price can change; check before posting",
+      "url": "https://mavely.app.link/Fgtr09FKa8b",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=47040948",
+      "retailer_url": "https://mavely.app.link/Fgtr09FKa8b",
       "link_type": "retailer_redirect",
-      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=0",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=47040948",
       "sources": [
+        {
+          "gid": "47040948",
+          "tab": "Fashion",
+          "price_text": ""
+        },
         {
           "gid": "0",
           "tab": "Master List",
@@ -57084,6 +57089,45 @@
       }
     },
     {
+      "id": "0f13d839a930b544773ea7e5",
+      "title": "Narelu Sunrise Alarm Clock, Sound Machine, Dual-Sided Sunrise Wake Up Light",
+      "retailer": "Amazon",
+      "price_cents": null,
+      "currency": "USD",
+      "coupon": "7BIPVTF8",
+      "notes": "Was $89.99 (71% off); Posted Nov 25; Price can change; check before posting",
+      "url": "https://mavely.app.link/ewRBQBijm8b",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=2126119671",
+      "retailer_url": "https://mavely.app.link/ewRBQBijm8b",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=2126119671",
+      "sources": [
+        {
+          "gid": "2126119671",
+          "tab": "Houshold",
+          "price_text": ""
+        },
+        {
+          "gid": "0",
+          "tab": "Master List",
+          "price_text": ""
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
       "id": "0fe5af20bc511abbebc93061",
       "title": "No Boundaries Extended Tab Bootcut Jeans, 31.5\" Inseam, Women's 00-20",
       "retailer": "Walmart",
@@ -57102,79 +57146,6 @@
           "tab": "Fashion",
           "price_text": ""
         },
-        {
-          "gid": "0",
-          "tab": "Master List",
-          "price_text": ""
-        }
-      ],
-      "price_conflict": false,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
-      "id": "0fecaff92cb742882d5b8ac8",
-      "title": "Lerat Hand Warmers Rechargeable 2 Pack, Electric Hand Warmers, Fast Heating, Portable Pocket Heater, 2 in 1 Quick Charge Hand Warmer for Outdoor Indoor, Warmer Gift for Women,Men, Golf, Camping -Black",
-      "retailer": "Amazon",
-      "price_cents": null,
-      "currency": "USD",
-      "coupon": "N7BESPWG",
-      "notes": "Was $11.96 (50% off); Posted Nov 23; Price can change; check before posting",
-      "url": "https://mavely.app.link/qFZFEr4hf8b",
-      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=1154128692",
-      "retailer_url": "https://mavely.app.link/qFZFEr4hf8b",
-      "link_type": "retailer_redirect",
-      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=1154128692",
-      "sources": [
-        {
-          "gid": "1154128692",
-          "tab": "Sports & Outdoors",
-          "price_text": ""
-        },
-        {
-          "gid": "0",
-          "tab": "Master List",
-          "price_text": ""
-        }
-      ],
-      "price_conflict": false,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
-      "id": "118e5f7c5c7dca71fe6bd197",
-      "title": "Hand Warmers Rechargeable 2 Pack, Electric Hand Warmers, Fast Heating, Portable Pocket Heater, 2 in 1 Quick Charge Hand Warmer for Outdoor Indoor, Warmer Gift for Christmas, Golf, Camping",
-      "retailer": "Amazon",
-      "price_cents": null,
-      "currency": "USD",
-      "coupon": "N7BESPWG",
-      "notes": "Was $20.00 (70% off); Price can change; check before posting",
-      "url": "https://mavely.app.link/s9d6i3Bgf8b",
-      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=0",
-      "retailer_url": "https://mavely.app.link/s9d6i3Bgf8b",
-      "link_type": "retailer_redirect",
-      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=0",
-      "sources": [
         {
           "gid": "0",
           "tab": "Master List",
@@ -57328,6 +57299,45 @@
       "url": "https://mavely.app.link/4Qtlhy3xA7b",
       "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
       "retailer_url": "https://mavely.app.link/4Qtlhy3xA7b",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
+      "sources": [
+        {
+          "gid": "447244790",
+          "tab": "Electronics",
+          "price_text": ""
+        },
+        {
+          "gid": "0",
+          "tab": "Master List",
+          "price_text": ""
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
+      "id": "12d4c5eb64c4fc3e9ed402b0",
+      "title": "Meta Quest 3S 128GB All-In-One VR Headset (includes GOLF+, TPC Sawgrass course and 1,800 in-game credits)",
+      "retailer": "Target",
+      "price_cents": null,
+      "currency": "USD",
+      "coupon": null,
+      "notes": "Was $349.99 (15% off); Posted Nov 25; Price can change; check before posting",
+      "url": "https://mavely.app.link/e/gBgDyJmUoYb",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
+      "retailer_url": "https://mavely.app.link/e/gBgDyJmUoYb",
       "link_type": "retailer_redirect",
       "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
       "sources": [
@@ -57563,45 +57573,6 @@
         {
           "gid": "2126119671",
           "tab": "Houshold",
-          "price_text": ""
-        },
-        {
-          "gid": "0",
-          "tab": "Master List",
-          "price_text": ""
-        }
-      ],
-      "price_conflict": false,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
-      "id": "1846ab2b908039f011649a56",
-      "title": "112-Piece LEGO City - Road Plates (60304, 2021)",
-      "retailer": "Amazon",
-      "price_cents": null,
-      "currency": "USD",
-      "coupon": null,
-      "notes": "Was $20.00 (30% off); Posted Nov 23; Price can change; check before posting",
-      "url": "https://mavely.app.link/4JciCM3pj8b",
-      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=666531270",
-      "retailer_url": "https://mavely.app.link/4JciCM3pj8b",
-      "link_type": "retailer_redirect",
-      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=666531270",
-      "sources": [
-        {
-          "gid": "666531270",
-          "tab": "Toys",
           "price_text": ""
         },
         {
@@ -57964,6 +57935,45 @@
         "score": 0,
         "max_usd": null,
         "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
+      "id": "1e88cd45dd129a539a5d1720",
+      "title": "ECOVACS DEEBOT N30 OMNI Robot Vacuum and Mop",
+      "retailer": "Walmart",
+      "price_cents": null,
+      "currency": "USD",
+      "coupon": null,
+      "notes": "Was $669.99 (63% off); Posted Nov 25; Price can change; check before posting",
+      "url": "https://mavely.app.link/NBeyEFHjm8b",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
+      "retailer_url": "https://mavely.app.link/NBeyEFHjm8b",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
+      "sources": [
+        {
+          "gid": "447244790",
+          "tab": "Electronics",
+          "price_text": ""
+        },
+        {
+          "gid": "0",
+          "tab": "Master List",
+          "price_text": ""
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "robot_vacuum_mop",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": 350,
+        "preferred_usd": 250,
         "within_budget": null,
         "comparisons": {},
         "savings_vs_comparison_cents": null,
@@ -58434,19 +58444,63 @@
       }
     },
     {
-      "id": "2655868153f07b9e7cef1c87",
-      "title": "Hawthorne Dark Suede Cologne for Men. The Alluring Scent of Smooth Whiskey with Warm Notes of Black Suede, Italian Bergamot, & Sandalwood. Premium Men's Leather Cologne. 50 mL - 1.7 Fl. Oz.",
+      "id": "272df6702178862bfc5d3bb9",
+      "title": "Shark PowerDetect Speed Cordless Stick Vacuum Cleaner, HEPA Filtration, 60 Min Runtime, IA1121 - Ivory — Black Friday Deal",
+      "retailer": "Best Buy",
+      "price_cents": null,
+      "currency": "USD",
+      "coupon": null,
+      "notes": "Was $499.99 (60% off); Posted Nov 25; Price can change; check before posting",
+      "url": "https://bestbuycreators.7tiv.net/DWNagj",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
+      "retailer_url": null,
+      "link_type": "offer_link",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
+      "sources": [
+        {
+          "gid": "447244790",
+          "tab": "Electronics",
+          "price_text": ""
+        },
+        {
+          "gid": "0",
+          "tab": "Master List",
+          "price_text": ""
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
+      "id": "284700c3f4438188b434156d",
+      "title": "Tissot T-Touch Connect Sport, Swiss Quartz Solar Tactile, 43mm, Black Dial, Unisex Watch",
       "retailer": "Amazon",
       "price_cents": null,
       "currency": "USD",
       "coupon": null,
-      "notes": "Was $60.00 (50% off); Price can change; check before posting",
-      "url": "https://mavely.app.link/kWTSsqiqj8b",
-      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=0",
-      "retailer_url": "https://mavely.app.link/kWTSsqiqj8b",
+      "notes": "Was $1,150.00 (40% off); Posted Nov 25; Price can change; check before posting",
+      "url": "https://mavely.app.link/WxEqFsqnm8b",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
+      "retailer_url": "https://mavely.app.link/WxEqFsqnm8b",
       "link_type": "retailer_redirect",
-      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=0",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
       "sources": [
+        {
+          "gid": "447244790",
+          "tab": "Electronics",
+          "price_text": ""
+        },
         {
           "gid": "0",
           "tab": "Master List",
@@ -58713,6 +58767,84 @@
         {
           "gid": "2126119671",
           "tab": "Houshold",
+          "price_text": ""
+        },
+        {
+          "gid": "0",
+          "tab": "Master List",
+          "price_text": ""
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
+      "id": "2d5c5cf193f55408891f0d82",
+      "title": "Roborock Q7 M5+ Robot Vacuum and Mop with Auto-Empty Dock",
+      "retailer": "Roborock",
+      "price_cents": null,
+      "currency": "USD",
+      "coupon": null,
+      "notes": "Was $429.99 (53% off); Posted Nov 25; Price can change; check before posting",
+      "url": "https://mavely.app.link/Mnflon9hm8b",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
+      "retailer_url": "https://mavely.app.link/Mnflon9hm8b",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
+      "sources": [
+        {
+          "gid": "447244790",
+          "tab": "Electronics",
+          "price_text": ""
+        },
+        {
+          "gid": "0",
+          "tab": "Master List",
+          "price_text": ""
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "robot_vacuum_mop",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": 350,
+        "preferred_usd": 250,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
+      "id": "2d6931d2a81b678c6a74456a",
+      "title": "ASUS Vivobook 16\" WUXGA Laptop (Ryzen 5, 8GB, 256GB) — Black Friday Deal",
+      "retailer": "Best Buy",
+      "price_cents": null,
+      "currency": "USD",
+      "coupon": null,
+      "notes": "Was $599.99 (42% off); Posted Nov 25; Price can change; check before posting",
+      "url": "https://bestbuycreators.7tiv.net/enzX36",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
+      "retailer_url": null,
+      "link_type": "offer_link",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
+      "sources": [
+        {
+          "gid": "447244790",
+          "tab": "Electronics",
           "price_text": ""
         },
         {
@@ -59072,84 +59204,6 @@
       }
     },
     {
-      "id": "30952b5bfdfb850fb1f7a2ab",
-      "title": "BestMassage Aluminium Frame Lash Bed 28in Wide Height Adjustable Table with Non-Woven Bag for Spa Footmassage Facial Care Spa Tattoo, 84 * 28inches, Orange, Black, Silver",
-      "retailer": "Amazon",
-      "price_cents": null,
-      "currency": "USD",
-      "coupon": null,
-      "notes": "Was $329.99 (63% off); Posted Nov 23; Price can change; check before posting",
-      "url": "https://mavely.app.link/q09lW1jNi8b",
-      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=2126119671",
-      "retailer_url": "https://mavely.app.link/q09lW1jNi8b",
-      "link_type": "retailer_redirect",
-      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=2126119671",
-      "sources": [
-        {
-          "gid": "2126119671",
-          "tab": "Houshold",
-          "price_text": ""
-        },
-        {
-          "gid": "0",
-          "tab": "Master List",
-          "price_text": ""
-        }
-      ],
-      "price_conflict": false,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
-      "id": "3098291dba0d191e83ae005f",
-      "title": "Fanttik A10 Apex 3-in-1 Digital Laser Tape Measure w/ Green Cross-Line Laser",
-      "retailer": "Amazon",
-      "price_cents": null,
-      "currency": "USD",
-      "coupon": "5SNGM89K",
-      "notes": "Was $130.00 (46% off); Posted Nov 23; Price can change; check before posting",
-      "url": "https://mavely.app.link/UEXBCgPoj8b",
-      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=1904736644",
-      "retailer_url": "https://mavely.app.link/UEXBCgPoj8b",
-      "link_type": "retailer_redirect",
-      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=1904736644",
-      "sources": [
-        {
-          "gid": "1904736644",
-          "tab": "Hardware-Tools",
-          "price_text": ""
-        },
-        {
-          "gid": "0",
-          "tab": "Master List",
-          "price_text": ""
-        }
-      ],
-      "price_conflict": false,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
       "id": "30e4ce9cd4d16346b4216a61",
       "title": "Women's Columbia Benton Springs Zip-Front Fleece Jacket",
       "retailer": "Kohl's",
@@ -59262,22 +59316,22 @@
       }
     },
     {
-      "id": "314b6cb74b68fb63ddd42506",
-      "title": "Klein Tools 55836MB MODBOX Drill Pouch",
-      "retailer": "Amazon",
+      "id": "31f724a58b3a5051c39a7004",
+      "title": "Sedona Kitchen Glidesteel Stainless Steel Nonstick 2-Pc. Frypan Set",
+      "retailer": "Macy's",
       "price_cents": null,
       "currency": "USD",
       "coupon": null,
-      "notes": "Was $29.98 (50% off); Posted Nov 23; Price can change; check before posting",
-      "url": "https://mavely.app.link/Rl6c1qsRi8b",
-      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=1904736644",
-      "retailer_url": "https://mavely.app.link/Rl6c1qsRi8b",
+      "notes": "Was $173.99 (80% off); Posted Nov 25; Price can change; check before posting",
+      "url": "https://mavely.app.link/0Qjhv3qAQ7b",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=2126119671",
+      "retailer_url": "https://mavely.app.link/0Qjhv3qAQ7b",
       "link_type": "retailer_redirect",
-      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=1904736644",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=2126119671",
       "sources": [
         {
-          "gid": "1904736644",
-          "tab": "Hardware-Tools",
+          "gid": "2126119671",
+          "tab": "Houshold",
           "price_text": ""
         },
         {
@@ -59413,45 +59467,6 @@
       }
     },
     {
-      "id": "36863c32cc8e6374ce653e21",
-      "title": "3-Pack Frienhund Puppy Teething Chew Toys for Small Breeds (Bacon Flavor, Yellow-Purple)",
-      "retailer": "Amazon",
-      "price_cents": null,
-      "currency": "USD",
-      "coupon": "3TWC7ZSR",
-      "notes": "Was $14.00 (63% off); Posted Nov 23; Price can change; check before posting",
-      "url": "https://mavely.app.link/jkGDnjX3i8b",
-      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=618994169",
-      "retailer_url": "https://mavely.app.link/jkGDnjX3i8b",
-      "link_type": "retailer_redirect",
-      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=618994169",
-      "sources": [
-        {
-          "gid": "618994169",
-          "tab": "Other",
-          "price_text": ""
-        },
-        {
-          "gid": "0",
-          "tab": "Master List",
-          "price_text": ""
-        }
-      ],
-      "price_conflict": false,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
       "id": "369dc594c1e80e92dc80534d",
       "title": "Ray-Ban Meta - Skyler (Gen 2) glasses with Meta AI, Audio, Photo, Video Compatibility - Clear lenses - Shiny Black",
       "retailer": "Best Buy",
@@ -59548,6 +59563,40 @@
           "tab": "Houshold",
           "price_text": ""
         },
+        {
+          "gid": "0",
+          "tab": "Master List",
+          "price_text": ""
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
+      "id": "37e15407c578e4279a23c0a5",
+      "title": "Nautica Voyage Cologne for Men Spray, 3.4 fl oz",
+      "retailer": "Walmart",
+      "price_cents": null,
+      "currency": "USD",
+      "coupon": null,
+      "notes": "Was $24.42 (50% off); Price can change; check before posting",
+      "url": "https://mavely.app.link/cAt91aElm8b",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=0",
+      "retailer_url": "https://mavely.app.link/cAt91aElm8b",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=0",
+      "sources": [
         {
           "gid": "0",
           "tab": "Master List",
@@ -59697,84 +59746,6 @@
         {
           "gid": "2126119671",
           "tab": "Houshold",
-          "price_text": ""
-        },
-        {
-          "gid": "0",
-          "tab": "Master List",
-          "price_text": ""
-        }
-      ],
-      "price_conflict": false,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
-      "id": "3961afabd1947c0ae390ce13",
-      "title": "Moen WS84003BRB Traditional 2H CS HARC BRB, Bronze",
-      "retailer": "Amazon",
-      "price_cents": null,
-      "currency": "USD",
-      "coupon": null,
-      "notes": "Was $180.91 (45% off); Posted Nov 23; Price can change; check before posting",
-      "url": "https://mavely.app.link/QJpYP7gpi8b",
-      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=2126119671",
-      "retailer_url": "https://mavely.app.link/QJpYP7gpi8b",
-      "link_type": "retailer_redirect",
-      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=2126119671",
-      "sources": [
-        {
-          "gid": "2126119671",
-          "tab": "Houshold",
-          "price_text": ""
-        },
-        {
-          "gid": "0",
-          "tab": "Master List",
-          "price_text": ""
-        }
-      ],
-      "price_conflict": false,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
-      "id": "39bd71700514687f47ab6b39",
-      "title": "INIU 10000mAh 45W Fast Charging Portable Charger (2 Colors)",
-      "retailer": "Amazon",
-      "price_cents": null,
-      "currency": "USD",
-      "coupon": null,
-      "notes": "Was $25.00 (56% off); Posted Nov 23; Price can change; check before posting",
-      "url": "https://mavely.app.link/VrVYx6mNi8b",
-      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
-      "retailer_url": "https://mavely.app.link/VrVYx6mNi8b",
-      "link_type": "retailer_redirect",
-      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
-      "sources": [
-        {
-          "gid": "447244790",
-          "tab": "Electronics",
           "price_text": ""
         },
         {
@@ -60407,45 +60378,6 @@
       }
     },
     {
-      "id": "459fdc96480ffbcc69a079d4",
-      "title": "Xbox Core Wireless Gaming Controller – Velocity Green Series X|S, One, Windows PC, Android, and iOS",
-      "retailer": "Amazon",
-      "price_cents": null,
-      "currency": "USD",
-      "coupon": null,
-      "notes": "Was $64.97 (31% off); Posted Nov 23; Price can change; check before posting",
-      "url": "https://mavely.app.link/5Z1QIFDjj8b",
-      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
-      "retailer_url": "https://mavely.app.link/5Z1QIFDjj8b",
-      "link_type": "retailer_redirect",
-      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
-      "sources": [
-        {
-          "gid": "447244790",
-          "tab": "Electronics",
-          "price_text": ""
-        },
-        {
-          "gid": "0",
-          "tab": "Master List",
-          "price_text": ""
-        }
-      ],
-      "price_conflict": false,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
       "id": "45ef3197d6edf99471d7e92a",
       "title": "Ninja - Foodi Smart XL 6-in-1 Countertop Indoor Grill with Smart Cook System, 4-quart Air Fryer - Dark Grey/Stainless",
       "retailer": "Best Buy",
@@ -60485,6 +60417,45 @@
       }
     },
     {
+      "id": "47399db9a6506af5e97829b3",
+      "title": "Hotel Style Plush Memory Foam Bath Mat Grey 18\"x27\"",
+      "retailer": "Walmart",
+      "price_cents": null,
+      "currency": "USD",
+      "coupon": null,
+      "notes": "Posted Nov 25; Price can change; check before posting",
+      "url": "https://mavely.app.link/0crSPhgtm8b",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=2126119671",
+      "retailer_url": "https://mavely.app.link/0crSPhgtm8b",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=2126119671",
+      "sources": [
+        {
+          "gid": "2126119671",
+          "tab": "Houshold",
+          "price_text": ""
+        },
+        {
+          "gid": "0",
+          "tab": "Master List",
+          "price_text": ""
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
       "id": "47489687937ce7f9dab8c6ea",
       "title": "MD Sports Official Size Ping Pong Table Tennis Table, 4 Piece Foldable Design with Net & Accessories, Red/Silver",
       "retailer": "Walmart",
@@ -60501,6 +60472,45 @@
         {
           "gid": "1154128692",
           "tab": "Sports & Outdoors",
+          "price_text": ""
+        },
+        {
+          "gid": "0",
+          "tab": "Master List",
+          "price_text": ""
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
+      "id": "47b97ccae6c201bda0d89cba",
+      "title": "Lenovo IdeaPad 5i 2-in-1 14\" WUXGA Touch Laptop (Core Ultra 5, 16GB, 1TB)",
+      "retailer": "Best Buy",
+      "price_cents": null,
+      "currency": "USD",
+      "coupon": null,
+      "notes": "Was $1,299.99 (23% off); Posted Nov 25; Price can change; check before posting",
+      "url": "https://bestbuycreators.7tiv.net/enzXy6",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
+      "retailer_url": null,
+      "link_type": "offer_link",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
+      "sources": [
+        {
+          "gid": "447244790",
+          "tab": "Electronics",
           "price_text": ""
         },
         {
@@ -60719,6 +60729,123 @@
       }
     },
     {
+      "id": "4cb250f6526b95dbd38450e2",
+      "title": "Samsung 65\" Class LS03H Series The Frame 4K UHD SamsungVision AI Smart Tizen TV (2026) — Black Friday Deal",
+      "retailer": "Best Buy",
+      "price_cents": null,
+      "currency": "USD",
+      "coupon": null,
+      "notes": "Was $1,499.99 (33% off); Posted Nov 25; Price can change; check before posting",
+      "url": "https://bestbuycreators.7tiv.net/dyBW3Q",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
+      "retailer_url": null,
+      "link_type": "offer_link",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
+      "sources": [
+        {
+          "gid": "447244790",
+          "tab": "Electronics",
+          "price_text": ""
+        },
+        {
+          "gid": "0",
+          "tab": "Master List",
+          "price_text": ""
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "tv",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": 500,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
+      "id": "4d5c58aa40034acd4ea530c7",
+      "title": "(NEW) Samsung Galaxy S25 Ultra - 512GB (Unlocked)",
+      "retailer": "Woot",
+      "price_cents": null,
+      "currency": "USD",
+      "coupon": null,
+      "notes": "Was $1,419.99 (37% off); Posted Nov 25; Price can change; check before posting",
+      "url": "https://mavely.app.link/UGpFGrbBe7b",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=618994169",
+      "retailer_url": "https://mavely.app.link/UGpFGrbBe7b",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=618994169",
+      "sources": [
+        {
+          "gid": "618994169",
+          "tab": "Other",
+          "price_text": ""
+        },
+        {
+          "gid": "0",
+          "tab": "Master List",
+          "price_text": ""
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
+      "id": "4dcc48671adc3fe5511c454d",
+      "title": "Geoffrey Beene Ultra Light-Weight Midnight Collection",
+      "retailer": "Macy's",
+      "price_cents": null,
+      "currency": "USD",
+      "coupon": null,
+      "notes": "Was $999.99 (50% off); Posted Nov 25; Price can change; check before posting",
+      "url": "https://mavely.app.link/ZFK2WmI7V7b",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=618994169",
+      "retailer_url": "https://mavely.app.link/ZFK2WmI7V7b",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=618994169",
+      "sources": [
+        {
+          "gid": "618994169",
+          "tab": "Other",
+          "price_text": ""
+        },
+        {
+          "gid": "0",
+          "tab": "Master List",
+          "price_text": ""
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
       "id": "4dd0bfb96062aad45e9a3881",
       "title": "Marc New York by Andrew Marc Men's Slim Fit 2-Piece Suit",
       "retailer": "Macy's",
@@ -60836,22 +60963,22 @@
       }
     },
     {
-      "id": "4ef612c8b19e675f5810fd0a",
-      "title": "HERSHEY'S Milk Chocolate King Size Candy Bars, 2.6 oz, 18 Ct",
-      "retailer": "Amazon",
+      "id": "4f1c2ed33e3e7d3190f35045",
+      "title": "Garmin fēnix AMOLED Sapphire GPS Smartwatch",
+      "retailer": "Kohl's",
       "price_cents": null,
       "currency": "USD",
       "coupon": null,
-      "notes": "Was $39.00 (38% off); Posted Nov 23; Price can change; check before posting",
-      "url": "https://mavely.app.link/8l726O56i8b",
-      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=618994169",
-      "retailer_url": "https://mavely.app.link/8l726O56i8b",
+      "notes": "Was $999.99 (25% off); Posted Nov 25; Price can change; check before posting",
+      "url": "https://mavely.app.link/7AWHCOERz6b",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
+      "retailer_url": "https://mavely.app.link/7AWHCOERz6b",
       "link_type": "retailer_redirect",
-      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=618994169",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
       "sources": [
         {
-          "gid": "618994169",
-          "tab": "Other",
+          "gid": "447244790",
+          "tab": "Electronics",
           "price_text": ""
         },
         {
@@ -61086,45 +61213,6 @@
         {
           "gid": "447244790",
           "tab": "Electronics",
-          "price_text": ""
-        },
-        {
-          "gid": "0",
-          "tab": "Master List",
-          "price_text": ""
-        }
-      ],
-      "price_conflict": false,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
-      "id": "52d38db53c93796b6014a30d",
-      "title": "Milk Frothing Pitcher 12oz, Stainless Steel Espresso Cup for Latte Art | Premium stainless steel",
-      "retailer": "Amazon",
-      "price_cents": null,
-      "currency": "USD",
-      "coupon": "NGUYAWBL",
-      "notes": "Was $25.00 (50% off); Posted Nov 23; Price can change; check before posting",
-      "url": "https://mavely.app.link/MK92Z1J1i8b",
-      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=2126119671",
-      "retailer_url": "https://mavely.app.link/MK92Z1J1i8b",
-      "link_type": "retailer_redirect",
-      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=2126119671",
-      "sources": [
-        {
-          "gid": "2126119671",
-          "tab": "Houshold",
           "price_text": ""
         },
         {
@@ -61460,45 +61548,6 @@
       }
     },
     {
-      "id": "567dc6dc298327da920c31ee",
-      "title": "Oakley Mens OO9102 Holbrook Square Sunglasses | Matte Black on Silver/Prizm Grey, 57mm",
-      "retailer": "Amazon",
-      "price_cents": null,
-      "currency": "USD",
-      "coupon": null,
-      "notes": "Was $174.00 (50% off); Posted Nov 23; Price can change; check before posting",
-      "url": "https://mavely.app.link/gUPWkzSej8b",
-      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=47040948",
-      "retailer_url": "https://mavely.app.link/gUPWkzSej8b",
-      "link_type": "retailer_redirect",
-      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=47040948",
-      "sources": [
-        {
-          "gid": "47040948",
-          "tab": "Fashion",
-          "price_text": ""
-        },
-        {
-          "gid": "0",
-          "tab": "Master List",
-          "price_text": ""
-        }
-      ],
-      "price_conflict": false,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
       "id": "56dc06fd4591a682ce3ce91a",
       "title": "Garmin fēnix® 8 – 51 mm, AMOLED GPS Smart Watch",
       "retailer": "Kohl's",
@@ -61694,45 +61743,6 @@
       }
     },
     {
-      "id": "5820a3175b80dd5526ef8d6c",
-      "title": "Jada Fast & Furious 1:24 2006 Dodge Charger Police Car Die-Cast Car, Toys for Kids and Adults",
-      "retailer": "Amazon",
-      "price_cents": null,
-      "currency": "USD",
-      "coupon": null,
-      "notes": "Was $30.00 (52% off); Posted Nov 23; Price can change; check before posting",
-      "url": "https://mavely.app.link/G3oAoDXVi8b",
-      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=666531270",
-      "retailer_url": "https://mavely.app.link/G3oAoDXVi8b",
-      "link_type": "retailer_redirect",
-      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=666531270",
-      "sources": [
-        {
-          "gid": "666531270",
-          "tab": "Toys",
-          "price_text": ""
-        },
-        {
-          "gid": "0",
-          "tab": "Master List",
-          "price_text": ""
-        }
-      ],
-      "price_conflict": false,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
       "id": "58f12be4621be5902953b26c",
       "title": "TCL 55\" 4K UHD HDR Smart Roku TV (New, Limited Edition) - 55S41CR",
       "retailer": "Walmart",
@@ -61785,45 +61795,6 @@
       "link_type": "retailer_redirect",
       "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=0",
       "sources": [
-        {
-          "gid": "0",
-          "tab": "Master List",
-          "price_text": ""
-        }
-      ],
-      "price_conflict": false,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
-      "id": "5a398d3fcd75d84a8b07e1a6",
-      "title": "50 Organic Madagascar Vanilla Beans. Whole Grade A Vanilla Pods for Vanilla Extract and Baking",
-      "retailer": "Amazon",
-      "price_cents": null,
-      "currency": "USD",
-      "coupon": null,
-      "notes": "Was $40.00 (44% off); Posted Nov 23; Price can change; check before posting",
-      "url": "https://mavely.app.link/g9usqTgUi8b",
-      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=618994169",
-      "retailer_url": "https://mavely.app.link/g9usqTgUi8b",
-      "link_type": "retailer_redirect",
-      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=618994169",
-      "sources": [
-        {
-          "gid": "618994169",
-          "tab": "Other",
-          "price_text": ""
-        },
         {
           "gid": "0",
           "tab": "Master List",
@@ -61968,6 +61939,45 @@
       "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
       "retailer_url": null,
       "link_type": "offer_link",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
+      "sources": [
+        {
+          "gid": "447244790",
+          "tab": "Electronics",
+          "price_text": ""
+        },
+        {
+          "gid": "0",
+          "tab": "Master List",
+          "price_text": ""
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
+      "id": "5df1d4e8695c4e562515e0b3",
+      "title": "Dyson Ball Animal Origin Upright Vacuum, Blue/Iron",
+      "retailer": "Walmart",
+      "price_cents": null,
+      "currency": "USD",
+      "coupon": null,
+      "notes": "Was $329.99 (39% off); Posted Nov 25; Price can change; check before posting",
+      "url": "https://mavely.app.link/IWS9pXzjm8b",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
+      "retailer_url": "https://mavely.app.link/IWS9pXzjm8b",
+      "link_type": "retailer_redirect",
       "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
       "sources": [
         {
@@ -62225,45 +62235,6 @@
       }
     },
     {
-      "id": "643153f71ea91f43e138696b",
-      "title": "BISSELL Little Green Mini Portable Carpet Cleaner, 4075",
-      "retailer": "Amazon",
-      "price_cents": null,
-      "currency": "USD",
-      "coupon": null,
-      "notes": "Was $99.99 (30% off); Posted Nov 23; Price can change; check before posting",
-      "url": "https://mavely.app.link/uWTlabzFl6b",
-      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=2126119671",
-      "retailer_url": "https://mavely.app.link/uWTlabzFl6b",
-      "link_type": "retailer_redirect",
-      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=2126119671",
-      "sources": [
-        {
-          "gid": "2126119671",
-          "tab": "Houshold",
-          "price_text": ""
-        },
-        {
-          "gid": "0",
-          "tab": "Master List",
-          "price_text": ""
-        }
-      ],
-      "price_conflict": false,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
       "id": "64358857fbbe0d746f9b49a0",
       "title": "eufy Security SoloCam E42 4K Solar Camera",
       "retailer": "Amazon",
@@ -62280,45 +62251,6 @@
         {
           "gid": "447244790",
           "tab": "Electronics",
-          "price_text": ""
-        },
-        {
-          "gid": "0",
-          "tab": "Master List",
-          "price_text": ""
-        }
-      ],
-      "price_conflict": false,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
-      "id": "6458cc42616611f819e12d9e",
-      "title": "Bloom Nutrition Sparkling Energy Drink, Zero Sugar, 180mg Caffeine — Strawberry Watermelon (12oz, Pack of 24)",
-      "retailer": "Amazon",
-      "price_cents": null,
-      "currency": "USD",
-      "coupon": null,
-      "notes": "Was $39.98 (74% off); Posted Nov 23; Price can change; check before posting",
-      "url": "https://mavely.app.link/VbPMca6zg8b",
-      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=618994169",
-      "retailer_url": "https://mavely.app.link/VbPMca6zg8b",
-      "link_type": "retailer_redirect",
-      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=618994169",
-      "sources": [
-        {
-          "gid": "618994169",
-          "tab": "Other",
           "price_text": ""
         },
         {
@@ -62618,6 +62550,45 @@
       "link_type": "retailer_redirect",
       "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=0",
       "sources": [
+        {
+          "gid": "0",
+          "tab": "Master List",
+          "price_text": ""
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
+      "id": "6a83964c2418ec23237aabe0",
+      "title": "Traveler's Choice Phenom 3-pc. Spinner Luggage Set",
+      "retailer": "Kohl's",
+      "price_cents": null,
+      "currency": "USD",
+      "coupon": null,
+      "notes": "Was $534.99 (52% off); Posted Nov 25; Price can change; check before posting",
+      "url": "https://mavely.app.link/1ALj9Yj5N7b",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=618994169",
+      "retailer_url": "https://mavely.app.link/1ALj9Yj5N7b",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=618994169",
+      "sources": [
+        {
+          "gid": "618994169",
+          "tab": "Other",
+          "price_text": ""
+        },
         {
           "gid": "0",
           "tab": "Master List",
@@ -63029,19 +63000,24 @@
       }
     },
     {
-      "id": "6ebe548fc7e92a749bcaf22a",
-      "title": "e.l.f. Halo Glow Blush Wand, You Go Cocoa",
-      "retailer": "CVS",
+      "id": "6e0a1489c215636cba81d392",
+      "title": "CXK Bone Conduction Headphones Bluetooth 6.0 Open Ear Wireless with Mic",
+      "retailer": "Amazon",
       "price_cents": null,
       "currency": "USD",
-      "coupon": null,
-      "notes": "Price can change; check before posting",
-      "url": "https://mavely.app.link/gdzgmegXi8b",
-      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=0",
-      "retailer_url": "https://mavely.app.link/gdzgmegXi8b",
+      "coupon": "OA4QKF28",
+      "notes": "Was $93.99 (73% off); Posted Nov 25; Price can change; check before posting",
+      "url": "https://mavely.app.link/itIFmzojm8b",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
+      "retailer_url": "https://mavely.app.link/itIFmzojm8b",
       "link_type": "retailer_redirect",
-      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=0",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
       "sources": [
+        {
+          "gid": "447244790",
+          "tab": "Electronics",
+          "price_text": ""
+        },
         {
           "gid": "0",
           "tab": "Master List",
@@ -63063,22 +63039,61 @@
       }
     },
     {
-      "id": "6edd6f0db636c1c6b7988e37",
-      "title": "Hand Warmers Rechargeable 2 Pack, Electric Hand Warmers, Fast Heating, Portable Pocket Heater, 2 in 1 Quick Charge Hand Warmer for Outdoor Indoor, Warmer Gift for Christmas, Golf, Camping",
-      "retailer": "N7BESPWG",
+      "id": "6e755c13e025afe483ebc0af",
+      "title": "Bissell 2328 Crosswave Pet Pro Multi-Surface Wet/Dry Vacuum",
+      "retailer": "Walmart",
       "price_cents": null,
       "currency": "USD",
       "coupon": null,
-      "notes": "Amazon",
-      "url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=1131968003",
-      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=1131968003",
-      "retailer_url": null,
-      "link_type": "source",
-      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=1131968003",
+      "notes": "Was $224.00 (56% off); Posted Nov 25; Price can change; check before posting",
+      "url": "https://mavely.app.link/D9Xf2syp16b",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
+      "retailer_url": "https://mavely.app.link/D9Xf2syp16b",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
       "sources": [
         {
-          "gid": "1131968003",
-          "tab": "Holiday",
+          "gid": "447244790",
+          "tab": "Electronics",
+          "price_text": ""
+        },
+        {
+          "gid": "0",
+          "tab": "Master List",
+          "price_text": ""
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
+      "id": "6ebe548fc7e92a749bcaf22a",
+      "title": "e.l.f. Halo Glow Blush Wand, You Go Cocoa",
+      "retailer": "CVS",
+      "price_cents": null,
+      "currency": "USD",
+      "coupon": null,
+      "notes": "Price can change; check before posting",
+      "url": "https://mavely.app.link/gdzgmegXi8b",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=0",
+      "retailer_url": "https://mavely.app.link/gdzgmegXi8b",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=0",
+      "sources": [
+        {
+          "gid": "0",
+          "tab": "Master List",
           "price_text": ""
         }
       ],
@@ -63214,45 +63229,6 @@
       }
     },
     {
-      "id": "721fec78bbea3765ab559842",
-      "title": "adidas Midway School Backpack 28L | Padded Laptop Sleeve, Multiple Organizer Pockets, Water-Bottle Pockets, Durable Build, School Gym & Travel Ready",
-      "retailer": "Amazon",
-      "price_cents": null,
-      "currency": "USD",
-      "coupon": null,
-      "notes": "Was $40.00 (56% off); Posted Nov 23; Price can change; check before posting",
-      "url": "https://mavely.app.link/8eT43n09i8b",
-      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=47040948",
-      "retailer_url": "https://mavely.app.link/8eT43n09i8b",
-      "link_type": "retailer_redirect",
-      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=47040948",
-      "sources": [
-        {
-          "gid": "47040948",
-          "tab": "Fashion",
-          "price_text": ""
-        },
-        {
-          "gid": "0",
-          "tab": "Master List",
-          "price_text": ""
-        }
-      ],
-      "price_conflict": false,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
       "id": "725664409ab9742ca39c846c",
       "title": "Sony INZONE H9 Wireless Over-Ear Noise Cancelling Gaming Headset, Black",
       "retailer": "Amazon",
@@ -63365,6 +63341,45 @@
       }
     },
     {
+      "id": "7304172e132f9456b1599667",
+      "title": "LG - 65\" Class 84B Series QNED evo AI Mini LED 4K Smart webOS TV (2026)",
+      "retailer": "Best Buy",
+      "price_cents": null,
+      "currency": "USD",
+      "coupon": null,
+      "notes": "Was $1,299.99 (58% off); Posted Nov 25; Price can change; check before posting",
+      "url": "https://bestbuycreators.7tiv.net/6kj6XN",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
+      "retailer_url": null,
+      "link_type": "offer_link",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
+      "sources": [
+        {
+          "gid": "447244790",
+          "tab": "Electronics",
+          "price_text": ""
+        },
+        {
+          "gid": "0",
+          "tab": "Master List",
+          "price_text": ""
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "tv",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": 500,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
       "id": "7351aa2a2534ad4c89c779ca",
       "title": "onn 20 in Bluetooth 2.1 Channel Soundbar with Multi-Color LED Lighting",
       "retailer": "Walmart",
@@ -63404,16 +63419,16 @@
       }
     },
     {
-      "id": "748874bbcb4796447402838c",
-      "title": "Ninja Foodi StaySharp Knife Block with Integrated Sharpener, 6-Piece Set [K32006UK] Stainless Steel, Scissors, Silver/Black",
-      "retailer": "Amazon",
+      "id": "7479f3c3355db97986017073",
+      "title": "Riverbrook Home Logan Comforter Set (KING, Oatmeal)",
+      "retailer": "Kohl's",
       "price_cents": null,
       "currency": "USD",
       "coupon": null,
-      "notes": "Was $289.98 (35% off); Posted Nov 23; Price can change; check before posting",
-      "url": "https://mavely.app.link/pBb14oQri8b",
+      "notes": "Was $999.99 (60% off); Posted Nov 25; Price can change; check before posting",
+      "url": "https://mavely.app.link/XPl5BwLlH7b",
       "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=2126119671",
-      "retailer_url": "https://mavely.app.link/pBb14oQri8b",
+      "retailer_url": "https://mavely.app.link/XPl5BwLlH7b",
       "link_type": "retailer_redirect",
       "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=2126119671",
       "sources": [
@@ -63560,22 +63575,22 @@
       }
     },
     {
-      "id": "76c84d3669f148cbeb6fd3e3",
-      "title": "YETI Tundra 45 Hard Cooler - Rotomolded Ice Chest, Pace Purple/Blue",
-      "retailer": "Amazon",
+      "id": "767d657924d2c2bf49d09745",
+      "title": "Dyson V15 Detect Absolute + Car Cleaning Kit, Yellow/Nickel",
+      "retailer": "Dyson",
       "price_cents": null,
       "currency": "USD",
       "coupon": null,
-      "notes": "Was $325.00 (30% off); Posted Nov 23; Price can change; check before posting",
-      "url": "https://mavely.app.link/oJIwflA6i8b",
-      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=1154128692",
-      "retailer_url": "https://mavely.app.link/oJIwflA6i8b",
+      "notes": "Was $889.99 (33% off); Posted Nov 25; Price can change; check before posting",
+      "url": "https://mavely.app.link/ycxfkPkim8b",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=618994169",
+      "retailer_url": "https://mavely.app.link/ycxfkPkim8b",
       "link_type": "retailer_redirect",
-      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=1154128692",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=618994169",
       "sources": [
         {
-          "gid": "1154128692",
-          "tab": "Sports & Outdoors",
+          "gid": "618994169",
+          "tab": "Other",
           "price_text": ""
         },
         {
@@ -63599,22 +63614,22 @@
       }
     },
     {
-      "id": "76d650ec55bd0298dacd8352",
-      "title": "Boston: Boston Remastered Digipack (Audio CD)",
+      "id": "76c84d3669f148cbeb6fd3e3",
+      "title": "YETI Tundra 45 Hard Cooler - Rotomolded Ice Chest, Pace Purple/Blue",
       "retailer": "Amazon",
       "price_cents": null,
       "currency": "USD",
       "coupon": null,
-      "notes": "Was $9.98 (50% off); Posted Nov 23; Price can change; check before posting",
-      "url": "https://mavely.app.link/5PmfkPKTi8b",
-      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=618994169",
-      "retailer_url": "https://mavely.app.link/5PmfkPKTi8b",
+      "notes": "Was $325.00 (30% off); Posted Nov 23; Price can change; check before posting",
+      "url": "https://mavely.app.link/oJIwflA6i8b",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=1154128692",
+      "retailer_url": "https://mavely.app.link/oJIwflA6i8b",
       "link_type": "retailer_redirect",
-      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=618994169",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=1154128692",
       "sources": [
         {
-          "gid": "618994169",
-          "tab": "Other",
+          "gid": "1154128692",
+          "tab": "Sports & Outdoors",
           "price_text": ""
         },
         {
@@ -63706,22 +63721,22 @@
       }
     },
     {
-      "id": "7953ec37fcb262f48580a880",
-      "title": "Jabra Engage 50 Wired Headset, Mono – Telephone Headset with 3-Microphone System, Blocks Out Background Noise for Increased Agent Focus, Call Center Headset Features Enhanced Hearing Protection",
-      "retailer": "Amazon",
+      "id": "79f5b3a2b1f48fb17a861571",
+      "title": "LG - 4.5 Cu. Ft. HE Smart Front Load Washer and 7.4 Cu. Ft. Electric Dryer WashTower with Steam and Built-In Intelligence - White",
+      "retailer": "Best Buy",
       "price_cents": null,
       "currency": "USD",
       "coupon": null,
-      "notes": "Was $99.00 (60% off); Posted Nov 23; Price can change; check before posting",
-      "url": "https://mavely.app.link/5wOcyqBpi8b",
-      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
-      "retailer_url": "https://mavely.app.link/5wOcyqBpi8b",
-      "link_type": "retailer_redirect",
-      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
+      "notes": "Was $2,599.99 (42% off); Posted Nov 25; Price can change; check before posting",
+      "url": "https://bestbuycreators.7tiv.net/yZMKED",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=618994169",
+      "retailer_url": null,
+      "link_type": "offer_link",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=618994169",
       "sources": [
         {
-          "gid": "447244790",
-          "tab": "Electronics",
+          "gid": "618994169",
+          "tab": "Other",
           "price_text": ""
         },
         {
@@ -64086,40 +64101,6 @@
       }
     },
     {
-      "id": "7ce5baac7478d3efe812ab87",
-      "title": "ANUA PDRN Hyaluronic Acid 100 Moisturizing Cream, 2.02 fl oz",
-      "retailer": "Amazon",
-      "price_cents": null,
-      "currency": "USD",
-      "coupon": null,
-      "notes": "Was $27.00 (41% off); Price can change; check before posting",
-      "url": "https://mavely.app.link/tvPAdxZ806b",
-      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=0",
-      "retailer_url": "https://mavely.app.link/tvPAdxZ806b",
-      "link_type": "retailer_redirect",
-      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=0",
-      "sources": [
-        {
-          "gid": "0",
-          "tab": "Master List",
-          "price_text": ""
-        }
-      ],
-      "price_conflict": false,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
       "id": "7d04c2eab192ee7010956878",
       "title": "Champs Onyx II Collection 3-pc. Hardside Spinner Luggage Set",
       "retailer": "Kohl's",
@@ -64136,6 +64117,11 @@
         {
           "gid": "47040948",
           "tab": "Fashion",
+          "price_text": ""
+        },
+        {
+          "gid": "618994169",
+          "tab": "Other",
           "price_text": ""
         },
         {
@@ -64229,45 +64215,6 @@
         "status": "price_unavailable",
         "score": 0,
         "max_usd": 500,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
-      "id": "7ed6ff6cf2c5cc3c2d612b6a",
-      "title": "ASUS ROG Strix Z890-E Gaming WiFi Motherboard (DDR5, WiFi 7, 7x M.2, Thunderbolt 4)",
-      "retailer": "Amazon",
-      "price_cents": null,
-      "currency": "USD",
-      "coupon": null,
-      "notes": "Was $329.99 (27% off); Posted Nov 23; Price can change; check before posting",
-      "url": "https://mavely.app.link/xJSl1QEgj8b",
-      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
-      "retailer_url": "https://mavely.app.link/xJSl1QEgj8b",
-      "link_type": "retailer_redirect",
-      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
-      "sources": [
-        {
-          "gid": "447244790",
-          "tab": "Electronics",
-          "price_text": ""
-        },
-        {
-          "gid": "0",
-          "tab": "Master List",
-          "price_text": ""
-        }
-      ],
-      "price_conflict": false,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
         "preferred_usd": null,
         "within_budget": null,
         "comparisons": {},
@@ -64783,40 +64730,6 @@
       }
     },
     {
-      "id": "86b8fd859553e06da87716da",
-      "title": "GUGUG 4-Mode Skin Scrubber Face Spatula Blackhead Remover (White)",
-      "retailer": "SB69CLR1",
-      "price_cents": null,
-      "currency": "USD",
-      "coupon": null,
-      "notes": "Amazon",
-      "url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=1423386812",
-      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=1423386812",
-      "retailer_url": null,
-      "link_type": "source",
-      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=1423386812",
-      "sources": [
-        {
-          "gid": "1423386812",
-          "tab": "Personal Care",
-          "price_text": ""
-        }
-      ],
-      "price_conflict": false,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
       "id": "86f14c6700cdece34d75af57",
       "title": "Package - GE Profile - 5.3 Cu. Ft. High-Efficiency Stackable Smart Front Load Washer with Steam and UltraFresh Vent System and 7.8 Cu. Ft. Stackable Smart Electric Dryer with Steam - White",
       "retailer": "Best Buy",
@@ -64887,6 +64800,45 @@
         "status": "price_unavailable",
         "score": 0,
         "max_usd": 100,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
+      "id": "875c13240eb562940b86fa16",
+      "title": "Garmin quatix 8 47-mm AMOLED Sapphire Titanium Bezel Smartwatch",
+      "retailer": "Kohl's",
+      "price_cents": null,
+      "currency": "USD",
+      "coupon": null,
+      "notes": "Was $1,099.99 (23% off); Posted Nov 25; Price can change; check before posting",
+      "url": "https://mavely.app.link/Bdzj2mWCA6b",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
+      "retailer_url": "https://mavely.app.link/Bdzj2mWCA6b",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
+      "sources": [
+        {
+          "gid": "447244790",
+          "tab": "Electronics",
+          "price_text": ""
+        },
+        {
+          "gid": "0",
+          "tab": "Master List",
+          "price_text": ""
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
         "preferred_usd": null,
         "within_budget": null,
         "comparisons": {},
@@ -64973,6 +64925,45 @@
       }
     },
     {
+      "id": "886c8478741c1c7e7ec0b4e4",
+      "title": "Gymshark Crest Oversized Hoodie - Light Grey Marl",
+      "retailer": "Gymshark",
+      "price_cents": null,
+      "currency": "USD",
+      "coupon": "WEDOGYM20",
+      "notes": "Was $46.00 (52% off); Posted Nov 25; Price can change; check before posting",
+      "url": "https://mavely.app.link/bMC7KYlCl8b",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=1154128692",
+      "retailer_url": "https://mavely.app.link/bMC7KYlCl8b",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=1154128692",
+      "sources": [
+        {
+          "gid": "1154128692",
+          "tab": "Sports & Outdoors",
+          "price_text": ""
+        },
+        {
+          "gid": "0",
+          "tab": "Master List",
+          "price_text": ""
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
       "id": "886ff72c5c9bbca76d196463",
       "title": "Tommy Hilfiger Men's Solid Luxury Wool Modern-Fit Overcoat",
       "retailer": "Macy's",
@@ -65028,6 +65019,45 @@
         {
           "gid": "666531270",
           "tab": "Toys",
+          "price_text": ""
+        },
+        {
+          "gid": "0",
+          "tab": "Master List",
+          "price_text": ""
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
+      "id": "88e5761e57fdde211cd53d1d",
+      "title": "Hotelier Quilted Coverlet Set (King, White)",
+      "retailer": "Kohl's",
+      "price_cents": null,
+      "currency": "USD",
+      "coupon": null,
+      "notes": "Was $159.99 (60% off); Posted Nov 25; Price can change; check before posting",
+      "url": "https://mavely.app.link/FYIkhjg6V7b",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=618994169",
+      "retailer_url": "https://mavely.app.link/FYIkhjg6V7b",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=618994169",
+      "sources": [
+        {
+          "gid": "618994169",
+          "tab": "Other",
           "price_text": ""
         },
         {
@@ -65582,6 +65612,45 @@
       }
     },
     {
+      "id": "92de6ef5402711bb3f6d27b4",
+      "title": "Gymshark Vital Seamless 2.0 Leggings - Pink",
+      "retailer": "Gymshark",
+      "price_cents": null,
+      "currency": "USD",
+      "coupon": "WEDOGYM20",
+      "notes": "Was $54.00 (52% off); Posted Nov 25; Price can change; check before posting",
+      "url": "https://mavely.app.link/oSs0VFoCl8b",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=1154128692",
+      "retailer_url": "https://mavely.app.link/oSs0VFoCl8b",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=1154128692",
+      "sources": [
+        {
+          "gid": "1154128692",
+          "tab": "Sports & Outdoors",
+          "price_text": ""
+        },
+        {
+          "gid": "0",
+          "tab": "Master List",
+          "price_text": ""
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
       "id": "934d0bca2e29bb5cf25838ca",
       "title": "Jet Set Medium Leather Crossbody Bag (Black)",
       "retailer": "Michael Kors",
@@ -65637,45 +65706,6 @@
         {
           "gid": "618994169",
           "tab": "Other",
-          "price_text": ""
-        },
-        {
-          "gid": "0",
-          "tab": "Master List",
-          "price_text": ""
-        }
-      ],
-      "price_conflict": false,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
-      "id": "93b0133d5a15cad7fbba9922",
-      "title": "Michael Kors Hudson Notched Money Clip Card Case, Chocolate",
-      "retailer": "Amazon",
-      "price_cents": null,
-      "currency": "USD",
-      "coupon": null,
-      "notes": "Was $98.00 (79% off); Posted Nov 23; Price can change; check before posting",
-      "url": "https://mavely.app.link/j1tsgrfIg8b",
-      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=47040948",
-      "retailer_url": "https://mavely.app.link/j1tsgrfIg8b",
-      "link_type": "retailer_redirect",
-      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=47040948",
-      "sources": [
-        {
-          "gid": "47040948",
-          "tab": "Fashion",
           "price_text": ""
         },
         {
@@ -66269,45 +66299,6 @@
       }
     },
     {
-      "id": "9b014ca7e0cfdb0a5a33b0db",
-      "title": "Ray-Ban RB4165 Justin Rectangular Sunglasses, Rubber Black/Light Grey Gradient Dark Grey, 55mm",
-      "retailer": "Amazon",
-      "price_cents": null,
-      "currency": "USD",
-      "coupon": null,
-      "notes": "Posted Nov 23; Price can change; check before posting",
-      "url": "https://mavely.app.link/MVrsR03oj8b",
-      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=47040948",
-      "retailer_url": "https://mavely.app.link/MVrsR03oj8b",
-      "link_type": "retailer_redirect",
-      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=47040948",
-      "sources": [
-        {
-          "gid": "47040948",
-          "tab": "Fashion",
-          "price_text": ""
-        },
-        {
-          "gid": "0",
-          "tab": "Master List",
-          "price_text": ""
-        }
-      ],
-      "price_conflict": false,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
       "id": "9b2b0b031d432615145911ef",
       "title": "tarte love notes maracuja juicy lip balm 4pc lip wardrobe",
       "retailer": "QVC",
@@ -66610,6 +66601,45 @@
       }
     },
     {
+      "id": "9f0b8ac21474cb86ddde83e7",
+      "title": "Gymshark Soft Sculpt Leggings - Black",
+      "retailer": "Gymshark",
+      "price_cents": null,
+      "currency": "USD",
+      "coupon": "WEDOGYM20",
+      "notes": "Was $60.00 (60% off); Posted Nov 25; Price can change; check before posting",
+      "url": "https://mavely.app.link/bqICX9iCl8b",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=1154128692",
+      "retailer_url": "https://mavely.app.link/bqICX9iCl8b",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=1154128692",
+      "sources": [
+        {
+          "gid": "1154128692",
+          "tab": "Sports & Outdoors",
+          "price_text": ""
+        },
+        {
+          "gid": "0",
+          "tab": "Master List",
+          "price_text": ""
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
       "id": "9f6b68f6dbeedbb4b2172aad",
       "title": "TP-Link Kasa Smart Plug Mini EP25P4, 4-Pack",
       "retailer": "Amazon",
@@ -66878,45 +66908,6 @@
       }
     },
     {
-      "id": "a2f8e0c0c8c7382416eb9dd9",
-      "title": "Pokémon TCG: 30th Celebration Poster Collection",
-      "retailer": "Amazon",
-      "price_cents": null,
-      "currency": "USD",
-      "coupon": null,
-      "notes": "Was $49.99 (60% off); Posted Nov 23; Price can change; check before posting",
-      "url": "https://mavely.app.link/Ilbv8MDij8b",
-      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=666531270",
-      "retailer_url": "https://mavely.app.link/Ilbv8MDij8b",
-      "link_type": "retailer_redirect",
-      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=666531270",
-      "sources": [
-        {
-          "gid": "666531270",
-          "tab": "Toys",
-          "price_text": ""
-        },
-        {
-          "gid": "0",
-          "tab": "Master List",
-          "price_text": ""
-        }
-      ],
-      "price_conflict": false,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
       "id": "a3047e268a354d3ad47cbf3e",
       "title": "AARP MEMBERSHIP FOR JUST 15 PER YEAR",
       "retailer": null,
@@ -67068,16 +67059,16 @@
       }
     },
     {
-      "id": "a42ac8ce19fed4d079bd4258",
-      "title": "Kirby Air Riders (Nintendo Switch 2 Digital)",
+      "id": "a4796185b0f74656fcc8a2fb",
+      "title": "CROSSGEAR Lightweight Laptop Backpack 15.6in 26L",
       "retailer": "Amazon",
       "price_cents": null,
       "currency": "USD",
-      "coupon": null,
-      "notes": "Was $70.00 (57% off); Posted Nov 23; Price can change; check before posting",
-      "url": "https://mavely.app.link/3p2q5vVtj8b",
+      "coupon": "IBWX0DS8",
+      "notes": "Was $19.99 (53% off); Posted Nov 25; Price can change; check before posting",
+      "url": "https://mavely.app.link/GNk5i21hm8b",
       "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
-      "retailer_url": "https://mavely.app.link/3p2q5vVtj8b",
+      "retailer_url": "https://mavely.app.link/GNk5i21hm8b",
       "link_type": "retailer_redirect",
       "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
       "sources": [
@@ -67331,45 +67322,6 @@
       }
     },
     {
-      "id": "a85de3b6601af5d5a810042a",
-      "title": "UGG Women's Classic Mini II Boot, Chestnut, Size 7",
-      "retailer": "Amazon",
-      "price_cents": null,
-      "currency": "USD",
-      "coupon": null,
-      "notes": "Was $174.95 (44% off); Posted Nov 23; Price can change; check before posting",
-      "url": "https://mavely.app.link/TeunaAW8i8b",
-      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=47040948",
-      "retailer_url": "https://mavely.app.link/TeunaAW8i8b",
-      "link_type": "retailer_redirect",
-      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=47040948",
-      "sources": [
-        {
-          "gid": "47040948",
-          "tab": "Fashion",
-          "price_text": ""
-        },
-        {
-          "gid": "0",
-          "tab": "Master List",
-          "price_text": ""
-        }
-      ],
-      "price_conflict": false,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
       "id": "a8ccfbda8a6a99691b23b553",
       "title": "Apple iPad 11-inch, A16, Wi-Fi, 128GB, Silver",
       "retailer": "Walmart",
@@ -67409,16 +67361,16 @@
       }
     },
     {
-      "id": "a962ed28753b255dd5ef94f7",
-      "title": "Faninso M9 350W Cordless Electric Air Duster w/ 10,000mAh Battery",
-      "retailer": "Amazon",
+      "id": "a98e7c2d7ba7726c98b7c894",
+      "title": "Magic Bullet Essential 9-Piece 250W Personal Blender — Black Friday Deal",
+      "retailer": "Kohl's",
       "price_cents": null,
       "currency": "USD",
-      "coupon": "NPJPU92G",
-      "notes": "Was $50.00 (75% off); Posted Nov 23; Price can change; check before posting",
-      "url": "https://mavely.app.link/N6bENIgsj8b",
+      "coupon": null,
+      "notes": "Was $69.99 (57% off); Posted Nov 25; Price can change; check before posting",
+      "url": "https://mavely.app.link/GfqK4kcyp3b",
       "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
-      "retailer_url": "https://mavely.app.link/N6bENIgsj8b",
+      "retailer_url": "https://mavely.app.link/GfqK4kcyp3b",
       "link_type": "retailer_redirect",
       "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
       "sources": [
@@ -67526,45 +67478,6 @@
       }
     },
     {
-      "id": "aa937f8363f58f064ebe7c38",
-      "title": "Pokémon TCG: Mega Evolution—Delta Reign Elite Trainer Box",
-      "retailer": "Amazon",
-      "price_cents": null,
-      "currency": "USD",
-      "coupon": null,
-      "notes": "Was $79.69 (25% off); Posted Nov 23; Price can change; check before posting",
-      "url": "https://mavely.app.link/vK8ay6flj8b",
-      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=666531270",
-      "retailer_url": "https://mavely.app.link/vK8ay6flj8b",
-      "link_type": "retailer_redirect",
-      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=666531270",
-      "sources": [
-        {
-          "gid": "666531270",
-          "tab": "Toys",
-          "price_text": ""
-        },
-        {
-          "gid": "0",
-          "tab": "Master List",
-          "price_text": ""
-        }
-      ],
-      "price_conflict": false,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
       "id": "ae600197ef95ec084206c8ad",
       "title": "Dhole 7-Piece Bed Sheet Set - Queen Size Comforter, Pillowcases & Sheet Collection for Cozy Bedding Comfort Black",
       "retailer": "Walmart",
@@ -67635,40 +67548,6 @@
         "status": "price_unavailable",
         "score": 0,
         "max_usd": 500,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
-      "id": "af90b86eee87bb871a783094",
-      "title": "Citizen Quartz Men's Watch, Stainless Steel, Classic, Gold-Tone (BF2013-56P)",
-      "retailer": "Amazon",
-      "price_cents": null,
-      "currency": "USD",
-      "coupon": null,
-      "notes": "Price can change; check before posting",
-      "url": "https://mavely.app.link/JJkcgqgfj8b",
-      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=0",
-      "retailer_url": "https://mavely.app.link/JJkcgqgfj8b",
-      "link_type": "retailer_redirect",
-      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=0",
-      "sources": [
-        {
-          "gid": "0",
-          "tab": "Master List",
-          "price_text": ""
-        }
-      ],
-      "price_conflict": false,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
         "preferred_usd": null,
         "within_budget": null,
         "comparisons": {},
@@ -67789,22 +67668,22 @@
       }
     },
     {
-      "id": "b10c69c4cbd440892db6ca05",
-      "title": "2-Pack Men's Leather Ratchet Click Dress Belts",
-      "retailer": "Amazon",
+      "id": "b11c0e7ecf2acf7cfff075b3",
+      "title": "Bose - QuietComfort Headphones (2nd Gen) - Wireless, Over Ear, Active Noise Cancelling, Immersive Audio, USB-C Charging - Dewdrop Mint",
+      "retailer": "Best Buy",
       "price_cents": null,
       "currency": "USD",
-      "coupon": "NPG8E763",
-      "notes": "Was $37.98 (50% off); Posted Nov 23; Price can change; check before posting",
-      "url": "https://mavely.app.link/TPMJeZvSi8b",
-      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=47040948",
-      "retailer_url": "https://mavely.app.link/TPMJeZvSi8b",
-      "link_type": "retailer_redirect",
-      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=47040948",
+      "coupon": null,
+      "notes": "Was $359.00 (45% off); Posted Nov 23; Price can change; check before posting",
+      "url": "https://bestbuycreators.7tiv.net/MKeL7P",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
+      "retailer_url": null,
+      "link_type": "offer_link",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
       "sources": [
         {
-          "gid": "47040948",
-          "tab": "Fashion",
+          "gid": "447244790",
+          "tab": "Electronics",
           "price_text": ""
         },
         {
@@ -67828,14 +67707,14 @@
       }
     },
     {
-      "id": "b11c0e7ecf2acf7cfff075b3",
-      "title": "Bose - QuietComfort Headphones (2nd Gen) - Wireless, Over Ear, Active Noise Cancelling, Immersive Audio, USB-C Charging - Dewdrop Mint",
+      "id": "b2305794cae7c5520f84b6f1",
+      "title": "ASUS Chromebook Plus CX14 14\" 2K Laptop - Hunter Green — Black Friday Deal",
       "retailer": "Best Buy",
       "price_cents": null,
       "currency": "USD",
       "coupon": null,
-      "notes": "Was $359.00 (45% off); Posted Nov 23; Price can change; check before posting",
-      "url": "https://bestbuycreators.7tiv.net/MKeL7P",
+      "notes": "Was $599.00 (45% off); Posted Nov 25; Price can change; check before posting",
+      "url": "https://bestbuycreators.7tiv.net/xJd1Zv",
       "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
       "retailer_url": null,
       "link_type": "offer_link",
@@ -68062,22 +67941,22 @@
       }
     },
     {
-      "id": "b6049f3e15f8c11e62aeb80c",
-      "title": "Super Mario Galaxy + Super Mario Galaxy 2 Standard - Nintendo Switch [Digital Code]",
+      "id": "b720108800bdd8e67bab8cbe",
+      "title": "Huffy 12\" Spidey/Spider-Man Kids' Bike, Ages 3-5 Years Old, Blue",
       "retailer": "Amazon",
       "price_cents": null,
       "currency": "USD",
       "coupon": null,
-      "notes": "Was $69.88 (57% off); Posted Nov 23; Price can change; check before posting",
-      "url": "https://mavely.app.link/KiHISffaj8b",
-      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
-      "retailer_url": "https://mavely.app.link/KiHISffaj8b",
+      "notes": "Was $158.00 (28% off); Posted Nov 23; Price can change; check before posting",
+      "url": "https://mavely.app.link/M4tOBgikc8b",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=666531270",
+      "retailer_url": "https://mavely.app.link/M4tOBgikc8b",
       "link_type": "retailer_redirect",
-      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=666531270",
       "sources": [
         {
-          "gid": "447244790",
-          "tab": "Electronics",
+          "gid": "666531270",
+          "tab": "Toys",
           "price_text": ""
         },
         {
@@ -68101,22 +67980,22 @@
       }
     },
     {
-      "id": "b720108800bdd8e67bab8cbe",
-      "title": "Huffy 12\" Spidey/Spider-Man Kids' Bike, Ages 3-5 Years Old, Blue",
-      "retailer": "Amazon",
+      "id": "b7df6381434d6b214d175181",
+      "title": "Sony PlayStation 5 DualSense Wireless Controller - White",
+      "retailer": "Woot",
       "price_cents": null,
       "currency": "USD",
       "coupon": null,
-      "notes": "Was $158.00 (28% off); Posted Nov 23; Price can change; check before posting",
-      "url": "https://mavely.app.link/M4tOBgikc8b",
-      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=666531270",
-      "retailer_url": "https://mavely.app.link/M4tOBgikc8b",
+      "notes": "Posted Nov 25; Price can change; check before posting",
+      "url": "https://mavely.app.link/6hoHq8Eem8b",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
+      "retailer_url": "https://mavely.app.link/6hoHq8Eem8b",
       "link_type": "retailer_redirect",
-      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=666531270",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
       "sources": [
         {
-          "gid": "666531270",
-          "tab": "Toys",
+          "gid": "447244790",
+          "tab": "Electronics",
           "price_text": ""
         },
         {
@@ -68798,45 +68677,6 @@
       }
     },
     {
-      "id": "c2b4e70402d0b2ccba552896",
-      "title": "Disney Stitch Pink Crystal 3D Puzzle, 43-Pc Brain Teaser, Ages 12+",
-      "retailer": "Amazon",
-      "price_cents": null,
-      "currency": "USD",
-      "coupon": null,
-      "notes": "Was $21.00 (67% off); Posted Nov 23; Price can change; check before posting",
-      "url": "https://mavely.app.link/OvAlkF6fj8b",
-      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=666531270",
-      "retailer_url": "https://mavely.app.link/OvAlkF6fj8b",
-      "link_type": "retailer_redirect",
-      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=666531270",
-      "sources": [
-        {
-          "gid": "666531270",
-          "tab": "Toys",
-          "price_text": ""
-        },
-        {
-          "gid": "0",
-          "tab": "Master List",
-          "price_text": ""
-        }
-      ],
-      "price_conflict": false,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
       "id": "c2dca3b455fbf8cc9b08b1aa",
       "title": "Champs Luxe II Collection 3-pc. Hardside Spinner Luggage Set",
       "retailer": "Kohl's",
@@ -68853,6 +68693,11 @@
         {
           "gid": "47040948",
           "tab": "Fashion",
+          "price_text": ""
+        },
+        {
+          "gid": "618994169",
+          "tab": "Other",
           "price_text": ""
         },
         {
@@ -68993,6 +68838,45 @@
       }
     },
     {
+      "id": "c47b57cc7d52f7ca8ed21af7",
+      "title": "Walgreens Double Zipper Seal Freezer Bags Gallon, 50 ct",
+      "retailer": "Walgreens",
+      "price_cents": null,
+      "currency": "USD",
+      "coupon": null,
+      "notes": "Posted Nov 25; Price can change; check before posting",
+      "url": "https://mavely.app.link/otM4bcxAm8b",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=618994169",
+      "retailer_url": "https://mavely.app.link/otM4bcxAm8b",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=618994169",
+      "sources": [
+        {
+          "gid": "618994169",
+          "tab": "Other",
+          "price_text": ""
+        },
+        {
+          "gid": "0",
+          "tab": "Master List",
+          "price_text": ""
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
       "id": "c4941051140b8af6e16d7580",
       "title": "Canon - EOS R100 4K Video Mirrorless Camera with RF-S18-45mm f/4.5-6.3 IS STM Lens - Black",
       "retailer": "Best Buy",
@@ -69071,6 +68955,45 @@
       }
     },
     {
+      "id": "c5087e8e621f8620151a0656",
+      "title": "Shark NeverChange Compact Pro Air Purifier, HP071BRN, Winter Fog",
+      "retailer": "Amazon",
+      "price_cents": null,
+      "currency": "USD",
+      "coupon": null,
+      "notes": "Was $160.00 (38% off); Posted Nov 25; Price can change; check before posting",
+      "url": "https://mavely.app.link/5gmZuFmfm8b",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=618994169",
+      "retailer_url": "https://mavely.app.link/5gmZuFmfm8b",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=618994169",
+      "sources": [
+        {
+          "gid": "618994169",
+          "tab": "Other",
+          "price_text": ""
+        },
+        {
+          "gid": "0",
+          "tab": "Master List",
+          "price_text": ""
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
       "id": "c54fcca6f646fdb84da5e4ee",
       "title": "Samsung - 65\" Class QN990F Series Neo QLED 8K Mini LED SamsungVision AI Smart Tizen TV (2025)",
       "retailer": "Best Buy",
@@ -69110,22 +69033,22 @@
       }
     },
     {
-      "id": "c7454cc1d51bc43351dddcf4",
-      "title": "iTouchless 3-Gallon Touchless Motion Sensor Slim Trash Can (Pink)",
+      "id": "c5e04b951bfd7f579c27e0ed",
+      "title": "G Gradual Hoodies for Women Oversized Fleece Sweatshirt Kangaroo Pocket",
       "retailer": "Amazon",
       "price_cents": null,
       "currency": "USD",
-      "coupon": null,
-      "notes": "Was $42.99 (63% off); Posted Nov 23; Price can change; check before posting",
-      "url": "https://mavely.app.link/cr13IsFhj8b",
-      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=2126119671",
-      "retailer_url": "https://mavely.app.link/cr13IsFhj8b",
+      "coupon": "9C21T4RE",
+      "notes": "Was $34.99 (43% off); Posted Nov 25; Price can change; check before posting",
+      "url": "https://mavely.app.link/wHLFZCljm8b",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=47040948",
+      "retailer_url": "https://mavely.app.link/wHLFZCljm8b",
       "link_type": "retailer_redirect",
-      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=2126119671",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=47040948",
       "sources": [
         {
-          "gid": "2126119671",
-          "tab": "Houshold",
+          "gid": "47040948",
+          "tab": "Fashion",
           "price_text": ""
         },
         {
@@ -69149,22 +69072,61 @@
       }
     },
     {
-      "id": "c7b6bd7c55f48b1b11f3a9af",
-      "title": "Quaker Life Breakfast Cereal, Original, 13oz Boxes, (Pack of 6)",
-      "retailer": "Amazon",
+      "id": "c5ea352ae7d1c49407ed45bb",
+      "title": "Ninja CREAMi Deluxe 11-in-1 Ice Cream and Frozen Treat Maker - Navy",
+      "retailer": "Best Buy",
       "price_cents": null,
       "currency": "USD",
       "coupon": null,
-      "notes": "Was $31.80 (64% off); Posted Nov 23; Price can change; check before posting",
-      "url": "https://mavely.app.link/R8PCKqgnj8b",
+      "notes": "Was $249.99 (28% off); Posted Nov 25; Price can change; check before posting",
+      "url": "https://bestbuycreators.7tiv.net/aNdE5Z",
       "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=618994169",
-      "retailer_url": "https://mavely.app.link/R8PCKqgnj8b",
-      "link_type": "retailer_redirect",
+      "retailer_url": null,
+      "link_type": "offer_link",
       "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=618994169",
       "sources": [
         {
           "gid": "618994169",
           "tab": "Other",
+          "price_text": ""
+        },
+        {
+          "gid": "0",
+          "tab": "Master List",
+          "price_text": ""
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
+      "id": "c7454cc1d51bc43351dddcf4",
+      "title": "iTouchless 3-Gallon Touchless Motion Sensor Slim Trash Can (Pink)",
+      "retailer": "Amazon",
+      "price_cents": null,
+      "currency": "USD",
+      "coupon": null,
+      "notes": "Was $42.99 (63% off); Posted Nov 23; Price can change; check before posting",
+      "url": "https://mavely.app.link/cr13IsFhj8b",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=2126119671",
+      "retailer_url": "https://mavely.app.link/cr13IsFhj8b",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=2126119671",
+      "sources": [
+        {
+          "gid": "2126119671",
+          "tab": "Houshold",
           "price_text": ""
         },
         {
@@ -69339,6 +69301,84 @@
       }
     },
     {
+      "id": "cbac2efe324936099f75c972",
+      "title": "Sonos - Architectural 6-1/2\" Passive 2-Way In-Wall Speakers (Pair) - White",
+      "retailer": "Best Buy",
+      "price_cents": null,
+      "currency": "USD",
+      "coupon": null,
+      "notes": "Was $729.00 (26% off); Posted Nov 25; Price can change; check before posting",
+      "url": "https://bestbuycreators.7tiv.net/JkN29R",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
+      "retailer_url": null,
+      "link_type": "offer_link",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
+      "sources": [
+        {
+          "gid": "447244790",
+          "tab": "Electronics",
+          "price_text": ""
+        },
+        {
+          "gid": "0",
+          "tab": "Master List",
+          "price_text": ""
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
+      "id": "cd52b33ac1c4511b086278a2",
+      "title": "Cuisinart® Chef's Classic 11-Piece Stainless Steel Cookware Set",
+      "retailer": "Kohl's",
+      "price_cents": null,
+      "currency": "USD",
+      "coupon": "TAKE20",
+      "notes": "Was $199.99 (35% off); Posted Nov 25; Price can change; check before posting",
+      "url": "https://mavely.app.link/bsoTz4IE46b",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=2126119671",
+      "retailer_url": "https://mavely.app.link/bsoTz4IE46b",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=2126119671",
+      "sources": [
+        {
+          "gid": "2126119671",
+          "tab": "Houshold",
+          "price_text": ""
+        },
+        {
+          "gid": "0",
+          "tab": "Master List",
+          "price_text": ""
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
       "id": "cd859764d4e17e1776d635a9",
       "title": "Calvin Klein Men's Modern Flight Bomber Jacket",
       "retailer": "Macy's",
@@ -69477,40 +69517,6 @@
         {
           "gid": "0",
           "tab": "Master List",
-          "price_text": ""
-        }
-      ],
-      "price_conflict": false,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
-      "id": "cfb42ace09dd0254d4bcf95f",
-      "title": "Christmas Area Rugs for Living Room, Bedroom, Non-Slip",
-      "retailer": "2026CR",
-      "price_cents": null,
-      "currency": "USD",
-      "coupon": null,
-      "notes": "Amazon",
-      "url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=1131968003",
-      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=1131968003",
-      "retailer_url": null,
-      "link_type": "source",
-      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=1131968003",
-      "sources": [
-        {
-          "gid": "1131968003",
-          "tab": "Holiday",
           "price_text": ""
         }
       ],
@@ -69672,6 +69678,45 @@
         "status": "price_unavailable",
         "score": 0,
         "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
+      "id": "d27764fa31cee105d69f81ba",
+      "title": "Hisense - 65\" Class U6 Pro MiniLED QLED UHD 4K HDR Glare-Free Smart Fire TV with Alexa+ (2026) — Black Friday Deal",
+      "retailer": "Best Buy",
+      "price_cents": null,
+      "currency": "USD",
+      "coupon": null,
+      "notes": "Was $1,099.99 (52% off); Posted Nov 25; Price can change; check before posting",
+      "url": "https://bestbuycreators.7tiv.net/AgejPK",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
+      "retailer_url": null,
+      "link_type": "offer_link",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
+      "sources": [
+        {
+          "gid": "447244790",
+          "tab": "Electronics",
+          "price_text": ""
+        },
+        {
+          "gid": "0",
+          "tab": "Master List",
+          "price_text": ""
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "tv",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": 500,
         "preferred_usd": null,
         "within_budget": null,
         "comparisons": {},
@@ -69987,45 +70032,6 @@
       }
     },
     {
-      "id": "d4c11028aa29918175abaaf1",
-      "title": "MIO: Memories In Orbit - PlayStation 5",
-      "retailer": "Amazon",
-      "price_cents": null,
-      "currency": "USD",
-      "coupon": null,
-      "notes": "Was $30.00 (33% off); Posted Nov 23; Price can change; check before posting",
-      "url": "https://mavely.app.link/EC23M1GOi8b",
-      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
-      "retailer_url": "https://mavely.app.link/EC23M1GOi8b",
-      "link_type": "retailer_redirect",
-      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
-      "sources": [
-        {
-          "gid": "447244790",
-          "tab": "Electronics",
-          "price_text": ""
-        },
-        {
-          "gid": "0",
-          "tab": "Master List",
-          "price_text": ""
-        }
-      ],
-      "price_conflict": false,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
       "id": "d4fe074a9a465ede71d9d4b3",
       "title": "Cap Barbell 100 lb Cast Iron Hex Dumbbell Weight Set with Rack, Black",
       "retailer": "Walmart",
@@ -70120,6 +70126,45 @@
         {
           "gid": "618994169",
           "tab": "Other",
+          "price_text": ""
+        },
+        {
+          "gid": "0",
+          "tab": "Master List",
+          "price_text": ""
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
+      "id": "d5d08a7dd63aca1b95a38bd7",
+      "title": "Gotham Steel 13-Piece Natural Collection Ultra Performance Ceramic Nonstick Cookware Set",
+      "retailer": "Kohl's",
+      "price_cents": null,
+      "currency": "USD",
+      "coupon": null,
+      "notes": "Was $599.99 (52% off); Posted Nov 25; Price can change; check before posting",
+      "url": "https://mavely.app.link/7DgVLLnHA7b",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=2126119671",
+      "retailer_url": "https://mavely.app.link/7DgVLLnHA7b",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=2126119671",
+      "sources": [
+        {
+          "gid": "2126119671",
+          "tab": "Houshold",
           "price_text": ""
         },
         {
@@ -70291,45 +70336,6 @@
         "status": "price_unavailable",
         "score": 0,
         "max_usd": 500,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
-      "id": "d6ebd9349da8149a2bb8d88e",
-      "title": "Juicy Couture Solid Plush 50\" x 70\" Throw Blanket (White)",
-      "retailer": "Amazon",
-      "price_cents": null,
-      "currency": "USD",
-      "coupon": null,
-      "notes": "Was $30.00 (58% off); Posted Nov 23; Price can change; check before posting",
-      "url": "https://mavely.app.link/sTNjb9zkj8b",
-      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=2126119671",
-      "retailer_url": "https://mavely.app.link/sTNjb9zkj8b",
-      "link_type": "retailer_redirect",
-      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=2126119671",
-      "sources": [
-        {
-          "gid": "2126119671",
-          "tab": "Houshold",
-          "price_text": ""
-        },
-        {
-          "gid": "0",
-          "tab": "Master List",
-          "price_text": ""
-        }
-      ],
-      "price_conflict": false,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
         "preferred_usd": null,
         "within_budget": null,
         "comparisons": {},
@@ -70879,6 +70885,45 @@
       }
     },
     {
+      "id": "e1a89be746042e2134ded1e6",
+      "title": "VIZIO 50\" Mini LED Quantum 4K QLED HDR Smart TV (VQM50C-10)",
+      "retailer": "Walmart",
+      "price_cents": null,
+      "currency": "USD",
+      "coupon": null,
+      "notes": "Was $248.00 (20% off); Posted Nov 25; Price can change; check before posting",
+      "url": "https://mavely.app.link/u9FwkLQgm8b",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
+      "retailer_url": "https://mavely.app.link/u9FwkLQgm8b",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
+      "sources": [
+        {
+          "gid": "447244790",
+          "tab": "Electronics",
+          "price_text": ""
+        },
+        {
+          "gid": "0",
+          "tab": "Master List",
+          "price_text": ""
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "tv",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": 500,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
       "id": "e1ad905236f1b5bc1f0b27d4",
       "title": "Google Opinion Rewards - iOS only",
       "retailer": null,
@@ -70931,40 +70976,6 @@
           "tab": "Houshold",
           "price_text": ""
         },
-        {
-          "gid": "0",
-          "tab": "Master List",
-          "price_text": ""
-        }
-      ],
-      "price_conflict": false,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
-      "id": "e3075c16e37f9761cd371805",
-      "title": "Christmas Area Rugs for Living Room, Bedroom, Non-Slip",
-      "retailer": "Amazon",
-      "price_cents": null,
-      "currency": "USD",
-      "coupon": "2026CR",
-      "notes": "Was $20.00 (50% off); Price can change; check before posting",
-      "url": "https://mavely.app.link/46V4IReTi8b",
-      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=0",
-      "retailer_url": "https://mavely.app.link/46V4IReTi8b",
-      "link_type": "retailer_redirect",
-      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=0",
-      "sources": [
         {
           "gid": "0",
           "tab": "Master List",
@@ -71259,6 +71270,45 @@
       }
     },
     {
+      "id": "e4fdaa349fd08c288f808ea5",
+      "title": "BISSELL CrossWave Hard Floor Expert Wet/Dry Vacuum Cleaner",
+      "retailer": "Walmart",
+      "price_cents": null,
+      "currency": "USD",
+      "coupon": null,
+      "notes": "Was $209.99 (53% off); Posted Nov 25; Price can change; check before posting",
+      "url": "https://mavely.app.link/aLHLNu5im8b",
+      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
+      "retailer_url": "https://mavely.app.link/aLHLNu5im8b",
+      "link_type": "retailer_redirect",
+      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
+      "sources": [
+        {
+          "gid": "447244790",
+          "tab": "Electronics",
+          "price_text": ""
+        },
+        {
+          "gid": "0",
+          "tab": "Master List",
+          "price_text": ""
+        }
+      ],
+      "price_conflict": false,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
       "id": "e596576e946f3399544fd758",
       "title": "JEAREY 6FT Pop Up Christmas Tree, Pre-Lit w/ 200 Warm White Lights",
       "retailer": "Amazon",
@@ -71309,45 +71359,6 @@
         {
           "gid": "447244790",
           "tab": "Electronics",
-          "price_text": ""
-        },
-        {
-          "gid": "0",
-          "tab": "Master List",
-          "price_text": ""
-        }
-      ],
-      "price_conflict": false,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
-      "id": "e74e3df94c7ad9f217e459f0",
-      "title": "Ninja® PossibleCooker™ PRO Plus 11-in-1, 8.5-qt, Trace Blue, MC2002BL",
-      "retailer": "Amazon",
-      "price_cents": null,
-      "currency": "USD",
-      "coupon": null,
-      "notes": "Posted Nov 23; Price can change; check before posting",
-      "url": "https://mavely.app.link/HmYKahTSi8b",
-      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=2126119671",
-      "retailer_url": "https://mavely.app.link/HmYKahTSi8b",
-      "link_type": "retailer_redirect",
-      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=2126119671",
-      "sources": [
-        {
-          "gid": "2126119671",
-          "tab": "Houshold",
           "price_text": ""
         },
         {
@@ -71868,45 +71879,6 @@
       }
     },
     {
-      "id": "ee06968fc21680fb14a8ed7e",
-      "title": "Stanley 1913 Flip Straw Sports Water Bottle 1.06L - Lilac",
-      "retailer": "Amazon",
-      "price_cents": null,
-      "currency": "USD",
-      "coupon": null,
-      "notes": "Was $102.74 (47% off); Posted Nov 23; Price can change; check before posting",
-      "url": "https://mavely.app.link/WV9fM2Dmi8b",
-      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=1154128692",
-      "retailer_url": "https://mavely.app.link/WV9fM2Dmi8b",
-      "link_type": "retailer_redirect",
-      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=1154128692",
-      "sources": [
-        {
-          "gid": "1154128692",
-          "tab": "Sports & Outdoors",
-          "price_text": ""
-        },
-        {
-          "gid": "0",
-          "tab": "Master List",
-          "price_text": ""
-        }
-      ],
-      "price_conflict": false,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
       "id": "ee2c4bbb6c347b398dd82085",
       "title": "SEENDA Video Game Chair with Footrest and Lumbar Support, Blue",
       "retailer": "Walmart",
@@ -72063,45 +72035,6 @@
       }
     },
     {
-      "id": "ef886cac54051f281a4c2666",
-      "title": "259-Piece LEGO City Jet vs. Car Building Set (60489)",
-      "retailer": "Amazon",
-      "price_cents": null,
-      "currency": "USD",
-      "coupon": null,
-      "notes": "Was $29.99 (50% off); Posted Nov 23; Price can change; check before posting",
-      "url": "https://mavely.app.link/R3zHqSPYi8b",
-      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=666531270",
-      "retailer_url": "https://mavely.app.link/R3zHqSPYi8b",
-      "link_type": "retailer_redirect",
-      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=666531270",
-      "sources": [
-        {
-          "gid": "666531270",
-          "tab": "Toys",
-          "price_text": ""
-        },
-        {
-          "gid": "0",
-          "tab": "Master List",
-          "price_text": ""
-        }
-      ],
-      "price_conflict": false,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
       "id": "f0a7088e92816a55fe3781f0",
       "title": "LG - 65” Class NU700B Series LED Nano AI 4K UHD Smart webOS TV (2026)",
       "retailer": "Best Buy",
@@ -72219,16 +72152,16 @@
       }
     },
     {
-      "id": "f24710e0a418b44a5cf45f15",
-      "title": "AromaRoom Pet Air Purifier with True HEPA for Odors and Hair Activated Carbon /w Air Quality Monitor",
-      "retailer": "Amazon",
+      "id": "f2aaf37427eb243c01e296b3",
+      "title": "Latitude Run Metal Canopy Platform Bed with Upholstered Geometric Headboard - No Box Spring Needed",
+      "retailer": "Wayfair",
       "price_cents": null,
       "currency": "USD",
-      "coupon": "151HI4FC",
-      "notes": "Was $50.00 (60% off); Posted Nov 23; Price can change; check before posting",
-      "url": "https://mavely.app.link/SwUZkh3sj8b",
+      "coupon": null,
+      "notes": "Was $489.99 (18% off); Posted Nov 25; Price can change; check before posting",
+      "url": "https://mavely.app.link/6gJcMOHem8b",
       "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=2126119671",
-      "retailer_url": "https://mavely.app.link/SwUZkh3sj8b",
+      "retailer_url": "https://mavely.app.link/6gJcMOHem8b",
       "link_type": "retailer_redirect",
       "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=2126119671",
       "sources": [
@@ -72375,45 +72308,6 @@
       }
     },
     {
-      "id": "f45aa790e46cdbe0b74c10fe",
-      "title": "Super Mario Party Jamboree + Jamboree TV (Nintendo Switch 2 Digital Code)",
-      "retailer": "Amazon",
-      "price_cents": null,
-      "currency": "USD",
-      "coupon": null,
-      "notes": "Was $80.00 (62% off); Posted Nov 23; Price can change; check before posting",
-      "url": "https://mavely.app.link/KudiueZfj8b",
-      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
-      "retailer_url": "https://mavely.app.link/KudiueZfj8b",
-      "link_type": "retailer_redirect",
-      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
-      "sources": [
-        {
-          "gid": "447244790",
-          "tab": "Electronics",
-          "price_text": ""
-        },
-        {
-          "gid": "0",
-          "tab": "Master List",
-          "price_text": ""
-        }
-      ],
-      "price_conflict": false,
-      "rank": {
-        "category": "tv",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": 500,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
       "id": "f5036fe1aa85615a4071cb0a",
       "title": "Huffy 6V Disney Pixar Cars Lightning McQueen Ride-On, Ages 3-7 Years Old, Red, Kids, Unisex",
       "retailer": "Walmart",
@@ -72492,16 +72386,16 @@
       }
     },
     {
-      "id": "f5d2141ae1a6730a855b8b3d",
-      "title": "TP-Link Tri-Band BE18000 WiFi 7 Router, Archer BE770",
+      "id": "f5ed4fa84621c8e65d5b2822",
+      "title": "dreame G10 Pro Wet Dry Vacuum Cleaner",
       "retailer": "Amazon",
       "price_cents": null,
       "currency": "USD",
       "coupon": null,
-      "notes": "Was $370.00 (24% off); Posted Nov 23; Price can change; check before posting",
-      "url": "https://mavely.app.link/hAAmUQLxj8b",
+      "notes": "Was $259.99 (46% off); Posted Nov 25; Price can change; check before posting",
+      "url": "https://mavely.app.link/rKfMkDYim8b",
       "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
-      "retailer_url": "https://mavely.app.link/hAAmUQLxj8b",
+      "retailer_url": "https://mavely.app.link/rKfMkDYim8b",
       "link_type": "retailer_redirect",
       "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=447244790",
       "sources": [
@@ -72620,45 +72514,6 @@
         {
           "gid": "447244790",
           "tab": "Electronics",
-          "price_text": ""
-        },
-        {
-          "gid": "0",
-          "tab": "Master List",
-          "price_text": ""
-        }
-      ],
-      "price_conflict": false,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
-      "id": "f7cb1683e1df4b427d202f39",
-      "title": "CCCEI 4-Outlet GFCI Weatherproof Outdoor Power Strip w/ Stake & 6' Extension Cord (Green)",
-      "retailer": "Amazon",
-      "price_cents": null,
-      "currency": "USD",
-      "coupon": null,
-      "notes": "Was $35.00 (69% off); Posted Nov 23; Price can change; check before posting",
-      "url": "https://mavely.app.link/zKb5va7Oi8b",
-      "source_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=618994169",
-      "retailer_url": "https://mavely.app.link/zKb5va7Oi8b",
-      "link_type": "retailer_redirect",
-      "sheet_url": "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/htmlview#gid=618994169",
-      "sources": [
-        {
-          "gid": "618994169",
-          "tab": "Other",
           "price_text": ""
         },
         {
