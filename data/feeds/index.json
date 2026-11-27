@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "checked_at": "2026-11-26T19:51:51.028373+00:00",
+  "checked_at": "2026-11-27T03:18:10.882738+00:00",
   "sources": [
     {
       "id": "dealnews",
@@ -8,9 +8,9 @@
       "url": "https://www.dealnews.com/?rss=1&sort=time",
       "snapshot": "dealnews/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-26T19:51:51.028373+00:00",
+      "last_success_at": "2026-11-27T03:18:10.882738+00:00",
       "offer_count": 50,
-      "candidate_count": 0
+      "candidate_count": 2
     },
     {
       "id": "slickdeals",
@@ -18,7 +18,7 @@
       "url": "https://slickdeals.net/newsearch.php?mode=frontpage&searcharea=deals&searchin=first&rss=1",
       "snapshot": "slickdeals/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-26T19:51:51.028373+00:00",
+      "last_success_at": "2026-11-27T03:18:10.882738+00:00",
       "offer_count": 25,
       "candidate_count": 0
     },
@@ -28,7 +28,7 @@
       "url": "https://bensbargains.com/rss/",
       "snapshot": "bens-bargains/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-26T19:51:51.028373+00:00",
+      "last_success_at": "2026-11-27T03:18:10.882738+00:00",
       "offer_count": 20,
       "candidate_count": 0
     },
@@ -38,7 +38,7 @@
       "url": "https://forums.woot.com/c/deal-chatter/daily-deal/10.rss",
       "snapshot": "woot-daily/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-26T19:51:51.028373+00:00",
+      "last_success_at": "2026-11-27T03:18:10.882738+00:00",
       "offer_count": 25,
       "candidate_count": 0
     },
@@ -48,7 +48,7 @@
       "url": "https://9to5toys.com/feed/",
       "snapshot": "9to5toys/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-26T19:51:51.028373+00:00",
+      "last_success_at": "2026-11-27T03:18:10.882738+00:00",
       "offer_count": 50,
       "candidate_count": 0
     },
@@ -58,7 +58,7 @@
       "url": "https://9to5mac.com/guides/deals/feed/",
       "snapshot": "9to5mac/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-26T19:51:51.028373+00:00",
+      "last_success_at": "2026-11-27T03:18:10.882738+00:00",
       "offer_count": 30,
       "candidate_count": 0
     },
@@ -68,7 +68,7 @@
       "url": "https://www.androidauthority.com/deals/feed/",
       "snapshot": "android-authority/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-26T19:51:51.028373+00:00",
+      "last_success_at": "2026-11-27T03:18:10.882738+00:00",
       "offer_count": 80,
       "candidate_count": 0
     },
@@ -78,7 +78,7 @@
       "url": "https://feeds.macrumors.com/MacRumors-Deals",
       "snapshot": "macrumors/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-26T19:51:51.028373+00:00",
+      "last_success_at": "2026-11-27T03:18:10.882738+00:00",
       "offer_count": 20,
       "candidate_count": 0
     },
@@ -88,7 +88,7 @@
       "url": "https://www.cnet.com/rss/deals/",
       "snapshot": "cnet/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-26T19:51:51.028373+00:00",
+      "last_success_at": "2026-11-27T03:18:10.882738+00:00",
       "offer_count": 16,
       "candidate_count": 0
     },
@@ -98,8 +98,8 @@
       "url": "https://www.wired.com/feed/tag/deals/latest/rss",
       "snapshot": "wired/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-26T19:51:51.028373+00:00",
-      "offer_count": 38,
+      "last_success_at": "2026-11-27T03:18:10.882738+00:00",
+      "offer_count": 37,
       "candidate_count": 0
     },
     {
@@ -108,8 +108,8 @@
       "url": "https://www.tomsguide.com/feeds.xml",
       "snapshot": "toms-guide/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-26T19:51:51.028373+00:00",
-      "offer_count": 33,
+      "last_success_at": "2026-11-27T03:18:10.882738+00:00",
+      "offer_count": 37,
       "candidate_count": 0
     },
     {
@@ -118,8 +118,8 @@
       "url": "https://www.techradar.com/feeds.xml",
       "snapshot": "techradar/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-26T19:51:51.028373+00:00",
-      "offer_count": 33,
+      "last_success_at": "2026-11-27T03:18:10.882738+00:00",
+      "offer_count": 27,
       "candidate_count": 0
     },
     {
@@ -128,7 +128,7 @@
       "url": "https://www.tomshardware.com/feeds.xml",
       "snapshot": "toms-hardware/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-26T19:51:51.028373+00:00",
+      "last_success_at": "2026-11-27T03:18:10.882738+00:00",
       "offer_count": 32,
       "candidate_count": 0
     },
@@ -138,8 +138,8 @@
       "url": "https://www.windowscentral.com/feeds.xml",
       "snapshot": "windows-central/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-26T19:51:51.028373+00:00",
-      "offer_count": 19,
+      "last_success_at": "2026-11-27T03:18:10.882738+00:00",
+      "offer_count": 20,
       "candidate_count": 0
     },
     {
@@ -148,8 +148,8 @@
       "url": "https://www.pcworld.com/feed",
       "snapshot": "pcworld/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-26T19:51:51.028373+00:00",
-      "offer_count": 11,
+      "last_success_at": "2026-11-27T03:18:10.882738+00:00",
+      "offer_count": 17,
       "candidate_count": 0
     },
     {
@@ -157,9 +157,8 @@
       "name": "Clark Deals",
       "url": "https://clarkdeals.com/feed/",
       "snapshot": "clark-deals/latest.json",
-      "status": "failed",
-      "error": "HTTP 202 (curl exit 0)",
-      "last_success_at": "2026-11-26T08:56:39.269298+00:00",
+      "status": "ok",
+      "last_success_at": "2026-11-27T03:18:10.882738+00:00",
       "offer_count": 40,
       "candidate_count": 0
     },
@@ -169,8 +168,8 @@
       "url": "https://hip2save.com/feed/",
       "snapshot": "hip2save/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-26T19:51:51.028373+00:00",
-      "offer_count": 90,
+      "last_success_at": "2026-11-27T03:18:10.882738+00:00",
+      "offer_count": 93,
       "candidate_count": 0
     },
     {
@@ -179,8 +178,8 @@
       "url": "https://www.dansdeals.com/feed/",
       "snapshot": "dans-deals/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-26T19:51:51.028373+00:00",
-      "offer_count": 69,
+      "last_success_at": "2026-11-27T03:18:10.882738+00:00",
+      "offer_count": 70,
       "candidate_count": 0
     },
     {
@@ -189,8 +188,8 @@
       "url": "https://www.southernsavers.com/feed/",
       "snapshot": "southern-savers/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-26T19:51:51.028373+00:00",
-      "offer_count": 15,
+      "last_success_at": "2026-11-27T03:18:10.882738+00:00",
+      "offer_count": 17,
       "candidate_count": 0
     },
     {
@@ -199,7 +198,7 @@
       "url": "https://passionatepennypincher.com/feed/",
       "snapshot": "passionate-penny-pincher/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-26T19:51:51.028373+00:00",
+      "last_success_at": "2026-11-27T03:18:10.882738+00:00",
       "offer_count": 56,
       "candidate_count": 0
     },
@@ -209,7 +208,7 @@
       "url": "https://www.freestufffinder.com/feed/",
       "snapshot": "free-stuff-finder/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-26T19:51:51.028373+00:00",
+      "last_success_at": "2026-11-27T03:18:10.882738+00:00",
       "offer_count": 100,
       "candidate_count": 0
     },
@@ -219,7 +218,7 @@
       "url": "https://thefreebieguy.com/feed/",
       "snapshot": "freebie-guy/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-26T19:51:51.028373+00:00",
+      "last_success_at": "2026-11-27T03:18:10.882738+00:00",
       "offer_count": 40,
       "candidate_count": 0
     },
@@ -228,9 +227,8 @@
       "name": "Living Rich With Coupons",
       "url": "https://www.livingrichwithcoupons.com/feed",
       "snapshot": "living-rich-with-coupons/latest.json",
-      "status": "failed",
-      "error": "XML declarations with a document type are unsupported",
-      "last_success_at": "2026-11-26T08:56:39.269298+00:00",
+      "status": "ok",
+      "last_success_at": "2026-11-27T03:18:10.882738+00:00",
       "offer_count": 38,
       "candidate_count": 0
     },
@@ -240,8 +238,8 @@
       "url": "https://isthereanydeal.com/feeds/US/USD/deals.rss",
       "snapshot": "isthereanydeal/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-26T19:51:51.028373+00:00",
-      "offer_count": 150,
+      "last_success_at": "2026-11-27T03:18:10.882738+00:00",
+      "offer_count": 149,
       "candidate_count": 0
     },
     {
@@ -250,7 +248,7 @@
       "url": "https://www.cheapshark.com/api/1.0/deals?storeID=1&upperPrice=15&pageSize=30",
       "snapshot": "cheapshark-steam/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-26T19:51:51.028373+00:00",
+      "last_success_at": "2026-11-27T03:18:10.882738+00:00",
       "offer_count": 30,
       "candidate_count": 0
     },
@@ -266,7 +264,68 @@
       "candidate_count": 8
     }
   ],
-  "candidates": [],
+  "candidates": [
+    {
+      "id": "d77a2aeb3c10b7dece8bc615",
+      "title": "Peanuts: 75th Anniversary Ultimate TV Specials Collection Blu-ray for $42 + free shipping",
+      "url": "https://www.dealnews.com/Peanuts-75-th-Anniversary-Ultimate-TV-Specials-Collection-Blu-ray-for-42-free-shipping/22435303.html?iref=rss",
+      "source_url": "https://www.dealnews.com/Peanuts-75-th-Anniversary-Ultimate-TV-Specials-Collection-Blu-ray-for-42-free-shipping/22435303.html?iref=rss",
+      "retailer_url": null,
+      "link_type": "source",
+      "retailer": "Amazon",
+      "price_cents": 4200,
+      "headline_price_cents": null,
+      "price_source": "publisher_structured_data",
+      "currency": "USD",
+      "source_id": "dealnews",
+      "publisher": "DealNews",
+      "published_at": "2026-11-27T01:52:16+00:00",
+      "expires_at": "2027-02-25T01:52:16+00:00",
+      "publication_category": "Blu-Ray Disc Movies",
+      "rank": {
+        "category": "tv",
+        "variant": null,
+        "status": "candidate",
+        "score": 34.16,
+        "max_usd": 500,
+        "preferred_usd": null,
+        "within_budget": true,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
+      "id": "635d200055cf8fba71b37df5",
+      "title": "Toshiba M450 Series 75M450SU 75\" 4K QLED Smart Fire TV for $350 + free shipping",
+      "url": "https://www.dealnews.com/products/Toshiba/Toshiba-M450-Series-75-M450-SU-75-4-K-QLED-Smart-Fire-TV/564560.html?iref=rss",
+      "source_url": "https://www.dealnews.com/products/Toshiba/Toshiba-M450-Series-75-M450-SU-75-4-K-QLED-Smart-Fire-TV/564560.html?iref=rss",
+      "retailer_url": null,
+      "link_type": "source",
+      "retailer": "Best Buy",
+      "price_cents": 35000,
+      "headline_price_cents": null,
+      "price_source": "publisher_structured_data",
+      "currency": "USD",
+      "source_id": "dealnews",
+      "publisher": "DealNews",
+      "published_at": "2026-11-27T00:56:58+00:00",
+      "expires_at": "2027-02-25T00:56:58+00:00",
+      "publication_category": "TVs",
+      "rank": {
+        "category": "tv",
+        "variant": null,
+        "status": "candidate",
+        "score": 28.0,
+        "max_usd": 500,
+        "preferred_usd": null,
+        "within_budget": true,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    }
+  ],
   "headline_leads": [
     {
       "id": "77ffa1f3a4f11b8d5c788d30",
@@ -346,6 +405,132 @@
         "score": 35.86,
         "max_usd": 350,
         "preferred_usd": 250,
+        "within_budget": true,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
+      "id": "0181aadb0a29e71e621b33e8",
+      "title": "Insignia 43-Inch Smart Fire TV $89 Shipped at Best Buy",
+      "url": "https://www.freestufffinder.com/insignia-43-inch-smart-fire-tv-89-shipped-at-best-buy/",
+      "source_url": "https://www.freestufffinder.com/insignia-43-inch-smart-fire-tv-89-shipped-at-best-buy/",
+      "retailer_url": null,
+      "link_type": "source",
+      "retailer": null,
+      "price_cents": null,
+      "headline_price_cents": 8900,
+      "price_source": null,
+      "currency": null,
+      "source_id": "free-stuff-finder",
+      "publisher": "Free Stuff Finder",
+      "published_at": "2026-11-26T14:17:22+00:00",
+      "expires_at": null,
+      "publication_category": "Best Buy",
+      "rank": {
+        "category": "tv",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": 500,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "headline_rank": {
+        "category": "tv",
+        "variant": null,
+        "status": "candidate",
+        "score": 33.22,
+        "max_usd": 500,
+        "preferred_usd": null,
+        "within_budget": true,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
+      "id": "0ff67312e19a8e2eef33601b",
+      "title": "Insignia 55-in. Class F50 Series LED 4K UHD smart Fire TV for $170",
+      "url": "https://clarkdeals.com/tv/insignia-55-in-class-f50-series-led-4k-uhd-smart-fire-tv/",
+      "source_url": "https://clarkdeals.com/tv/insignia-55-in-class-f50-series-led-4k-uhd-smart-fire-tv/",
+      "retailer_url": null,
+      "link_type": "source",
+      "retailer": null,
+      "price_cents": null,
+      "headline_price_cents": 17000,
+      "price_source": null,
+      "currency": null,
+      "source_id": "clark-deals",
+      "publisher": "Clark Deals",
+      "published_at": "2026-11-26T16:00:32+00:00",
+      "expires_at": null,
+      "publication_category": "Electronics",
+      "rank": {
+        "category": "tv",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": 500,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "headline_rank": {
+        "category": "tv",
+        "variant": null,
+        "status": "candidate",
+        "score": 31.6,
+        "max_usd": 500,
+        "preferred_usd": null,
+        "within_budget": true,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
+      "id": "c4f3f4439ef7bca92b622356",
+      "title": "Insignia 75-inch F50 4K smart Fire TV for $300",
+      "url": "https://clarkdeals.com/tv/insignia-75-inch-f50-4k-smart-fire-tv/",
+      "source_url": "https://clarkdeals.com/tv/insignia-75-inch-f50-4k-smart-fire-tv/",
+      "retailer_url": null,
+      "link_type": "source",
+      "retailer": null,
+      "price_cents": null,
+      "headline_price_cents": 30000,
+      "price_source": null,
+      "currency": null,
+      "source_id": "clark-deals",
+      "publisher": "Clark Deals",
+      "published_at": "2026-11-26T16:00:56+00:00",
+      "expires_at": null,
+      "publication_category": "TVs",
+      "rank": {
+        "category": "tv",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": 500,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "headline_rank": {
+        "category": "tv",
+        "variant": null,
+        "status": "candidate",
+        "score": 29.0,
+        "max_usd": 500,
+        "preferred_usd": null,
         "within_budget": true,
         "comparisons": {},
         "savings_vs_comparison_cents": null,

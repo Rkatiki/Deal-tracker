@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-26T19:51:51.028373+00:00",
+  "retrieved_at": "2026-11-27T03:18:10.882738+00:00",
   "source": {
     "id": "9to5mac",
     "name": "9to5Mac Deals",
@@ -8,84 +8,5 @@
     "kind": "rss"
   },
   "baseline": false,
-  "events": [
-    {
-      "id": "2f8b0d267d9930ae03892132",
-      "types": [
-        "removed"
-      ],
-      "title": "Deals: HomeView, AirPods Pro 3, Apple Watch Ultra 4, Hue Bridge Pro bundle, MacBook Air $200 off, more",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://9to5mac.com/2026/11/05/deals-homeview-airpods-pro-3-apple-watch-ultra-4-macbook/",
-      "source_url": "https://9to5mac.com/2026/11/05/deals-homeview-airpods-pro-3-apple-watch-ultra-4-macbook/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "89e78c84f19b8c6a8e091822",
-      "types": [
-        "new"
-      ],
-      "title": "Best Apple Black Friday Thanksgiving deals: AirPods, MacBook, Apple Watch, AirTag 2, more",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://9to5mac.com/2026/11/26/best-apple-black-friday-thanksgiving-deals/",
-      "source_url": "https://9to5mac.com/2026/11/26/best-apple-black-friday-thanksgiving-deals/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "b4b85f0f1b31acf9faa54fde",
-      "types": [
-        "new"
-      ],
-      "title": "Thanksgiving deals: M5 MacBook Air $400 off, MacBook Neo $100 off, Apple Watch Ultra 4 $150 off, more",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://9to5mac.com/2026/11/26/deals-macbook-air-neo-apple-watch-ultra-4/",
-      "source_url": "https://9to5mac.com/2026/11/26/deals-macbook-air-neo-apple-watch-ultra-4/",
-      "retailer_url": null,
-      "link_type": "source"
-    }
-  ]
+  "events": []
 }
