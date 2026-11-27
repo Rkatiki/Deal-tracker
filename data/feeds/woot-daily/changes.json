@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-27T14:26:18.122881+00:00",
+  "retrieved_at": "2026-11-27T22:59:33.541001+00:00",
   "source": {
     "id": "woot-daily",
     "name": "Woot Daily Deals",
@@ -9,58 +9,5 @@
     "retailer": "Woot"
   },
   "baseline": false,
-  "events": [
-    {
-      "id": "617c3588af19cfc1faeccf8d",
-      "types": [
-        "removed"
-      ],
-      "title": "Starbucks Florida Ornament 2021",
-      "retailer": "Woot",
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.woot.com/offers/starbucks-florida-ornament-2021z-2",
-      "source_url": "https://forums.woot.com/t/starbucks-florida-ornament-2021/2703744",
-      "retailer_url": "https://www.woot.com/offers/starbucks-florida-ornament-2021z-2",
-      "link_type": "retailer"
-    },
-    {
-      "id": "ea0e494c5ec910f28401ea8c",
-      "types": [
-        "new"
-      ],
-      "title": "JanSport 26L Cross Town Backpack – 12 inch Daypack",
-      "retailer": "Woot",
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.woot.com/offers/jansport-26l-cross-town-backpack-12-inch-daypack-1",
-      "source_url": "https://forums.woot.com/t/jansport-26l-cross-town-backpack-12-inch-daypack/2715765",
-      "retailer_url": "https://www.woot.com/offers/jansport-26l-cross-town-backpack-12-inch-daypack-1",
-      "link_type": "retailer"
-    }
-  ]
+  "events": []
 }

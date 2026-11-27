@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "checked_at": "2026-11-27T14:26:18.122881+00:00",
+  "checked_at": "2026-11-27T22:59:33.541001+00:00",
   "sources": [
     {
       "id": "dealnews",
@@ -8,9 +8,9 @@
       "url": "https://www.dealnews.com/?rss=1&sort=time",
       "snapshot": "dealnews/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-27T14:26:18.122881+00:00",
-      "offer_count": 50,
-      "candidate_count": 1
+      "last_success_at": "2026-11-27T22:59:33.541001+00:00",
+      "offer_count": 49,
+      "candidate_count": 0
     },
     {
       "id": "slickdeals",
@@ -18,7 +18,7 @@
       "url": "https://slickdeals.net/newsearch.php?mode=frontpage&searcharea=deals&searchin=first&rss=1",
       "snapshot": "slickdeals/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-27T14:26:18.122881+00:00",
+      "last_success_at": "2026-11-27T22:59:33.541001+00:00",
       "offer_count": 25,
       "candidate_count": 0
     },
@@ -28,7 +28,7 @@
       "url": "https://bensbargains.com/rss/",
       "snapshot": "bens-bargains/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-27T14:26:18.122881+00:00",
+      "last_success_at": "2026-11-27T22:59:33.541001+00:00",
       "offer_count": 20,
       "candidate_count": 0
     },
@@ -38,7 +38,7 @@
       "url": "https://forums.woot.com/c/deal-chatter/daily-deal/10.rss",
       "snapshot": "woot-daily/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-27T14:26:18.122881+00:00",
+      "last_success_at": "2026-11-27T22:59:33.541001+00:00",
       "offer_count": 25,
       "candidate_count": 0
     },
@@ -48,7 +48,7 @@
       "url": "https://9to5toys.com/feed/",
       "snapshot": "9to5toys/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-27T14:26:18.122881+00:00",
+      "last_success_at": "2026-11-27T22:59:33.541001+00:00",
       "offer_count": 50,
       "candidate_count": 0
     },
@@ -58,8 +58,8 @@
       "url": "https://9to5mac.com/guides/deals/feed/",
       "snapshot": "9to5mac/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-27T14:26:18.122881+00:00",
-      "offer_count": 30,
+      "last_success_at": "2026-11-27T22:59:33.541001+00:00",
+      "offer_count": 33,
       "candidate_count": 0
     },
     {
@@ -68,7 +68,7 @@
       "url": "https://www.androidauthority.com/deals/feed/",
       "snapshot": "android-authority/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-27T14:26:18.122881+00:00",
+      "last_success_at": "2026-11-27T22:59:33.541001+00:00",
       "offer_count": 80,
       "candidate_count": 0
     },
@@ -78,7 +78,7 @@
       "url": "https://feeds.macrumors.com/MacRumors-Deals",
       "snapshot": "macrumors/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-27T14:26:18.122881+00:00",
+      "last_success_at": "2026-11-27T22:59:33.541001+00:00",
       "offer_count": 20,
       "candidate_count": 0
     },
@@ -88,8 +88,8 @@
       "url": "https://www.cnet.com/rss/deals/",
       "snapshot": "cnet/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-27T14:26:18.122881+00:00",
-      "offer_count": 16,
+      "last_success_at": "2026-11-27T22:59:33.541001+00:00",
+      "offer_count": 17,
       "candidate_count": 0
     },
     {
@@ -98,8 +98,8 @@
       "url": "https://www.wired.com/feed/tag/deals/latest/rss",
       "snapshot": "wired/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-27T14:26:18.122881+00:00",
-      "offer_count": 45,
+      "last_success_at": "2026-11-27T22:59:33.541001+00:00",
+      "offer_count": 49,
       "candidate_count": 0
     },
     {
@@ -108,8 +108,8 @@
       "url": "https://www.tomsguide.com/feeds.xml",
       "snapshot": "toms-guide/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-27T14:26:18.122881+00:00",
-      "offer_count": 27,
+      "last_success_at": "2026-11-27T22:59:33.541001+00:00",
+      "offer_count": 36,
       "candidate_count": 0
     },
     {
@@ -118,8 +118,8 @@
       "url": "https://www.techradar.com/feeds.xml",
       "snapshot": "techradar/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-27T14:26:18.122881+00:00",
-      "offer_count": 27,
+      "last_success_at": "2026-11-27T22:59:33.541001+00:00",
+      "offer_count": 40,
       "candidate_count": 0
     },
     {
@@ -128,8 +128,8 @@
       "url": "https://www.tomshardware.com/feeds.xml",
       "snapshot": "toms-hardware/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-27T14:26:18.122881+00:00",
-      "offer_count": 27,
+      "last_success_at": "2026-11-27T22:59:33.541001+00:00",
+      "offer_count": 35,
       "candidate_count": 0
     },
     {
@@ -138,8 +138,8 @@
       "url": "https://www.windowscentral.com/feeds.xml",
       "snapshot": "windows-central/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-27T14:26:18.122881+00:00",
-      "offer_count": 26,
+      "last_success_at": "2026-11-27T22:59:33.541001+00:00",
+      "offer_count": 30,
       "candidate_count": 0
     },
     {
@@ -148,8 +148,8 @@
       "url": "https://www.pcworld.com/feed",
       "snapshot": "pcworld/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-27T14:26:18.122881+00:00",
-      "offer_count": 17,
+      "last_success_at": "2026-11-27T22:59:33.541001+00:00",
+      "offer_count": 20,
       "candidate_count": 0
     },
     {
@@ -158,7 +158,7 @@
       "url": "https://clarkdeals.com/feed/",
       "snapshot": "clark-deals/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-27T14:26:18.122881+00:00",
+      "last_success_at": "2026-11-27T22:59:33.541001+00:00",
       "offer_count": 40,
       "candidate_count": 0
     },
@@ -168,8 +168,8 @@
       "url": "https://hip2save.com/feed/",
       "snapshot": "hip2save/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-27T14:26:18.122881+00:00",
-      "offer_count": 91,
+      "last_success_at": "2026-11-27T22:59:33.541001+00:00",
+      "offer_count": 92,
       "candidate_count": 0
     },
     {
@@ -178,8 +178,8 @@
       "url": "https://www.dansdeals.com/feed/",
       "snapshot": "dans-deals/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-27T14:26:18.122881+00:00",
-      "offer_count": 71,
+      "last_success_at": "2026-11-27T22:59:33.541001+00:00",
+      "offer_count": 72,
       "candidate_count": 0
     },
     {
@@ -188,8 +188,8 @@
       "url": "https://www.southernsavers.com/feed/",
       "snapshot": "southern-savers/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-27T14:26:18.122881+00:00",
-      "offer_count": 18,
+      "last_success_at": "2026-11-27T22:59:33.541001+00:00",
+      "offer_count": 19,
       "candidate_count": 0
     },
     {
@@ -198,8 +198,8 @@
       "url": "https://passionatepennypincher.com/feed/",
       "snapshot": "passionate-penny-pincher/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-27T14:26:18.122881+00:00",
-      "offer_count": 54,
+      "last_success_at": "2026-11-27T22:59:33.541001+00:00",
+      "offer_count": 48,
       "candidate_count": 0
     },
     {
@@ -208,7 +208,7 @@
       "url": "https://www.freestufffinder.com/feed/",
       "snapshot": "free-stuff-finder/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-27T14:26:18.122881+00:00",
+      "last_success_at": "2026-11-27T22:59:33.541001+00:00",
       "offer_count": 100,
       "candidate_count": 0
     },
@@ -218,7 +218,7 @@
       "url": "https://thefreebieguy.com/feed/",
       "snapshot": "freebie-guy/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-27T14:26:18.122881+00:00",
+      "last_success_at": "2026-11-27T22:59:33.541001+00:00",
       "offer_count": 40,
       "candidate_count": 0
     },
@@ -227,7 +227,8 @@
       "name": "Living Rich With Coupons",
       "url": "https://www.livingrichwithcoupons.com/feed",
       "snapshot": "living-rich-with-coupons/latest.json",
-      "status": "ok",
+      "status": "failed",
+      "error": "XML declarations with a document type are unsupported",
       "last_success_at": "2026-11-27T14:26:18.122881+00:00",
       "offer_count": 40,
       "candidate_count": 0
@@ -238,7 +239,7 @@
       "url": "https://isthereanydeal.com/feeds/US/USD/deals.rss",
       "snapshot": "isthereanydeal/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-27T14:26:18.122881+00:00",
+      "last_success_at": "2026-11-27T22:59:33.541001+00:00",
       "offer_count": 150,
       "candidate_count": 0
     },
@@ -248,7 +249,7 @@
       "url": "https://www.cheapshark.com/api/1.0/deals?storeID=1&upperPrice=15&pageSize=30",
       "snapshot": "cheapshark-steam/latest.json",
       "status": "ok",
-      "last_success_at": "2026-11-27T14:26:18.122881+00:00",
+      "last_success_at": "2026-11-27T22:59:33.541001+00:00",
       "offer_count": 30,
       "candidate_count": 0
     },
@@ -264,38 +265,7 @@
       "candidate_count": 8
     }
   ],
-  "candidates": [
-    {
-      "id": "f9d91c54c627d74263396d2f",
-      "title": "Philips 55\" 4K UHD Dolby Vision Ambilight QLED Smart Roku TV for $300 + free shipping",
-      "url": "https://www.dealnews.com/products/Philips/Philips-55-4-K-UHD-Dolby-Vision-QLED-Smart-Roku-TV/563683.html?iref=rss",
-      "source_url": "https://www.dealnews.com/products/Philips/Philips-55-4-K-UHD-Dolby-Vision-QLED-Smart-Roku-TV/563683.html?iref=rss",
-      "retailer_url": null,
-      "link_type": "source",
-      "retailer": "Amazon",
-      "price_cents": 29999,
-      "headline_price_cents": null,
-      "price_source": "publisher_structured_data",
-      "currency": "USD",
-      "source_id": "dealnews",
-      "publisher": "DealNews",
-      "published_at": "2026-11-27T05:01:00+00:00",
-      "expires_at": "2027-02-25T05:01:00+00:00",
-      "publication_category": "TVs",
-      "rank": {
-        "category": "tv",
-        "variant": null,
-        "status": "candidate",
-        "score": 29.0,
-        "max_usd": 500,
-        "preferred_usd": null,
-        "within_budget": true,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    }
-  ],
+  "candidates": [],
   "headline_leads": [
     {
       "id": "3ee9c9090b3cca73b0a438d2",
@@ -382,22 +352,22 @@
       }
     },
     {
-      "id": "d6291965c827d1dcfd1e6bf8",
-      "title": "TCL 55-in. 4K UHD HDR Limited Edition smart Roku TV for $168",
-      "url": "https://clarkdeals.com/tv/tcl-55-in-4k-uhd-hdr-limited-edition-smart-roku-tv/",
-      "source_url": "https://clarkdeals.com/tv/tcl-55-in-4k-uhd-hdr-limited-edition-smart-roku-tv/",
+      "id": "6891a4a464ce9d51b85bb151",
+      "title": "This Black Friday, think outside the box and upgrade to a huge 4K workspace without spending hundreds on a specialist screen — this 43-inch onn smart TV has Dolby Vision and HDR10+ for just $148",
+      "url": "https://www.techradar.com/pro/this-black-friday-think-outside-the-box-and-upgrade-to-a-huge-4k-workspace-without-spending-hundreds-on-a-specialist-screen-this-43-inch-onn-smart-tv-has-dolby-vision-and-hdr10-for-just-usd148",
+      "source_url": "https://www.techradar.com/pro/this-black-friday-think-outside-the-box-and-upgrade-to-a-huge-4k-workspace-without-spending-hundreds-on-a-specialist-screen-this-43-inch-onn-smart-tv-has-dolby-vision-and-hdr10-for-just-usd148",
       "retailer_url": null,
       "link_type": "source",
       "retailer": null,
       "price_cents": null,
-      "headline_price_cents": 16800,
+      "headline_price_cents": 14800,
       "price_source": null,
       "currency": null,
-      "source_id": "clark-deals",
-      "publisher": "Clark Deals",
-      "published_at": "2026-11-27T05:00:15+00:00",
+      "source_id": "techradar",
+      "publisher": "TechRadar",
+      "published_at": "2026-11-27T17:20:00+00:00",
       "expires_at": null,
-      "publication_category": "Electronics",
+      "publication_category": "Pro",
       "rank": {
         "category": "tv",
         "variant": null,
@@ -414,7 +384,7 @@
         "category": "tv",
         "variant": null,
         "status": "candidate",
-        "score": 31.64,
+        "score": 32.04,
         "max_usd": 500,
         "preferred_usd": null,
         "within_budget": true,
@@ -424,10 +394,52 @@
       }
     },
     {
-      "id": "0ff67312e19a8e2eef33601b",
-      "title": "Insignia 55-in. Class F50 Series LED 4K UHD smart Fire TV for $170",
-      "url": "https://clarkdeals.com/tv/insignia-55-in-class-f50-series-led-4k-uhd-smart-fire-tv/",
-      "source_url": "https://clarkdeals.com/tv/insignia-55-in-class-f50-series-led-4k-uhd-smart-fire-tv/",
+      "id": "f8900a358ad681647136d8ae",
+      "title": "TCL’s 55-inch F8D Fire TV drops $160 for Black Friday",
+      "url": "https://www.androidauthority.com/tcl-55-inch-f8d-fire-tv-deal-3740918/",
+      "source_url": "https://www.androidauthority.com/tcl-55-inch-f8d-fire-tv-deal-3740918/",
+      "retailer_url": null,
+      "link_type": "source",
+      "retailer": null,
+      "price_cents": null,
+      "headline_price_cents": 16000,
+      "price_source": null,
+      "currency": null,
+      "source_id": "android-authority",
+      "publisher": "Android Authority Deals",
+      "published_at": "2026-11-27T15:23:27+00:00",
+      "expires_at": null,
+      "publication_category": "Deals",
+      "rank": {
+        "category": "tv",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": 500,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "headline_rank": {
+        "category": "tv",
+        "variant": null,
+        "status": "candidate",
+        "score": 31.8,
+        "max_usd": 500,
+        "preferred_usd": null,
+        "within_budget": true,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      }
+    },
+    {
+      "id": "73c52538e8df000296cae026",
+      "title": "Insignia 55-inch QF Series QLED 4K Fire TV for $170",
+      "url": "https://clarkdeals.com/tv/insignia-55-inch-qf-series-qled-4k-fire-tv/",
+      "source_url": "https://clarkdeals.com/tv/insignia-55-inch-qf-series-qled-4k-fire-tv/",
       "retailer_url": null,
       "link_type": "source",
       "retailer": null,
@@ -437,7 +449,7 @@
       "currency": null,
       "source_id": "clark-deals",
       "publisher": "Clark Deals",
-      "published_at": "2026-11-26T16:00:32+00:00",
+      "published_at": "2026-11-27T22:26:35+00:00",
       "expires_at": null,
       "publication_category": "Electronics",
       "rank": {
@@ -466,22 +478,22 @@
       }
     },
     {
-      "id": "c1b98e88c2a4cfeb8475ddb9",
-      "title": "55\" Insignia QF Series QLED 4K UHD Smart TV (2025 Model) $170 + Free S&H & More",
-      "url": "https://slickdeals.net/f/20414256-insignia-55-inch-class-qf-series-led-4k-uhd-qled-smart-fire-tv-with-alexa-voice-remote-ns55-uqfl26-169-99-and-more?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "source_url": "https://slickdeals.net/f/20414256-insignia-55-inch-class-qf-series-led-4k-uhd-qled-smart-fire-tv-with-alexa-voice-remote-ns55-uqfl26-169-99-and-more?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "id": "2812d08639f91643bd8a2730",
+      "title": "Hisense 65\" H5R1 Series 4K UHD HDR Smart Roku TV $228 at Walmart",
+      "url": "https://bensbargains.com/bargain/hisense-65-h5r1-series-4k-uhd-hdr-smart-roku-tv-1100881/#rss",
+      "source_url": "https://bensbargains.com/bargain/hisense-65-h5r1-series-4k-uhd-hdr-smart-roku-tv-1100881/#rss",
       "retailer_url": null,
       "link_type": "source",
       "retailer": null,
       "price_cents": null,
-      "headline_price_cents": 17000,
+      "headline_price_cents": 22800,
       "price_source": null,
       "currency": null,
-      "source_id": "slickdeals",
-      "publisher": "Slickdeals Frontpage",
-      "published_at": "2026-11-27T13:54:39+00:00",
+      "source_id": "bens-bargains",
+      "publisher": "Ben's Bargains",
+      "published_at": "2026-11-27T21:49:00+00:00",
       "expires_at": null,
-      "publication_category": "Frontpage Deals",
+      "publication_category": null,
       "rank": {
         "category": "tv",
         "variant": null,
@@ -498,92 +510,8 @@
         "category": "tv",
         "variant": null,
         "status": "candidate",
-        "score": 31.6,
+        "score": 30.44,
         "max_usd": 500,
-        "preferred_usd": null,
-        "within_budget": true,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
-      "id": "c4f3f4439ef7bca92b622356",
-      "title": "Insignia 75-inch F50 4K smart Fire TV for $300",
-      "url": "https://clarkdeals.com/tv/insignia-75-inch-f50-4k-smart-fire-tv/",
-      "source_url": "https://clarkdeals.com/tv/insignia-75-inch-f50-4k-smart-fire-tv/",
-      "retailer_url": null,
-      "link_type": "source",
-      "retailer": null,
-      "price_cents": null,
-      "headline_price_cents": 30000,
-      "price_source": null,
-      "currency": null,
-      "source_id": "clark-deals",
-      "publisher": "Clark Deals",
-      "published_at": "2026-11-26T16:00:56+00:00",
-      "expires_at": null,
-      "publication_category": "TVs",
-      "rank": {
-        "category": "tv",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": 500,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "headline_rank": {
-        "category": "tv",
-        "variant": null,
-        "status": "candidate",
-        "score": 29.0,
-        "max_usd": 500,
-        "preferred_usd": null,
-        "within_budget": true,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      }
-    },
-    {
-      "id": "676c155a954b17c16251e0f7",
-      "title": "Gourmia 8-quart digital window air fryer for $39",
-      "url": "https://clarkdeals.com/home-kitchen/gourmia-8-quart-digital-air-fryer/",
-      "source_url": "https://clarkdeals.com/home-kitchen/gourmia-8-quart-digital-air-fryer/",
-      "retailer_url": null,
-      "link_type": "source",
-      "retailer": null,
-      "price_cents": null,
-      "headline_price_cents": 3900,
-      "price_source": null,
-      "currency": null,
-      "source_id": "clark-deals",
-      "publisher": "Clark Deals",
-      "published_at": "2026-11-27T13:27:19+00:00",
-      "expires_at": null,
-      "publication_category": "Home & Kitchen",
-      "rank": {
-        "category": "air_fryer",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": 75,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "headline_rank": {
-        "category": "air_fryer",
-        "variant": null,
-        "status": "watch",
-        "score": 24.8,
-        "max_usd": 75,
         "preferred_usd": null,
         "within_budget": true,
         "comparisons": {},
