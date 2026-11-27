@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-27T03:18:10.882738+00:00",
+  "retrieved_at": "2026-11-27T14:26:18.122881+00:00",
   "source": {
     "id": "wired",
     "name": "WIRED Deals",
@@ -10,11 +10,11 @@
   "baseline": false,
   "events": [
     {
-      "id": "19025dc85e2d92686e7c9640",
+      "id": "0e554b974920a134334e1df6",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "13 Best Early Best Buy Black Friday Deals on Hot Tech (2026)",
+      "title": "Best Kindle and E-Reader Black Friday Deals (2026): Up to $180 Off",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -30,8 +30,242 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.wired.com/story/early-black-friday-best-buy-deals-11-5-26/",
-      "source_url": "https://www.wired.com/story/early-black-friday-best-buy-deals-11-5-26/",
+      "url": "https://www.wired.com/story/best-kindle-ereader-black-friday-deals-11-2026/",
+      "source_url": "https://www.wired.com/story/best-kindle-ereader-black-friday-deals-11-2026/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "19025dc85e2d92686e7c9640",
+      "types": [
+        "new"
+      ],
+      "title": "15 Best Buy Black Friday Deals on Hot Tech (2026): Up to 65% Off",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.wired.com/story/black-friday-best-buy-deals-11-27-2026/",
+      "source_url": "https://www.wired.com/story/black-friday-best-buy-deals-11-27-2026/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "3063a68f22ae0fdd9c22b311",
+      "types": [
+        "new"
+      ],
+      "title": "I Found the 20 Best Black Friday Tech Deals, Up to 50% Off (2026)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.wired.com/story/best-black-friday-tech-deals-11-27-26/",
+      "source_url": "https://www.wired.com/story/best-black-friday-tech-deals-11-27-26/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "3786dba5113a192c0dc557c8",
+      "types": [
+        "removed"
+      ],
+      "title": "Greenlight Family Hub Digital Wall Calendar Black Friday Sale (2026)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.wired.com/story/greenlight-hub-black-friday-deal-2026/",
+      "source_url": "https://www.wired.com/story/greenlight-hub-black-friday-deal-2026/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "3ead56dabc56703d3e3d7f7e",
+      "types": [
+        "new"
+      ],
+      "title": "Best Black Friday Toy Deals (2026): Up to 50% Off Lego, Board Games, and Toys",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.wired.com/story/best-black-friday-toy-deals-11-27-26/",
+      "source_url": "https://www.wired.com/story/best-black-friday-toy-deals-11-27-26/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "4759d748a35a8d997240d40b",
+      "types": [
+        "new"
+      ],
+      "title": "16 Best Black Friday Headphone Deals (2026): Up to 57% Off",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.wired.com/story/best-black-friday-headphone-deals-11-27-2026/",
+      "source_url": "https://www.wired.com/story/best-black-friday-headphone-deals-11-27-2026/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "94d775e927cfad012afaf15b",
+      "types": [
+        "new"
+      ],
+      "title": "Best Black Friday Google Pixel Deals (2026): Up to $400 Off",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.wired.com/story/best-google-pixel-black-friday-deals-11-27-2026/",
+      "source_url": "https://www.wired.com/story/best-google-pixel-black-friday-deals-11-27-2026/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "a9faf7dc6f2fe5440e1d8843",
+      "types": [
+        "new"
+      ],
+      "title": "Our Favorite Merino Wool is 30% Off During the Unbound Merino Black Friday Sale (2026)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.wired.com/story/unbound-merino-black-friday-sale-2026/",
+      "source_url": "https://www.wired.com/story/unbound-merino-black-friday-sale-2026/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "c98ac0ddf35dd54a360034c1",
+      "types": [
+        "new"
+      ],
+      "title": "I Found the Best Black Friday Streaming Deals (2026): Apple TV, Disney, and Paramount Over Half Off",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "tv",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": 500,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.wired.com/story/black-friday-streaming-deals-11-27-2026/",
+      "source_url": "https://www.wired.com/story/black-friday-streaming-deals-11-27-2026/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "f2cd70a9d32668d4c59427f4",
+      "types": [
+        "new"
+      ],
+      "title": "The Best Black Friday Sonos Deals (2026): Up to 34% Off",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.wired.com/story/best-black-friday-sonos-deals-11-27-26/",
+      "source_url": "https://www.wired.com/story/best-black-friday-sonos-deals-11-27-26/",
       "retailer_url": null,
       "link_type": "source"
     }

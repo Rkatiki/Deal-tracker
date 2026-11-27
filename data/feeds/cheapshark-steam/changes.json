@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-27T03:18:10.882738+00:00",
+  "retrieved_at": "2026-11-27T14:26:18.122881+00:00",
   "source": {
     "id": "cheapshark-steam",
     "name": "CheapShark Steam Deals",
@@ -11,40 +11,14 @@
   "baseline": false,
   "events": [
     {
-      "id": "0104aa2c81c4851a2fec199d",
-      "types": [
-        "new"
-      ],
-      "title": "Fly'N",
-      "retailer": "Steam",
-      "previous_price_cents": null,
-      "current_price_cents": 99,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://store.steampowered.com/app/223730/",
-      "source_url": "https://www.cheapshark.com/redirect?dealID=opvRO6EmojLMoFINeyLgNxW3s7OiHJDIJ5OsYI2Zb%2BU%3D",
-      "retailer_url": "https://store.steampowered.com/app/223730/",
-      "link_type": "retailer"
-    },
-    {
       "id": "119d0c62bef37ea1f822a8b1",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Ground Control II: Operation Exodus",
       "retailer": "Steam",
-      "previous_price_cents": null,
-      "current_price_cents": 74,
+      "previous_price_cents": 74,
+      "current_price_cents": null,
       "rank": {
         "category": "other",
         "variant": null,
@@ -63,11 +37,37 @@
       "link_type": "retailer"
     },
     {
-      "id": "2311d343803b0d9b0880d2d3",
+      "id": "127912bd73901933e66a3135",
       "types": [
         "new"
       ],
-      "title": "Hamilton's Great Adventure",
+      "title": "The Serpent Rogue",
+      "retailer": "Steam",
+      "previous_price_cents": null,
+      "current_price_cents": 219,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://store.steampowered.com/app/1453790/",
+      "source_url": "https://www.cheapshark.com/redirect?dealID=2Gd2SL0aJ1klJmUSzDHZWn9O7zsNhg9VTF1PdgZ6w74%3D",
+      "retailer_url": "https://store.steampowered.com/app/1453790/",
+      "link_type": "retailer"
+    },
+    {
+      "id": "4b1d4ae3a700283c5f16f077",
+      "types": [
+        "new"
+      ],
+      "title": "Nuclear Dawn",
       "retailer": "Steam",
       "previous_price_cents": null,
       "current_price_cents": 99,
@@ -83,199 +83,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://store.steampowered.com/app/42140/",
-      "source_url": "https://www.cheapshark.com/redirect?dealID=x8Kfgl9R76ZwLqlksfLm3JyHByHXnS0v0Szr7FjEwpw%3D",
-      "retailer_url": "https://store.steampowered.com/app/42140/",
+      "url": "https://store.steampowered.com/app/17710/",
+      "source_url": "https://www.cheapshark.com/redirect?dealID=ja4%2FzvHGunCNupJxFmcIa1yqRx8l7ks8RjPfyEEL7Sk%3D",
+      "retailer_url": "https://store.steampowered.com/app/17710/",
       "link_type": "retailer"
     },
     {
-      "id": "275ac47515c7adfb49af4a11",
+      "id": "82488c73d228b728763496b8",
       "types": [
         "removed"
       ],
-      "title": "Creed: Rise to Glory",
-      "retailer": "Steam",
-      "previous_price_cents": 449,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://store.steampowered.com/app/804490/",
-      "source_url": "https://www.cheapshark.com/redirect?dealID=nsO42UYRXW5tEnaNaj4wi8jgg%2B2wNzzwVso8vI8SKDM%3D",
-      "retailer_url": "https://store.steampowered.com/app/804490/",
-      "link_type": "retailer"
-    },
-    {
-      "id": "3f63faa3d2b152b16a33ba25",
-      "types": [
-        "removed"
-      ],
-      "title": "Deponia",
-      "retailer": "Steam",
-      "previous_price_cents": 99,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://store.steampowered.com/app/214340/",
-      "source_url": "https://www.cheapshark.com/redirect?dealID=y3VsrxQi7K11NXwwKjG1Md0hTFYuNERBjvkaFlaLieQ%3D",
-      "retailer_url": "https://store.steampowered.com/app/214340/",
-      "link_type": "retailer"
-    },
-    {
-      "id": "4c1ffd739d90e43f1ab872aa",
-      "types": [
-        "new"
-      ],
-      "title": "The Witcher 2: Assassins of Kings Enhanced Edition",
-      "retailer": "Steam",
-      "previous_price_cents": null,
-      "current_price_cents": 299,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://store.steampowered.com/app/20920/",
-      "source_url": "https://www.cheapshark.com/redirect?dealID=8JWQ51DVapSJnGVviMI0Hgu4YFqxme2sBdLD3vh6dZw%3D",
-      "retailer_url": "https://store.steampowered.com/app/20920/",
-      "link_type": "retailer"
-    },
-    {
-      "id": "5dcea6a9cda5b2fb093bd303",
-      "types": [
-        "new"
-      ],
-      "title": "Battlezone 98 Redux",
-      "retailer": "Steam",
-      "previous_price_cents": null,
-      "current_price_cents": 249,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://store.steampowered.com/app/301650/",
-      "source_url": "https://www.cheapshark.com/redirect?dealID=IGgcrSzLHzZu43hxT4%2Bcs9nJutrPSQn3bhQjmyE4pi0%3D",
-      "retailer_url": "https://store.steampowered.com/app/301650/",
-      "link_type": "retailer"
-    },
-    {
-      "id": "5e58beae9cb248908cc744c9",
-      "types": [
-        "new"
-      ],
-      "title": "Evil Genius",
-      "retailer": "Steam",
-      "previous_price_cents": null,
-      "current_price_cents": 99,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://store.steampowered.com/app/3720/",
-      "source_url": "https://www.cheapshark.com/redirect?dealID=EzzEvAvunBxvNdePvTwnzmKDv1w8UJTueI18Ej51btY%3D",
-      "retailer_url": "https://store.steampowered.com/app/3720/",
-      "link_type": "retailer"
-    },
-    {
-      "id": "604467b0274ca09183244e73",
-      "types": [
-        "new"
-      ],
-      "title": "Cruelty Squad",
-      "retailer": "Steam",
-      "previous_price_cents": null,
-      "current_price_cents": 199,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://store.steampowered.com/app/1388770/",
-      "source_url": "https://www.cheapshark.com/redirect?dealID=z7QIDb1gN5GCKZ%2FoJN88DNqeGqnf7r1J4XQ0tT6q1zY%3D",
-      "retailer_url": "https://store.steampowered.com/app/1388770/",
-      "link_type": "retailer"
-    },
-    {
-      "id": "74deacd9a17a05de8dc28c94",
-      "types": [
-        "removed"
-      ],
-      "title": "FAR: Lone Sails",
-      "retailer": "Steam",
-      "previous_price_cents": 224,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://store.steampowered.com/app/609320/",
-      "source_url": "https://www.cheapshark.com/redirect?dealID=9pIp54N%2FtzkMMTjC5Lqb0hnhNMuGdh%2FNTVG8Q1sJ1gc%3D",
-      "retailer_url": "https://store.steampowered.com/app/609320/",
-      "link_type": "retailer"
-    },
-    {
-      "id": "7dfe03d6dca8ecfb1bb8868a",
-      "types": [
-        "removed"
-      ],
-      "title": "Absolver",
+      "title": "observer_",
       "retailer": "Steam",
       "previous_price_cents": 299,
       "current_price_cents": null,
@@ -291,191 +109,9 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://store.steampowered.com/app/473690/",
-      "source_url": "https://www.cheapshark.com/redirect?dealID=GYeCNABAQrMoL%2FQTbd7eCC2x9XHvx5mlRxspaHwTaeU%3D",
-      "retailer_url": "https://store.steampowered.com/app/473690/",
-      "link_type": "retailer"
-    },
-    {
-      "id": "a090508c9ac96ec40e95b8db",
-      "types": [
-        "new"
-      ],
-      "title": "The Witcher: Enhanced Edition Director's Cut",
-      "retailer": "Steam",
-      "previous_price_cents": null,
-      "current_price_cents": 149,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://store.steampowered.com/app/20900/",
-      "source_url": "https://www.cheapshark.com/redirect?dealID=XvdAVEU9b7gYQqsNjJB6TCQtxN8qpubzIpJWMLvEVsQ%3D",
-      "retailer_url": "https://store.steampowered.com/app/20900/",
-      "link_type": "retailer"
-    },
-    {
-      "id": "a587630081915e1ec8c8612a",
-      "types": [
-        "removed"
-      ],
-      "title": "Evil Genius 2: World Domination",
-      "retailer": "Steam",
-      "previous_price_cents": 399,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://store.steampowered.com/app/700600/",
-      "source_url": "https://www.cheapshark.com/redirect?dealID=TFMsHY8yEXTTxChVjffLd7JqTV24nShS0ZsChthQZGg%3D",
-      "retailer_url": "https://store.steampowered.com/app/700600/",
-      "link_type": "retailer"
-    },
-    {
-      "id": "b2d246ac1b585a93c961b519",
-      "types": [
-        "new"
-      ],
-      "title": "Disc Room",
-      "retailer": "Steam",
-      "previous_price_cents": null,
-      "current_price_cents": 224,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://store.steampowered.com/app/1229580/",
-      "source_url": "https://www.cheapshark.com/redirect?dealID=uZezU7r1ORN7FqVBGFcA4MF8uOPvYnVQoNNdK%2FaOiiY%3D",
-      "retailer_url": "https://store.steampowered.com/app/1229580/",
-      "link_type": "retailer"
-    },
-    {
-      "id": "b60f6e69db0ebaa8f0582670",
-      "types": [
-        "removed"
-      ],
-      "title": "Deathtrap",
-      "retailer": "Steam",
-      "previous_price_cents": 199,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://store.steampowered.com/app/310510/",
-      "source_url": "https://www.cheapshark.com/redirect?dealID=PPTlgVPPWKDTOT8SdwHtb6NQizAesvfm0E13BXls%2Ft8%3D",
-      "retailer_url": "https://store.steampowered.com/app/310510/",
-      "link_type": "retailer"
-    },
-    {
-      "id": "befb655a940959e7eb71fcb8",
-      "types": [
-        "removed"
-      ],
-      "title": "Hogwarts Legacy",
-      "retailer": "Steam",
-      "previous_price_cents": 599,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://store.steampowered.com/app/990080/",
-      "source_url": "https://www.cheapshark.com/redirect?dealID=ItzaKCtDAPDq8RCrn48ObsYBlbZFBaoCNeZ9gTSPvrY%3D",
-      "retailer_url": "https://store.steampowered.com/app/990080/",
-      "link_type": "retailer"
-    },
-    {
-      "id": "e48b7f15ec599219fd14fda5",
-      "types": [
-        "removed"
-      ],
-      "title": "Deponia Doomsday",
-      "retailer": "Steam",
-      "previous_price_cents": 199,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://store.steampowered.com/app/421050/",
-      "source_url": "https://www.cheapshark.com/redirect?dealID=JlkkbcPiJJv%2FUZQ6ZbaF7VnOMSbQntUcmjH39fS8b90%3D",
-      "retailer_url": "https://store.steampowered.com/app/421050/",
-      "link_type": "retailer"
-    },
-    {
-      "id": "efb85e27c7e7faf98ed8a36d",
-      "types": [
-        "removed"
-      ],
-      "title": "Valfaris",
-      "retailer": "Steam",
-      "previous_price_cents": 249,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://store.steampowered.com/app/600130/",
-      "source_url": "https://www.cheapshark.com/redirect?dealID=1WnSkUl4HVy1GxtpZRKBJ5QaMwxwg%2Fyof1cdmMwAGbE%3D",
-      "retailer_url": "https://store.steampowered.com/app/600130/",
+      "url": "https://store.steampowered.com/app/514900/",
+      "source_url": "https://www.cheapshark.com/redirect?dealID=UEZpda2Ha8nhAv%2BpYAaLUz9Cp%2FRjl3J1ahToPZR0LvI%3D",
+      "retailer_url": "https://store.steampowered.com/app/514900/",
       "link_type": "retailer"
     }
   ]

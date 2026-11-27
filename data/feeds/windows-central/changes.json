@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-27T03:18:10.882738+00:00",
+  "retrieved_at": "2026-11-27T14:26:18.122881+00:00",
   "source": {
     "id": "windows-central",
     "name": "Windows Central",
@@ -11,11 +11,11 @@
   "baseline": false,
   "events": [
     {
-      "id": "3ba5b51cee7d4718ac055067",
+      "id": "0c610ad489d864cbafa1cf53",
       "types": [
         "new"
       ],
-      "title": "The Lenovo Yoga Slim 7x is the one laptop I'd actually buy this Black Friday",
+      "title": "The amazing GameSir G7 Pro controllers are up to 23% off for Black Friday",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -31,8 +31,190 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.windowscentral.com/microsoft/microsoft-office/the-lenovo-yoga-slim-7x-is-the-one-laptop-id-actually-buy-this-black-friday",
-      "source_url": "https://www.windowscentral.com/microsoft/microsoft-office/the-lenovo-yoga-slim-7x-is-the-one-laptop-id-actually-buy-this-black-friday",
+      "url": "https://www.windowscentral.com/accessories/one-of-the-best-xbox-controllers-weve-used-new-black-friday-deals",
+      "source_url": "https://www.windowscentral.com/accessories/one-of-the-best-xbox-controllers-weve-used-new-black-friday-deals",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "0c8557bb7633c414a12e3ac3",
+      "types": [
+        "new"
+      ],
+      "title": "One of 2026's best gaming handhelds is finally under $1,000",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.windowscentral.com/hardware/handheld-gaming-pc/msi-claw-a8-black-friday-deal",
+      "source_url": "https://www.windowscentral.com/hardware/handheld-gaming-pc/msi-claw-a8-black-friday-deal",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "332a29de608c1ab2be0ee395",
+      "types": [
+        "new"
+      ],
+      "title": "Lenovo Legion Go S with Ryzen Z1 Extreme falls to $849.99 for Black Friday",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.windowscentral.com/hardware/lenovo/lenovo-legion-go-s-the-price-it-should-have-been",
+      "source_url": "https://www.windowscentral.com/hardware/lenovo/lenovo-legion-go-s-the-price-it-should-have-been",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "42102a6519786076b39e72b6",
+      "types": [
+        "new"
+      ],
+      "title": "Save $540 on a Surface Pro and Keyboard this Black Friday, bringing the whole package down to just $899",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.windowscentral.com/hardware/surface/i-managed-to-snag-a-surface-pro-and-its-keyboard-for-just-usd899-this-black-friday-heres-where-you-need-to-look",
+      "source_url": "https://www.windowscentral.com/hardware/surface/i-managed-to-snag-a-surface-pro-and-its-keyboard-for-just-usd899-this-black-friday-heres-where-you-need-to-look",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "64040201fd14347642e2a958",
+      "types": [
+        "new"
+      ],
+      "title": "Surface Laptop 13-inch significantly undercuts MacBook Neo in this amazing Black Friday deal",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.windowscentral.com/hardware/surface/microsoft-surface-laptop-13-inch-599-best-buy-deal-i-recommend",
+      "source_url": "https://www.windowscentral.com/hardware/surface/microsoft-surface-laptop-13-inch-599-best-buy-deal-i-recommend",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "79beeddd95ed9947152d3c03",
+      "types": [
+        "new"
+      ],
+      "title": "Get this Xbox PC bundle all in for $200",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.windowscentral.com/accessories/keyboards/my-gorgeous-xbox-mechanical-keyboard-is-on-sale-for-black-friday-and-you-can-grab-the-whole-matching-setup-for-around-usd200",
+      "source_url": "https://www.windowscentral.com/accessories/keyboards/my-gorgeous-xbox-mechanical-keyboard-is-on-sale-for-black-friday-and-you-can-grab-the-whole-matching-setup-for-around-usd200",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "9f323b56b0163d22f9ff547f",
+      "types": [
+        "new"
+      ],
+      "title": "My daily driver Xbox and PC headset is a solid $55 cheaper for Black Friday",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.windowscentral.com/accessories/headphones/my-daily-driver-xbox-and-pc-headset-cheaper-for-black-friday",
+      "source_url": "https://www.windowscentral.com/accessories/headphones/my-daily-driver-xbox-and-pc-headset-cheaper-for-black-friday",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "e452dbafdf93557f5098c67a",
+      "types": [
+        "removed"
+      ],
+      "title": "8 ASUS gaming deals I’d actually buy this Black Friday",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.windowscentral.com/accessories/i-found-some-of-the-best-asus-gaming-gear-up-to-50-percent-off-for-black-friday-from-keyboards-to-xbox-ally-docks",
+      "source_url": "https://www.windowscentral.com/accessories/i-found-some-of-the-best-asus-gaming-gear-up-to-50-percent-off-for-black-friday-from-keyboards-to-xbox-ally-docks",
       "retailer_url": null,
       "link_type": "source"
     }

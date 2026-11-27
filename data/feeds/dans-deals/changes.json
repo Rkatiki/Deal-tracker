@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-27T03:18:10.882738+00:00",
+  "retrieved_at": "2026-11-27T14:26:18.122881+00:00",
   "source": {
     "id": "dans-deals",
     "name": "DansDeals",
@@ -11,11 +11,63 @@
   "baseline": false,
   "events": [
     {
-      "id": "01b6e24a91dca73234aef58f",
+      "id": "01d736ed1c040332740e0e93",
+      "types": [
+        "new"
+      ],
+      "title": "Black Friday Is Here! Shop New Walmart Deals On Apple Watch, Beats, TVs, Ninja, LEGO And More!",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "tv",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": 500,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.dansdeals.com/shopping-deals/walmart/black-friday-is-here-shop-new-walmart-deals-on-apple-watch-beats-tvs-ninja-lego-and-more/",
+      "source_url": "https://www.dansdeals.com/shopping-deals/walmart/black-friday-is-here-shop-new-walmart-deals-on-apple-watch-beats-tvs-ninja-lego-and-more/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "07c679f1709dea320103c4c2",
+      "types": [
+        "new"
+      ],
+      "title": "20 More Sets Just Added! Lowest Prices Ever On LEGO From Amazon’s Black Friday Sale!",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.dansdeals.com/shopping-deals/amazon/lowest-prices-ever-on-lego-save-on-pokemon-star-wars-minecraft-bluey-disney-speed-champions-and-more-from-amazons-black-friday-sale/",
+      "source_url": "https://www.dansdeals.com/shopping-deals/amazon/lowest-prices-ever-on-lego-save-on-pokemon-star-wars-minecraft-bluey-disney-speed-champions-and-more-from-amazons-black-friday-sale/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "08f19b0617c6683139e3f78a",
       "types": [
         "removed"
       ],
-      "title": "New Price Drops On LEGO Star Wars, Disney Princess, Technic, Jurassic World, NINJAGO, And More From Amazon’s Black Friday Sale!",
+      "title": "Lowest Prices On Coffee, Energy Drinks, Snacks, Cookies, Tea, And Pantry Staples From Amazon’s Black Friday Sale!",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -31,69 +83,69 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.dansdeals.com/shopping-deals/amazon/new-price-drops-on-lego-star-wars-disney-princess-technic-jurassic-world-ninjago-and-more-from-amazons-black-friday-sale/",
-      "source_url": "https://www.dansdeals.com/shopping-deals/amazon/new-price-drops-on-lego-star-wars-disney-princess-technic-jurassic-world-ninjago-and-more-from-amazons-black-friday-sale/",
+      "url": "https://www.dansdeals.com/shopping-deals/amazon/lowest-prices-on-coffee-energy-drinks-snacks-cookies-tea-and-pantry-staples-from-amazons-black-friday-sale/",
+      "source_url": "https://www.dansdeals.com/shopping-deals/amazon/lowest-prices-on-coffee-energy-drinks-snacks-cookies-tea-and-pantry-staples-from-amazons-black-friday-sale/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "06ff3f9ad3a8eb7ee4320108",
-      "types": [
-        "new"
-      ],
-      "title": "Bose QuietComfort Ultra Noise Cancelling Headphones For $229 From Woot!",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.dansdeals.com/shopping-deals/woot/bose-quietcomfort-ultra-noise-cancelling-headphones-for-229-from-woot/",
-      "source_url": "https://www.dansdeals.com/shopping-deals/woot/bose-quietcomfort-ultra-noise-cancelling-headphones-for-229-from-woot/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "094ce1f8863d0f5994ae75c2",
+      "id": "1220a285275ceb85741fd790",
       "types": [
         "removed"
       ],
-      "title": "JBL PartyLight Beam Bluetooth Projection Party Light For $89.95 Shipped From Amazon",
+      "title": "Now Even Cheaper And More On Sale! Amazon Black Friday Device Sale! Save Big On Alexa Tablets, Ring, Fire TV Sticks, Echo, Kindle, Kids Tablets, Fire TVs, Blink, eero, And More!",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
       "rank": {
-        "category": "other",
+        "category": "tv",
         "variant": null,
         "status": "price_unavailable",
         "score": 0,
-        "max_usd": null,
+        "max_usd": 500,
         "preferred_usd": null,
         "within_budget": null,
         "comparisons": {},
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.dansdeals.com/shopping-deals/amazon/jbl-partylight-beam-bluetooth-projection-party-light-for-89-95-shipped-from-amazon/",
-      "source_url": "https://www.dansdeals.com/shopping-deals/amazon/jbl-partylight-beam-bluetooth-projection-party-light-for-89-95-shipped-from-amazon/",
+      "url": "https://www.dansdeals.com/shopping-deals/amazon/amazon-early-black-friday-device-sale-ring-battery-doorbell-with-indoor-cam-for-49-99-fire-tv-sticks-from-15-99-kids-tablets-fire-tvs-blink-eero-and-more/",
+      "source_url": "https://www.dansdeals.com/shopping-deals/amazon/amazon-early-black-friday-device-sale-ring-battery-doorbell-with-indoor-cam-for-49-99-fire-tv-sticks-from-15-99-kids-tablets-fire-tvs-blink-eero-and-more/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "0a313a4671f5eacb63c9859f",
+      "id": "19b67edfa2faa7500377b175",
+      "types": [
+        "new"
+      ],
+      "title": "Cuisinart 7-In-1 Air Fryer Toaster Oven Now Just $99.99 Shipped From Amazon",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "air_fryer",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": 75,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.dansdeals.com/shopping-deals/amazon/cuisinart-7-in-1-air-fryer-toaster-oven-for-109-95-shipped-from-amazon/",
+      "source_url": "https://www.dansdeals.com/shopping-deals/amazon/cuisinart-7-in-1-air-fryer-toaster-oven-for-109-95-shipped-from-amazon/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "1fe7e2f5f78495eb9b10b83f",
       "types": [
         "removed"
       ],
-      "title": "225 Oral-B Glide Floss Picks With Scope Flavor For $6.91 Shipped From Amazon",
+      "title": "Selling Out! 192 Piece Set Of Amazon Basics Disposable Clear Assorted Cutlery Now Just $6.27-$7.01 Or Less From Amazon!",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -109,147 +161,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.dansdeals.com/shopping-deals/amazon/225-oral-b-glide-floss-picks-with-scope-flavor-for-6-91-shipped-from-amazon/",
-      "source_url": "https://www.dansdeals.com/shopping-deals/amazon/225-oral-b-glide-floss-picks-with-scope-flavor-for-6-91-shipped-from-amazon/",
+      "url": "https://www.dansdeals.com/shopping-deals/amazon/192-piece-set-of-amazon-basics-disposable-clear-assorted-cutlery-for-6-45-7-21-or-less-from-amazon/",
+      "source_url": "https://www.dansdeals.com/shopping-deals/amazon/192-piece-set-of-amazon-basics-disposable-clear-assorted-cutlery-for-6-45-7-21-or-less-from-amazon/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "0a4ad2895ee4216bb8840be6",
-      "types": [
-        "new"
-      ],
-      "title": "2 Pack Of Anker 20W USB C Fast Charging Phone Charger Blocks With Cables For $13.99 From Amazon",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.dansdeals.com/shopping-deals/amazon/2-pack-of-anker-20w-usb-c-fast-charging-phone-charger-blocks-with-cables-for-13-99-from-amazon/",
-      "source_url": "https://www.dansdeals.com/shopping-deals/amazon/2-pack-of-anker-20w-usb-c-fast-charging-phone-charger-blocks-with-cables-for-13-99-from-amazon/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "0bfdc95e429f59fe3260762f",
-      "types": [
-        "new"
-      ],
-      "title": "The 20 Most Popular Amazon Deals This Week That Are Still Live!",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.dansdeals.com/shopping-deals/amazon/most-popular-amazon-deals/",
-      "source_url": "https://www.dansdeals.com/shopping-deals/amazon/most-popular-amazon-deals/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "1414072624f0305a7922de47",
-      "types": [
-        "new"
-      ],
-      "title": "12 Pack Of Poland Spring Maine Spring 16.9oz. Water Bottles For $2.86-$3.19 Shipped From Amazon",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.dansdeals.com/shopping-deals/amazon/12-pack-of-poland-spring-maine-spring-16-9oz-water-bottles-for-2-86-3-19-shipped-from-amazon/",
-      "source_url": "https://www.dansdeals.com/shopping-deals/amazon/12-pack-of-poland-spring-maine-spring-16-9oz-water-bottles-for-2-86-3-19-shipped-from-amazon/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "165b42d150edbde491620ab4",
-      "types": [
-        "new"
-      ],
-      "title": "Do Not Miss These 5 Black Friday Deals For AMEX Platinum Cardholders!",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.dansdeals.com/credit-cards/do-not-miss-these-5-black-friday-deals-for-amex-platinum-cardholders/",
-      "source_url": "https://www.dansdeals.com/credit-cards/do-not-miss-these-5-black-friday-deals-for-amex-platinum-cardholders/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "17c0218ddc33c767babe914e",
-      "types": [
-        "new"
-      ],
-      "title": "Lowest Prices Ever On PROLED MacBook Pro, Plus Deals On MacBook Air And MacBook Neo From Amazon’s Black Friday Sale!",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.dansdeals.com/shopping-deals/amazon/lowest-prices-ever-on-proled-macbook-pro-plus-deals-on-macbook-air-and-macbook-neo-from-amazons-black-friday-sale/",
-      "source_url": "https://www.dansdeals.com/shopping-deals/amazon/lowest-prices-ever-on-proled-macbook-pro-plus-deals-on-macbook-air-and-macbook-neo-from-amazons-black-friday-sale/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "1d3fb53cf808cce47a4f0480",
+      "id": "1ffcb695f435268620c81d3f",
       "types": [
         "removed"
       ],
-      "title": "20 More Games Added! Black Friday Deals On Classic Board Games For $10 Or Less From Amazon: The Game Of Life Card Game $3.99, Sorry, Connect 4, And Yahtzee $5, Battleship, Monopoly, Game Of Life, Guess Who, And Twister For $10, And More!",
+      "title": "Apple MacBook Air 13″ With M5 Chip, 16GB Memory, 512GB SSD For $999.99 Shipped From Amazon",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -265,17 +187,95 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.dansdeals.com/shopping-deals/amazon/black-friday-deals-on-classic-board-games-for-10-or-less-from-amazon-sorry-connect-4-and-yahtzee-5-battleship-monopoly-game-of-life-guess-who-and-twister-for-10-and-more/",
-      "source_url": "https://www.dansdeals.com/shopping-deals/amazon/black-friday-deals-on-classic-board-games-for-10-or-less-from-amazon-sorry-connect-4-and-yahtzee-5-battleship-monopoly-game-of-life-guess-who-and-twister-for-10-and-more/",
+      "url": "https://www.dansdeals.com/shopping-deals/amazon/apple-macbook-air-13%e2%80%b3-with-m5-chip-16gb-memory-512gb-ssd-for-999-99-shipped-from-amazon/",
+      "source_url": "https://www.dansdeals.com/shopping-deals/amazon/apple-macbook-air-13%e2%80%b3-with-m5-chip-16gb-memory-512gb-ssd-for-999-99-shipped-from-amazon/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "1e214649f6a0b13711ea0b86",
+      "id": "232aea0675de223d5be8bc5a",
+      "types": [
+        "removed"
+      ],
+      "title": "Will Sell Out! 24 Snack Bags Of Deep River Rosemary And Olive Oil Kettle Potato Chips 2oz. Bags For $20.39-$22.79 From Amazon",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.dansdeals.com/shopping-deals/amazon/24-snack-bags-of-deep-river-rosemary-and-olive-oil-kettle-potato-chips-2oz-bags-for-20-39-22-79-from-amazon/",
+      "source_url": "https://www.dansdeals.com/shopping-deals/amazon/24-snack-bags-of-deep-river-rosemary-and-olive-oil-kettle-potato-chips-2oz-bags-for-20-39-22-79-from-amazon/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "262b50e42ea5886880e9a70d",
+      "types": [
+        "removed"
+      ],
+      "title": "Spyder Women’s Sweater Fleece Cuff Beanie For Just $3.34 From Amazon!",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.dansdeals.com/shopping-deals/amazon/spyder-womens-sweater-fleece-cuff-beanie-for-just-3-34-from-amazon/",
+      "source_url": "https://www.dansdeals.com/shopping-deals/amazon/spyder-womens-sweater-fleece-cuff-beanie-for-just-3-34-from-amazon/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "2c12abeb3ef2181c1b380ae2",
+      "types": [
+        "removed"
+      ],
+      "title": "HURRY! TCL 85″ QLED Mini LED 4K Smart Google TV For $479.99 From Amazon And Open Box VIZIO 85″ Mini LED 4K QLED Smart TV For $292 From Walmart!",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "tv",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": 500,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.dansdeals.com/shopping-deals/amazon/hurry-tcl-85-qled-mini-led-4k-smart-google-tv-for-479-99-from-amazon-and-open-box-vizio-85-mini-led-4k-qled-smart-tv-for-292-from-walmart/",
+      "source_url": "https://www.dansdeals.com/shopping-deals/amazon/hurry-tcl-85-qled-mini-led-4k-smart-google-tv-for-479-99-from-amazon-and-open-box-vizio-85-mini-led-4k-qled-smart-tv-for-292-from-walmart/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "31a143dfdb7f80e933aa09bc",
       "types": [
         "new"
       ],
-      "title": "Clear Acrylic 12″ X 16″ Serving Tray With Golden Handles For $15.99 From Amazon",
+      "title": "Top Amazon Black Friday Deals: AirTag $18, AirPods Pro 3 $149, Apple Watch $179, Switch 2 Bundle $499, And More!",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -291,43 +291,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.dansdeals.com/shopping-deals/amazon/clear-acrylic-12%e2%80%b3-x-16%e2%80%b3-serving-tray-with-golden-handles-for-15-99-from-amazon/",
-      "source_url": "https://www.dansdeals.com/shopping-deals/amazon/clear-acrylic-12%e2%80%b3-x-16%e2%80%b3-serving-tray-with-golden-handles-for-15-99-from-amazon/",
+      "url": "https://www.dansdeals.com/shopping-deals/amazon/top-amazon-black-friday-deals-airtag-18-airpods-pro-3-149-apple-watch-179-switch-2-bundle-499-and-more/",
+      "source_url": "https://www.dansdeals.com/shopping-deals/amazon/top-amazon-black-friday-deals-airtag-18-airpods-pro-3-149-apple-watch-179-switch-2-bundle-499-and-more/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "1fbc73c706bb0a7837d189c0",
-      "types": [
-        "removed"
-      ],
-      "title": "Ulta Black Friday Sale: Up To 50% Off Plus Buy One Get One Free Mascara And Lip Products!",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.dansdeals.com/shopping-deals/ulta-black-friday-sale-up-to-50-off-plus-buy-one-get-one-free-mascara-and-lip-products/",
-      "source_url": "https://www.dansdeals.com/shopping-deals/ulta-black-friday-sale-up-to-50-off-plus-buy-one-get-one-free-mascara-and-lip-products/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "1fff346eb7c584547b7ee9b0",
+      "id": "367b037f68cfe6c41840eb0e",
       "types": [
         "new"
       ],
-      "title": "2 Pack Of Cuisinart Dish Drying Mats For $14.99 From Amazon",
+      "title": "[Now Even Cheaper For Black Friday!] Stack 30%+5% On Life-Changing Herman Miller Office Chairs, Plus Get Free Shipping!",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -343,43 +317,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.dansdeals.com/shopping-deals/amazon/2-pack-of-cuisinart-dish-drying-mats-for-14-99-from-amazon/",
-      "source_url": "https://www.dansdeals.com/shopping-deals/amazon/2-pack-of-cuisinart-dish-drying-mats-for-14-99-from-amazon/",
+      "url": "https://www.dansdeals.com/shopping-deals/furniture/lowest-price-in-years-on-this-dansdeals-favorite-stack-305-on-life-changing-herman-miller-office-chairs-plus-get-free-shipping/",
+      "source_url": "https://www.dansdeals.com/shopping-deals/furniture/lowest-price-in-years-on-this-dansdeals-favorite-stack-305-on-life-changing-herman-miller-office-chairs-plus-get-free-shipping/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "21e6d69206991ac173d56541",
-      "types": [
-        "removed"
-      ],
-      "title": "Lands’ End Black Friday Sale Is Live With 55% Off Sitewide, Plus Up To 75% Off Sale And Clearance!",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.dansdeals.com/shopping-deals/coupons/lands-end-black-friday-sale-is-live-with-55-off-sitewide-plus-up-to-75-off-sale-and-clearance/",
-      "source_url": "https://www.dansdeals.com/shopping-deals/coupons/lands-end-black-friday-sale-is-live-with-55-off-sitewide-plus-up-to-75-off-sale-and-clearance/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "26f8c11e10145a0ea895901d",
+      "id": "38e2e2ddc3b449cb7eca5c28",
       "types": [
         "new"
       ],
-      "title": "Lowest Prices Ever On Clothing From Amazon’s Black Friday Sale! Hanes, Carhartt, The North Face, Levi’s, Saks Fifth Avenue, And More!",
+      "title": "50 Glad Large 30 Gallon Heavy Duty Drawstring Trash Bags For $8.48-$9.48 From Amazon",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -395,17 +343,69 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.dansdeals.com/shopping-deals/amazon/lowest-prices-ever-on-clothing-from-amazons-black-friday-sale-hanes-carhartt-the-north-face-levis-saks-fifth-avenue-and-more/",
-      "source_url": "https://www.dansdeals.com/shopping-deals/amazon/lowest-prices-ever-on-clothing-from-amazons-black-friday-sale-hanes-carhartt-the-north-face-levis-saks-fifth-avenue-and-more/",
+      "url": "https://www.dansdeals.com/shopping-deals/amazon/50-glad-large-30-gallon-heavy-duty-drawstring-trash-bags-for-8-48-9-48-from-amazon/",
+      "source_url": "https://www.dansdeals.com/shopping-deals/amazon/50-glad-large-30-gallon-heavy-duty-drawstring-trash-bags-for-8-48-9-48-from-amazon/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "2beabc6f7ff64011a3cd86c9",
+      "id": "3ec308b1d5e992e78a32c32a",
+      "types": [
+        "removed"
+      ],
+      "title": "Stock Up On The Lowest Prices Ever On Paper Towels, Toilet Paper, Tissues, Napkins, Trash Bags, Dish Soap, And Cleaning Supplies From Amazon’s Black Friday Sale!",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.dansdeals.com/shopping-deals/amazon/stock-up-on-the-lowest-prices-ever-on-paper-towels-toilet-paper-tissues-napkins-trash-bags-dish-soap-and-cleaning-supplies-from-amazons-black-friday-sale/",
+      "source_url": "https://www.dansdeals.com/shopping-deals/amazon/stock-up-on-the-lowest-prices-ever-on-paper-towels-toilet-paper-tissues-napkins-trash-bags-dish-soap-and-cleaning-supplies-from-amazons-black-friday-sale/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "47eeb69761a3c26414946314",
+      "types": [
+        "removed"
+      ],
+      "title": "Sponsored: ArtScroll Shas Black Friday Blowout Sale! @ Judaica Plaza: From $1,675, Fully Loaded iPads From $775 + FREE Shipping!",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.dansdeals.com/advertisement/artscroll-shas-black-friday-blowout-sale-judaica-plaza-from-1675-fully-loaded-ipads-from-775-free-shipping/",
+      "source_url": "https://www.dansdeals.com/advertisement/artscroll-shas-black-friday-blowout-sale-judaica-plaza-from-1675-fully-loaded-ipads-from-775-free-shipping/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "4cd228e3a8fcb868a580998b",
       "types": [
         "new"
       ],
-      "title": "Save On Spyder Winter Gloves, Hats, Beanies And More From Amazon",
+      "title": "Lightning Deal: Theragun Therabody 3-Speed Relief Massage Gun For $95 From Amazon",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -421,17 +421,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.dansdeals.com/shopping-deals/amazon/save-on-spyder-winter-gloves-hats-beanies-and-more-from-amazon/",
-      "source_url": "https://www.dansdeals.com/shopping-deals/amazon/save-on-spyder-winter-gloves-hats-beanies-and-more-from-amazon/",
+      "url": "https://www.dansdeals.com/shopping-deals/amazon/lightning-deal-theragun-therabody-3-speed-relief-massage-gun-for-95-from-amazon/",
+      "source_url": "https://www.dansdeals.com/shopping-deals/amazon/lightning-deal-theragun-therabody-3-speed-relief-massage-gun-for-95-from-amazon/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "35fe5d1e6fa707ee9f880ca7",
+      "id": "57899bf0d3737d08fe39d11c",
       "types": [
         "removed"
       ],
-      "title": "Limited Edition Xbox Series X25 OG Green Console or PlayStation 5 Pro For $898 Or PS5 Pro For $899 Shipped From Walmart, Plus Xbox Request Invite At Amazon",
+      "title": "SteelSeries Arctis Nova Pro Wireless Multi-System Gaming Headset For $155.64 Shipped From Amazon After $204 Price Drop",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -447,17 +447,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.dansdeals.com/shopping-deals/amazon/limited-edition-xbox-series-x25-translucent-og-green-console-with-halo-campaign-evolved-for-898-shipped-from-walmart-or-request-invite-at-amazon/",
-      "source_url": "https://www.dansdeals.com/shopping-deals/amazon/limited-edition-xbox-series-x25-translucent-og-green-console-with-halo-campaign-evolved-for-898-shipped-from-walmart-or-request-invite-at-amazon/",
+      "url": "https://www.dansdeals.com/shopping-deals/amazon/steelseries-arctis-nova-pro-wireless-multi-system-gaming-headset-for-155-64-shipped-from-amazon-after-204-price-drop/",
+      "source_url": "https://www.dansdeals.com/shopping-deals/amazon/steelseries-arctis-nova-pro-wireless-multi-system-gaming-headset-for-155-64-shipped-from-amazon-after-204-price-drop/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "447d84fed6cb87d9b9b819a2",
+      "id": "685078cd71c0d477fec5176a",
       "types": [
         "new"
       ],
-      "title": "LEGO Star Wars Grogu Building Set For $80.99 Shipped From Amazon",
+      "title": "Now More Shoes On Sale! ECCO Black Friday Sale: Save Up To 59% Off Plus An Extra 20% Off $200+! Men’s Dress Shoes From $55.99, Boots From $63.99 And More!",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -473,17 +473,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.dansdeals.com/shopping-deals/amazon/lego-star-wars-grogu-building-set-for-80-99-shipped-from-amazon/",
-      "source_url": "https://www.dansdeals.com/shopping-deals/amazon/lego-star-wars-grogu-building-set-for-80-99-shipped-from-amazon/",
+      "url": "https://www.dansdeals.com/shopping-deals/ecco/now-more-shoes-on-sale-ecco-black-friday-sale-save-up-to-59-off-plus-an-extra-20-off-200-mens-dress-shoes-from-55-99-boots-from-63-99-and-more/",
+      "source_url": "https://www.dansdeals.com/shopping-deals/ecco/now-more-shoes-on-sale-ecco-black-friday-sale-save-up-to-59-off-plus-an-extra-20-off-200-mens-dress-shoes-from-55-99-boots-from-63-99-and-more/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "44b3392ab8356d7d49544389",
+      "id": "68d9cd44820b0d196208d485",
       "types": [
         "new"
       ],
-      "title": "Lowest Prices On Cubii Under Desk Ellipticals, Floor Mats, And Back Cushions From Amazon’s Black Friday Sale!",
+      "title": "Lowest Prices On Ride-On Toys, Power Wheels, Go-Karts, And Kids’ ATVs From Amazon’s Black Friday Sale!",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -499,43 +499,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.dansdeals.com/shopping-deals/amazon/lowest-prices-on-cubii-under-desk-ellipticals-floor-mats-and-back-cushions-from-amazons-black-friday-sale/",
-      "source_url": "https://www.dansdeals.com/shopping-deals/amazon/lowest-prices-on-cubii-under-desk-ellipticals-floor-mats-and-back-cushions-from-amazons-black-friday-sale/",
+      "url": "https://www.dansdeals.com/shopping-deals/amazon/lowest-prices-on-ride-on-toys-power-wheels-go-karts-and-kids-atvs-from-amazons-black-friday-sale/",
+      "source_url": "https://www.dansdeals.com/shopping-deals/amazon/lowest-prices-on-ride-on-toys-power-wheels-go-karts-and-kids-atvs-from-amazons-black-friday-sale/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "4e25a524c1533eb47d3c45fa",
-      "types": [
-        "removed"
-      ],
-      "title": "Lowest Price Ever! Sol de Janeiro Cheirosa 76 Hair And Body Fragrance Mist 3oz. Bottle For Just $11.73-$12.35 Shipped From Amazon!",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.dansdeals.com/shopping-deals/amazon/lowest-price-ever-sol-de-janeiro-cheirosa-76-hair-and-body-fragrance-mist-3oz-bottle-for-just-11-73-12-35-shipped-from-amazon/",
-      "source_url": "https://www.dansdeals.com/shopping-deals/amazon/lowest-price-ever-sol-de-janeiro-cheirosa-76-hair-and-body-fragrance-mist-3oz-bottle-for-just-11-73-12-35-shipped-from-amazon/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "519e50470bc0f84971dd7af4",
+      "id": "6e6b35a1fcc2d6bbe168f5ef",
       "types": [
         "new"
       ],
-      "title": "Lowest Prices Ever On Meta AI Glasses From Amazon’s Black Friday Sale! Meta Adventurer Just $194.99, Ray-Ban Meta Gen 2 $284, Oakley Meta HSTN $299, And More!",
+      "title": "Calphalon Prime 7-Piece Silicone And Teak Wood Kitchen Tool Set For $34.99-$37.49 Shipped From Amazon",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -551,17 +525,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.dansdeals.com/shopping-deals/amazon/lowest-prices-ever-on-meta-ai-glasses-from-amazons-black-friday-sale-meta-adventurer-just-194-99-ray-ban-meta-gen-2-284-oakley-meta-hstn-299-and-more/",
-      "source_url": "https://www.dansdeals.com/shopping-deals/amazon/lowest-prices-ever-on-meta-ai-glasses-from-amazons-black-friday-sale-meta-adventurer-just-194-99-ray-ban-meta-gen-2-284-oakley-meta-hstn-299-and-more/",
+      "url": "https://www.dansdeals.com/shopping-deals/amazon/calphalon-prime-7-piece-silicone-and-teak-wood-kitchen-tool-set-for-37-49-shipped-from-amazon/",
+      "source_url": "https://www.dansdeals.com/shopping-deals/amazon/calphalon-prime-7-piece-silicone-and-teak-wood-kitchen-tool-set-for-37-49-shipped-from-amazon/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "51d4d8f246059530e32098d2",
+      "id": "7345d213f871940aad483db9",
       "types": [
         "new"
       ],
-      "title": "Lowest Prices On Nerf, RC Cars, Action Figures, And Hot Wheels From Amazon’s Black Friday Sale!",
+      "title": "Lowest Prices On Treadmills, Exercise Bikes, Dumbbells, Weight Benches, And Home Gym Equipment From Amazon’s Black Friday Sale!",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -577,17 +551,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.dansdeals.com/shopping-deals/amazon/lowest-prices-on-action-figures-nerf-rc-cars-and-hot-wheels-from-amazons-black-friday-sale/",
-      "source_url": "https://www.dansdeals.com/shopping-deals/amazon/lowest-prices-on-action-figures-nerf-rc-cars-and-hot-wheels-from-amazons-black-friday-sale/",
+      "url": "https://www.dansdeals.com/shopping-deals/amazon/lowest-prices-on-treadmills-exercise-bikes-dumbbells-weight-benches-and-home-gym-equipment-from-amazons-black-friday-sale/",
+      "source_url": "https://www.dansdeals.com/shopping-deals/amazon/lowest-prices-on-treadmills-exercise-bikes-dumbbells-weight-benches-and-home-gym-equipment-from-amazons-black-friday-sale/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "52e789e32495133395335f40",
+      "id": "78a6d7e22cd9c4ae4a7e89fd",
       "types": [
         "removed"
       ],
-      "title": "Lowest Price Ever! Most Dangerous Games Deluxe Limited Edition Book From MrBeast And James Patterson For Just $10.07-$14 From Amazon!",
+      "title": "Will Sell Out! Pesach Secrets From Batya’s Kitchen: 150+ Gluten-Free Non-Gebrokts Recipes Cookbook Now Just $6.17 From Amazon!",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -603,43 +577,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.dansdeals.com/shopping-deals/amazon/lowest-price-ever-most-dangerous-games-deluxe-limited-edition-book-from-mrbeast-and-james-patterson-for-just-10-07-14-from-amazon/",
-      "source_url": "https://www.dansdeals.com/shopping-deals/amazon/lowest-price-ever-most-dangerous-games-deluxe-limited-edition-book-from-mrbeast-and-james-patterson-for-just-10-07-14-from-amazon/",
+      "url": "https://www.dansdeals.com/shopping-deals/amazon/just-released-pesach-secrets-from-batyas-kitchen-150-gluten-free-non-gebrokts-recipes-cookbook-for-35-31-shipped-from-amazon/",
+      "source_url": "https://www.dansdeals.com/shopping-deals/amazon/just-released-pesach-secrets-from-batyas-kitchen-150-gluten-free-non-gebrokts-recipes-cookbook-for-35-31-shipped-from-amazon/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "52fce0291a2417a209225fba",
-      "types": [
-        "removed"
-      ],
-      "title": "Macy’s Black Friday Sale Is Live! Plush Throws $8.99, Men’s Quarter-Zips $19.99, Women’s Puffer Coats $39.99, Cashmere Sweaters $59.99, And Much More!",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.dansdeals.com/shopping-deals/apparel-deals/shoes/macys-black-friday-sale-is-live-plush-throws-8-99-mens-quarter-zips-19-99-womens-puffer-coats-39-99-cashmere-sweaters-59-99-and-much-more/",
-      "source_url": "https://www.dansdeals.com/shopping-deals/apparel-deals/shoes/macys-black-friday-sale-is-live-plush-throws-8-99-mens-quarter-zips-19-99-womens-puffer-coats-39-99-cashmere-sweaters-59-99-and-much-more/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "53ee2211592d9f4b09f7e8ab",
+      "id": "79deaa0f9d087a04622524c6",
       "types": [
         "new"
       ],
-      "title": "24 Pack Of Tropicana 100% Apple Juice 10oz. Bottles For $11.11-$12.82 From Amazon",
+      "title": "Lowest Price Ever! NOCO Boost GB40 12V 1000A UltraSafe Portable Lithium Jump Starter For $49.98 Shipped From Amazon And More On Sale After Black Friday Discounts!",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -655,17 +603,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.dansdeals.com/shopping-deals/amazon/24-pack-of-tropicana-100-apple-juice-10oz-bottles-for-11-11-12-82-from-amazon/",
-      "source_url": "https://www.dansdeals.com/shopping-deals/amazon/24-pack-of-tropicana-100-apple-juice-10oz-bottles-for-11-11-12-82-from-amazon/",
+      "url": "https://www.dansdeals.com/shopping-deals/amazon/lowest-price-ever-noco-boost-gb40-12v-1000a-ultrasafe-portable-lithium-jump-starter-for-49-98-shipped-from-amazon-and-more-on-sale-after-black-friday-discounts/",
+      "source_url": "https://www.dansdeals.com/shopping-deals/amazon/lowest-price-ever-noco-boost-gb40-12v-1000a-ultrasafe-portable-lithium-jump-starter-for-49-98-shipped-from-amazon-and-more-on-sale-after-black-friday-discounts/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "54235fd51f5a14f9ac2bb976",
+      "id": "7e9d4f7195dbefb2cc989a3f",
       "types": [
         "new"
       ],
-      "title": "Targeted: AirPods Pro 3 For $99, AirPods 5 For $79, Echo Show 8 For $50, And More With 50% Off AMEX Points Offers From Amazon!",
+      "title": "Lowest Prices On Hosting Products! Warming Trays, Hot Water Urns, Slow Cookers, Chafing Dishes, Chairs, And Folding Tables From Amazon’s Black Friday Sale!",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -681,17 +629,43 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.dansdeals.com/shopping-deals/amazon/targeted-airpods-pro-3-for-99-airpods-5-for-79-echo-show-8-for-50-and-more-with-50-off-amex-points-offers-from-amazon/",
-      "source_url": "https://www.dansdeals.com/shopping-deals/amazon/targeted-airpods-pro-3-for-99-airpods-5-for-79-echo-show-8-for-50-and-more-with-50-off-amex-points-offers-from-amazon/",
+      "url": "https://www.dansdeals.com/shopping-deals/amazon/lowest-prices-on-hosting-products-warming-trays-hot-water-urns-slow-cookers-chafing-dishes-chairs-and-folding-tables-from-amazons-black-friday-sale/",
+      "source_url": "https://www.dansdeals.com/shopping-deals/amazon/lowest-prices-on-hosting-products-warming-trays-hot-water-urns-slow-cookers-chafing-dishes-chairs-and-folding-tables-from-amazons-black-friday-sale/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "5db23c152b2da34595d6f801",
+      "id": "85a152ed178f5597ec6ce4fc",
+      "types": [
+        "removed"
+      ],
+      "title": "Coleman Chiller 30-Qt. Portable Cooler With TempLock Insulation For $21.99 From Amazon",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.dansdeals.com/shopping-deals/amazon/coleman-chiller-30-qt-portable-cooler-with-templock-insulation-for-21-99-from-amazon/",
+      "source_url": "https://www.dansdeals.com/shopping-deals/amazon/coleman-chiller-30-qt-portable-cooler-with-templock-insulation-for-21-99-from-amazon/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "8f1a5064658bf9d7e1d9406a",
       "types": [
         "new"
       ],
-      "title": "Hamilton Beach Extra-Wide Slot 2 Slice Toaster With Bagel And Defrost Buttons For $19.99 From Amazon",
+      "title": "Apple AirPods 4 For Just $69 Shipped From P.C. Richard!",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -707,17 +681,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.dansdeals.com/shopping-deals/amazon/hamilton-beach-extra-wide-slot-2-slice-toaster-with-bagel-and-defrost-buttons-for-19-99-from-amazon/",
-      "source_url": "https://www.dansdeals.com/shopping-deals/amazon/hamilton-beach-extra-wide-slot-2-slice-toaster-with-bagel-and-defrost-buttons-for-19-99-from-amazon/",
+      "url": "https://www.dansdeals.com/shopping-deals/electronics/headphones/apple-airpods-4-for-just-69-shipped-from-p-c-richard/",
+      "source_url": "https://www.dansdeals.com/shopping-deals/electronics/headphones/apple-airpods-4-for-just-69-shipped-from-p-c-richard/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "5ddfe016e7d77fc906d7daa8",
+      "id": "951bd52f9f4b19bb753257a8",
       "types": [
         "new"
       ],
-      "title": "Set Of 3 Royal Craft Bamboo Cutting Boards For $7.99 From Amazon",
+      "title": "Lowest Price Ever! New Book By Rabbi Eli Schlanger HY”D: Conversations With My Rabbi, Timeless Teachings For A Fractured World, Now Just $14.22 From Amazon",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -733,17 +707,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.dansdeals.com/shopping-deals/amazon/set-of-3-royal-craft-bamboo-cutting-boards-for-7-99-from-amazon/",
-      "source_url": "https://www.dansdeals.com/shopping-deals/amazon/set-of-3-royal-craft-bamboo-cutting-boards-for-7-99-from-amazon/",
+      "url": "https://www.dansdeals.com/shopping-deals/amazon/new-book-by-rabbi-eli-schlanger-hyd-conversations-with-my-rabbi-timeless-teachings-for-a-fractured-world-for-24-49-from-amazon/",
+      "source_url": "https://www.dansdeals.com/shopping-deals/amazon/new-book-by-rabbi-eli-schlanger-hyd-conversations-with-my-rabbi-timeless-teachings-for-a-fractured-world-for-24-49-from-amazon/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "60222d52d87cf6e97dd75b01",
+      "id": "995a3db24a1088f10dddc680",
       "types": [
         "new"
       ],
-      "title": "ELK Wine Black Friday Sale Is Live! Save 25% Off 60+ Kosher Wines, Plus Free Shipping Nationwide On $350 Orders!",
+      "title": "Woot Black Friday Sale Is Live! Save An Additional 20% On Samsung OLED Monitors, Milwaukee, Brooks, Ember, De’Longhi, DJI Drone, And More, Plus Huge On, Hoka, And Razer Sales!",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -759,17 +733,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.dansdeals.com/shopping-deals/elk-wine-black-friday-sale-is-live-save-25-off-60-kosher-wines-plus-free-shipping-nationwide-on-350-orders/",
-      "source_url": "https://www.dansdeals.com/shopping-deals/elk-wine-black-friday-sale-is-live-save-25-off-60-kosher-wines-plus-free-shipping-nationwide-on-350-orders/",
+      "url": "https://www.dansdeals.com/shopping-deals/woot/woot-black-friday-sale-is-live-save-an-additional-20-on-samsung-oled-monitors-milwaukee-brooks-ember-delonghi-dji-drone-and-more-plus-huge-on-hoka-and-razer-sales/",
+      "source_url": "https://www.dansdeals.com/shopping-deals/woot/woot-black-friday-sale-is-live-save-an-additional-20-on-samsung-oled-monitors-milwaukee-brooks-ember-delonghi-dji-drone-and-more-plus-huge-on-hoka-and-razer-sales/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "65d25733e6fe7a0353983f7a",
+      "id": "a42c85723fd70b34186aa344",
       "types": [
         "removed"
       ],
-      "title": "Save On Dove Body Wash, Men+Care Body Wash, And Beauty Bars From Amazon!",
+      "title": "Save Up To 50% On McCormick Pure Vanilla Extract And Spices From Amazon; Save Big On McCormick, French’s, Frank’s RedHot, Lawry’s, And More!",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -785,17 +759,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.dansdeals.com/shopping-deals/amazon/save-on-dove-body-wash-mencare-body-wash-and-beauty-bars-from-amazon/",
-      "source_url": "https://www.dansdeals.com/shopping-deals/amazon/save-on-dove-body-wash-mencare-body-wash-and-beauty-bars-from-amazon/",
+      "url": "https://www.dansdeals.com/shopping-deals/amazon/save-up-to-50-on-mccormick-pure-vanilla-extract-and-spices-from-amazon-save-big-on-mccormick-frenchs-franks-redhot-lawrys-and-more/",
+      "source_url": "https://www.dansdeals.com/shopping-deals/amazon/save-up-to-50-on-mccormick-pure-vanilla-extract-and-spices-from-amazon-save-big-on-mccormick-frenchs-franks-redhot-lawrys-and-more/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "6991ece2e2704926cb4e2571",
+      "id": "bb4faa3e4a7b26fa9ef30f4f",
       "types": [
         "new"
       ],
-      "title": "Dash SmartStore Deluxe 24-Cup Stirring Popcorn Maker With Butter-Warming Tray For $24.99 From Amazon",
+      "title": "DICK’S Black Friday: Up To 50% Off Water Bottles! Owala FreeSip From $14.99, Stanley Quenchers From $12.50, HydroJug From $19.99, YETI Ramblers, And More!",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -811,43 +785,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.dansdeals.com/shopping-deals/amazon/dash-smartstore-deluxe-24-cup-stirring-popcorn-maker-with-butter-warming-tray-for-24-99-from-amazon/",
-      "source_url": "https://www.dansdeals.com/shopping-deals/amazon/dash-smartstore-deluxe-24-cup-stirring-popcorn-maker-with-butter-warming-tray-for-24-99-from-amazon/",
+      "url": "https://www.dansdeals.com/shopping-deals/dicks-black-friday-up-to-50-off-owala-freesip-from-14-99-stanley-quenchers-from-12-50-hydrojug-from-19-99-yeti-ramblers-and-more/",
+      "source_url": "https://www.dansdeals.com/shopping-deals/dicks-black-friday-up-to-50-off-owala-freesip-from-14-99-stanley-quenchers-from-12-50-hydrojug-from-19-99-yeti-ramblers-and-more/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "7053994c9b4c8e4c9b5717c0",
-      "types": [
-        "removed"
-      ],
-      "title": "lululemon Black Friday Sale Is Live! Everywhere Belt Bag $29, Everywhere Backpack $44, Scuba Backpack $64, Men’s ABC Trousers $89, Pack It Down Jacket $159, And More!",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.dansdeals.com/shopping-deals/apparel-deals/clothing/lululemon-black-friday-sale-is-live-everywhere-belt-bag-29-everywhere-backpack-44-scuba-backpack-64-mens-abc-trousers-89-pack-it-down-jacket-159-and-more/",
-      "source_url": "https://www.dansdeals.com/shopping-deals/apparel-deals/clothing/lululemon-black-friday-sale-is-live-everywhere-belt-bag-29-everywhere-backpack-44-scuba-backpack-64-mens-abc-trousers-89-pack-it-down-jacket-159-and-more/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "7299b1c77d8a0c0a8abc8803",
+      "id": "c8e03b54c4bf4652eec36d5f",
       "types": [
         "new"
       ],
-      "title": "Lowest Prices On Vacuums, Robot Vacuums, Carpet Cleaners, And Steam Mops From Amazon’s Black Friday Sale!",
+      "title": "Lowest Prices On Carry-On Luggage, Luggage Sets, Garment Bags, And Travel Accessories From Amazon’s Black Friday Sale!",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -863,17 +811,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.dansdeals.com/shopping-deals/amazon/lowest-prices-on-vacuums-robot-vacuums-carpet-cleaners-and-steam-mops-from-amazons-black-friday-sale/",
-      "source_url": "https://www.dansdeals.com/shopping-deals/amazon/lowest-prices-on-vacuums-robot-vacuums-carpet-cleaners-and-steam-mops-from-amazons-black-friday-sale/",
+      "url": "https://www.dansdeals.com/shopping-deals/amazon/lowest-prices-on-carry-on-luggage-luggage-sets-garment-bags-and-travel-accessories-from-amazons-black-friday-sale/",
+      "source_url": "https://www.dansdeals.com/shopping-deals/amazon/lowest-prices-on-carry-on-luggage-luggage-sets-garment-bags-and-travel-accessories-from-amazons-black-friday-sale/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "769d549d0d90f479a1e3dc10",
+      "id": "c9f019da436a04b58715a3c5",
       "types": [
         "removed"
       ],
-      "title": "Lowest Prices Ever On Wi-Fi Routers And Smart Home Devices From Amazon’s Black Friday Sale!",
+      "title": "Alive Again! 24 Snack Bags Of LesserEvil Himalayan Gold Salt Organic Popcorn Now Just $4.01-$4.72 From Amazon!",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -889,17 +837,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.dansdeals.com/shopping-deals/amazon/lowest-prices-ever-on-wi-fi-routers-and-smart-home-devices-from-amazons-black-friday-sale/",
-      "source_url": "https://www.dansdeals.com/shopping-deals/amazon/lowest-prices-ever-on-wi-fi-routers-and-smart-home-devices-from-amazons-black-friday-sale/",
+      "url": "https://www.dansdeals.com/shopping-deals/amazon/24-snack-bags-of-lesserevil-himalayan-gold-salt-organic-popcorn-for-6-6-71-from-amazon/",
+      "source_url": "https://www.dansdeals.com/shopping-deals/amazon/24-snack-bags-of-lesserevil-himalayan-gold-salt-organic-popcorn-for-6-6-71-from-amazon/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "807011581af771c124d97d2e",
+      "id": "ca87502c728a8087addb6629",
       "types": [
         "removed"
       ],
-      "title": "Kate Spade New York Black Friday Sale: Up To 50% Off Plus Extra Savings In Cart! Deco Crossbody Tote $139, K As In Kate Sneakers $80, Studs $25, And More!",
+      "title": "Don’t Miss Apple’s Black Friday Sale! Lowest Prices Ever On Apple Watches, Airpods, M6 MacBook Pro, And More!",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -915,69 +863,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.dansdeals.com/shopping-deals/kate-spade-new-york-black-friday-sale-up-to-50-off-plus-extra-savings-in-cart-deco-crossbody-tote-139-k-as-in-kate-sneakers-80-studs-25-and-more/",
-      "source_url": "https://www.dansdeals.com/shopping-deals/kate-spade-new-york-black-friday-sale-up-to-50-off-plus-extra-savings-in-cart-deco-crossbody-tote-139-k-as-in-kate-sneakers-80-studs-25-and-more/",
+      "url": "https://www.dansdeals.com/shopping-deals/amazon/apple-black-friday-sale-lowest-prices-ever-on-apple-watch-se-3-and-series-12-m6-macbook-pro-magic-keyboards-studio-display-and-more/",
+      "source_url": "https://www.dansdeals.com/shopping-deals/amazon/apple-black-friday-sale-lowest-prices-ever-on-apple-watch-se-3-and-series-12-m6-macbook-pro-magic-keyboards-studio-display-and-more/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "90a2ad26b643518eb6d1a14b",
-      "types": [
-        "removed"
-      ],
-      "title": "300 Plackers Micro Line Floss Picks Intense Mint For Just $4.09-$4.57 Shipped From Amazon!",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.dansdeals.com/shopping-deals/amazon/300-plackers-micro-line-floss-picks-intense-mint-for-just-4-09-4-57-shipped-from-amazon/",
-      "source_url": "https://www.dansdeals.com/shopping-deals/amazon/300-plackers-micro-line-floss-picks-intense-mint-for-just-4-09-4-57-shipped-from-amazon/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "938ed70021070ba106415011",
-      "types": [
-        "removed"
-      ],
-      "title": "Lowest Prices On Toaster Ovens, Stand Mixers, Rice Cookers, Blenders, Air Fryers, And More From Amazon’s Black Friday Sale!",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.dansdeals.com/shopping-deals/amazon/lowest-prices-on-toaster-ovens-stand-mixers-rice-cookers-blenders-air-fryers-and-more-from-amazons-black-friday-sale/",
-      "source_url": "https://www.dansdeals.com/shopping-deals/amazon/lowest-prices-on-toaster-ovens-stand-mixers-rice-cookers-blenders-air-fryers-and-more-from-amazons-black-friday-sale/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "9da66fa03119cd22268dce22",
+      "id": "cd5144256930ba4d7c7b79ed",
       "types": [
         "new"
       ],
-      "title": "Lowest Prices Ever On Speakers From Amazon Echo, JBL, Marshall, Altec Lansing, And More From Amazon’s Black Friday Sale!",
+      "title": "Amazon Black Friday Gift Card Sale! Save Up To 30% On Apple, Airbnb, inKind, DoorDash, Uber, Lyft, Walgreens, H&M, adidas, Hotels.com, And Many More!",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -993,17 +889,43 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.dansdeals.com/shopping-deals/amazon/lowest-prices-ever-on-speakers-from-amazon-echo-jbl-marshall-altec-lansing-and-more-from-amazons-black-friday-sale/",
-      "source_url": "https://www.dansdeals.com/shopping-deals/amazon/lowest-prices-ever-on-speakers-from-amazon-echo-jbl-marshall-altec-lansing-and-more-from-amazons-black-friday-sale/",
+      "url": "https://www.dansdeals.com/shopping-deals/amazon/amazon-black-friday-gift-card-sale-save-up-to-30-on-apple-airbnb-inkind-doordash-uber-lyft-walgreens-hm-adidas-hotels-com-and-many-more/",
+      "source_url": "https://www.dansdeals.com/shopping-deals/amazon/amazon-black-friday-gift-card-sale-save-up-to-30-on-apple-airbnb-inkind-doordash-uber-lyft-walgreens-hm-adidas-hotels-com-and-many-more/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "a46557591aadceda4d6e541e",
+      "id": "d400b3b6837ea389b9512cd8",
+      "types": [
+        "removed"
+      ],
+      "title": "Save An Additional 20%-30% Off On And Hoka Running Shoes From Woot! Running Shoes From Just $75.99 And Hoka Slides From $43.99!",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.dansdeals.com/shopping-deals/woot/save-an-additional-20-30-off-on-and-hoka-running-shoes-from-woot-running-shoes-from-just-75-99-and-hoka-slides-from-43-99/",
+      "source_url": "https://www.dansdeals.com/shopping-deals/woot/save-an-additional-20-30-off-on-and-hoka-running-shoes-from-woot-running-shoes-from-just-75-99-and-hoka-slides-from-43-99/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "d7bff09197ffba3dff5b6737",
       "types": [
         "new"
       ],
-      "title": "Lightning Deal: CeraVe PM Daily Facial Moisturizer 3oz. Bottle For $10.48 From Amazon",
+      "title": "$100 MasterCard Gift Card For $100 Shipped From Amazon",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -1019,17 +941,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.dansdeals.com/shopping-deals/amazon/lightning-deal-cerave-pm-daily-facial-moisturizer-3oz-bottle-for-10-48-from-amazon/",
-      "source_url": "https://www.dansdeals.com/shopping-deals/amazon/lightning-deal-cerave-pm-daily-facial-moisturizer-3oz-bottle-for-10-48-from-amazon/",
+      "url": "https://www.dansdeals.com/shopping-deals/amazon/100-mastercard-physical-gift-card-for-100-shipped-from-amazon/",
+      "source_url": "https://www.dansdeals.com/shopping-deals/amazon/100-mastercard-physical-gift-card-for-100-shipped-from-amazon/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "c49ca4ce109548179ef07d4e",
+      "id": "d8b2f6f74d8113ec7d40ac35",
       "types": [
         "removed"
       ],
-      "title": "Lowest Prices Ever On Samsung Galaxy Watch 8 Smartwatches From $199.99, Galaxy Watch Ultra 2 With A $100 Amazon Gift Card For $699.99, And Official Bands From $32.50 From Amazon’s Black Friday Sale!",
+      "title": "LEGO City F1 Williams Racing And Haas F1 Race Car Building Set For $9.99 From Amazon",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -1045,17 +967,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.dansdeals.com/shopping-deals/amazon/lowest-prices-ever-on-samsung-galaxy-watch-8-smartwatches-from-199-99-galaxy-watch-ultra-2-with-a-100-amazon-gift-card-for-699-99-and-official-bands-from-32-50-from-amazons-black-friday-sale/",
-      "source_url": "https://www.dansdeals.com/shopping-deals/amazon/lowest-prices-ever-on-samsung-galaxy-watch-8-smartwatches-from-199-99-galaxy-watch-ultra-2-with-a-100-amazon-gift-card-for-699-99-and-official-bands-from-32-50-from-amazons-black-friday-sale/",
+      "url": "https://www.dansdeals.com/shopping-deals/amazon/lego-city-f1-williams-racing-and-haas-f1-race-car-building-set-for-9-99-from-amazon/",
+      "source_url": "https://www.dansdeals.com/shopping-deals/amazon/lego-city-f1-williams-racing-and-haas-f1-race-car-building-set-for-9-99-from-amazon/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "de0a3198c4561b5fd9d74fbc",
+      "id": "e14c77d76e62aa9d36069662",
       "types": [
         "new"
       ],
-      "title": "Ninja Fireside360 80,000 BTU Fire Pit/Heater For $379.99-$399.99 Shipped From Amazon!",
+      "title": "Don’t Miss Our Black Friday Sales Master Post! The Best Deals, Updated Continuously!",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -1071,69 +993,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.dansdeals.com/shopping-deals/amazon/ninja-fireside360-80000-btu-fire-pit-heater-for-379-99-399-99-shipped-from-amazon/",
-      "source_url": "https://www.dansdeals.com/shopping-deals/amazon/ninja-fireside360-80000-btu-fire-pit-heater-for-379-99-399-99-shipped-from-amazon/",
+      "url": "https://www.dansdeals.com/shopping-deals/amazon/the-best-black-friday-sales-2026/",
+      "source_url": "https://www.dansdeals.com/shopping-deals/amazon/the-best-black-friday-sales-2026/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "e2c0bda1adf1586ba3baa0ed",
-      "types": [
-        "removed"
-      ],
-      "title": "Cole Haan’s Best Sale Of The Year! Men’s Oxfords From $89.95, Grand Crosscourt Sneakers From $79.95, Wool-Blend Car Coat $99.95, Women’s Boots From $109.95, And More, Plus Free Shipping!",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.dansdeals.com/shopping-deals/apparel-deals/shoes/cole-haans-best-sale-of-the-year-mens-oxfords-from-89-95-grand-crosscourt-sneakers-from-79-95-wool-blend-car-coat-99-95-womens-boots-from-109-95-and-more-plus-free-shipping/",
-      "source_url": "https://www.dansdeals.com/shopping-deals/apparel-deals/shoes/cole-haans-best-sale-of-the-year-mens-oxfords-from-89-95-grand-crosscourt-sneakers-from-79-95-wool-blend-car-coat-99-95-womens-boots-from-109-95-and-more-plus-free-shipping/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "e3b77a4ca2f15040b8117374",
-      "types": [
-        "removed"
-      ],
-      "title": "Black Friday Kids Water Bottle Deals! Save On Contigo, Thermos, Zak Designs, Simple Modern, Owala, Hydro Flask, And CamelBak From Amazon!",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.dansdeals.com/shopping-deals/amazon/black-friday-kids-water-bottle-deals-save-on-contigo-thermos-zak-designs-simple-modern-owala-hydro-flask-and-camelbak-from-amazon/",
-      "source_url": "https://www.dansdeals.com/shopping-deals/amazon/black-friday-kids-water-bottle-deals-save-on-contigo-thermos-zak-designs-simple-modern-owala-hydro-flask-and-camelbak-from-amazon/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "e43219715b91c004c264542c",
+      "id": "e16294188a5f1da4abd43323",
       "types": [
         "new"
       ],
-      "title": "50 Amazon Basics Extra Strong And Flex Tall Kitchen Drawstring Trash Bags 13 Gallon For $5.09-$5.69 From Amazon",
+      "title": "Carter’s Black Friday: Save 60%-70% Off Almost Everything Plus Free Shipping! Baby Pajamas $7, Toddler Fleece Pants $5.50, Kids’ Joggers $6.50, And More!",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -1149,17 +1019,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.dansdeals.com/shopping-deals/amazon/50-amazon-basics-extra-strong-and-flex-tall-kitchen-drawstring-trash-bags-13-gallon-for-5-09-5-69-from-amazon/",
-      "source_url": "https://www.dansdeals.com/shopping-deals/amazon/50-amazon-basics-extra-strong-and-flex-tall-kitchen-drawstring-trash-bags-13-gallon-for-5-09-5-69-from-amazon/",
+      "url": "https://www.dansdeals.com/shopping-deals/apparel-deals/clothing/carters-black-friday-save-60-70-off-almost-everything-plus-free-shipping-baby-pajamas-7-toddler-fleece-pants-5-50-kids-joggers-6-50-and-more/",
+      "source_url": "https://www.dansdeals.com/shopping-deals/apparel-deals/clothing/carters-black-friday-save-60-70-off-almost-everything-plus-free-shipping-baby-pajamas-7-toddler-fleece-pants-5-50-kids-joggers-6-50-and-more/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "e4c88ed690b03536d2a1c4a6",
+      "id": "e81beb8e14c34b05eb446fca",
       "types": [
         "removed"
       ],
-      "title": "Amazon Business Only: Coleman Classic Series 100-Qt. Rolling Cooler For $59.99 Shipped From Amazon",
+      "title": "3 Bottles Of Native Liquid Hand Soap In Cherry & Vanilla Macaron, Coconut & Vanilla, Or Lavender & Rose For Just $6.45-$7.80 Shipped From Amazon!",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -1175,17 +1045,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.dansdeals.com/shopping-deals/amazon/amazon-business-only-coleman-classic-series-100-qt-rolling-cooler-for-59-99-shipped-from-amazon/",
-      "source_url": "https://www.dansdeals.com/shopping-deals/amazon/amazon-business-only-coleman-classic-series-100-qt-rolling-cooler-for-59-99-shipped-from-amazon/",
+      "url": "https://www.dansdeals.com/shopping-deals/amazon/3-bottles-of-native-cherry-vanilla-macaron-liquid-hand-soap-for-just-6-45-7-80-shipped-from-amazon/",
+      "source_url": "https://www.dansdeals.com/shopping-deals/amazon/3-bottles-of-native-cherry-vanilla-macaron-liquid-hand-soap-for-just-6-45-7-80-shipped-from-amazon/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "ecb0b9a1f76d124b79f08688",
+      "id": "ebeb9ad4be40df34dd91c80c",
       "types": [
         "removed"
       ],
-      "title": "Coach Outlet Black Friday Sale Plus An Extra 25% Off Select Styles! Wallets From $29, Wristlets $29, Nolita 19 $109, Rowan Satchel $164.25, And More!",
+      "title": "Under Armour Women’s Rival Fleece Hoodie For Just $13.86 From Amazon After $25 Price Drop!",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -1201,17 +1071,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.dansdeals.com/shopping-deals/coach-outlet-black-friday-sale-plus-an-extra-25-off-select-styles-wallets-from-29-wristlets-29-nolita-19-109-rowan-satchel-164-25-and-more/",
-      "source_url": "https://www.dansdeals.com/shopping-deals/coach-outlet-black-friday-sale-plus-an-extra-25-off-select-styles-wallets-from-29-wristlets-29-nolita-19-109-rowan-satchel-164-25-and-more/",
+      "url": "https://www.dansdeals.com/shopping-deals/amazon/under-armour-womens-rival-fleece-hoodie-for-just-13-86-from-amazon-after-25-price-drop/",
+      "source_url": "https://www.dansdeals.com/shopping-deals/amazon/under-armour-womens-rival-fleece-hoodie-for-just-13-86-from-amazon-after-25-price-drop/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "ecc784538b897639f1a8955c",
+      "id": "f314ec602adff869101caf56",
       "types": [
         "removed"
       ],
-      "title": "Lightning Deal, Lowest Price Ever: THE NORTH FACE Women’s Borealis Backpack For $57.50 Shipped From Amazon",
+      "title": "Lowest Prices Ever On Laptops, Chromebooks, Gaming Laptops, Desktops, And Monitors From Amazon’s Black Friday Sale!",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -1227,17 +1097,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.dansdeals.com/shopping-deals/amazon/lightning-deal-lowest-price-ever-the-north-face-womens-borealis-backpack-for-57-50-shipped-from-amazon/",
-      "source_url": "https://www.dansdeals.com/shopping-deals/amazon/lightning-deal-lowest-price-ever-the-north-face-womens-borealis-backpack-for-57-50-shipped-from-amazon/",
+      "url": "https://www.dansdeals.com/shopping-deals/amazon/lowest-prices-ever-on-laptops-chromebooks-gaming-laptops-desktops-and-monitors-from-amazons-black-friday-sale/",
+      "source_url": "https://www.dansdeals.com/shopping-deals/amazon/lowest-prices-ever-on-laptops-chromebooks-gaming-laptops-desktops-and-monitors-from-amazons-black-friday-sale/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "ef82addbd4de81123170a464",
+      "id": "fc0563f94a1526eb664c8651",
       "types": [
         "new"
       ],
-      "title": "Lowest Prices On Area Rugs, Lamps, Curtains, And Mirrors From Amazon’s Black Friday Sale!",
+      "title": "Stila Stay All Day Waterproof Liquid Eye Liner For $11.87-$12.50 From Amazon After Black Friday Discount!",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -1253,17 +1123,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.dansdeals.com/shopping-deals/amazon/lowest-prices-on-area-rugs-lamps-curtains-and-mirrors-from-amazons-black-friday-sale/",
-      "source_url": "https://www.dansdeals.com/shopping-deals/amazon/lowest-prices-on-area-rugs-lamps-curtains-and-mirrors-from-amazons-black-friday-sale/",
+      "url": "https://www.dansdeals.com/shopping-deals/amazon/stila-stay-all-day-waterproof-liquid-eye-liner-for-11-87-12-50-from-amazon-after-black-friday-discount/",
+      "source_url": "https://www.dansdeals.com/shopping-deals/amazon/stila-stay-all-day-waterproof-liquid-eye-liner-for-11-87-12-50-from-amazon-after-black-friday-discount/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "f1202caa063eda4be5dd98ce",
+      "id": "fcb1ef2aa9ebadd06cb36914",
       "types": [
         "removed"
       ],
-      "title": "Save Up To 40% On Cleaning Supplies From Amazon; Save On Swiffer, Dawn, Cascade, Mr. Clean, Febreze, And More!",
+      "title": "2 Pack Of Anker 20W USB C Charger Blocks With Cables For $13.99 From Amazon",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -1279,43 +1149,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.dansdeals.com/shopping-deals/amazon/save-up-to-40-on-cleaning-supplies-from-amazon-save-on-swiffer-dawn-cascade-mr-clean-febreze-and-more/",
-      "source_url": "https://www.dansdeals.com/shopping-deals/amazon/save-up-to-40-on-cleaning-supplies-from-amazon-save-on-swiffer-dawn-cascade-mr-clean-febreze-and-more/",
+      "url": "https://www.dansdeals.com/shopping-deals/amazon/2-pack-of-anker-20w-usb-c-charger-blocks-with-cables-for-13-99-from-amazon/",
+      "source_url": "https://www.dansdeals.com/shopping-deals/amazon/2-pack-of-anker-20w-usb-c-charger-blocks-with-cables-for-13-99-from-amazon/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "f219f26eb20816e55bf16c33",
-      "types": [
-        "new"
-      ],
-      "title": "Mike And Ike Original Fruits Candy 4.25oz. Bag For $1 From Amazon",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.dansdeals.com/shopping-deals/amazon/mike-and-ike-original-fruits-candy-4-25oz-bag-for-1-from-amazon/",
-      "source_url": "https://www.dansdeals.com/shopping-deals/amazon/mike-and-ike-original-fruits-candy-4-25oz-bag-for-1-from-amazon/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "f427937a2f0780e3ed1da04c",
+      "id": "fffd72063c2cd2dbeec28061",
       "types": [
         "removed"
       ],
-      "title": "Save Up To 20%-24% On H&M, Meta Quest, And More Gift Cards At Target",
+      "title": "Now Even Cheaper! Apple 13″ MacBook Neo With A18 Pro Chip, 8GB Memory, And 256GB SSD Now Just $599 Shipped From Amazon After Black Friday Discount!",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -1331,112 +1175,8 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.dansdeals.com/shopping-deals/gift-cards/save-up-to-20-24-on-hm-meta-quest-and-more-gift-cards-at-target/",
-      "source_url": "https://www.dansdeals.com/shopping-deals/gift-cards/save-up-to-20-24-on-hm-meta-quest-and-more-gift-cards-at-target/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "f564e3a9c9cf7362520b33e1",
-      "types": [
-        "removed"
-      ],
-      "title": "Nintendo Switch Super Mario Galaxy And Super Mario Galaxy 2 Game For $30 From Amazon After $40 Price Drop!",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.dansdeals.com/shopping-deals/amazon/nintendo-switch-super-mario-galaxy-and-super-mario-galaxy-2-game-for-30-from-amazon-after-40-price-drop/",
-      "source_url": "https://www.dansdeals.com/shopping-deals/amazon/nintendo-switch-super-mario-galaxy-and-super-mario-galaxy-2-game-for-30-from-amazon-after-40-price-drop/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "fbee1349b0a9636deaf1af10",
-      "types": [
-        "new"
-      ],
-      "title": "Apple Watch Ultra 4 GPS + Cellular 49mm Smartwatch With Natural Titanium Case And Translucent Gray Ocean Band For $649.99 Shipped From Amazon",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.dansdeals.com/shopping-deals/amazon/apple-watch-ultra-4-gps-cellular-49mm-smartwatch-with-natural-titanium-case-and-translucent-gray-ocean-band-for-649-99-shipped-from-amazon/",
-      "source_url": "https://www.dansdeals.com/shopping-deals/amazon/apple-watch-ultra-4-gps-cellular-49mm-smartwatch-with-natural-titanium-case-and-translucent-gray-ocean-band-for-649-99-shipped-from-amazon/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "fe7dae47854f7d88bd16f012",
-      "types": [
-        "removed"
-      ],
-      "title": "Lightning Deal Almost Sold Out: Lacoste Men’s Monochrome Crew Neck Cotton Sweater For $58.19 Shipped From Amazon",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.dansdeals.com/shopping-deals/amazon/lightning-deal-lacoste-mens-monochrome-crew-neck-cotton-sweater-for-58-19-shipped-from-amazon/",
-      "source_url": "https://www.dansdeals.com/shopping-deals/amazon/lightning-deal-lacoste-mens-monochrome-crew-neck-cotton-sweater-for-58-19-shipped-from-amazon/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "ff059e03bc8bc0f9fa2919b0",
-      "types": [
-        "removed"
-      ],
-      "title": "Alive Again! American Tourister Kontour 2-Piece Luggage Set For $64 Shipped From Amazon After $126 Price Drop!",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.dansdeals.com/shopping-deals/amazon/american-tourister-kontour-2-piece-luggage-set-for-64-shipped-from-amazon-after-126-price-drop/",
-      "source_url": "https://www.dansdeals.com/shopping-deals/amazon/american-tourister-kontour-2-piece-luggage-set-for-64-shipped-from-amazon-after-126-price-drop/",
+      "url": "https://www.dansdeals.com/shopping-deals/amazon/apple-13%e2%80%b3-macbook-neo-with-a18-pro-chip-8gb-memory-and-256gb-ssd-for-649-shipped-from-amazon/",
+      "source_url": "https://www.dansdeals.com/shopping-deals/amazon/apple-13%e2%80%b3-macbook-neo-with-a18-pro-chip-8gb-memory-and-256gb-ssd-for-649-shipped-from-amazon/",
       "retailer_url": null,
       "link_type": "source"
     }

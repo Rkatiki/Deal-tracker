@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-27T03:18:10.882738+00:00",
+  "retrieved_at": "2026-11-27T14:26:18.122881+00:00",
   "source": {
     "id": "woot-daily",
     "name": "Woot Daily Deals",
@@ -11,37 +11,11 @@
   "baseline": false,
   "events": [
     {
-      "id": "33b29f32bda7cd401c9dc3c3",
-      "types": [
-        "new"
-      ],
-      "title": "Bird on Counter",
-      "retailer": "Woot",
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.woot.com/offers/bird-on-counter",
-      "source_url": "https://forums.woot.com/t/bird-on-counter/2714627",
-      "retailer_url": "https://www.woot.com/offers/bird-on-counter",
-      "link_type": "retailer"
-    },
-    {
-      "id": "39a5e6f0dedc2c53419781d8",
+      "id": "617c3588af19cfc1faeccf8d",
       "types": [
         "removed"
       ],
-      "title": "Nespresso Festive Sweet Almond & Hibiscus",
+      "title": "Starbucks Florida Ornament 2021",
       "retailer": "Woot",
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -57,17 +31,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.woot.com/offers/nespresso-festive-sweet-almond-hibiscus-1",
-      "source_url": "https://forums.woot.com/t/nespresso-festive-sweet-almond-hibiscus/2703741",
-      "retailer_url": "https://www.woot.com/offers/nespresso-festive-sweet-almond-hibiscus-1",
+      "url": "https://www.woot.com/offers/starbucks-florida-ornament-2021z-2",
+      "source_url": "https://forums.woot.com/t/starbucks-florida-ornament-2021/2703744",
+      "retailer_url": "https://www.woot.com/offers/starbucks-florida-ornament-2021z-2",
       "link_type": "retailer"
     },
     {
-      "id": "3fca98e6bc9727228c49e618",
+      "id": "ea0e494c5ec910f28401ea8c",
       "types": [
         "new"
       ],
-      "title": "The North Face Recon Backpack, Gardenia",
+      "title": "JanSport 26L Cross Town Backpack – 12 inch Daypack",
       "retailer": "Woot",
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -83,139 +57,9 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.woot.com/offers/the-north-face-recon-backpack-gardenia",
-      "source_url": "https://forums.woot.com/t/the-north-face-recon-backpack-gardenia/2714662",
-      "retailer_url": "https://www.woot.com/offers/the-north-face-recon-backpack-gardenia",
-      "link_type": "retailer"
-    },
-    {
-      "id": "69cde5a9863bd6b98454d0f4",
-      "types": [
-        "removed"
-      ],
-      "title": "Nicaragua Master Origin Coffee Pods",
-      "retailer": "Woot",
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.woot.com/offers/nicaragua-master-origin-coffee-pods-14",
-      "source_url": "https://forums.woot.com/t/nicaragua-master-origin-coffee-pods/2703738",
-      "retailer_url": "https://www.woot.com/offers/nicaragua-master-origin-coffee-pods-14",
-      "link_type": "retailer"
-    },
-    {
-      "id": "9f4579e9c20579792e9ffd03",
-      "types": [
-        "removed"
-      ],
-      "title": "Nespresso Vaniglia Decaffeinato - Medium Roast",
-      "retailer": "Woot",
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.woot.com/offers/nespresso-vaniglia-decaffeinato-medium-roast-1",
-      "source_url": "https://forums.woot.com/t/nespresso-vaniglia-decaffeinato-medium-roast/2703735",
-      "retailer_url": "https://www.woot.com/offers/nespresso-vaniglia-decaffeinato-medium-roast-1",
-      "link_type": "retailer"
-    },
-    {
-      "id": "a84ba1a275cbc8835a8386d6",
-      "types": [
-        "new"
-      ],
-      "title": "Bloom Nutrition Milk Frother",
-      "retailer": "Woot",
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.woot.com/offers/bloom-nutrition-milk-frother-1",
-      "source_url": "https://forums.woot.com/t/bloom-nutrition-milk-frother/2714660",
-      "retailer_url": "https://www.woot.com/offers/bloom-nutrition-milk-frother-1",
-      "link_type": "retailer"
-    },
-    {
-      "id": "ac5d9bb8dbd4b9b50e67c918",
-      "types": [
-        "removed"
-      ],
-      "title": "Nespresso Linited Edition Peppermint Coffee Pods",
-      "retailer": "Woot",
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.woot.com/offers/nespresso-linited-edition-peppermint-coffee-pods-1",
-      "source_url": "https://forums.woot.com/t/nespresso-linited-edition-peppermint-coffee-pods/2703743",
-      "retailer_url": "https://www.woot.com/offers/nespresso-linited-edition-peppermint-coffee-pods-1",
-      "link_type": "retailer"
-    },
-    {
-      "id": "b56619f972e94f4763558535",
-      "types": [
-        "new"
-      ],
-      "title": "Resident Evil Requiem Deluxe Edition + Steelbook",
-      "retailer": "Woot",
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.woot.com/offers/resident-evil-requiem-deluxe-edition-steelbook",
-      "source_url": "https://forums.woot.com/t/resident-evil-requiem-deluxe-edition-steelbook/2714654",
-      "retailer_url": "https://www.woot.com/offers/resident-evil-requiem-deluxe-edition-steelbook",
+      "url": "https://www.woot.com/offers/jansport-26l-cross-town-backpack-12-inch-daypack-1",
+      "source_url": "https://forums.woot.com/t/jansport-26l-cross-town-backpack-12-inch-daypack/2715765",
+      "retailer_url": "https://www.woot.com/offers/jansport-26l-cross-town-backpack-12-inch-daypack-1",
       "link_type": "retailer"
     }
   ]

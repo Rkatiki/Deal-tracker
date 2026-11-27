@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-27T03:18:10.882738+00:00",
+  "retrieved_at": "2026-11-27T14:26:18.122881+00:00",
   "source": {
     "id": "macrumors",
     "name": "MacRumors Deals",
@@ -10,11 +10,11 @@
   "baseline": false,
   "events": [
     {
-      "id": "b1a19655443d418975fa6190",
+      "id": "02e53523bd913d8c27906e00",
       "types": [
         "new"
       ],
-      "title": "The 50+ Best Apple Black Friday Deals on AirPods, iPads, MacBooks, and More",
+      "title": "The Best Black Friday iPad Deals",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -30,17 +30,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.macrumors.com/2026/11/26/50-best-apple-black-friday-deals/",
-      "source_url": "https://www.macrumors.com/2026/11/26/50-best-apple-black-friday-deals/",
+      "url": "https://www.macrumors.com/2026/11/27/best-black-friday-ipad-deals-2026/",
+      "source_url": "https://www.macrumors.com/2026/11/27/best-black-friday-ipad-deals-2026/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "d59ad6e7e38d8f21a4d4331a",
+      "id": "0e756554c316792ca1b66113",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "How To Get an iPhone Duo or iPhone 18 Pro at No Cost Through T-Mobile for Black Friday",
+      "title": "iPhone 20 Pro Rumored to Feature 3D-Printed Titanium Frame",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -56,8 +56,476 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.macrumors.com/2026/11/25/iphone-no-cost-t-mobile/",
-      "source_url": "https://www.macrumors.com/2026/11/25/iphone-no-cost-t-mobile/",
+      "url": "https://www.macrumors.com/2026/11/27/iphone-20-pro-3d-printed-titanium-frame/",
+      "source_url": "https://www.macrumors.com/2026/11/27/iphone-20-pro-3d-printed-titanium-frame/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "3b7085beaee8726670498c8b",
+      "types": [
+        "new"
+      ],
+      "title": "The Best Black Friday AirPods Deals",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.macrumors.com/2026/11/27/best-black-friday-airpods-deals-2026/",
+      "source_url": "https://www.macrumors.com/2026/11/27/best-black-friday-airpods-deals-2026/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "3d79dd5774b826c471a95b9a",
+      "types": [
+        "removed"
+      ],
+      "title": "iPhone 18 Pro Max Battery Exhausts a Toy Cyclops in New Apple Ad",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.macrumors.com/2026/11/25/iphone-battery-cyclops-ad/",
+      "source_url": "https://www.macrumors.com/2026/11/25/iphone-battery-cyclops-ad/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "44074d83afdc81117e09149a",
+      "types": [
+        "removed"
+      ],
+      "title": "Get Apple's Cheapest iPad for $379 During Amazon's Black Friday Sale",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.macrumors.com/2026/11/25/ipad-for-379-black-friday-sale/",
+      "source_url": "https://www.macrumors.com/2026/11/25/ipad-for-379-black-friday-sale/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "463d08b82588d2f241942e6f",
+      "types": [
+        "removed"
+      ],
+      "title": "Redesigned OLED MacBook Air Could Launch in 2027 or 2028",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.macrumors.com/2026/11/25/oled-macbook-air-2027-2028/",
+      "source_url": "https://www.macrumors.com/2026/11/25/oled-macbook-air-2027-2028/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "4cffc4be22d013d76b50244e",
+      "types": [
+        "new"
+      ],
+      "title": "iPhone Share of US Smartphone Market Hits 57% as Rivals Slip",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.macrumors.com/2026/11/27/iphone-share-us-smartphone-market-rises/",
+      "source_url": "https://www.macrumors.com/2026/11/27/iphone-share-us-smartphone-market-rises/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "50ad2f75b7aad0e399a30114",
+      "types": [
+        "removed"
+      ],
+      "title": "1Password Security Breach: What Was Accessed and What Wasn't",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.macrumors.com/2026/11/25/1password-security-breach/",
+      "source_url": "https://www.macrumors.com/2026/11/25/1password-security-breach/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "65785288532195c7fa9ea904",
+      "types": [
+        "new"
+      ],
+      "title": "The Best Black Friday AirTag Deals",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.macrumors.com/2026/11/27/best-black-friday-airtag-deals-2026/",
+      "source_url": "https://www.macrumors.com/2026/11/27/best-black-friday-airtag-deals-2026/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "6c6579159ee81589694cb7fc",
+      "types": [
+        "new"
+      ],
+      "title": "The Best Black Friday iPhone Deals",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.macrumors.com/2026/11/27/best-black-friday-iphone-deals-2026/",
+      "source_url": "https://www.macrumors.com/2026/11/27/best-black-friday-iphone-deals-2026/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "89fe80b3e774196313e023fe",
+      "types": [
+        "new"
+      ],
+      "title": "iPhone 18 Production Delay Leaves Apple Little Time Before Launch",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.macrumors.com/2026/11/27/iphone-18-production-delay/",
+      "source_url": "https://www.macrumors.com/2026/11/27/iphone-18-production-delay/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "b1c2f4db69a985ad33a81ac3",
+      "types": [
+        "removed"
+      ],
+      "title": "Rumor: iOS 28 to Revamp Notifications",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.macrumors.com/2026/11/25/rumor-ios-28-to-revamp-notifications/",
+      "source_url": "https://www.macrumors.com/2026/11/25/rumor-ios-28-to-revamp-notifications/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "cb9241f9ca3632eac4a21d35",
+      "types": [
+        "new"
+      ],
+      "title": "The Best Black Friday Apple Watch Deals",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.macrumors.com/2026/11/27/best-black-friday-apple-watch-deals-2026/",
+      "source_url": "https://www.macrumors.com/2026/11/27/best-black-friday-apple-watch-deals-2026/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "d29688f2deba521fe393d9e2",
+      "types": [
+        "removed"
+      ],
+      "title": "AirPods Pro 3 for $149 is One of The Best Black Friday Deals This Year",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.macrumors.com/2026/11/25/amazon-airpods-pro-3-deal-back/",
+      "source_url": "https://www.macrumors.com/2026/11/25/amazon-airpods-pro-3-deal-back/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "dccf5d522767837f0f496222",
+      "types": [
+        "new"
+      ],
+      "title": "The Best Black Friday Mac Deals",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.macrumors.com/2026/11/27/best-black-friday-mac-deals-2026/",
+      "source_url": "https://www.macrumors.com/2026/11/27/best-black-friday-mac-deals-2026/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "dfc81dd25a156bebf7a46c08",
+      "types": [
+        "removed"
+      ],
+      "title": "Apple Faces Korean Regulator Review Over iPhone 16 AI Advertising",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.macrumors.com/2026/11/26/apple-korea-regulator-iphone-16-ai-advertising/",
+      "source_url": "https://www.macrumors.com/2026/11/26/apple-korea-regulator-iphone-16-ai-advertising/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "ea3d927ffea8261abfd1b375",
+      "types": [
+        "removed"
+      ],
+      "title": "WhatsApp Finally Adds Scheduled Messages",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.macrumors.com/2026/11/25/whatsapp-finally-adds-scheduled-messages/",
+      "source_url": "https://www.macrumors.com/2026/11/25/whatsapp-finally-adds-scheduled-messages/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "f205f560621789dccb1936cd",
+      "types": [
+        "removed"
+      ],
+      "title": "Apple Watch Ultra 4 Hits New Best-Ever Price of $649.99 for Black Friday",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.macrumors.com/2026/11/26/apple-watch-ultra-4-new-price/",
+      "source_url": "https://www.macrumors.com/2026/11/26/apple-watch-ultra-4-new-price/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "f6fed47d4634ced79dada1a7",
+      "types": [
+        "new"
+      ],
+      "title": "The Best Black Friday Deals on Apple Home Products",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.macrumors.com/2026/11/27/the-best-black-friday-deals-on-apple-home-products/",
+      "source_url": "https://www.macrumors.com/2026/11/27/the-best-black-friday-deals-on-apple-home-products/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "fa86a28c2cee8cc764af6653",
+      "types": [
+        "removed"
+      ],
+      "title": "New Apple Store Opening in India, Download the Special Wallpaper Now",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.macrumors.com/2026/11/25/apple-store-kukatpally-hyderabad-india/",
+      "source_url": "https://www.macrumors.com/2026/11/25/apple-store-kukatpally-hyderabad-india/",
       "retailer_url": null,
       "link_type": "source"
     }
