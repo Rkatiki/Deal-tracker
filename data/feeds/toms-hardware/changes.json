@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-28T08:29:43.491046+00:00",
+  "retrieved_at": "2026-11-28T17:13:03.742185+00:00",
   "source": {
     "id": "toms-hardware",
     "name": "Tom's Hardware",
@@ -11,11 +11,37 @@
   "baseline": false,
   "events": [
     {
-      "id": "2d618195d4a9822064601e25",
+      "id": "04265e048c3df35672f71e74",
+      "types": [
+        "new"
+      ],
+      "title": "Corsair's Xeneon Edge PC touchscreen is $50 off in all colors",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.tomshardware.com/pc-components/corsairs-xeneon-edge-pc-touchscreen-is-usd50-off-in-all-colors-tiny-14-5-inch-under-monitor-display-is-just-usd200",
+      "source_url": "https://www.tomshardware.com/pc-components/corsairs-xeneon-edge-pc-touchscreen-is-usd50-off-in-all-colors-tiny-14-5-inch-under-monitor-display-is-just-usd200",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "0df621426463a9c9702079ed",
       "types": [
         "removed"
       ],
-      "title": "Best Black Friday Gaming PC Deals live",
+      "title": "The best Black Friday soldering iron deals for hobbyists and makers right now",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -31,17 +57,43 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.tomshardware.com/live/news/black-friday-gaming-pc-deals-2026",
-      "source_url": "https://www.tomshardware.com/live/news/black-friday-gaming-pc-deals-2026",
+      "url": "https://www.tomshardware.com/gift-guides-seasonal-sales/the-best-black-friday-soldering-iron-deals-for-hobbyists-and-makers-right-now-limited-time-sale-discounts-on-digital-irons-premium-solder-and-heat-proof-accessories",
+      "source_url": "https://www.tomshardware.com/gift-guides-seasonal-sales/the-best-black-friday-soldering-iron-deals-for-hobbyists-and-makers-right-now-limited-time-sale-discounts-on-digital-irons-premium-solder-and-heat-proof-accessories",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "393e2cade0c5545ddc44b716",
+      "id": "2f7a526b68a2b7e9c8943b13",
+      "types": [
+        "new"
+      ],
+      "title": "Boost your storage while this 6TB WD My Passport external hard drive is $90 off and its lowest price in months",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.tomshardware.com/pc-components/boost-your-storage-while-this-6tb-wd-my-passport-external-hard-drive-is-usd90-off-just-4-cents-per-gb-2-25-inch-drive-now-usd239",
+      "source_url": "https://www.tomshardware.com/pc-components/boost-your-storage-while-this-6tb-wd-my-passport-external-hard-drive-is-usd90-off-just-4-cents-per-gb-2-25-inch-drive-now-usd239",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "3cee48b661a04b5f5f240e16",
       "types": [
         "removed"
       ],
-      "title": "Essential 3D printer maintenance tool deals for Black Friday — save up to 30% on precision tools, lights, snips, and more",
+      "title": "Nvidia agrees to $290 million settlement over 2018 crypto mining GPU sales",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -57,17 +109,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.tomshardware.com/gift-guides-seasonal-sales/essential-3d-printer-maintenance-tool-deals-for-black-friday-save-up-to-30-percent-on-precision-tools-lights-snips-and-more",
-      "source_url": "https://www.tomshardware.com/gift-guides-seasonal-sales/essential-3d-printer-maintenance-tool-deals-for-black-friday-save-up-to-30-percent-on-precision-tools-lights-snips-and-more",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/nvidia-agrees-to-usd290-million-settlement-over-2018-crypto-mining-gpu-sales-ends-eight-year-investor-lawsuit-without-admitting-wrongdoing",
+      "source_url": "https://www.tomshardware.com/tech-industry/big-tech/nvidia-agrees-to-usd290-million-settlement-over-2018-crypto-mining-gpu-sales-ends-eight-year-investor-lawsuit-without-admitting-wrongdoing",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "3b93d086b3b3c0e8349a2a95",
+      "id": "4eb17a4153644d3fe0df79af",
       "types": [
         "new"
       ],
-      "title": "Best Black Friday 2026 tech deals live",
+      "title": "Banned Nvidia Blackwell AI racks surface in China — data center tied to $14M loan and alleged spy Alice Huang",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -83,197 +135,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.tomshardware.com/live/news/black-friday-2026-day-four",
-      "source_url": "https://www.tomshardware.com/live/news/black-friday-2026-day-four",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/banned-nvidia-blackwell-ai-racks-surface-in-china-data-center-tied-to-usd14m-loan-and-alleged-spy-alice-huang",
+      "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/banned-nvidia-blackwell-ai-racks-surface-in-china-data-center-tied-to-usd14m-loan-and-alleged-spy-alice-huang",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "46e9af7856ab906f81c44c3f",
-      "types": [
-        "new"
-      ],
-      "title": "Best Black Friday Gaming laptop deals live",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.tomshardware.com/live/news/best-black-friday-gaming-laptop-deals-day-two",
-      "source_url": "https://www.tomshardware.com/live/news/best-black-friday-gaming-laptop-deals-day-two",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "8992900f029540958de3ca20",
-      "types": [
-        "new"
-      ],
-      "title": "This Lenovo LOQ notebook with Arc B390 graphics is just $799 this Black Friday",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.tomshardware.com/laptops/gaming-laptops/this-lenovo-loq-notebook-with-arc-b390-graphics-is-just-usd799-this-black-friday-get-a-gaming-ready-panther-lake-laptop-for-a-super-low-price",
-      "source_url": "https://www.tomshardware.com/laptops/gaming-laptops/this-lenovo-loq-notebook-with-arc-b390-graphics-is-just-usd799-this-black-friday-get-a-gaming-ready-panther-lake-laptop-for-a-super-low-price",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "8a3662bc788724b9e2ec979b",
+      "id": "542d8012841094cd616ddc26",
       "types": [
         "removed"
-      ],
-      "title": "13 tech bargains for only $13 or less to upgrade your desktop PC setup",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.tomshardware.com/gift-guides-seasonal-sales/13-tech-bargains-for-just-usd13-or-less-to-upgrade-your-pc-setup-must-own-gadgets-and-impulse-buys-to-solve-everyday-problems-from-network-switches-to-cleaning-kits",
-      "source_url": "https://www.tomshardware.com/gift-guides-seasonal-sales/13-tech-bargains-for-just-usd13-or-less-to-upgrade-your-pc-setup-must-own-gadgets-and-impulse-buys-to-solve-everyday-problems-from-network-switches-to-cleaning-kits",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "92c240ffe6084fa84ad61207",
-      "types": [
-        "new"
-      ],
-      "title": "Best Black Friday Gaming PC Deals live",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.tomshardware.com/live/news/black-friday-gaming-pc-deals-2026-day-two",
-      "source_url": "https://www.tomshardware.com/live/news/black-friday-gaming-pc-deals-2026-day-two",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "9e1af4526bc638a6aa60dffd",
-      "types": [
-        "removed"
-      ],
-      "title": "Best Black Friday Gaming laptop deals live",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.tomshardware.com/live/news/best-black-friday-gaming-laptop-deals-live",
-      "source_url": "https://www.tomshardware.com/live/news/best-black-friday-gaming-laptop-deals-live",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "a8bcf3041a9fac249bdefb03",
-      "types": [
-        "new"
-      ],
-      "title": "Get a perfect Alienware 4K OLED 32\" display with RGB subpixels for $150 off",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.tomshardware.com/pc-components/get-a-perfect-alienware-4k-oled-32-display-with-rgb-subpixels-for-usd150-off-165-hz-refresh-rate-1000-nits-hdr-and-dolby-vision-support-with-the-aw3226q",
-      "source_url": "https://www.tomshardware.com/pc-components/get-a-perfect-alienware-4k-oled-32-display-with-rgb-subpixels-for-usd150-off-165-hz-refresh-rate-1000-nits-hdr-and-dolby-vision-support-with-the-aw3226q",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "c144416e4ccc571d2c8b726b",
-      "types": [
-        "removed"
-      ],
-      "title": "Best Black Friday 2026 tech deals live",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.tomshardware.com/live/news/black-friday-2026-day-three",
-      "source_url": "https://www.tomshardware.com/live/news/black-friday-2026-day-three",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "d457cc0deac68f3331f94b13",
-      "types": [
-        "new"
       ],
       "title": "Best Black Friday 2026 3D Printer deals live",
       "retailer": null,
@@ -291,8 +161,268 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.tomshardware.com/live/news/best-black-friday-3d-printer-deals-day-two",
-      "source_url": "https://www.tomshardware.com/live/news/best-black-friday-3d-printer-deals-day-two",
+      "url": "https://www.tomshardware.com/live/news/best-black-friday-2026-3d-printer-deals-day-two",
+      "source_url": "https://www.tomshardware.com/live/news/best-black-friday-2026-3d-printer-deals-day-two",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "5a47d76aa8d4a7e28e66fbfb",
+      "types": [
+        "new"
+      ],
+      "title": "Thermaltake’s budget RTX 5060 Ti gaming desktops are as little as $1,299",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.tomshardware.com/desktops/gaming-pcs/thermaltakes-budget-rtx-5060-ti-gaming-desktops-are-as-little-as-usd1-299-choose-between-ddr4-and-ddr5-configurations-with-up-to-usd100-off",
+      "source_url": "https://www.tomshardware.com/desktops/gaming-pcs/thermaltakes-budget-rtx-5060-ti-gaming-desktops-are-as-little-as-usd1-299-choose-between-ddr4-and-ddr5-configurations-with-up-to-usd100-off",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "5df9ede2b56df45df382fce1",
+      "types": [
+        "removed"
+      ],
+      "title": "Handy TP-Link 5-port gigabit ethernet switch returns to all-time low of $8 at Amazon — perfect for homelabbers, office setups and IoT networking",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.tomshardware.com/networking/network-switches/handy-tp-link-5-port-gigabit-ethernet-switch-returns-to-all-time-low-of-usd8-at-amazon-perfect-for-homelabbers-office-setups-and-iot-networking",
+      "source_url": "https://www.tomshardware.com/networking/network-switches/handy-tp-link-5-port-gigabit-ethernet-switch-returns-to-all-time-low-of-usd8-at-amazon-perfect-for-homelabbers-office-setups-and-iot-networking",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "625dbbbac94946b3b4f15651",
+      "types": [
+        "new"
+      ],
+      "title": "Save $400 on this RTX 5070 Ti gaming laptop",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.tomshardware.com/pc-components/save-usd400-on-this-rtx-5070-ti-gaming-laptop-msi-vector-16-hx-ai-with-intel-core-ultra-7-and-16gb-ddr5-ram-drops-to-usd1-599",
+      "source_url": "https://www.tomshardware.com/pc-components/save-usd400-on-this-rtx-5070-ti-gaming-laptop-msi-vector-16-hx-ai-with-intel-core-ultra-7-and-16gb-ddr5-ram-drops-to-usd1-599",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "626dd72a8aca0e30d2dfcfbd",
+      "types": [
+        "removed"
+      ],
+      "title": "The Swiss Army knife of USB docking DVD drives is on sale, also available with a built-in M.2 SSD slot or SATA hard drive dock",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.tomshardware.com/desktops/pc-building/the-swiss-army-knife-of-dvd-drives-is-back-on-sale-usb-docking-hybrid-also-available-with-a-built-in-m-2-ssd-slot-or-sata-hard-drive-dock-usd28-for-the-dvd-writer-and-hub-usd37-gets-an-added-sata-dock-or-pay-usd39-for-the-m-2-version",
+      "source_url": "https://www.tomshardware.com/desktops/pc-building/the-swiss-army-knife-of-dvd-drives-is-back-on-sale-usb-docking-hybrid-also-available-with-a-built-in-m-2-ssd-slot-or-sata-hard-drive-dock-usd28-for-the-dvd-writer-and-hub-usd37-gets-an-added-sata-dock-or-pay-usd39-for-the-m-2-version",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "899150f4a16ce8dcb77f2387",
+      "types": [
+        "new"
+      ],
+      "title": "We built the best all-around DIY PC we could from Cyber Monday deals, and it's pretty sweet",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.tomshardware.com/pc-components/we-built-the-best-all-around-diy-pc-we-could-from-cyber-monday-deals-and-its-pretty-sweet-get-core-ultra-7-270k-plus-cpu-power-and-rx-9070-xt-gaming-prowess-for-less-than-usd2500-this-black-friday-weekend",
+      "source_url": "https://www.tomshardware.com/pc-components/we-built-the-best-all-around-diy-pc-we-could-from-cyber-monday-deals-and-its-pretty-sweet-get-core-ultra-7-270k-plus-cpu-power-and-rx-9070-xt-gaming-prowess-for-less-than-usd2500-this-black-friday-weekend",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "9528abf1349aea41a673bd2d",
+      "types": [
+        "new"
+      ],
+      "title": "$120 wearable LED pin acts as a 'watermark for humans' to fight deepfakes",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.tomshardware.com/peripherals/wearable-tech/usd120-wearable-led-pin-acts-as-a-watermark-for-humans-to-fight-deepfakes-esp32-s3-powered-protector-flashes-secret-time-synced-light-codes-every-second",
+      "source_url": "https://www.tomshardware.com/peripherals/wearable-tech/usd120-wearable-led-pin-acts-as-a-watermark-for-humans-to-fight-deepfakes-esp32-s3-powered-protector-flashes-secret-time-synced-light-codes-every-second",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "cc71f0ddefe7f3ed187b2087",
+      "types": [
+        "new"
+      ],
+      "title": "Get a 34-inch 180Hz Samsung ultrawide gaming monitor at an all-time low $179 for Cyber Monday — Odyssey G5 hits a historic low",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.tomshardware.com/monitors/gaming-monitors/get-a-34-inch-180hz-samsung-ultrawide-gaming-monitor-at-an-all-time-low-usd179-for-cyber-monday-odyssey-g5-hits-a-historic-low",
+      "source_url": "https://www.tomshardware.com/monitors/gaming-monitors/get-a-34-inch-180hz-samsung-ultrawide-gaming-monitor-at-an-all-time-low-usd179-for-cyber-monday-odyssey-g5-hits-a-historic-low",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "e397968c49d2adcbb1c0fb89",
+      "types": [
+        "removed"
+      ],
+      "title": "Save a huge $1,020 on a 240Hz OLED gaming laptop from Lenovo with an RTX 5070 Ti, now just $1,999",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.tomshardware.com/laptops/gaming-laptops/save-a-huge-usd1-020-on-a-240hz-oled-gaming-laptop-from-lenovo-with-an-rtx-5070-ti-now-just-usd1-999-portable-legion-5i-rig-features-an-18-core-intel-cpu-and-a-1tb-ssd",
+      "source_url": "https://www.tomshardware.com/laptops/gaming-laptops/save-a-huge-usd1-020-on-a-240hz-oled-gaming-laptop-from-lenovo-with-an-rtx-5070-ti-now-just-usd1-999-portable-legion-5i-rig-features-an-18-core-intel-cpu-and-a-1tb-ssd",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "f2fc87406931bc1bdc602ed7",
+      "types": [
+        "new"
+      ],
+      "title": "This nifty $35 dual hard drive dock can support up to 64TB of storage for your PC",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.tomshardware.com/pc-components/this-nifty-usd35-dual-hard-drive-dock-can-support-up-to-64tb-of-storage-for-your-pc-clone-duplicate-and-connect-2-5-inch-and-3-5-inch-ssds-and-hdds-with-ease",
+      "source_url": "https://www.tomshardware.com/pc-components/this-nifty-usd35-dual-hard-drive-dock-can-support-up-to-64tb-of-storage-for-your-pc-clone-duplicate-and-connect-2-5-inch-and-3-5-inch-ssds-and-hdds-with-ease",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "feabdcd9f248f1f1c1861745",
+      "types": [
+        "removed"
+      ],
+      "title": "Black Friday is the perfect time to pick up a new 3D Printer",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.tomshardware.com/gift-guides-seasonal-sales/black-friday-is-the-perfect-time-to-pick-up-a-new-3d-printer-these-are-the-best-deals-weve-spotted-so-far",
+      "source_url": "https://www.tomshardware.com/gift-guides-seasonal-sales/black-friday-is-the-perfect-time-to-pick-up-a-new-3d-printer-these-are-the-best-deals-weve-spotted-so-far",
       "retailer_url": null,
       "link_type": "source"
     }

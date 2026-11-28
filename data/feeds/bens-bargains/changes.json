@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-28T08:29:43.491046+00:00",
+  "retrieved_at": "2026-11-28T17:13:03.742185+00:00",
   "source": {
     "id": "bens-bargains",
     "name": "Ben's Bargains",
@@ -10,9 +10,35 @@
   "baseline": false,
   "events": [
     {
-      "id": "044319be7e31a2e8ce627997",
+      "id": "00fc281a52740a75e86d0cf5",
       "types": [
         "new"
+      ],
+      "title": "Mighty Fleet Toughest Minis 5\" Police Cruiser Toy w/ Lights & Sounds $4.25 at Amazon",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://bensbargains.com/bargain/mighty-fleet-toughest-minis-5-police-cruiser-toy-w-lights-sounds-1101199/#rss",
+      "source_url": "https://bensbargains.com/bargain/mighty-fleet-toughest-minis-5-police-cruiser-toy-w-lights-sounds-1101199/#rss",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "044319be7e31a2e8ce627997",
+      "types": [
+        "removed"
       ],
       "title": "Nike Dunk Low Retro Men's Shoes $60 at Nike Store",
       "retailer": null,
@@ -36,11 +62,11 @@
       "link_type": "source"
     },
     {
-      "id": "0c7793877287dc1554c1f27c",
+      "id": "0547870439e393f3d131c7fc",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "Maple Grove Farms Pure Maple Syrup (12.5 fl. oz. Bottle) $6.52 at Amazon",
+      "title": "BenQ BL2790 27\" Full HD 1080p 100Hz IPS LCD Monitor $66 at eBay",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -56,15 +82,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://bensbargains.com/bargain/maple-grove-farms-pure-maple-syrup-12-5-fl-oz-bottle-1100875/#rss",
-      "source_url": "https://bensbargains.com/bargain/maple-grove-farms-pure-maple-syrup-12-5-fl-oz-bottle-1100875/#rss",
+      "url": "https://bensbargains.com/bargain/benq-bl2790-27-full-hd-1080p-100hz-ips-lcd-monitor-1101210/#rss",
+      "source_url": "https://bensbargains.com/bargain/benq-bl2790-27-full-hd-1080p-100hz-ips-lcd-monitor-1101210/#rss",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "12d1cd56a5130c627288d035",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "24-Hour Flash Sale at Best Buy",
       "retailer": null,
@@ -88,11 +114,11 @@
       "link_type": "source"
     },
     {
-      "id": "1c605f2b15473042da8e9268",
+      "id": "1785ced110491e587144cc58",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "131' Ollny 400-LED RGBW Smart Christmas Lights $24 at Amazon",
+      "title": "Discovery Neon Glow Drawing Board $10 at Amazon",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -108,93 +134,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://bensbargains.com/bargain/131-ollny-400-led-rgbw-smart-christmas-lights-1100884/#rss",
-      "source_url": "https://bensbargains.com/bargain/131-ollny-400-led-rgbw-smart-christmas-lights-1100884/#rss",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "218cb57076923be2d81832cc",
-      "types": [
-        "removed"
-      ],
-      "title": "70-quart Coleman Classic Series Insulated Portable Cooler $47 at Amazon",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://bensbargains.com/bargain/70-quart-coleman-classic-series-insulated-portable-cooler-1100868/#rss",
-      "source_url": "https://bensbargains.com/bargain/70-quart-coleman-classic-series-insulated-portable-cooler-1100868/#rss",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "2812d08639f91643bd8a2730",
-      "types": [
-        "removed"
-      ],
-      "title": "Hisense 65\" H5R1 Series 4K UHD HDR Smart Roku TV $228 at Walmart",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "tv",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": 500,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://bensbargains.com/bargain/hisense-65-h5r1-series-4k-uhd-hdr-smart-roku-tv-1100881/#rss",
-      "source_url": "https://bensbargains.com/bargain/hisense-65-h5r1-series-4k-uhd-hdr-smart-roku-tv-1100881/#rss",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "288bd7029286bd4c60a5d304",
-      "types": [
-        "removed"
-      ],
-      "title": "4-Count Simply by Filtrete 16x25x1 MERV 8 Air Filters $19 at Amazon",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://bensbargains.com/bargain/4-count-simply-by-filtrete-16x25x1-merv-8-air-filters-1100888/#rss",
-      "source_url": "https://bensbargains.com/bargain/4-count-simply-by-filtrete-16x25x1-merv-8-air-filters-1100888/#rss",
+      "url": "https://bensbargains.com/bargain/discovery-neon-glow-drawing-board-1101200/#rss",
+      "source_url": "https://bensbargains.com/bargain/discovery-neon-glow-drawing-board-1101200/#rss",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "2901ffa82e88689469c8dd08",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Holstein Housewares 2-Section Omelet & Frittata Maker $19 at Amazon",
       "retailer": null,
@@ -220,7 +168,7 @@
     {
       "id": "298bfb8f888c2af7fad80f9e",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Nike V5 RNR Men's Running Shoes $43 at Nike Store",
       "retailer": null,
@@ -246,7 +194,7 @@
     {
       "id": "2f687732e792037149c479a9",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Dewalt DCW600B Cordless 20V Router (Tool Only) $92 at Tools.woot!",
       "retailer": null,
@@ -272,7 +220,7 @@
     {
       "id": "3913f796429adfcf43ec5043",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Up to 75% off Hosting Made Delicious Sale + Extra 20% off 2+ at Sellout.woot!",
       "retailer": null,
@@ -296,37 +244,63 @@
       "link_type": "source"
     },
     {
-      "id": "406ffef98757a24db8e0bab3",
+      "id": "3ab0a91ca0d2b99b54bdc79e",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "8.5\" Apple iPad Mini Wi-Fi w/ A20 Pro 128GB Tablet $599 at Walmart",
+      "title": "Roku Streambar SE 2-in-1 TV Soundbar w/ Built-in 4K/HD/HDR Streaming (2024) $52 at eBay",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
       "rank": {
-        "category": "other",
+        "category": "soundbar",
         "variant": null,
         "status": "price_unavailable",
         "score": 0,
-        "max_usd": null,
+        "max_usd": 100,
         "preferred_usd": null,
         "within_budget": null,
         "comparisons": {},
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://bensbargains.com/bargain/8-5-apple-ipad-mini-wi-fi-w-a20-pro-128gb-tablet-1100880/#rss",
-      "source_url": "https://bensbargains.com/bargain/8-5-apple-ipad-mini-wi-fi-w-a20-pro-128gb-tablet-1100880/#rss",
+      "url": "https://bensbargains.com/bargain/roku-streambar-se-2-in-1-tv-soundbar-w-built-in-4k-hd-hdr-streaming-2024-1101211/#rss",
+      "source_url": "https://bensbargains.com/bargain/roku-streambar-se-2-in-1-tv-soundbar-w-built-in-4k-hd-hdr-streaming-2024-1101211/#rss",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "57d8e1935523b5a9671e7125",
+      "id": "40514f62a32482cab6981a0a",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "Astercook 16\" x 11\" Titanium 2-in-1 Cutting Board $12 at Amazon",
+      "title": "VIZIO 75\" Class Quantum 4K QLED HDR Smart TV $282 at eBay",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "tv",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": 500,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://bensbargains.com/bargain/vizio-75-class-quantum-4k-qled-hdr-smart-tv-1101212/#rss",
+      "source_url": "https://bensbargains.com/bargain/vizio-75-class-quantum-4k-qled-hdr-smart-tv-1101212/#rss",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "4195b9cac9a32725ba45be3b",
+      "types": [
+        "new"
+      ],
+      "title": "SONGMICS Hammock Chair $28 at Amazon",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -342,15 +316,41 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://bensbargains.com/bargain/astercook-16-x-11-titanium-2-in-1-cutting-board-1100889/#rss",
-      "source_url": "https://bensbargains.com/bargain/astercook-16-x-11-titanium-2-in-1-cutting-board-1100889/#rss",
+      "url": "https://bensbargains.com/bargain/songmics-hammock-chair-1101202/#rss",
+      "source_url": "https://bensbargains.com/bargain/songmics-hammock-chair-1101202/#rss",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "51d6173708177288c700899e",
+      "types": [
+        "new"
+      ],
+      "title": "Attack of the Deranged Mutant Killer Monster Snow Goons (eBook) $1.99 at Amazon",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://bensbargains.com/bargain/attack-of-the-deranged-mutant-killer-monster-snow-goons-ebook-1101209/#rss",
+      "source_url": "https://bensbargains.com/bargain/attack-of-the-deranged-mutant-killer-monster-snow-goons-ebook-1101209/#rss",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "5e09d53b64d5fa19e368df05",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "DEWALT 20V MAX XR Jig Saw (Bare Tool) $92 at Tools.woot!",
       "retailer": null,
@@ -376,7 +376,7 @@
     {
       "id": "5e478b8fc4f0d15df1012bcd",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "DeWalt DCP580B 20V MAX Brushless Planer (Bare Tool) $120 at Tools.woot!",
       "retailer": null,
@@ -400,11 +400,11 @@
       "link_type": "source"
     },
     {
-      "id": "6807b699db6085d2472946fd",
+      "id": "6d745e6aedb36c25d6b2b58c",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "10-Piece SPTA Microfiber Sponge Wax Applicator Pads $7.69 at Amazon",
+      "title": "Stearns Throwable Flotation Cushion for Boats $9.99 at Amazon",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -420,15 +420,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://bensbargains.com/bargain/10-piece-spta-microfiber-sponge-wax-applicator-pads-1100864/#rss",
-      "source_url": "https://bensbargains.com/bargain/10-piece-spta-microfiber-sponge-wax-applicator-pads-1100864/#rss",
+      "url": "https://bensbargains.com/bargain/stearns-throwable-flotation-cushion-for-boats-1101197/#rss",
+      "source_url": "https://bensbargains.com/bargain/stearns-throwable-flotation-cushion-for-boats-1101197/#rss",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "6e0aa953e8f69742834183d4",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Lenovo ThinkBook 14x Intel Ultra 5 / 16GB RAM / 256GB SSD / 14\" WUXGA Laptop $629 at Lenovo",
       "retailer": null,
@@ -454,7 +454,7 @@
     {
       "id": "70a7465ec4f4b29afd87b05a",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Nike Men's MC Trainer 4 Training Shoes $42 at Nike Store",
       "retailer": null,
@@ -478,11 +478,11 @@
       "link_type": "source"
     },
     {
-      "id": "7ea8858c79b7903ce81aef15",
+      "id": "753c733026b680ad8fc1cd09",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "Set-of-2 Prepara Thumb Scraper $6.99 at Amazon",
+      "title": "Moen Attune Showerhead and Hand Shower Combo $20 at eBay",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -498,41 +498,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://bensbargains.com/bargain/set-of-2-prepara-thumb-scraper-1100857/#rss",
-      "source_url": "https://bensbargains.com/bargain/set-of-2-prepara-thumb-scraper-1100857/#rss",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "8199fb57ae7be02b9b9c1e2f",
-      "types": [
-        "removed"
-      ],
-      "title": "2-Pair RUIXUE Alpaca Wool Thermal Hiking Boot Socks $18 at Amazon",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://bensbargains.com/bargain/2-pair-ruixue-alpaca-wool-thermal-hiking-boot-socks-1100883/#rss",
-      "source_url": "https://bensbargains.com/bargain/2-pair-ruixue-alpaca-wool-thermal-hiking-boot-socks-1100883/#rss",
+      "url": "https://bensbargains.com/bargain/moen-attune-showerhead-and-hand-shower-combo-1101214/#rss",
+      "source_url": "https://bensbargains.com/bargain/moen-attune-showerhead-and-hand-shower-combo-1101214/#rss",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "8696fbe6335cedc613c9529e",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Nike Men's Jordan All Game Basketball Shoes $38 at Nike Store",
       "retailer": null,
@@ -558,7 +532,7 @@
     {
       "id": "87201dd39e5562cedab55b3e",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "DeWalt 20V Max Cordless Heat Gun (Tool Only) $76 at Tools.woot!",
       "retailer": null,
@@ -582,11 +556,11 @@
       "link_type": "source"
     },
     {
-      "id": "8a4f98b6eedb0d8681b51958",
+      "id": "88bbe62da8a4719582cb8466",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "TRUCOZIE 1750W 3-in-1 Clothes Vacuum Steamer $30 at Amazon",
+      "title": "Celebrations by Mikasa 13.75\" Peppermint Christmas Holiday Twist Glass Candy Dish $9.99 at Amazon",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -602,15 +576,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://bensbargains.com/bargain/trucozie-1750w-3-in-1-clothes-vacuum-steamer-1100885/#rss",
-      "source_url": "https://bensbargains.com/bargain/trucozie-1750w-3-in-1-clothes-vacuum-steamer-1100885/#rss",
+      "url": "https://bensbargains.com/bargain/celebrations-by-mikasa-13-75-peppermint-christmas-holiday-twist-glass-candy-dish-1101184/#rss",
+      "source_url": "https://bensbargains.com/bargain/celebrations-by-mikasa-13-75-peppermint-christmas-holiday-twist-glass-candy-dish-1101184/#rss",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "8b97626312550a7f969fe50b",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "DeWalt DCS374B 20V MAX Band Saw (Bare Tool) $215 at Tools.woot!",
       "retailer": null,
@@ -634,9 +608,35 @@
       "link_type": "source"
     },
     {
-      "id": "966f4470c528804879acad1b",
+      "id": "90cb5dca785510d195c790f4",
       "types": [
         "new"
+      ],
+      "title": "Altec Lansing Studio MIC 1 USB-C Podcast Microphone $22 at Amazon",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://bensbargains.com/bargain/altec-lansing-studio-mic-1-usb-c-podcast-microphone-1101188/#rss",
+      "source_url": "https://bensbargains.com/bargain/altec-lansing-studio-mic-1-usb-c-podcast-microphone-1101188/#rss",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "966f4470c528804879acad1b",
+      "types": [
+        "removed"
       ],
       "title": "Nike Men's Jordan Session Shoes $43 at Nike Store",
       "retailer": null,
@@ -660,9 +660,35 @@
       "link_type": "source"
     },
     {
-      "id": "9da3ad76e2e58b5e81e2b374",
+      "id": "9c6d4b071a331d7155cbca06",
       "types": [
         "new"
+      ],
+      "title": "Alienware 27 240Hz QD-OLED Gaming Monitor $280 at Dell Technologies",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://bensbargains.com/bargain/alienware-27-240hz-qd-oled-gaming-monitor-1101179/#rss",
+      "source_url": "https://bensbargains.com/bargain/alienware-27-240hz-qd-oled-gaming-monitor-1101179/#rss",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "9da3ad76e2e58b5e81e2b374",
+      "types": [
+        "removed"
       ],
       "title": "Nike Jordan Flight Court Men's Shoes $47 at Nike Store",
       "retailer": null,
@@ -688,7 +714,7 @@
     {
       "id": "a020658a0c7089b4c9c5a6d0",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Up to 77% off Rockin' Around the Christmas Tree Sale at Sellout.woot!",
       "retailer": null,
@@ -712,9 +738,61 @@
       "link_type": "source"
     },
     {
-      "id": "a7dec25a7a9764f6137c95fd",
+      "id": "a1d4505f64490116f2ea80cb",
       "types": [
         "new"
+      ],
+      "title": "National Tree Company 6.5' Artificial Slim Kingswood Fir Christmas Tree w/ Stand $43 at Amazon",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://bensbargains.com/bargain/national-tree-company-6-5-artificial-slim-kingswood-fir-christmas-tree-w-stand-1101180/#rss",
+      "source_url": "https://bensbargains.com/bargain/national-tree-company-6-5-artificial-slim-kingswood-fir-christmas-tree-w-stand-1101180/#rss",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "a4453dce40387075531ee396",
+      "types": [
+        "new"
+      ],
+      "title": "SOWSUN 14\" Dinosaur Attacking Gnomes Garden Statue $28 at Amazon",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://bensbargains.com/bargain/sowsun-14-dinosaur-attacking-gnomes-garden-statue-1101201/#rss",
+      "source_url": "https://bensbargains.com/bargain/sowsun-14-dinosaur-attacking-gnomes-garden-statue-1101201/#rss",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "a7dec25a7a9764f6137c95fd",
+      "types": [
+        "removed"
       ],
       "title": "Nike Women's Air Jordan Skyline Low Shoes $47 at Nike Store",
       "retailer": null,
@@ -738,11 +816,11 @@
       "link_type": "source"
     },
     {
-      "id": "add951c468deb95e8ed818c1",
+      "id": "abc669af38fa4729eca20a84",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "Wrangler Workwear Men's Relaxed Pullover Hoodie $13 at Walmart",
+      "title": "Thule Compression Packing Cube $17 at Amazon",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -758,17 +836,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://bensbargains.com/bargain/wrangler-workwear-men-s-relaxed-pullover-hoodie-1100878/#rss",
-      "source_url": "https://bensbargains.com/bargain/wrangler-workwear-men-s-relaxed-pullover-hoodie-1100878/#rss",
+      "url": "https://bensbargains.com/bargain/thule-compression-packing-cube-1101204/#rss",
+      "source_url": "https://bensbargains.com/bargain/thule-compression-packing-cube-1101204/#rss",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "b053eefb01e89c5871bc552b",
+      "id": "b3b60ede492e16c68f50c152",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "Chamberlain myQ Smart Garage Door Video Keypad w/ 2K Camera + $20 Amazon Gift Card $40 at Amazon",
+      "title": "100-Count Sugar In The Raw Turbinado Cane Sugar Packets $2.81 at Amazon",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -784,17 +862,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://bensbargains.com/bargain/chamberlain-myq-smart-garage-door-video-keypad-w-2k-camera-20-amazon-gift-card-1100886/#rss",
-      "source_url": "https://bensbargains.com/bargain/chamberlain-myq-smart-garage-door-video-keypad-w-2k-camera-20-amazon-gift-card-1100886/#rss",
+      "url": "https://bensbargains.com/bargain/100-count-sugar-in-the-raw-turbinado-cane-sugar-packets-1101206/#rss",
+      "source_url": "https://bensbargains.com/bargain/100-count-sugar-in-the-raw-turbinado-cane-sugar-packets-1101206/#rss",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "b2388b2a074db68c378d52d1",
+      "id": "bceec63dc513e0c4cad00a93",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "128oz Adam's Car Wash Shampoo $27 at Amazon",
+      "title": "34\" x 72\" LazBlinds 100% Blackout No Drill Cordless Roller Shades Roller Blinds $38 at Amazon",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -810,17 +888,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://bensbargains.com/bargain/128oz-adam-s-car-wash-shampoo-1100877/#rss",
-      "source_url": "https://bensbargains.com/bargain/128oz-adam-s-car-wash-shampoo-1100877/#rss",
+      "url": "https://bensbargains.com/bargain/34-x-72-lazblinds-100-blackout-no-drill-cordless-roller-shades-roller-blinds-1101196/#rss",
+      "source_url": "https://bensbargains.com/bargain/34-x-72-lazblinds-100-blackout-no-drill-cordless-roller-shades-roller-blinds-1101196/#rss",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "bc8268c03d82e502d321c311",
+      "id": "c119c4501db6e7aea4c7c7ac",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "Ecarke Cordless Fuel Transfer Pump (DeWALT or Milwaukee Batteries) $34 at Amazon",
+      "title": "Segmart 30-Inch Barrel Charcoal Grill $50 at eBay",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -836,17 +914,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://bensbargains.com/bargain/ecarke-cordless-fuel-transfer-pump-dewalt-or-milwaukee-batteries-1100887/#rss",
-      "source_url": "https://bensbargains.com/bargain/ecarke-cordless-fuel-transfer-pump-dewalt-or-milwaukee-batteries-1100887/#rss",
+      "url": "https://bensbargains.com/bargain/segmart-30-inch-barrel-charcoal-grill-1101213/#rss",
+      "source_url": "https://bensbargains.com/bargain/segmart-30-inch-barrel-charcoal-grill-1101213/#rss",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "c50b90b588defef264fab9a2",
+      "id": "c8d3a6286ddbf2636b00a18a",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "3-Pack 7oz NIVEA MEN Sensitive Shave Gel $8.31 at Amazon",
+      "title": "DreamBone Holiday Cookie Kit for Dogs $5.99 at Amazon",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -862,17 +940,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://bensbargains.com/bargain/3-pack-7oz-nivea-men-sensitive-shave-gel-1100873/#rss",
-      "source_url": "https://bensbargains.com/bargain/3-pack-7oz-nivea-men-sensitive-shave-gel-1100873/#rss",
+      "url": "https://bensbargains.com/bargain/dreambone-holiday-cookie-kit-for-dogs-1101186/#rss",
+      "source_url": "https://bensbargains.com/bargain/dreambone-holiday-cookie-kit-for-dogs-1101186/#rss",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "d41a37eb8c413de1d831b911",
+      "id": "cd73021781d82cf95f650798",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "Dyson V8 Cyclone Cordless Vacuum $279 at Amazon",
+      "title": "Ortho Home Defense Max Indoor Flying Insect Trap w/ 4 Refills $13 at Amazon",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -888,41 +966,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://bensbargains.com/bargain/dyson-v8-cyclone-cordless-vacuum-1100876/#rss",
-      "source_url": "https://bensbargains.com/bargain/dyson-v8-cyclone-cordless-vacuum-1100876/#rss",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "d5a5d0e58d86f1a6ba1e63e7",
-      "types": [
-        "removed"
-      ],
-      "title": "SanDisk 256GB Extreme Fit USB-C Flash Drive $50 at Amazon",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://bensbargains.com/bargain/sandisk-256gb-extreme-fit-usb-c-flash-drive-1100879/#rss",
-      "source_url": "https://bensbargains.com/bargain/sandisk-256gb-extreme-fit-usb-c-flash-drive-1100879/#rss",
+      "url": "https://bensbargains.com/bargain/ortho-home-defense-max-indoor-flying-insect-trap-w-4-refills-1101198/#rss",
+      "source_url": "https://bensbargains.com/bargain/ortho-home-defense-max-indoor-flying-insect-trap-w-4-refills-1101198/#rss",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "da18c9df95b1a57f3bc4c2fb",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "2-Pack DeWalt 20V MAX XR 5.0Ah Li-Ion Batteries $80 at Tools.woot!",
       "retailer": null,
@@ -948,7 +1000,7 @@
     {
       "id": "dbb5b0a5ab6024fb3d8e246a",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Nike Air Monarch IV Men's Workout Shoes $42 at Nike Store",
       "retailer": null,
@@ -972,61 +1024,9 @@
       "link_type": "source"
     },
     {
-      "id": "e317b5bb7ce53287f4b67ab4",
-      "types": [
-        "removed"
-      ],
-      "title": "Legion Go S Ryzen Z1 Extreme / 32GB / 1TB 8\" Handheld $679 at Lenovo",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://bensbargains.com/bargain/legion-go-s-ryzen-z1-extreme-32gb-1tb-8-handheld-1100874/#rss",
-      "source_url": "https://bensbargains.com/bargain/legion-go-s-ryzen-z1-extreme-32gb-1tb-8-handheld-1100874/#rss",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "eb86cd431ce7f726cca3dbad",
-      "types": [
-        "removed"
-      ],
-      "title": "Zimtown 3-Piece Nested Spinner Suitcase Luggage Set $70 at Walmart",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://bensbargains.com/bargain/zimtown-3-piece-nested-spinner-suitcase-luggage-set-1100882/#rss",
-      "source_url": "https://bensbargains.com/bargain/zimtown-3-piece-nested-spinner-suitcase-luggage-set-1100882/#rss",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
       "id": "f345a9f6a088f271c06fb4dc",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Nike C1TY \"Street\" Shoes $47 at Nike Store",
       "retailer": null,

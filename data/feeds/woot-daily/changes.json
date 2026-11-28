@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-28T08:29:43.491046+00:00",
+  "retrieved_at": "2026-11-28T17:13:03.742185+00:00",
   "source": {
     "id": "woot-daily",
     "name": "Woot Daily Deals",
@@ -9,58 +9,5 @@
     "retailer": "Woot"
   },
   "baseline": false,
-  "events": [
-    {
-      "id": "92d327cf07ef8176b57cddae",
-      "types": [
-        "removed"
-      ],
-      "title": "Starbucks Michigan Ornament 2021",
-      "retailer": "Woot",
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.woot.com/offers/starbucks-michigan-ornament-2021z-2",
-      "source_url": "https://forums.woot.com/t/starbucks-michigan-ornament-2021/2703749",
-      "retailer_url": "https://www.woot.com/offers/starbucks-michigan-ornament-2021z-2",
-      "link_type": "retailer"
-    },
-    {
-      "id": "cf2b8b0adf47d607c61d35dd",
-      "types": [
-        "new"
-      ],
-      "title": "Twinkly Strings 157.5ft LED In/Out String Light",
-      "retailer": "Woot",
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.woot.com/offers/twinkly-strings-157-5ft-led-in-out-string-light",
-      "source_url": "https://forums.woot.com/t/twinkly-strings-157-5ft-led-in-out-string-light/2716901",
-      "retailer_url": "https://www.woot.com/offers/twinkly-strings-157-5ft-led-in-out-string-light",
-      "link_type": "retailer"
-    }
-  ]
+  "events": []
 }

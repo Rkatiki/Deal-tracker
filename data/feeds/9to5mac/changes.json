@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-28T08:29:43.491046+00:00",
+  "retrieved_at": "2026-11-28T17:13:03.742185+00:00",
   "source": {
     "id": "9to5mac",
     "name": "9to5Mac Deals",
@@ -8,5 +8,84 @@
     "kind": "rss"
   },
   "baseline": false,
-  "events": []
+  "events": [
+    {
+      "id": "0598206f9fd1f7d44cbc4def",
+      "types": [
+        "removed"
+      ],
+      "title": "Early Black Friday Apple deals: MacBook Air $250 off, HomeView, Apple Watch Ultra $250 off, AirPods, more",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://9to5mac.com/2026/11/07/early-black-friday-apple-deals-now-live/",
+      "source_url": "https://9to5mac.com/2026/11/07/early-black-friday-apple-deals-now-live/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "2165576f4a491491742b98fa",
+      "types": [
+        "new"
+      ],
+      "title": "Best HomeKit Black Friday deals: Home Key locks, Adaptive Temperature, more",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://9to5mac.com/2026/11/28/best-homekit-black-friday-deals-home-key-locks-adaptive-temperature-more/",
+      "source_url": "https://9to5mac.com/2026/11/28/best-homekit-black-friday-deals-home-key-locks-adaptive-temperature-more/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "6c7e2f62e3082cf4f5f0227a",
+      "types": [
+        "new"
+      ],
+      "title": "Apple Cyber Monday Weekend deals: AirPods Pro 3 $100 off, MacBook from $599, iPad, AirTags 2, more",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://9to5mac.com/2026/11/28/best-apple-black-friday-deals-airpods-pro-3-macbook/",
+      "source_url": "https://9to5mac.com/2026/11/28/best-apple-black-friday-deals-airpods-pro-3-macbook/",
+      "retailer_url": null,
+      "link_type": "source"
+    }
+  ]
 }

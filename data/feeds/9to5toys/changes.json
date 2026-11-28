@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-28T08:29:43.491046+00:00",
+  "retrieved_at": "2026-11-28T17:13:03.742185+00:00",
   "source": {
     "id": "9to5toys",
     "name": "9to5Toys",
@@ -10,11 +10,11 @@
   "baseline": false,
   "events": [
     {
-      "id": "8a84d04e6b5b0dcb6d9f4fe1",
+      "id": "0121d7f44442f1171e5b24fd",
       "types": [
         "new"
       ],
-      "title": "Amazon Cyber Monday weekend sale now live! Best Black Friday deals still live, up to 50% off ‘must-have’ gifts, more",
+      "title": "Fashion Weekly Cyber Monday Edition – Golf joggers $20, heated jacket under $100, quick-dry hoodie $16, more",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -30,43 +30,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://9to5toys.com/2026/11/28/amazon-cyber-monday-weekend-sale-now-live/",
-      "source_url": "https://9to5toys.com/2026/11/28/amazon-cyber-monday-weekend-sale-now-live/",
+      "url": "https://9to5toys.com/2026/11/28/fashion-weekly-cyber-monday-edition/",
+      "source_url": "https://9to5toys.com/2026/11/28/fashion-weekly-cyber-monday-edition/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "9f44a27b321f54488a6f72e1",
-      "types": [
-        "removed"
-      ],
-      "title": "NOCO’s Boost Plus 1,000A jump starter + power bank gets 50% Black Friday cut to new $50 low, more models from $64",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://9to5toys.com/2026/11/27/noco-boost-plus-1000a-jump-starter-power-bank-more/",
-      "source_url": "https://9to5toys.com/2026/11/27/noco-boost-plus-1000a-jump-starter-power-bank-more/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "d86a195057440c92a304e71d",
+      "id": "30033f0dd5c0e0bdaad82078",
       "types": [
         "new"
       ],
-      "title": "Last Call – Amazon’s 2026 main event Black Friday sale ends soon: Get in there before the deals are gone",
+      "title": "Top 40 picks from the official adidas Black Friday sale at up to 60% off, deals from $6",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -82,17 +56,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://9to5toys.com/2026/11/27/amazon-2026-main-event-black-friday-sale-ends-soon/",
-      "source_url": "https://9to5toys.com/2026/11/27/amazon-2026-main-event-black-friday-sale-ends-soon/",
+      "url": "https://9to5toys.com/2026/11/28/adidas-black-friday-sale-2026/",
+      "source_url": "https://9to5toys.com/2026/11/28/adidas-black-friday-sale-2026/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "eecb58e9531099583c08daef",
+      "id": "4574fdfd758b1c38b4859016",
       "types": [
         "removed"
       ],
-      "title": "Ditch smart ring subscriptions with Ultrahuman’s titanium Ring PRO at $180 off for Black Friday",
+      "title": "Govee’s 7L Smart Humidifier Max covers up to 800 square feet and just hit a $66 low for Black Friday",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -108,8 +82,294 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://9to5toys.com/2026/11/27/ultrahuman-ring-pro-smart-ring/",
-      "source_url": "https://9to5toys.com/2026/11/27/ultrahuman-ring-pro-smart-ring/",
+      "url": "https://9to5toys.com/2026/11/27/goveelife-7l-smart-mist-humidifier/",
+      "source_url": "https://9to5toys.com/2026/11/27/goveelife-7l-smart-mist-humidifier/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "4de40e9df10bff35b631d9db",
+      "types": [
+        "new"
+      ],
+      "title": "Best of 9to5Toys Weekly – Cyber Monday edition: Wild deals still live on Apple, Anker, Samsung, more",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://9to5toys.com/2026/11/28/this-weeks-best-deals-cyber-monday-edition/",
+      "source_url": "https://9to5toys.com/2026/11/28/this-weeks-best-deals-cyber-monday-edition/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "55ebdad91e1e5fde3ecef635",
+      "types": [
+        "removed"
+      ],
+      "title": "Save up to 52% on Carhartt gear during Amazon’s Black Friday sale (Deals from $11)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://9to5toys.com/2026/11/27/carhartt-apparel-and-accessories-deals/",
+      "source_url": "https://9to5toys.com/2026/11/27/carhartt-apparel-and-accessories-deals/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "5f785813aca87657a306fe7f",
+      "types": [
+        "new"
+      ],
+      "title": "Hisense’s U7SG 4K TV upgrades your media experience with new-age advancements",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "tv",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": 500,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://9to5toys.com/2026/11/28/hisenses-u7sg-4k-tv-upgrades-your-media-experience-with-new-age-advancements/",
+      "source_url": "https://9to5toys.com/2026/11/28/hisenses-u7sg-4k-tv-upgrades-your-media-experience-with-new-age-advancements/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "72a1d989d71b068eac7139f4",
+      "types": [
+        "new"
+      ],
+      "title": "Electrified Weekly Cyber Monday Edition: EcoFlow, Anker, Bluetti power station lows, Yozma e-dirt bikes new exclusive lows from $854, more",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://9to5toys.com/2026/11/28/this-weeks-best-ev-and-e-bike-deals-12/",
+      "source_url": "https://9to5toys.com/2026/11/28/this-weeks-best-ev-and-e-bike-deals-12/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "7643e65cca534d6b9fca724d",
+      "types": [
+        "removed"
+      ],
+      "title": "Best Black Friday deals on Qi2.2 25W chargers at nearly 60% off: Anker’s new MagStand and more hit all-time lows",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://9to5toys.com/2026/11/27/best-black-friday-deals-on-qi2-2-25w-chargers-at-nearly-60-off/",
+      "source_url": "https://9to5toys.com/2026/11/27/best-black-friday-deals-on-qi2-2-25w-chargers-at-nearly-60-off/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "7eee16a162573c8c6cac7cc9",
+      "types": [
+        "removed"
+      ],
+      "title": "Black Friday App Store deals: Giant collection iOS games and apps on sale today",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://9to5toys.com/2026/11/27/ios-app-deals-black-friday-app-store/",
+      "source_url": "https://9to5toys.com/2026/11/27/ios-app-deals-black-friday-app-store/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "8605b93baa7a4f4b7d17db24",
+      "types": [
+        "removed"
+      ],
+      "title": "Black Friday Hub – All of the best deals live today: Apple, LEGO, Anker, Samsung, more [Updated]",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://9to5toys.com/2026/11/27/black-friday-hub-all-best-deals-live/",
+      "source_url": "https://9to5toys.com/2026/11/27/black-friday-hub-all-best-deals-live/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "972740bb447d0fbbee5eb527",
+      "types": [
+        "new"
+      ],
+      "title": "Battlestation Weekly Cyber Monday Edition: Up to $1,200 gaming laptops, Copilot+ PCs, peripherals, more",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://9to5toys.com/2026/11/28/9to5toys-battlestation-weekly-official-black-friday-deals/",
+      "source_url": "https://9to5toys.com/2026/11/28/9to5toys-battlestation-weekly-official-black-friday-deals/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "c2d59ce01547cd8ca5352667",
+      "types": [
+        "removed"
+      ],
+      "title": "Aulumu’s futuristic MagSafe multi-tool packs a kickstand, utility knife, saw, more at $29 for Black Friday",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://9to5toys.com/2026/11/27/aulumu-g05-pro-magsafe-multitool/",
+      "source_url": "https://9to5toys.com/2026/11/27/aulumu-g05-pro-magsafe-multitool/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "d01fcadf32aa128dd55cc8b4",
+      "types": [
+        "new"
+      ],
+      "title": "Steals Weekly Cyber Monday Edition – Statik’s do-it-all charger, 11-in-1 multi-tool pen, Anker 65W Nano Neo, more",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://9to5toys.com/2026/11/28/steals-weekly-cyber-monday-edition/",
+      "source_url": "https://9to5toys.com/2026/11/28/steals-weekly-cyber-monday-edition/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "e1355ac6b670d81a88f051b3",
+      "types": [
+        "removed"
+      ],
+      "title": "Score this $60 gaming pillow for Black Friday to make your GTA 6 marathons on PlayStation Portal a whole lot comfier",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://9to5toys.com/2026/11/27/playstation-portal-gaming-pillow-black-friday/",
+      "source_url": "https://9to5toys.com/2026/11/27/playstation-portal-gaming-pillow-black-friday/",
       "retailer_url": null,
       "link_type": "source"
     }
