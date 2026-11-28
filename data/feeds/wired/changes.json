@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-27T22:59:33.541001+00:00",
+  "retrieved_at": "2026-11-28T08:29:43.491046+00:00",
   "source": {
     "id": "wired",
     "name": "WIRED Deals",
@@ -10,11 +10,63 @@
   "baseline": false,
   "events": [
     {
-      "id": "5e41016a45759a9ed56edc64",
+      "id": "0c3a8d9f1f0cf4c5c29e832b",
+      "types": [
+        "new"
+      ],
+      "title": "The Best Black Friday Gaming Deals I’ve Found (2026)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.wired.com/story/black-friday-gaming-deals-11-27-2026/",
+      "source_url": "https://www.wired.com/story/black-friday-gaming-deals-11-27-2026/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "a8297e503ce0469ee62f3bb7",
+      "types": [
+        "new"
+      ],
+      "title": "Yeti Coolers Are up to 30% Off for Black Friday (2026)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://www.wired.com/story/yeti-black-friday-sale-11-2026/",
+      "source_url": "https://www.wired.com/story/yeti-black-friday-sale-11-2026/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "b366b6506ba499d7ffe6d1c0",
       "types": [
         "removed"
       ],
-      "title": "Rocco’s Smart Fridges Hit Their Lowest Prices of 2026",
+      "title": "GoRuck Black Friday Sale: My Favorite Packs and Weighted Vests Are Nearly 50% Off",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -30,17 +82,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.wired.com/story/rocco-black-friday-sale-2026/",
-      "source_url": "https://www.wired.com/story/rocco-black-friday-sale-2026/",
+      "url": "https://www.wired.com/story/goruck-black-friday-sale-2026/",
+      "source_url": "https://www.wired.com/story/goruck-black-friday-sale-2026/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "829750a54229131d69019305",
+      "id": "d7b754f0335d8fe0601c447b",
       "types": [
         "new"
       ],
-      "title": "Best Black Friday Deals on My Favorite Shark Vacuums: Up to $600 Off (2026)",
+      "title": "Save Up to $100 on Shark Depuffi and FacialPro Glow (2026)",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -56,17 +108,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.wired.com/story/shark-vacuum-black-friday-deals-11-27-2026/",
-      "source_url": "https://www.wired.com/story/shark-vacuum-black-friday-deals-11-27-2026/",
+      "url": "https://www.wired.com/story/shark-depuffi-black-friday-deals-11-27-2026/",
+      "source_url": "https://www.wired.com/story/shark-depuffi-black-friday-deals-11-27-2026/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "8f08a41a957b6bc1a08714a0",
+      "id": "e57cc53b93b0d076bb3b8b45",
       "types": [
-        "new"
+        "removed"
       ],
-      "title": "Best CurrentBody Black Friday Deals (2026): 20% Off LED Masks and More",
+      "title": "Ecoflow Rapid Pro Power Bank Deal: Save $80",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -82,86 +134,8 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://www.wired.com/story/currentbody-black-friday-deals-11-27-2026/",
-      "source_url": "https://www.wired.com/story/currentbody-black-friday-deals-11-27-2026/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "9e38d9940d1941a2e4f235e0",
-      "types": [
-        "new"
-      ],
-      "title": "Black Friday Deals on Household Essentials and Affordable Toys to Donate",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.wired.com/story/black-friday-deals-essentials-11-27-2026/",
-      "source_url": "https://www.wired.com/story/black-friday-deals-essentials-11-27-2026/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "d7d902d7e86782011d4bca2a",
-      "types": [
-        "new"
-      ],
-      "title": "Best Amazon Device Black Friday Deals I’ve Found (2026): Kindles, Echo Speakers",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.wired.com/story/best-amazon-device-black-friday-deals-11-27-2026/",
-      "source_url": "https://www.wired.com/story/best-amazon-device-black-friday-deals-11-27-2026/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "ef5b67a7592991d513878067",
-      "types": [
-        "new"
-      ],
-      "title": "Apple Black Friday Deals (2026): AirPods, iPads, MacBooks, and More",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://www.wired.com/story/black-friday-apple-deals-11-27-2026/",
-      "source_url": "https://www.wired.com/story/black-friday-apple-deals-11-27-2026/",
+      "url": "https://www.wired.com/story/ecoflow-rapid-pro-deal-november-2026/",
+      "source_url": "https://www.wired.com/story/ecoflow-rapid-pro-deal-november-2026/",
       "retailer_url": null,
       "link_type": "source"
     }

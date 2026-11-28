@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-27T22:59:33.541001+00:00",
+  "retrieved_at": "2026-11-28T08:29:43.491046+00:00",
   "source": {
     "id": "cheapshark-steam",
     "name": "CheapShark Steam Deals",
@@ -11,13 +11,39 @@
   "baseline": false,
   "events": [
     {
-      "id": "3306fdbf0a381a1cd07adb7c",
+      "id": "2e4c8e063a90d9d8d859d751",
+      "types": [
+        "new"
+      ],
+      "title": "Time Loader",
+      "retailer": "Steam",
+      "previous_price_cents": null,
+      "current_price_cents": 119,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "watch",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://store.steampowered.com/app/1301950/",
+      "source_url": "https://www.cheapshark.com/redirect?dealID=Brh0Cx4GkEXEq8NnlGjK7HpcxJ3S%2FEvBSLriNO6CIp0%3D",
+      "retailer_url": "https://store.steampowered.com/app/1301950/",
+      "link_type": "retailer"
+    },
+    {
+      "id": "a546b7d9286ddbe45a35713f",
       "types": [
         "removed"
       ],
-      "title": "Titan Souls",
+      "title": "Mortal Kombat11",
       "retailer": "Steam",
-      "previous_price_cents": 149,
+      "previous_price_cents": 499,
       "current_price_cents": null,
       "rank": {
         "category": "other",
@@ -31,191 +57,9 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://store.steampowered.com/app/297130/",
-      "source_url": "https://www.cheapshark.com/redirect?dealID=fe%2BFHkOyLOeEBTyr9T2mdgou7O9MXuN0LmNtSQn2l38%3D",
-      "retailer_url": "https://store.steampowered.com/app/297130/",
-      "link_type": "retailer"
-    },
-    {
-      "id": "57669cfb824039ba8a01d6f4",
-      "types": [
-        "new"
-      ],
-      "title": "Last Man Sitting",
-      "retailer": "Steam",
-      "previous_price_cents": null,
-      "current_price_cents": 249,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://store.steampowered.com/app/774291/",
-      "source_url": "https://www.cheapshark.com/redirect?dealID=9NbhHQepHla9XXsT01bNe3hb%2BFV%2BfPEVKNvzoownW8Q%3D",
-      "retailer_url": "https://store.steampowered.com/app/774291/",
-      "link_type": "retailer"
-    },
-    {
-      "id": "5dcea6a9cda5b2fb093bd303",
-      "types": [
-        "removed"
-      ],
-      "title": "Battlezone 98 Redux",
-      "retailer": "Steam",
-      "previous_price_cents": 249,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://store.steampowered.com/app/301650/",
-      "source_url": "https://www.cheapshark.com/redirect?dealID=IGgcrSzLHzZu43hxT4%2Bcs9nJutrPSQn3bhQjmyE4pi0%3D",
-      "retailer_url": "https://store.steampowered.com/app/301650/",
-      "link_type": "retailer"
-    },
-    {
-      "id": "727b086fc4fc393ceecfcc1b",
-      "types": [
-        "new"
-      ],
-      "title": "OVIVO",
-      "retailer": "Steam",
-      "previous_price_cents": null,
-      "current_price_cents": 99,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://store.steampowered.com/app/597700/",
-      "source_url": "https://www.cheapshark.com/redirect?dealID=Uu14A%2FdCsadlA4GcxGoK4yeRRZU%2FNN%2BoUoy18hKFvFI%3D",
-      "retailer_url": "https://store.steampowered.com/app/597700/",
-      "link_type": "retailer"
-    },
-    {
-      "id": "9b4f33096214e0fb8fe0f6f9",
-      "types": [
-        "removed"
-      ],
-      "title": "The Swapper",
-      "retailer": "Steam",
-      "previous_price_cents": 224,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://store.steampowered.com/app/231160/",
-      "source_url": "https://www.cheapshark.com/redirect?dealID=KQg9Qq%2BJ5%2BC2QuzHKtmYg1envCpcqA713vsPbekbtGk%3D",
-      "retailer_url": "https://store.steampowered.com/app/231160/",
-      "link_type": "retailer"
-    },
-    {
-      "id": "c8568440ef087defcf8d722e",
-      "types": [
-        "new"
-      ],
-      "title": "Niko: Through the Dream",
-      "retailer": "Steam",
-      "previous_price_cents": null,
-      "current_price_cents": 99,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://store.steampowered.com/app/296550/",
-      "source_url": "https://www.cheapshark.com/redirect?dealID=zgEoMEfKwYiJn6A4p4N%2Bm3YVzCanU16dU7izFQWJ1cU%3D",
-      "retailer_url": "https://store.steampowered.com/app/296550/",
-      "link_type": "retailer"
-    },
-    {
-      "id": "d96622f2dfd8407f1683d840",
-      "types": [
-        "removed"
-      ],
-      "title": "Iratus Lord of the Dead",
-      "retailer": "Steam",
-      "previous_price_cents": 299,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://store.steampowered.com/app/807120/",
-      "source_url": "https://www.cheapshark.com/redirect?dealID=SmXMJ7X56qNckO4YU4wJ%2FTYblQtK7tqTrlmxwv%2FNJq8%3D",
-      "retailer_url": "https://store.steampowered.com/app/807120/",
-      "link_type": "retailer"
-    },
-    {
-      "id": "e41e06e88eee77c22b985303",
-      "types": [
-        "new"
-      ],
-      "title": "Disco Elysium - The Final Cut",
-      "retailer": "Steam",
-      "previous_price_cents": null,
-      "current_price_cents": 999,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "watch",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://store.steampowered.com/app/632470/",
-      "source_url": "https://www.cheapshark.com/redirect?dealID=Uk9pH81%2BgPUwbkh9YzwMnYLT%2B%2FEaktqN8AgwMr6Y2wQ%3D",
-      "retailer_url": "https://store.steampowered.com/app/632470/",
+      "url": "https://store.steampowered.com/app/976310/",
+      "source_url": "https://www.cheapshark.com/redirect?dealID=LC4E%2BARf7Ilc9Y%2ByK5ObmKRrtjxEwY5%2Bu97zrBdi%2Bj8%3D",
+      "retailer_url": "https://store.steampowered.com/app/976310/",
       "link_type": "retailer"
     }
   ]

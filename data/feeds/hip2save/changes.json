@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "retrieved_at": "2026-11-27T22:59:33.541001+00:00",
+  "retrieved_at": "2026-11-28T08:29:43.491046+00:00",
   "source": {
     "id": "hip2save",
     "name": "Hip2Save",
@@ -11,11 +11,11 @@
   "baseline": false,
   "events": [
     {
-      "id": "0166160940eff791f305352b",
+      "id": "01fa91a94631e5b6500c64c4",
       "types": [
         "new"
       ],
-      "title": "Up to 40% Off LEGO Black Friday Sale | Disney, US Soccer, Buddy the Elf Sets & More",
+      "title": "Up to 50% Off FoxyBae Hair Care on Amazon | Dry Shampoo Just $11.62 Shipped",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -31,15 +31,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://hip2save.com/deals/lego-black-friday/",
-      "source_url": "https://hip2save.com/deals/lego-black-friday/",
+      "url": "https://hip2save.com/deals/foxybae-hair-care/",
+      "source_url": "https://hip2save.com/deals/foxybae-hair-care/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "0395a2215617a782d0e40e43",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Team-Fave Lancôme Mascaras from $13 Shipped on Amazon (Reg. $30)",
       "retailer": null,
@@ -63,35 +63,9 @@
       "link_type": "source"
     },
     {
-      "id": "03c1aa282ff718bf0a3170dc",
-      "types": [
-        "new"
-      ],
-      "title": "QVC Free Shipping + Hot Black Friday Savings!",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://hip2save.com/deals/qvc-black-friday/",
-      "source_url": "https://hip2save.com/deals/qvc-black-friday/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
       "id": "03da97cc01a4f54b05be7a44",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Traeger Pro 22 Pellet Grill Only $389 Shipped + FREE $20 Bag of Pellets (Today Only!)",
       "retailer": null,
@@ -115,9 +89,35 @@
       "link_type": "source"
     },
     {
+      "id": "05111f9fd533a893ea2c5c1b",
+      "types": [
+        "new"
+      ],
+      "title": "Metal Kitchen Shears 3-Pack Only $9.48 on Amazon",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://hip2save.com/deals/metal-kitchen-shears/",
+      "source_url": "https://hip2save.com/deals/metal-kitchen-shears/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
       "id": "071477d0ba3d2274f30c6b2e",
       "types": [
-        "removed"
+        "new"
       ],
       "title": "ULTA Daisy Delight Beauty Box ONLY $15 (Over $260 Value!) – Selling Fast!",
       "retailer": null,
@@ -141,35 +141,9 @@
       "link_type": "source"
     },
     {
-      "id": "07632d2430755eef97966e82",
-      "types": [
-        "new"
-      ],
-      "title": "Amazon Black Friday Deal | Collin’s Countertop-Worthy Large Metal Colander",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://hip2save.com/deals/amazon-colander/",
-      "source_url": "https://hip2save.com/deals/amazon-colander/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
       "id": "0777f412c7cbe1ab1c03a2c4",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Votive Candle Advent Calendar Just $19.99 on Kohls.com (Reg. $50)",
       "retailer": null,
@@ -193,11 +167,11 @@
       "link_type": "source"
     },
     {
-      "id": "07aac37a96050ac61c6573b6",
+      "id": "08bb3167881eb668fbee76db",
       "types": [
         "removed"
       ],
-      "title": "Boxing Reflex Ball Just $9.59 Shipped for Amazon Prime Members | Fun Family Activity!",
+      "title": "Perfect for Football Fans! TWO NFL GameDay Stainless Steel Water Bottles Just $25.98 Shipped",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -213,69 +187,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://hip2save.com/deals/boxing-reflex-ball/",
-      "source_url": "https://hip2save.com/deals/boxing-reflex-ball/",
+      "url": "https://hip2save.com/deals/nfl-water-bottles/",
+      "source_url": "https://hip2save.com/deals/nfl-water-bottles/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "08bcdf95ba3f81d538a806c9",
-      "types": [
-        "new"
-      ],
-      "title": "Up to 75% Off Macy’s Christmas Decor | $7.99 Christmas Trees + More!",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://hip2save.com/deals/macys-christmas/",
-      "source_url": "https://hip2save.com/deals/macys-christmas/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "0bf31de0157a2e561fb7e9dd",
-      "types": [
-        "new"
-      ],
-      "title": "Up to 80% Off Wayfair Black Friday Sale + Free Shipping",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://hip2save.com/deals/wayfair-black-friday/",
-      "source_url": "https://hip2save.com/deals/wayfair-black-friday/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "0d9ee213cfa62253aba021d4",
+      "id": "0d371eb7a9fa352c94ef27dd",
       "types": [
         "removed"
       ],
-      "title": "Black Friday Gift Card Sale on Amazon | Roblox, Topgolf, Outback, & More!",
+      "title": "Woven Style Christmas Figurine Sets from $8.49 on Amazon",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -291,15 +213,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://hip2save.com/deals/discounted-gift-cards-amazon/",
-      "source_url": "https://hip2save.com/deals/discounted-gift-cards-amazon/",
+      "url": "https://hip2save.com/deals/gleemoria-christmas-figurines-sets/",
+      "source_url": "https://hip2save.com/deals/gleemoria-christmas-figurines-sets/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "0eafb4d35f83b10a20d7ce43",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Mrs. Meyer’s Hand Soap 3-Pack Just $10 Shipped on Amazon",
       "retailer": null,
@@ -323,11 +245,11 @@
       "link_type": "source"
     },
     {
-      "id": "1173dc8629475b762df85a0d",
+      "id": "103c53a4cae4f72d9210e1d8",
       "types": [
         "removed"
       ],
-      "title": "Grace & Stella Hypochlorous Acid Spray Only $5.64 Shipped on Amazon",
+      "title": "Amazon Black Friday Sale | Snag These Best Selling Gift Ideas While You Can!",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -343,15 +265,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://hip2save.com/deals/amazon-grace-stella-hypochlorous-acid/",
-      "source_url": "https://hip2save.com/deals/amazon-grace-stella-hypochlorous-acid/",
+      "url": "https://hip2save.com/deals/amazon-black-friday/",
+      "source_url": "https://hip2save.com/deals/amazon-black-friday/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "118a345b0d4a7465cbf390ea",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Adidas Men’s Puffer Jacket Only $29.99 Shipped (Reg. $120) – Will Sell Out!",
       "retailer": null,
@@ -375,61 +297,9 @@
       "link_type": "source"
     },
     {
-      "id": "125b1ffeed7af8312ade7493",
-      "types": [
-        "new"
-      ],
-      "title": "Lysol All Purpose Cleaner Spray 4-Pack Just $12.91 Shipped on Amazon (Reg. $17)",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://hip2save.com/deals/lysol-all-purpose-cleaner/",
-      "source_url": "https://hip2save.com/deals/lysol-all-purpose-cleaner/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "13228a3d9a69b10756249075",
-      "types": [
-        "new"
-      ],
-      "title": "Our Favorite Style Edit Products Are on Sale! Salon Quality for Only $18 Shipped on Amazon",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://hip2save.com/deals/style-edit/",
-      "source_url": "https://hip2save.com/deals/style-edit/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
       "id": "13538bebdf41ad2828c1de3d",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "AMC Theatres Black Friday Deal: Movie Ticket + Popcorn Just $10 Per Person!",
       "retailer": null,
@@ -455,7 +325,7 @@
     {
       "id": "135f63447d936f7b81067cfa",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Dawn Powerwash 4-Pack Only $10.66 Shipped on Amazon",
       "retailer": null,
@@ -481,7 +351,7 @@
     {
       "id": "17262ae5399dc5bc51e60958",
       "types": [
-        "removed"
+        "new"
       ],
       "title": "Ember Smart Mugs from $52.49 Shipped for Prime Members (Reg. $130)",
       "retailer": null,
@@ -505,35 +375,9 @@
       "link_type": "source"
     },
     {
-      "id": "197c2d0c51452ea935216bc9",
-      "types": [
-        "removed"
-      ],
-      "title": "Walmart’s Viral-Looking Cordless Lamp Is Just $5 for Black Friday!",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://hip2save.com/deals/walmart-rechargeable-cordless-lamp/",
-      "source_url": "https://hip2save.com/deals/walmart-rechargeable-cordless-lamp/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
       "id": "1bf251165f729e4991ec4e73",
       "types": [
-        "removed"
+        "new"
       ],
       "title": "Beekeeper’s Naturals Cough Syrup $6 Shipped for Amazon Prime Members (Reg. $10)",
       "retailer": null,
@@ -559,7 +403,7 @@
     {
       "id": "1c8c50e6af0af4d308c99c7a",
       "types": [
-        "removed"
+        "new"
       ],
       "title": "Bath & Body Works Black Friday B3G4 FREE Sale Ends TONIGHT!",
       "retailer": null,
@@ -583,63 +427,11 @@
       "link_type": "source"
     },
     {
-      "id": "21c961cbdd64fbe7bd73e500",
-      "types": [
-        "removed"
-      ],
-      "title": "50% Off Stainless Steel Knife Set w/ Built-in Sharpener on Amazon + Free Shipping",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://hip2save.com/deals/amazon-knife-set/",
-      "source_url": "https://hip2save.com/deals/amazon-knife-set/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "231cf6623ed67cd401719583",
-      "types": [
-        "removed"
-      ],
-      "title": "LG Washer & Dryer Set Only $919.98 on BestBuy.com (Reg. $1,800)",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://hip2save.com/deals/lg-washer-dryer/",
-      "source_url": "https://hip2save.com/deals/lg-washer-dryer/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "23d537d2632754907a3089ea",
+      "id": "25ba5ce943edcffc887de495",
       "types": [
         "new"
       ],
-      "title": "Collin’s Favorite 6-in-1 Pill Organizer Under $9 Shipped on Amazon (Great for Travel)",
+      "title": "Rainbow Colored Pencils 12-Pack Only $2.99 Shipped on Amazon | Includes Toppers + Sharpener",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -655,41 +447,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://hip2save.com/deals/amazon-pill-organizer/",
-      "source_url": "https://hip2save.com/deals/amazon-pill-organizer/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "27cd0c75cfe541160d367ebc",
-      "types": [
-        "removed"
-      ],
-      "title": "UGG Throw Blankets Only $25 Shipped on Macys.com (Reg. $48)",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://hip2save.com/deals/ugg-throw-blankets/",
-      "source_url": "https://hip2save.com/deals/ugg-throw-blankets/",
+      "url": "https://hip2save.com/deals/rainbow-colored-pencils/",
+      "source_url": "https://hip2save.com/deals/rainbow-colored-pencils/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "287d251f638b9fba63749791",
       "types": [
-        "removed"
+        "new"
       ],
       "title": "Walmart’s Flash Deals | Up to 65% Off Holiday Decor, Toys & More",
       "retailer": null,
@@ -713,11 +479,11 @@
       "link_type": "source"
     },
     {
-      "id": "2da028705150afed6880d542",
+      "id": "2ab43a9de72bd934c1787a86",
       "types": [
-        "new"
+        "removed"
       ],
-      "title": "Vanity Fair Black Friday Sale | $17 Bras & $4 Underwear (+ It All Ships Free!)",
+      "title": "HURRY! Poetry for Neanderthals Game Just $9.99 on Amazon (Reg. $20)",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -733,41 +499,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://hip2save.com/deals/vanity-fair-black-friday-sale/",
-      "source_url": "https://hip2save.com/deals/vanity-fair-black-friday-sale/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "3098f43c2af6e45d0e9f812c",
-      "types": [
-        "new"
-      ],
-      "title": "These Cozy Macy’s Throw Blankets Start from $7.99 (Reg. $30) | Stock Up for Gifting!",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://hip2save.com/deals/macys-throw-blankets/",
-      "source_url": "https://hip2save.com/deals/macys-throw-blankets/",
+      "url": "https://hip2save.com/deals/poetry-for-neanderthals/",
+      "source_url": "https://hip2save.com/deals/poetry-for-neanderthals/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "30d073f9216ce8ceef4131a7",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "WOW! Macy’s Holiday Sheet Sets Are Only $7.99",
       "retailer": null,
@@ -791,113 +531,9 @@
       "link_type": "source"
     },
     {
-      "id": "315a30a152574a634a4fed2f",
-      "types": [
-        "removed"
-      ],
-      "title": "Today Only: Walmart’s HUGE Black Friday NeeDoh & Pokémon Drops Start at 6AM",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://hip2save.com/deals/walmart-needoh/",
-      "source_url": "https://hip2save.com/deals/walmart-needoh/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "3238f137c8597140bc1a2791",
-      "types": [
-        "new"
-      ],
-      "title": "Save Up to $150 Off Shark FlexStyle Air Stylers on Amazon",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://hip2save.com/deals/shark-flexstyle/",
-      "source_url": "https://hip2save.com/deals/shark-flexstyle/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "329b4b76bbaefd42caf6b8dc",
-      "types": [
-        "new"
-      ],
-      "title": "UGG Cyber Sale Live Now! Slippers & Platform Boots from $80.99 Shipped",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://hip2save.com/deals/ugg-boots/",
-      "source_url": "https://hip2save.com/deals/ugg-boots/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "33311271196feeb57c3cf137",
-      "types": [
-        "removed"
-      ],
-      "title": "Blackstone Griddle Cover Just $20.99 on Amazon & Walmart",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://hip2save.com/deals/blackstone-griddle-cover/",
-      "source_url": "https://hip2save.com/deals/blackstone-griddle-cover/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
       "id": "3417cffe5e02714999d67c47",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Lowe’s Black Friday Deal: 50% Off Energizer MAX Batteries + Free Shipping + $5 Cash Back",
       "retailer": null,
@@ -921,35 +557,9 @@
       "link_type": "source"
     },
     {
-      "id": "36cef7591ce6cbb3e0ad2815",
-      "types": [
-        "new"
-      ],
-      "title": "Dove Sugar Body Scrub Only $5 Shipped on Amazon",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://hip2save.com/deals/dove-body-scrub/",
-      "source_url": "https://hip2save.com/deals/dove-body-scrub/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
       "id": "37da44a2f6fc8aa24ffde906",
       "types": [
-        "removed"
+        "new"
       ],
       "title": "RUN! Kobalt Mini Tool Boxes from $14.98 Shipped on Lowes.com",
       "retailer": null,
@@ -973,243 +583,9 @@
       "link_type": "source"
     },
     {
-      "id": "38a6b38c7514cba0e27b61d3",
-      "types": [
-        "new"
-      ],
-      "title": "Up to 40% Off Guardian Bikes Black Friday Sale + FREE $127 Accessory Bundle!",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://hip2save.com/deals/guardian-bikes/",
-      "source_url": "https://hip2save.com/deals/guardian-bikes/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "3e3d4722460d6c435056c92e",
-      "types": [
-        "new"
-      ],
-      "title": "Macy’s Black Friday Sale = Save on UGG Throws, Clothing, Shoes & More",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://hip2save.com/deals/macys-black-friday/",
-      "source_url": "https://hip2save.com/deals/macys-black-friday/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "412acc033ff70afcac35ef27",
-      "types": [
-        "removed"
-      ],
-      "title": "Silicone Scalp Massager Just $5.49 on Amazon – Great Stocking Stuffer!",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://hip2save.com/deals/amazon-silicone-scalp-massager/",
-      "source_url": "https://hip2save.com/deals/amazon-silicone-scalp-massager/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "443a005d6b0360901c32a66e",
-      "types": [
-        "removed"
-      ],
-      "title": "FREE Lowe’s Bucket Giveaway at 6AM ($100 Value) + Win a $2,000 Appliance!",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://hip2save.com/deals/lowes-freebies/",
-      "source_url": "https://hip2save.com/deals/lowes-freebies/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "473f9890a3fdb89ebdaab41e",
-      "types": [
-        "new"
-      ],
-      "title": "tarte Black Friday Sale: 40% Off + FREE Shipping (Stocking Stuffers From $5!)",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://hip2save.com/deals/tarte-black-friday/",
-      "source_url": "https://hip2save.com/deals/tarte-black-friday/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "47932fe54ff2478f124bbe12",
-      "types": [
-        "new"
-      ],
-      "title": "Team-Fave Pick: Codenames Board Game Just $19.98 Shipped for Prime Members",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://hip2save.com/deals/codenames-board-game/",
-      "source_url": "https://hip2save.com/deals/codenames-board-game/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "4856ec848518aee6392dd357",
-      "types": [
-        "removed"
-      ],
-      "title": "Bounty Paper Towel Triple Roll 8-Pack Just $19.99 Shipped on Amazon",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://hip2save.com/deals/bounty-paper-towels/",
-      "source_url": "https://hip2save.com/deals/bounty-paper-towels/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "49f777252ee844092a45d82d",
-      "types": [
-        "removed"
-      ],
-      "title": "Score the Viral Bogg Bag From Just $27.50 During Their Black Friday Sale!",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://hip2save.com/deals/bogg-bag/",
-      "source_url": "https://hip2save.com/deals/bogg-bag/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "4a9d27b1c9a2863273d36206",
-      "types": [
-        "removed"
-      ],
-      "title": "Macy’s Beauty Advent Calendar Only $59 Shipped ($350 Value!)",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://hip2save.com/deals/macys-beauty-advent-calendar/",
-      "source_url": "https://hip2save.com/deals/macys-beauty-advent-calendar/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
       "id": "4de848433dd77a306201ea01",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "CVS Black Friday Deal: Philips Norelco OneBlade Gift Sets Only $9.99 Each (Must Buy 2)",
       "retailer": null,
@@ -1233,11 +609,37 @@
       "link_type": "source"
     },
     {
-      "id": "4fc7a90ecf159e67d4a36638",
+      "id": "536322216a4e2a31b69beb20",
+      "types": [
+        "removed"
+      ],
+      "title": "Miss Mouth’s Stain Treater 3-Pack Just $11 Shipped on Amazon (UNDER $4 Each!)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://hip2save.com/deals/miss-mouths-stain-treater/",
+      "source_url": "https://hip2save.com/deals/miss-mouths-stain-treater/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "5a362b5cb743e8b5effd4b3f",
       "types": [
         "new"
       ],
-      "title": "Makeup Brush & Blending Sponge 12-Piece Set Only $4 on Amazon",
+      "title": "*HOT* Disney+ & Hulu ONLY $4.99/Month for a YEAR (New & Returning Customers!)",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -1253,95 +655,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://hip2save.com/deals/beakey-makeup-brush-set/",
-      "source_url": "https://hip2save.com/deals/beakey-makeup-brush-set/",
+      "url": "https://hip2save.com/deals/disney-plus-hulu-bundle/",
+      "source_url": "https://hip2save.com/deals/disney-plus-hulu-bundle/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "5332714a817dcbdc66cc0202",
-      "types": [
-        "removed"
-      ],
-      "title": "FIVE Ulta Beauty Minis Just $4.50 (Perfect Teen Stocking Stuffers!)",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://hip2save.com/deals/ulta-beauty-sweet-and-shimmer/",
-      "source_url": "https://hip2save.com/deals/ulta-beauty-sweet-and-shimmer/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "54a2a23779c76991728daaa1",
-      "types": [
-        "removed"
-      ],
-      "title": "Kobalt NFL Mini Toolboxes Only $24.98 Shipped for Lowe’s Rewards Members",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://hip2save.com/deals/kobalt-nfl-mini-toolboxes/",
-      "source_url": "https://hip2save.com/deals/kobalt-nfl-mini-toolboxes/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "5a762267ca3760c02439f7c1",
-      "types": [
-        "removed"
-      ],
-      "title": "Up to $200 Off Roborock Vacuums on Amazon + FREE Shipping",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://hip2save.com/deals/roborock/",
-      "source_url": "https://hip2save.com/deals/roborock/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "5bd020896a21119ca3d51c0f",
+      "id": "61f84faa57d2efec308a5b2b",
       "types": [
         "new"
       ],
-      "title": "These Amazon Suede Clogs Look Like Rothy’s But Cost $130 Less",
+      "title": "Dunkin’ Refreshers 40-Count Variety Pack Only $7.50 Shipped On Amazon",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -1357,119 +681,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://hip2save.com/deals/stelle-clogs/",
-      "source_url": "https://hip2save.com/deals/stelle-clogs/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "5d8d942f5cd5cb008e79b7ac",
-      "types": [
-        "removed"
-      ],
-      "title": "Kitsch Hair Perfume Just $10.49 Shipped on Amazon (Reg. $20)",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://hip2save.com/deals/kitsch-hair-perfume/",
-      "source_url": "https://hip2save.com/deals/kitsch-hair-perfume/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "5f10893e5cd0a2b9670bc5fc",
-      "types": [
-        "new"
-      ],
-      "title": "Shop Nordstrom’s Black Friday Sale: Up to 75% Off UGG, Tory Burch, & More",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://hip2save.com/deals/nordstrom-black-friday-sale/",
-      "source_url": "https://hip2save.com/deals/nordstrom-black-friday-sale/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "5f8cea6f5db430c41bc73615",
-      "types": [
-        "removed"
-      ],
-      "title": "Acrylic Paint Markers 36-Pack Only $8.98 Shipped on Amazon",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://hip2save.com/deals/artistro-paint-pens/",
-      "source_url": "https://hip2save.com/deals/artistro-paint-pens/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "61f32e3c7cc741814e029dcf",
-      "types": [
-        "removed"
-      ],
-      "title": "NEW Raising Cane’s Elf on the Shelf Plush Puppies Available for Just $10.99!",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://hip2save.com/deals/raising-canes-coupons/",
-      "source_url": "https://hip2save.com/deals/raising-canes-coupons/",
+      "url": "https://hip2save.com/deals/dunkin-refreshers/",
+      "source_url": "https://hip2save.com/deals/dunkin-refreshers/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "621ede67bbc74aea4a740f43",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Shop Best Buy’s Black Friday Deals NOW (Save Big on TVs, Computers & More)",
       "retailer": null,
@@ -1495,7 +715,7 @@
     {
       "id": "6330b920b7b78e9239f04105",
       "types": [
-        "removed"
+        "new"
       ],
       "title": "This $19 Walmart Tote Has Serious Hulken Vibes (Only 3 Colors Left!)",
       "retailer": null,
@@ -1521,7 +741,7 @@
     {
       "id": "67bfd583455d3001c7aabe4f",
       "types": [
-        "removed"
+        "new"
       ],
       "title": "On & Hoka Running Shoes Sale + Free Shipping | Styles from $66.49 Shipped (Reg. $120)",
       "retailer": null,
@@ -1545,11 +765,11 @@
       "link_type": "source"
     },
     {
-      "id": "68b43795f1e76357935fcecb",
+      "id": "67c0f8a75e0a7f30abfb1cdc",
       "types": [
         "new"
       ],
-      "title": "These Amazon Wide Leg Pants Pass for Vuori (AND Will Save You $90!)",
+      "title": "Bow Necklace Just $4.99 on Amazon (Reg. $10)",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -1565,43 +785,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://hip2save.com/deals/amazon-womens-wide-leg-pants/",
-      "source_url": "https://hip2save.com/deals/amazon-womens-wide-leg-pants/",
+      "url": "https://hip2save.com/deals/amazon-bow-necklace/",
+      "source_url": "https://hip2save.com/deals/amazon-bow-necklace/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "6b5a6682b94f42805abc3e12",
-      "types": [
-        "removed"
-      ],
-      "title": "1500W PTC Ceramic Space Heater Just $39.99 Shipped on Walmart.com",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://hip2save.com/deals/freshdew-space-heater/",
-      "source_url": "https://hip2save.com/deals/freshdew-space-heater/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "6b648f3d3e338ee19491c2b0",
+      "id": "6b3b6a851be659b3dd918fff",
       "types": [
         "new"
       ],
-      "title": "JLab Blush Over-Ear Headphones Only $24.99 Shipped on Amazon (Reg. $100) + More!",
+      "title": "MaryRuth’s Liquid Morning Multivitamin Only $21.57 Shipped on Amazon (Reg. $43)",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -1617,173 +811,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://hip2save.com/deals/jlab-wireless-headphones/",
-      "source_url": "https://hip2save.com/deals/jlab-wireless-headphones/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "6e87ebc0fb2c71e55cc72c1c",
-      "types": [
-        "new"
-      ],
-      "title": "Brooks Running Shoes From $53.89 Shipped (Reg. $140) – Black Friday Deal!",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://hip2save.com/deals/brooks-running-shoes/",
-      "source_url": "https://hip2save.com/deals/brooks-running-shoes/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "7352d90e2b3376d92959ce95",
-      "types": [
-        "new"
-      ],
-      "title": "Plush Blanket Wraps Only $9.99 on Macys.com (Reg. $40)",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://hip2save.com/deals/blanket-wrap/",
-      "source_url": "https://hip2save.com/deals/blanket-wrap/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "73f718519b78572de5190aba",
-      "types": [
-        "new"
-      ],
-      "title": "Nike Black Friday Sale: EXTRA 25% Off Sale Styles – Air Force 1s, Dunks & Jordans!",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://hip2save.com/deals/nike-black-friday/",
-      "source_url": "https://hip2save.com/deals/nike-black-friday/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "73fcf98d226348c4b45f4952",
-      "types": [
-        "new"
-      ],
-      "title": "Belt Hanger Only $6 Shipped for Prime Members (Holds 42 Belts!)",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://hip2save.com/deals/amazon-belt-hanger/",
-      "source_url": "https://hip2save.com/deals/amazon-belt-hanger/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "748e6b9d6d67c59b2b23a9f8",
-      "types": [
-        "new"
-      ],
-      "title": "10 HOT Black Friday Streaming Deals Starting at Just 99¢/Month!",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://hip2save.com/deals/best-tv-streaming-service/",
-      "source_url": "https://hip2save.com/deals/best-tv-streaming-service/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "774231a828071428d1c5f88e",
-      "types": [
-        "new"
-      ],
-      "title": "Blokus Strategy Board Game Just $13.99 on Target.com (Reg. $20)",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://hip2save.com/deals/blokus-game/",
-      "source_url": "https://hip2save.com/deals/blokus-game/",
+      "url": "https://hip2save.com/deals/maryruths-liquid-morning-multivitamin/",
+      "source_url": "https://hip2save.com/deals/maryruths-liquid-morning-multivitamin/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "7744eb455606d1d763f39d74",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "RUN! Over 70% Off Laura Geller Black Friday Sale | Viral Foundation Only $10.95 Until 3 PM EST",
+      "title": "RUN! Over 70% Off Laura Geller Black Friday Sale | Viral Foundation Only $10.95",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -1807,7 +845,7 @@
     {
       "id": "78f2ecc9a66474176edc8ace",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Target x Harry Potter Candy Black Friday Sale | Enchanted Treats from $3.49",
       "retailer": null,
@@ -1831,11 +869,11 @@
       "link_type": "source"
     },
     {
-      "id": "7dcf5ea7109e46326dcda652",
+      "id": "797943d7f7b7aebd5673ff42",
       "types": [
         "new"
       ],
-      "title": "HOT! Save $30 Off a $90 Lowe’s Order w/ This DoorDash Promo Code",
+      "title": "Cordless Reciprocating Saw Just $35.69 Shipped on Amazon (Reg. $70)",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -1851,17 +889,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://hip2save.com/deals/doordash-promo-code/",
-      "source_url": "https://hip2save.com/deals/doordash-promo-code/",
+      "url": "https://hip2save.com/deals/seesii-cordless-saw/",
+      "source_url": "https://hip2save.com/deals/seesii-cordless-saw/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "7e51c257ad1cf8ef544e5251",
+      "id": "7e689f2bb529b3fe24244780",
       "types": [
         "new"
       ],
-      "title": "Fairlife Protein Shakes 12-Pack Just $19 Shipped on Amazon (Reg. $41)",
+      "title": "Shark NeverChange Air Purifier Only $129.99 Shipped on Amazon (Includes 5-Year HEPA Filter!)",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -1877,15 +915,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://hip2save.com/deals/fairlife-core-power/",
-      "source_url": "https://hip2save.com/deals/fairlife-core-power/",
+      "url": "https://hip2save.com/deals/shark-air-purifier/",
+      "source_url": "https://hip2save.com/deals/shark-air-purifier/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "7ed66eb73f8d41bb85479a46",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Laneige Lip Sleeping Mask ONLY $11.40 Shipped on Amazon (Lowest Price Ever!)",
       "retailer": null,
@@ -1909,11 +947,11 @@
       "link_type": "source"
     },
     {
-      "id": "818065f363f9e46dd4931dfa",
+      "id": "7f1033d684ac163966a49619",
       "types": [
         "removed"
       ],
-      "title": "Starbucks Black Friday Deal: FREE $5 eGift Card w/ $25 Purchase (Today Only!)",
+      "title": "Red Lobster Black Friday Deals: $1 Margaritas, 10% Off Gift Cards & MORE!",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -1929,17 +967,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://hip2save.com/deals/starbucks-gift-card-offer/",
-      "source_url": "https://hip2save.com/deals/starbucks-gift-card-offer/",
+      "url": "https://hip2save.com/deals/red-lobster-specials/",
+      "source_url": "https://hip2save.com/deals/red-lobster-specials/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "84847bd5a8ebb17c95b0cf0b",
+      "id": "841595e8fcc05efae953ceb6",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "Disney Princess Dolls Just $4.99 on Kohls.com (Reg. $12)",
+      "title": "Battery Daddy Organizer & Tester Only $15.99 Shipped on Amazon",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -1955,67 +993,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://hip2save.com/deals/disney-princess-dolls/",
-      "source_url": "https://hip2save.com/deals/disney-princess-dolls/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "84a830b69cea761d4879e47a",
-      "types": [
-        "removed"
-      ],
-      "title": "Sol de Janeiro Perfume Mists from $12 Shipped on Amazon (Stocking Stuffer Goals!)",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://hip2save.com/deals/sol-de-janeiro-perfume-mist/",
-      "source_url": "https://hip2save.com/deals/sol-de-janeiro-perfume-mist/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "84c5d1ef1a8479b58ebbcce1",
-      "types": [
-        "removed"
-      ],
-      "title": "Eyebrow Razor 9-Piece Set Only $2.99 on Amazon",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://hip2save.com/deals/amazon-eyebrow-razor-kit/",
-      "source_url": "https://hip2save.com/deals/amazon-eyebrow-razor-kit/",
+      "url": "https://hip2save.com/deals/battery-daddy/",
+      "source_url": "https://hip2save.com/deals/battery-daddy/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "89a7e52412d11a32e99fc6ac",
       "types": [
-        "removed"
+        "new"
       ],
       "title": "Quince Black Friday Deals | Up to 30% Off Luggage, Wardrobe Staples & More",
       "retailer": null,
@@ -2041,7 +1027,7 @@
     {
       "id": "8ac763a1ae23f2ae5b79bbe8",
       "types": [
-        "removed"
+        "new"
       ],
       "title": "American Eagle Black Friday Sale: 50% Off ALL Jeans, $15 Cozy Tees, $30 Flannels & More",
       "retailer": null,
@@ -2065,61 +1051,9 @@
       "link_type": "source"
     },
     {
-      "id": "8b52fa38626cf6d8b3a03eeb",
-      "types": [
-        "new"
-      ],
-      "title": "Glad ForceFlex Trash Bags 110-Count Only $17.57 Shipped on Amazon",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://hip2save.com/deals/glad-forceflex-trash-bags/",
-      "source_url": "https://hip2save.com/deals/glad-forceflex-trash-bags/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "8bb6a5ab27679937d6ba5a0c",
-      "types": [
-        "removed"
-      ],
-      "title": "Walgreens Custom Photo Puzzle w/ Keepsake Box Just $12 (Reg. $35) | Fun Elf on the Shelf Idea!",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://hip2save.com/deals/walgreens-photo-puzzle/",
-      "source_url": "https://hip2save.com/deals/walgreens-photo-puzzle/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
       "id": "8d73b0aa899fb3a9fff451a0",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Our Favorite Trendy Cargo Pants Are ONLY $12.50 on Walmart.com",
       "retailer": null,
@@ -2143,61 +1077,9 @@
       "link_type": "source"
     },
     {
-      "id": "900202d9543b472ea9601897",
-      "types": [
-        "new"
-      ],
-      "title": "Up to 55% Off Novilla + Free Shipping (Includes Team-Fave Cooling Mattress!)",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://hip2save.com/deals/novilla-promo-code/",
-      "source_url": "https://hip2save.com/deals/novilla-promo-code/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "91da22c29e64ac56b648d379",
-      "types": [
-        "new"
-      ],
-      "title": "*Rare* Price Drop on the BEST Self-Tanner for Amazon Prime Members",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://hip2save.com/deals/beauty-by-earth-self-tanner/",
-      "source_url": "https://hip2save.com/deals/beauty-by-earth-self-tanner/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
       "id": "92e1248a8e444bea187c7e28",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "GO! Target Universal Thread Tote Bags ONLY $6",
       "retailer": null,
@@ -2221,37 +1103,11 @@
       "link_type": "source"
     },
     {
-      "id": "9adcc1ad299c932fcd3e3306",
-      "types": [
-        "new"
-      ],
-      "title": "40% Off Sol de Janeiro Black Friday Sale + Free Beauty Bag AND Body Butter",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://hip2save.com/deals/sol-de-janeiro-black-friday/",
-      "source_url": "https://hip2save.com/deals/sol-de-janeiro-black-friday/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "9dcd4f035192a3a20d51bdb4",
+      "id": "9f03c529b5488ddd5bae83b3",
       "types": [
         "removed"
       ],
-      "title": "Today Only: Don’t Miss Target’s Black Friday Gift Card Giveaway (11/27) | One $1,000 Winner Per Store!",
+      "title": "Sam’s Club Black Friday Sale | Save on Top Toys, Giftable Home Items, & More",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -2267,15 +1123,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://hip2save.com/deals/target-store-event/",
-      "source_url": "https://hip2save.com/deals/target-store-event/",
+      "url": "https://hip2save.com/deals/sams-club-black-friday/",
+      "source_url": "https://hip2save.com/deals/sams-club-black-friday/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "a0038d95ef0e94b108e73069",
       "types": [
-        "removed"
+        "new"
       ],
       "title": "10 Best Walmart Black Friday Deals to Grab Now",
       "retailer": null,
@@ -2299,11 +1155,11 @@
       "link_type": "source"
     },
     {
-      "id": "a366bd0848ca9d37f3fa2fa2",
+      "id": "a0d4f018bd86fd4e1fdb46e2",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "Free People Women’s Sweater Only $49.99 Shipped on Macys.com (Reg. $128)",
+      "title": "Wireless Label Maker Only $7 on Amazon (Lowest Price Ever!)",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -2319,15 +1175,41 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://hip2save.com/deals/free-people-sweater/",
-      "source_url": "https://hip2save.com/deals/free-people-sweater/",
+      "url": "https://hip2save.com/deals/niimbot-label-maker/",
+      "source_url": "https://hip2save.com/deals/niimbot-label-maker/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "a0d8c5855d63e3e652108b3d",
+      "types": [
+        "new"
+      ],
+      "title": "Initial Rings Only $4.79 Shipped on Amazon (Regularly $10)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://hip2save.com/deals/initial-ring/",
+      "source_url": "https://hip2save.com/deals/initial-ring/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "a53e3aac399426b513e06f3c",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Squishy Advent Calendar from $17.49 Shipped for Amazon Prime Members",
       "retailer": null,
@@ -2351,63 +1233,11 @@
       "link_type": "source"
     },
     {
-      "id": "a83b3c0d2b3d4953a99364b1",
-      "types": [
-        "removed"
-      ],
-      "title": "Satin Pillowcase 2-Pack Only $3 Shipped for Amazon Prime Members (Great for Hair & Skin!)",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://hip2save.com/deals/bedelite-satin-pillowcase/",
-      "source_url": "https://hip2save.com/deals/bedelite-satin-pillowcase/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "a9eb688bb84cf34bcf64381c",
-      "types": [
-        "removed"
-      ],
-      "title": "Bissell Cordless Little Green Mini Machine Just $62.99 Shipped + Get $15 Kohl’s Cash",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://hip2save.com/deals/bissell-little-green-machine/",
-      "source_url": "https://hip2save.com/deals/bissell-little-green-machine/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "ab287cd1234c03835a33ad8e",
+      "id": "ae03eacf5cdebaabac73fbb9",
       "types": [
         "new"
       ],
-      "title": "Collin’s 3-Piece Pajama Set is Only $14.98 on Walmart.com",
+      "title": "Mini White Noise Machine Only $4.99 on Amazon (Reg. $10)",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -2423,145 +1253,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://hip2save.com/deals/walmart-no-boundaries-sleepwear/",
-      "source_url": "https://hip2save.com/deals/walmart-no-boundaries-sleepwear/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "acedd4b406f80d4bc2daa144",
-      "types": [
-        "new"
-      ],
-      "title": "CELSIUS Energy Drink 12-Pack Only $12 Shipped on Amazon (Reg. $25)",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://hip2save.com/deals/celsius-drink/",
-      "source_url": "https://hip2save.com/deals/celsius-drink/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "ad33e1dbfd7471b7c19613e7",
-      "types": [
-        "removed"
-      ],
-      "title": "Happy Curves Anti-Chafe Stick Just $12.59 Shipped on Amazon (Reg. $18)",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://hip2save.com/deals/anti-chafe-sticks/",
-      "source_url": "https://hip2save.com/deals/anti-chafe-sticks/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "b1ac53282237673fa257df2a",
-      "types": [
-        "removed"
-      ],
-      "title": "This Gorgeous Quince Floral Bedding Set Looks SO Expensive (Today Only Deal!)",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://hip2save.com/deals/quince-organic-coverlet-set/",
-      "source_url": "https://hip2save.com/deals/quince-organic-coverlet-set/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "b1e397256101fee27062a31b",
-      "types": [
-        "removed"
-      ],
-      "title": "The Grinch Scene Setter Blind Boxes Only $9.97 on Amazon",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://hip2save.com/deals/the-grinch-blind-box/",
-      "source_url": "https://hip2save.com/deals/the-grinch-blind-box/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "b25ae77524e8023539bcf103",
-      "types": [
-        "new"
-      ],
-      "title": "Sol de Janeiro Jet Set 3-Piece Body Care Kits + Lotion Only $24 Shipped on Amazon ($56 Value)",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://hip2save.com/deals/sol-de-janeiro-sets/",
-      "source_url": "https://hip2save.com/deals/sol-de-janeiro-sets/",
+      "url": "https://hip2save.com/deals/glocusent-white-noise-machine/",
+      "source_url": "https://hip2save.com/deals/glocusent-white-noise-machine/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "b2bb2428761847e340d5845b",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Sam’s Club Black Friday Gift Card Deals: IHOP, Panera, Disney, Southwest & More",
       "retailer": null,
@@ -2585,11 +1285,11 @@
       "link_type": "source"
     },
     {
-      "id": "b40cb9eba82269755703ee5e",
+      "id": "b71780efba7bab7a6f812cdd",
       "types": [
         "removed"
       ],
-      "title": "2-Tier Pull-Out Under-Sink Organizer Only $5.59 Shipped",
+      "title": "We Shopped Target’s Christmas Top 100 List – Here’s What We’d Buy on Black Friday!",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -2605,17 +1305,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://hip2save.com/deals/aliexpress-under-sink-organizer/",
-      "source_url": "https://hip2save.com/deals/aliexpress-under-sink-organizer/",
+      "url": "https://hip2save.com/deals/target-top-christmas-items/",
+      "source_url": "https://hip2save.com/deals/target-top-christmas-items/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "b64edd9ae967c86ab4c8ff14",
+      "id": "bbf59962d25d2c232329f9f6",
       "types": [
         "removed"
       ],
-      "title": "Mr. Sketch Scented Markers 12-Count Just $5.68 Shipped on Amazon (Reg. $16)",
+      "title": "It’s BACK: $10 Jellyfish Lamp on Walmart.com (Fun Gift Idea!)",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -2631,17 +1331,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://hip2save.com/deals/mr-sketch-markers/",
-      "source_url": "https://hip2save.com/deals/mr-sketch-markers/",
+      "url": "https://hip2save.com/deals/jellyfish-lamp/",
+      "source_url": "https://hip2save.com/deals/jellyfish-lamp/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "b76b9a614e86f3cfeabbc464",
+      "id": "bcf4e35f4227b08cc9bd691b",
       "types": [
         "new"
       ],
-      "title": "medicube Black Friday Sale on Amazon | Viral Collagen Jelly Cream Only $7.68 Shipped + More!",
+      "title": "USB-C Charging Cables 3-Pack Only $3.43 on Amazon",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -2657,17 +1357,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://hip2save.com/deals/medicube/",
-      "source_url": "https://hip2save.com/deals/medicube/",
+      "url": "https://hip2save.com/deals/usb-c-charging-cables/",
+      "source_url": "https://hip2save.com/deals/usb-c-charging-cables/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "b83c56eeeaacdfd0344838cd",
+      "id": "c2c664d448255e13cd2cfffd",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "NEW lululemon Black Friday Deals Just Dropped | Define Jackets, Scuba Hoodies & More",
+      "title": "Cordless Leaf Blower Set w/ 2 Batteries Just $35.99 Shipped on Amazon (Reg. $60)",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -2683,17 +1383,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://hip2save.com/deals/lululemon-black-friday/",
-      "source_url": "https://hip2save.com/deals/lululemon-black-friday/",
+      "url": "https://hip2save.com/deals/amazon-cordless-leaf-blower/",
+      "source_url": "https://hip2save.com/deals/amazon-cordless-leaf-blower/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "b975878c5e158f2687b8666b",
+      "id": "c396455226f657b318858cbf",
       "types": [
         "removed"
       ],
-      "title": "Women’s Cowboy Boots from $25.99 on Amazon (Reg. $50)",
+      "title": "Sports Team Hoodies & Sweatshirts From $8 on Fanatics – NFL, NCAA & MORE!",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -2709,41 +1409,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://hip2save.com/deals/amazon-dream-pairs-cowboy-boots/",
-      "source_url": "https://hip2save.com/deals/amazon-dream-pairs-cowboy-boots/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "c35d6895b1e4b4d251f0d01d",
-      "types": [
-        "removed"
-      ],
-      "title": "MrBeast Advent Calendar Just $19.99 Shipped for Lowe’s Rewards Members | Will Sell Out!",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://hip2save.com/deals/lowes-advent-calendars/",
-      "source_url": "https://hip2save.com/deals/lowes-advent-calendars/",
+      "url": "https://hip2save.com/deals/fanatics-fleece/",
+      "source_url": "https://hip2save.com/deals/fanatics-fleece/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "c3e17641096ab6d0e0a116fa",
       "types": [
-        "removed"
+        "new"
       ],
       "title": "Target Cyber Monday Sale Starts 11/30 | Up to 50% Off Toys, Kitchen Appliances & More",
       "retailer": null,
@@ -2767,37 +1441,11 @@
       "link_type": "source"
     },
     {
-      "id": "c5a8d5ae7f14ba0f96102a56",
-      "types": [
-        "removed"
-      ],
-      "title": "HEPA Air Purifier Only $35.99 Shipped on Amazon | Perfect for Bedrooms & Home Offices!",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://hip2save.com/deals/mooka-air-purifier/",
-      "source_url": "https://hip2save.com/deals/mooka-air-purifier/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "c70bba552f04c3d1547642ba",
+      "id": "c67cad7c43052dcc685bfb27",
       "types": [
         "new"
       ],
-      "title": "Amazon Best Seller: Waffle-Knit Hoodie Under $20!",
+      "title": "These Bombas-Inspired Socks Are Only $12.99 for 6 Pairs on Amazon",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -2813,17 +1461,17 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://hip2save.com/deals/amazon-waffle-knit-sweatshirt/",
-      "source_url": "https://hip2save.com/deals/amazon-waffle-knit-sweatshirt/",
+      "url": "https://hip2save.com/deals/cs-celersport-socks/",
+      "source_url": "https://hip2save.com/deals/cs-celersport-socks/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "ca56fa66a10767cebfc0fcb0",
+      "id": "c7963ca48a7de6e68bbbb265",
       "types": [
         "new"
       ],
-      "title": "Lowest Price! Book Cutting Board Set w/ Stand Just $39.99 Shipped on Amazon",
+      "title": "Up to $50 Off Our Place Cookware on Amazon + Free Shipping",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -2839,93 +1487,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://hip2save.com/deals/book-cutting-board-set/",
-      "source_url": "https://hip2save.com/deals/book-cutting-board-set/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "cda5d5755540553a7dc91bea",
-      "types": [
-        "removed"
-      ],
-      "title": "Amazon Haul Gifts from $1.82 – Fill Those Stockings for Less!",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://hip2save.com/deals/amazon-haul-app/",
-      "source_url": "https://hip2save.com/deals/amazon-haul-app/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "cebbd9bd6dea2c9bd89b31ab",
-      "types": [
-        "removed"
-      ],
-      "title": "FREE Michaels Advent Calendar Today Only – You Could Win $10,000!",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://hip2save.com/deals/michaels-advent-calendar/",
-      "source_url": "https://hip2save.com/deals/michaels-advent-calendar/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "cf3fbc455753e44610a02929",
-      "types": [
-        "removed"
-      ],
-      "title": "Burt’s Bees Lip Balm Advent Calendar Just $20.98 on Amazon (Reg. $30)",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://hip2save.com/deals/burts-bees-lip-balm/",
-      "source_url": "https://hip2save.com/deals/burts-bees-lip-balm/",
+      "url": "https://hip2save.com/deals/amazon-our-place/",
+      "source_url": "https://hip2save.com/deals/amazon-our-place/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "d693ca2eb620241d33cda487",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Upcoming CVS Ad Sneak Peek: 50¢ Colgate Toothpaste, $1.75 Softsoap Body Wash + More!",
       "retailer": null,
@@ -2949,243 +1519,9 @@
       "link_type": "source"
     },
     {
-      "id": "d7b4faa04afef50571507dba",
-      "types": [
-        "removed"
-      ],
-      "title": "Our Exclusive 50% Off Lola Blankets Code Is BACK for Black Friday! (Cozy Gift Idea)",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://hip2save.com/deals/lola-blankets/",
-      "source_url": "https://hip2save.com/deals/lola-blankets/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "d89bae7f5c72ec4bd6098e67",
-      "types": [
-        "new"
-      ],
-      "title": "ULTA Black Friday Sale | 90¢ Sweet & Shimmers, $5 Gift Sets, + FREE Robe w/ Fragrance Purchase – Today Only!",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://hip2save.com/deals/ulta-black-friday/",
-      "source_url": "https://hip2save.com/deals/ulta-black-friday/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "da151cf1b40c0ef3f2f36928",
-      "types": [
-        "new"
-      ],
-      "title": "Fit & Fresh Double-Decker Casserole Carrier Just $27.99 on Amazon (Reg. $40)",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://hip2save.com/deals/fit-fresh-amazon/",
-      "source_url": "https://hip2save.com/deals/fit-fresh-amazon/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "dacb7dbebae2850bac4e8e8d",
-      "types": [
-        "removed"
-      ],
-      "title": "Wireless Dual Baby Car Camera Only $151.99 Shipped for Amazon Prime Members",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://hip2save.com/deals/babyvue-wireless-car-camera/",
-      "source_url": "https://hip2save.com/deals/babyvue-wireless-car-camera/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "dbbe943c3e48d6eb6908c1fc",
-      "types": [
-        "removed"
-      ],
-      "title": "Mesh Zipper Pouches 18-Count Just $9.99 Shipped w/ Amazon Prime (Reg. $16)",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://hip2save.com/deals/amazon-jarlink-mesh-pouches/",
-      "source_url": "https://hip2save.com/deals/amazon-jarlink-mesh-pouches/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "dbcc60ba2b52fa04046004bd",
-      "types": [
-        "removed"
-      ],
-      "title": "10% Off Target Gift Cards on December 5th & 6th (Get Up to $500 Worth!)",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://hip2save.com/deals/target-gift-cards/",
-      "source_url": "https://hip2save.com/deals/target-gift-cards/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "dc7d2a2ad0d64b68a0f2090e",
-      "types": [
-        "removed"
-      ],
-      "title": "Travel Sewing Kit Only $5 on Amazon (Reg. $10)",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://hip2save.com/deals/artika-sewing-kit/",
-      "source_url": "https://hip2save.com/deals/artika-sewing-kit/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "df36ed791dd25ffa3b44af8b",
-      "types": [
-        "removed"
-      ],
-      "title": "Plush Bathtub Pillow Just $16.97 on Amazon (Reg. $28)",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://hip2save.com/deals/bath-tub-pillow/",
-      "source_url": "https://hip2save.com/deals/bath-tub-pillow/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "dfd7f07ff355fa6eb8928a31",
-      "types": [
-        "new"
-      ],
-      "title": "Home Depot Black Friday Sale Is LIVE | Save BIG on Appliances, Tools, Decor & More",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://hip2save.com/deals/home-depot-black-friday/",
-      "source_url": "https://hip2save.com/deals/home-depot-black-friday/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
       "id": "e06e213a2e01cbaf9f982671",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "*HOT* Subway $22 Black Friday Deal | 2 Footlongs, 2 Drinks, 2 Chips & 6 Cookies!",
       "retailer": null,
@@ -3209,37 +1545,11 @@
       "link_type": "source"
     },
     {
-      "id": "e1b7195424c9049a60642647",
-      "types": [
-        "new"
-      ],
-      "title": "Mock Neck Bodysuit Just $14.99 Shipped for Amazon Prime Members",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://hip2save.com/deals/amazon-bodysuit/",
-      "source_url": "https://hip2save.com/deals/amazon-bodysuit/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "e335da91e81baf7ff16322a2",
+      "id": "e5fe4b2c987b674af65743f8",
       "types": [
         "removed"
       ],
-      "title": "Your New Favorite Bra Is Only $7.83 on Amazon (Includes Plus Sizes)",
+      "title": "Get Glowing Skin at Home w/ This Light Therapy Face Mask ($150 Off on Amazon)",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -3255,17 +1565,43 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://hip2save.com/deals/oeak-jelly-bra/",
-      "source_url": "https://hip2save.com/deals/oeak-jelly-bra/",
+      "url": "https://hip2save.com/deals/nanoleaf-light-therapy-face-mask/",
+      "source_url": "https://hip2save.com/deals/nanoleaf-light-therapy-face-mask/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
-      "id": "e41220f2962f225432dec9b3",
+      "id": "ec5c0b8abd93f60b03955d1d",
+      "types": [
+        "new"
+      ],
+      "title": "AncestryDNA Kit Only $29 Shipped for Amazon Prime Members (Reg. $99)",
+      "retailer": null,
+      "previous_price_cents": null,
+      "current_price_cents": null,
+      "rank": {
+        "category": "other",
+        "variant": null,
+        "status": "price_unavailable",
+        "score": 0,
+        "max_usd": null,
+        "preferred_usd": null,
+        "within_budget": null,
+        "comparisons": {},
+        "savings_vs_comparison_cents": null,
+        "evidence": {}
+      },
+      "url": "https://hip2save.com/deals/ancestry-dna-test/",
+      "source_url": "https://hip2save.com/deals/ancestry-dna-test/",
+      "retailer_url": null,
+      "link_type": "source"
+    },
+    {
+      "id": "ed1256780b9087b28c51bb73",
       "types": [
         "removed"
       ],
-      "title": "Walgreens 16×20 Canvas Print JUST $22.50 w/ FREE Same-Day Pickup",
+      "title": "Over-the-Door Organizer Just $18.97 Shipped on Amazon | Easy Storage Solution",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -3281,93 +1617,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://hip2save.com/deals/walgreens-canvas-prints/",
-      "source_url": "https://hip2save.com/deals/walgreens-canvas-prints/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "e5c35f90c21756175415666f",
-      "types": [
-        "new"
-      ],
-      "title": "Watch eBay Live & Score Luxury Gifts from ONLY $1!",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://hip2save.com/deals/ebay-live/",
-      "source_url": "https://hip2save.com/deals/ebay-live/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "eb4f025afd2376f5ac8fb1dd",
-      "types": [
-        "new"
-      ],
-      "title": "Color Stack Challenge Game ONLY $10 on Amazon (40K Recently Sold!)",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://hip2save.com/deals/color-stack-challenge-game/",
-      "source_url": "https://hip2save.com/deals/color-stack-challenge-game/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "eb87748e89637d736527f7a1",
-      "types": [
-        "new"
-      ],
-      "title": "Kids Underwear Multipacks from $2 on Walmart.com (Includes Character Options)",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://hip2save.com/deals/walmart-kids-character-underwear/",
-      "source_url": "https://hip2save.com/deals/walmart-kids-character-underwear/",
+      "url": "https://hip2save.com/deals/amazon-jarlink-organizer/",
+      "source_url": "https://hip2save.com/deals/amazon-jarlink-organizer/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "ed2026c70f1c63a4bd8fbc6f",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Yesterday’s Best Amazon Deals You Can Still Grab",
       "retailer": null,
@@ -3391,11 +1649,11 @@
       "link_type": "source"
     },
     {
-      "id": "ee36312ec1175150fbee0c16",
+      "id": "f16ec054cce7558bb5169b5e",
       "types": [
-        "removed"
+        "new"
       ],
-      "title": "Designer Fragrance Discovery Sets Only $25 Shipped on Macys.com (Reg. $45)",
+      "title": "Custom Neon Signs from $9.99 Shipped on Amazon (Teen Gift Idea!)",
       "retailer": null,
       "previous_price_cents": null,
       "current_price_cents": null,
@@ -3411,67 +1669,15 @@
         "savings_vs_comparison_cents": null,
         "evidence": {}
       },
-      "url": "https://hip2save.com/deals/macys-perfume/",
-      "source_url": "https://hip2save.com/deals/macys-perfume/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "f195c3966ea53d986615b100",
-      "types": [
-        "removed"
-      ],
-      "title": "Double Camping Chair w/ Cup & Wine Holders Only $39.99 Shipped on Amazon (Reg. $80)",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://hip2save.com/deals/double-camping-chair/",
-      "source_url": "https://hip2save.com/deals/double-camping-chair/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "f1e601c9bd717d9b1c355f59",
-      "types": [
-        "removed"
-      ],
-      "title": "Pre-Lit Christmas Tree Decor Set $59 Delivered ($149 Value) | Sells Out Every Year!",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://hip2save.com/deals/pre-lit-christmas-tree-decor-set/",
-      "source_url": "https://hip2save.com/deals/pre-lit-christmas-tree-decor-set/",
+      "url": "https://hip2save.com/deals/custom-neon-sign/",
+      "source_url": "https://hip2save.com/deals/custom-neon-sign/",
       "retailer_url": null,
       "link_type": "source"
     },
     {
       "id": "f367c4f6a310f1769779200c",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Target Cyber Monday Weekly Ad Sneak Peek | We’ve Circled Our Faves!",
       "retailer": null,
@@ -3495,113 +1701,9 @@
       "link_type": "source"
     },
     {
-      "id": "f3982746a40e3314ba265c81",
-      "types": [
-        "new"
-      ],
-      "title": "Lowe’s Black Friday Sale | HOT Doorbusters on Holiday Decor, Tools & More",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://hip2save.com/deals/lowes-black-friday/",
-      "source_url": "https://hip2save.com/deals/lowes-black-friday/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "f4309a79ccf91da8025bf294",
-      "types": [
-        "removed"
-      ],
-      "title": "These $14 Walgreens Yard Signs Make the BEST Custom Wall Art!",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://hip2save.com/deals/walgreens-yard-signs/",
-      "source_url": "https://hip2save.com/deals/walgreens-yard-signs/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "f5f61b20912fe324083994f2",
-      "types": [
-        "removed"
-      ],
-      "title": "Black Friday Freebies are HERE?! Score $1,000 Gift Cards, Free Appliances, & More!",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://hip2save.com/deals/black-friday-freebies/",
-      "source_url": "https://hip2save.com/deals/black-friday-freebies/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "f65201dfce0dfc2dafd8b3d5",
-      "types": [
-        "removed"
-      ],
-      "title": "Under Armour Men’s Polos Only $28 Shipped (Easy Gift Idea for Him!)",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://hip2save.com/deals/under-armour-polo/",
-      "source_url": "https://hip2save.com/deals/under-armour-polo/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
       "id": "f757982a42692fce9b883ba4",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Up to 60% Off adidas Black Friday Sale + FREE Shipping",
       "retailer": null,
@@ -3625,113 +1727,9 @@
       "link_type": "source"
     },
     {
-      "id": "f8cfec4f1d5dc247c06f76a4",
-      "types": [
-        "new"
-      ],
-      "title": "FREE $10 Chipotle Reward w/ $50 eGift Card Purchase (Limited to First 15,000!)",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://hip2save.com/deals/chipotle-gift-card/",
-      "source_url": "https://hip2save.com/deals/chipotle-gift-card/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "fa55d84a79a1cd87783104bf",
-      "types": [
-        "removed"
-      ],
-      "title": "Scott Toilet Paper 36-Count Triple Rolls Just $11 Shipped on Amazon",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://hip2save.com/deals/scott-toilet-paper/",
-      "source_url": "https://hip2save.com/deals/scott-toilet-paper/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "fb30b77cac3bd0264bd8424f",
-      "types": [
-        "removed"
-      ],
-      "title": "Rare Savings on Costco Memberships + FREE $45 Costco Shop Card!",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://hip2save.com/deals/groupon-costco/",
-      "source_url": "https://hip2save.com/deals/groupon-costco/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "ff03dc0059141215530b2bf5",
-      "types": [
-        "removed"
-      ],
-      "title": "Farberware Build-a-Boards w/ Locking Lids Just $14.39 on Kohls.com (Reg. $50)",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://hip2save.com/deals/farberware-build-a-board/",
-      "source_url": "https://hip2save.com/deals/farberware-build-a-board/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
       "id": "ff52424ade4166aabb909c56",
       "types": [
-        "new"
+        "removed"
       ],
       "title": "Bose Noise-Canceling Headphones Just $229 Shipped for Prime Members (Reg. $429)",
       "retailer": null,
@@ -3751,32 +1749,6 @@
       },
       "url": "https://hip2save.com/deals/bose-headphones/",
       "source_url": "https://hip2save.com/deals/bose-headphones/",
-      "retailer_url": null,
-      "link_type": "source"
-    },
-    {
-      "id": "ffa883538bed943ace7533a4",
-      "types": [
-        "new"
-      ],
-      "title": "Washable Cat Runner Rug Only $23.79 on Amazon",
-      "retailer": null,
-      "previous_price_cents": null,
-      "current_price_cents": null,
-      "rank": {
-        "category": "other",
-        "variant": null,
-        "status": "price_unavailable",
-        "score": 0,
-        "max_usd": null,
-        "preferred_usd": null,
-        "within_budget": null,
-        "comparisons": {},
-        "savings_vs_comparison_cents": null,
-        "evidence": {}
-      },
-      "url": "https://hip2save.com/deals/amazon-washable-runner-rug/",
-      "source_url": "https://hip2save.com/deals/amazon-washable-runner-rug/",
       "retailer_url": null,
       "link_type": "source"
     }
